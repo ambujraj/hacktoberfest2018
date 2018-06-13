@@ -1,4 +1,4 @@
-## Hactoberfest18
+## Hacktoberfest18
  Anyone can contribute to this repo to make their contribution to open-source on <a href="https://github.com/">Github</a>.<br>
  
  Celebrate [HacktoberFest](https://hacktoberfest.digitalocean.com/) by getting involved in the Open Source Community by completing some simple tasks in this project.<br>
@@ -17,7 +17,7 @@ You can check your progress of HacktoberFest at [this link](https://hacktoberfes
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone your fork down to your local machine
 ```markdown
-git clone https://github.com/your-username/Hacktoberfest18.git
+git clone https://github.com/your-username/hacktoberfest18.git
 ```
 * Create a branch
 ```markdown
