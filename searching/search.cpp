@@ -6,7 +6,7 @@ int main()
     int a[20],n,key,pos=-1;
     cout<<"Enter the number of elements: ";
     cin>>n;
-    system("cls");
+    system("cls");//To clear the screen
     cout<<"Enter the Elements"<<endl;
     for(int i=0;i<n;i++){
         cin>>a[i];
