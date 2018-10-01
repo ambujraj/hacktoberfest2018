@@ -1,5 +1,6 @@
 #include <iostream>
 #include <stdlib.h>
+#include <vector>
 using namespace std;
 
 
@@ -11,7 +12,10 @@ int factorial(int n)
 
 int main()
 {
-    int num, fact;
+    int num, fact, aux;
+    vector<int>results;
+    results.push_back(1);
+    results.push_back(1);
     char c;
     while(true){
 		fact = 1;
@@ -33,4 +37,5 @@ int main()
 		}
 	}
 return 0;
+
 }

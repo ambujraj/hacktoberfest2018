@@ -1,2 +1,2 @@
-var x='                       Hello World                       ';
-console.log(x.trim());
+
+console.log('                       Hello World                       ');
