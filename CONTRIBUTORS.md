@@ -30,10 +30,12 @@ About: I am a computer science undergraduate from VIT University, Vellore. I am 
 Programming Language: Cpp, C, R, PHP, HTML, CSS <br/>
 Email: vaibhavkhandelwal20@gmail.com
 
+
 Name: [Bernard Joseph Jean Bruno](https://github.com/theArtechnology)  
 About: Computer Science student as an undergraduate at Université des Mascareignes, Mauritius.
 Programming Language: C, C++, Javascript, Python <br/>
 Email: brunobernard1996@outlook.com
+
 
 Name: [Dario Sindičić](https://github.com/dariodsa)<br/>
 About: I am 4th year comptuer science student from Zagreb, Croatia. I am a competitive programmer and I really like functional languages. Currently I am exploring Linux OS.<br/>
@@ -50,11 +52,14 @@ About: Software Engineer from Venezuela, learning new stuff everyday, I like Cyb
 Programming Language: JavaScript, PHP, Python<br/>
 Email: isaacyagi@gmail.com
 
-
 Name: [Siffrein Sigy](https://github.com/siffreinsg)<br/>
 Place: Paris, France<br/>
 About: I'm a student. I love High Tech and I found hobby in programming :D <br/>
 Programming Language: JavaScript, Python<br/>
 Email: hello@siffreinsigy.me
 
-
+Name: [Joseph Lee](https://github.com/jjlee050)
+Place: Singapore, SG
+About: I am currently a NUS undergraduate Year 2 Computer Science Student. My field of interest is towards Software Engineering and Mobile App Development.
+Programming Language: Java, C, HTML, CSS, Kotlin
+Email: josephlee050@gmail.com
