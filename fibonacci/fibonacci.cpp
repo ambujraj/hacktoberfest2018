@@ -1,16 +1,17 @@
-#include <iostream>
-
-template <int N> int Fib(){ return Fib<N-1>() + Fib<N-2>(); }
-template <> int Fib<1>() { return 1; }
-template <> int Fib<0>() { return 1; }
-
+//Fibonacci Series using Recursion
+#include<iostream>
 using namespace std;
-int main()
+int fib(int n)
 {
-  int num = 0;
-  cout << "Enter the number of terms: ";
-  cin >> num;
-  cout << "The fibonacci series: ";
-  cout << Fib<num>() << endl;
-  return 0;
+   if (n <= 1)
+      return n;
+   return fib(n-1) + fib(n-2);
+}
+
+int main ()
+{
+    int n;
+    cin>>n;
+    cout<<fib(n);
+    return 0;
 }
