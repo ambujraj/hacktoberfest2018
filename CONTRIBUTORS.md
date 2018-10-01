@@ -1,8 +1,9 @@
 
-Name: [Aditya Agarwal](https://github.com/aditya81070)<br/>
-Place: Jaipur, Rajasthan<br/>
-About: I am 3rd year computer science student at Jecrc foundation, Jaipur. I am a front end developer.<br/>  
-Programming Languages: C, C++, Python, Javascript  <br/>
+Name: [Aditya Agrawal](https://github.com/silly-soul)<br/>
+Place: New Delhi, Delhi<br/>
+About: I am 1st year computer science student at Department of computer science, Delhi University. I am a Full stack developer.<br/>  
+Programming Languages: C, C++, Java, Python, Javascript  <br/>
+Email: Adityaag.mca18.du@gmail.com
 
 Name: [Saish Mhatre](https://github.com/lambocrypt)</br>
 Place: Thane</br>
