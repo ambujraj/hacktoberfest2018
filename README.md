@@ -15,7 +15,7 @@
 
 <h2> List of Programs to work on </h2>
 <ul>
- - [ ]	<li> Hello World </li>
+	<li>  - [ ] Hello World </li>
 	<li> earching Algorithms </li>
 		<li> Linked list </li>
 		<li> Stack </li>
