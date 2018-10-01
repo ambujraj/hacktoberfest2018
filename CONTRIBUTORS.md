@@ -1,7 +1,8 @@
 
 Name: [Tanuj Rohilla](https://github.com/TanujRohilla)
 Place: Delhi
-About: I am 1st year Msc Computer Science, University of DelhiProgramming Language: c, c++, java, python 
+About: I am 1st year Msc Computer Science, University of Delhi
+Programming Language: c, c++, java, python 
 Email: tanujrohilla325@gmail.com
 
 Name: [Aditya Agarwal](https://github.com/aditya81070)  
