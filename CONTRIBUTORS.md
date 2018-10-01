@@ -28,7 +28,7 @@ About: I am currently pursuing BSc (H) Computer Science from Delhi University, a
 Programming Language: C++, JavaScript, Java, Python<br/>
 Email: mohituniyal2010@gmail.com
 
-Name: [Isaac Yriarte](https://github.com/IsaacYAGI)
-About: Software Engineer from Venezuela, learning new stuff everyday, I like Cyber Security and DevOps, currently working as an Ionic 3 developer and more cool things as well :).
+Name: [Isaac Yriarte](https://github.com/IsaacYAGI)<br/>
+About: Software Engineer from Venezuela, learning new stuff everyday, I like Cyber Security and DevOps, currently working as an Ionic 3 developer and more cool things as well :)<br/>
 Programming Language: JavaScript, PHP, Python<br/>
 Email: isaacyagi@gmail.com
