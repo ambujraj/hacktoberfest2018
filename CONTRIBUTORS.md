@@ -1,8 +1,7 @@
-* Add Your Name to this file using following model
-```markdown
-Name: [YOUR NAME](Github Link)
-Place: city you belong to
-About: Short Intro
-Programming Language: Which programming language do you know
-```
--------------------------------------------------------------------------------------------------------------------------------
+
+Name: [Aditya Agarwal](https://github.com/aditya81070)  
+Place: Jaipur, Rajasthan  
+About: I am 3rd year computer science student at Jecrc foundation, Jaipur. I am a front end developer.  
+Programming Languages: C, C++, Python, Javascript  
+
+---------------------------------------------------------------------------------------------------------
