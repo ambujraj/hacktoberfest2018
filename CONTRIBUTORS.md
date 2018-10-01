@@ -63,3 +63,9 @@ Place: Singapore, SG
 About: I am currently a NUS undergraduate Year 2 Computer Science Student. My field of interest is towards Software Engineering and Mobile App Development.
 Programming Language: Java, C, HTML, CSS, Kotlin
 Email: josephlee050@gmail.com
+
+Name: [Praveen Kumar Saini](https://github.com/praveen-me)
+Place: Dharamshala, India
+About: I am currently learning Full Stack Development and also a Google Uadicty India Scholar.
+Pragramming Language : JavaScript, Python
+Email: praveenkrsaini0@gmail.com 
