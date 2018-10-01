@@ -1,25 +1,16 @@
 #include <iostream>
+
+template <int N> int Fib(){ return Fib<N-1>() + Fib<N-2>(); }
+template <> int Fib<1>() { return 1; }
+template <> int Fib<0>() { return 1; }
+
 using namespace std;
 int main()
 {
-    int num;
-    cout<<"Enter the number of terms: ";
-    cin>>num;
-    int a[num];
-    for(int i=0;i<num;i++)
-    {
-        if(i==0){
-            a[i] = 0;
-
-        }
-        else if(i==1){
-            a[i] = 1;
-        }
-        else{
-        a[i] = a[i-1]+a[i-2];
-    }}
-    cout<<"The fibonacci series: ";
-    for(int i=0;i<num;i++){
-        cout<<a[i]<<" ";
-    }
+  int num = 0;
+  cout << "Enter the number of terms: ";
+  cin >> num;
+  cout << "The fibonacci series: ";
+  cout << Fib<num>() << endl;
+  return 0;
 }
