@@ -7,7 +7,7 @@ Programming Languages: C, C++, Python, Javascript  <br/>
 
 Name: [Antonio Neto](https://github.com/aacgn)<br/>
 Place: Recife, Brazil<br/>
-About: I am 3rd year information systems student at Federal University of Pernambuco, Recife. I am a test engineer.<br/>  
+About: I am 3rd year information systems student at Federal University of Pernambuco, Recife. I am a test engineer.<br/>
 Programming Languages: Python and Javascript  <br/>
 Email: aacgn@cin.ufpe.br
 
