@@ -32,3 +32,9 @@ Name: [Isaac Yriarte](https://github.com/IsaacYAGI)<br/>
 About: Software Engineer from Venezuela, learning new stuff everyday, I like Cyber Security and DevOps, currently working as an Ionic 3 developer and more cool things as well :)<br/>
 Programming Language: JavaScript, PHP, Python<br/>
 Email: isaacyagi@gmail.com
+
+Name: [Siffrein Sigy](https://github.com/siffreinsg)
+Place: Paris, France
+About: I'm a student. I love High Tech and I found hobby in programming :D 
+Programming Language: JavaScript, Python
+Email: hello@siffreinsigy.me
