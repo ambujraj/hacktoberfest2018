@@ -63,3 +63,8 @@ Place: Singapore, SG
 About: I am currently a NUS undergraduate Year 2 Computer Science Student. My field of interest is towards Software Engineering and Mobile App Development.
 Programming Language: Java, C, HTML, CSS, Kotlin
 Email: josephlee050@gmail.com
+
+Name: [Prajjwal Jha](https://github.com/JhaPrajjwal)<br/>
+Place: Mandi, Himanchal Pradesh<br/>
+About: I am 2nd year computer science student at IIT Mandi. I love competitive ccoding.<br/>  
+Programming Languages: C, C++, Python <br/>
