@@ -21,3 +21,9 @@ Name: [Vaibhav Khandelwal](https://github.com/Vaibzz)
 About: I am a computer science undergraduate from VIT University, Vellore. I am a competitive programmer by passion. My other areas of interest include Data Analysis and visualization, Backend Development and Machine Learning.  
 Programming Language: Cpp, C, R, PHP, HTML, CSS <br/>
 Email: vaibhavkhandelwal20@gmail.com
+
+Name: [Joseph Lee](https://github.com/jjlee050)
+Place: Singapore, SG
+About: I am currently a NUS undergraduate Year 2 Computer Science Student. My field of interest is towards Software Engineering and Mobile App Development.
+Programming Language: Java, C, HTML, CSS, Kotlin
+Email: josephlee050@gmail.com

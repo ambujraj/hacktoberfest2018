@@ -19,6 +19,7 @@
 	<li> Searching Algorithms </li>
 		<li> Linked list </li>
 		<li> Stack </li>
+		<li> Queue </li>
 	<li> Traversal Algorithms </li>
 		<li> Linked list </lI>
 	<li> Sorting Algorithms </li>
