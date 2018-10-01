@@ -20,9 +20,8 @@ int main()
         }
 
     }
-    if(key!=-1){
+    if(pos!=-1) {
         cout<<"Query is found at location: "<<pos;
-
     }
     else{
         cout<<"key not Found";
