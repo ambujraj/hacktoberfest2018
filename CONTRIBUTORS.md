@@ -63,3 +63,9 @@ Place: Singapore, SG
 About: I am currently a NUS undergraduate Year 2 Computer Science Student. My field of interest is towards Software Engineering and Mobile App Development.
 Programming Language: Java, C, HTML, CSS, Kotlin
 Email: josephlee050@gmail.com
+
+Name: [Sarthak Mittal](https://github.com/sam-mittal)  
+Place: Delhi,India  
+About: currently pursuing B.Tech in computer science from MAIT.  
+Programming Language:c++,java,python  
+Email: sam.mittal.2106@gmail.com  
