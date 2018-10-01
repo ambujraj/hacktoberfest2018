@@ -13,7 +13,12 @@
  <br><br>You can check your progress of HacktoberFest at <a target="_blank" href="https://hacktoberfest.digitalocean.com/stats/">this link</a>.
 
 ## Getting Started
-
+* Add Your Name to the CONTRIBUTORS.md file using following model
+```markdown
+Name: [YOUR NAME](Github Link)
+About: Short Intro
+Programming Language: Which programming language do you know
+```markdown 
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone your fork down to your local machine
 ```markdown
