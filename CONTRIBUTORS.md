@@ -16,4 +16,7 @@ About: I am a computer science undergraduate from VIT University, Vellore. I am 
 Programming Language: Cpp, C, R, PHP, HTML, CSS <br/>
 Email: vaibhavkhandelwal20@gmail.com
 
-
+Name: [Dario Sindičić](https://github.com/dariodsa)
+About: I am 4th year comptuer science student from Zagreb, Croatia. I am a competitive programmer and I really like functional languages. Currently I am exploring Linux OS.
+Programming Languages: C++, C, Java, Haskell, Bash, HTML, Javascript
+Email: dario.sindicic@gmail.com
