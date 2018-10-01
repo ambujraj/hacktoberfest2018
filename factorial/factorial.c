@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 int main()
 {
 	int n; // No. for which Factorial is required
@@ -12,3 +13,4 @@ int main()
 	printf("%d\n", result);
 	return 0;
 }
+
