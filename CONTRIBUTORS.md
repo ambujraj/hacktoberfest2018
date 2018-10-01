@@ -16,4 +16,8 @@ About: I am a computer science undergraduate from VIT University, Vellore. I am 
 Programming Language: Cpp, C, R, PHP, HTML, CSS <br/>
 Email: vaibhavkhandelwal20@gmail.com
 
+Name: [Bernard Joseph Jean Bruno](https://github.com/theArtechnology)  
+About: Computer Science student as an undergraduate at Université des Mascareignes, Mauritius.
+Programming Language: C, C++, Javascript, Python <br/>
+Email: brunobernard1996@outlook.com
 
