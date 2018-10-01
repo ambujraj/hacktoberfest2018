@@ -1,16 +1,8 @@
-print('Enter the number of terms: ')
-num = int(input())
+def F(n):
+    if n == 0: return 0
+    elif n == 1: return 1
+    else: return F(n-1)+F(n-2)
 
-alist = []
-
-for i in range(0, num):
-	if(i == 0):
-		alist.append(0)
-	elif(i == 1):
-		alist.append(1)
-	else:
-		alist.append(alist[i - 1] + alist[i - 2])
-
-print('The fibonnaci series is: ')
-for i in range(num):
-	print(alist[i], end = ' ')
+if __name__ == '__main__':
+    num = int(input("Enter a number: "))
+    print(F(num))
