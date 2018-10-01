@@ -13,11 +13,18 @@
  <br><br>You can check your progress of HacktoberFest at <a target="_blank" href="https://hacktoberfest.digitalocean.com/stats/">this link</a>.
 
 ## Getting Started
-
+* Add Your Name to the CONTRIBUTORS.md file using following model
+```markdown
+Name: [YOUR NAME](Github Link)
+Place: city you belong to
+About: Short Intro
+Programming Language: Which programming language do you know
+Email: 
+```
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone your fork down to your local machine
 ```markdown
-git clone https://github.com/ambujraj/hacktoberfest2018.git
+git clone https://github.com/your-username/hacktoberfest2018.git
 ```
 * Create a branch
 ```markdown

@@ -1,0 +1,35 @@
+@charset "UTF-8";
+h1 {
+	text-align:center;
+	font-size:2vw;
+
+}
+
+ul {
+		list-style-type: none;
+		background-color:#333333;
+		padding:0;
+		margin:0;
+		overflow:hidden;
+		
+}
+
+li {
+	float:left;
+ }
+
+li a {
+		text-decoration: none;
+		display:block;
+		padding:18px;
+		color:white;
+		text-align: center;
+		
+}
+
+li a:hover{
+	background-color:#111111;
+}
+body {
+	background-image:url(landing.jpeg);
+}
