@@ -1,13 +1,16 @@
 
 Name: [Aditya Agarwal](https://github.com/aditya81070)<br/>
 Place: Jaipur, Rajasthan<br/>
-About: I am 3rd year computer science student at Jecrc foundation, Jaipur. I am a front end developer.<br/>  
+About: I am 3rd year computer science student at Jecrc foundation, Jaipur. I am a front end developer.<br/>
 Programming Languages: C, C++, Python, Javascript  <br/>
+
 
 Name: [Antonio Neto](https://github.com/aacgn)<br/>
 Place: Recife, Brazil<br/>
 About: I am 3rd year information systems student at Federal University of Pernambuco, Recife. I am a test engineer.<br/>  
 Programming Languages: Python and Javascript  <br/>
+Email: aacgn@cin.ufpe.br
+
 
 Name: [Saish Mhatre](https://github.com/lambocrypt)</br>
 Place: Thane</br>
