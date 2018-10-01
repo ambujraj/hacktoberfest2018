@@ -1,6 +1,6 @@
 #include <stdio.h>; 
 
-/* Recursive function to reverse digits of num*/
+
 int reversDigits(int num) 
 { 
 static int rev_num = 0; 
