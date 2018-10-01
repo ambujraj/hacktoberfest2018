@@ -27,3 +27,8 @@ Name: [Mohit Uniyal](https://github.com/mohit2016)
 About: I am currently pursuing BSc (H) Computer Science from Delhi University, and i'm in final year. I have some experience in frontend development, and android app development. I have knowledge of MEAN stack. Also, I'm in the field of Machine Learning these days.
 Programming Language: C++, JavaScript, Java, Python<br/>
 Email: mohituniyal2010@gmail.com
+
+Name: [Isaac Yriarte](https://github.com/IsaacYAGI)
+About: Software Engineer from Venezuela, learning new stuff everyday, I like Cyber Security and DevOps, currently working as an Ionic 3 developer and more cool things as well :).
+Programming Language: JavaScript, PHP, Python<br/>
+Email: isaacyagi@gmail.com
