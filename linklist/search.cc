@@ -44,6 +44,7 @@ int searchLL(Node* head,int data){
         if(cur->data==data){
             return count;
         }
+        cur=cur->next;
     }
     return -1;
 }
@@ -56,5 +57,10 @@ int main(){
     cout<<"enter the element data to be searched"<<endl;
     cin >> data;
     int index=searchLL(head,data);
-    cout<<"element present at index "<<index;
+    if (index==-1){
+        cout<<"element not found"<<endl;
+    }
+    else{
+        cout<<"element is present"<<endl;
+    }
 }
