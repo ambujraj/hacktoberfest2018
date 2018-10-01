@@ -1,3 +1,10 @@
+
+Name: [Tanuj Rohilla](https://github.com/TanujRohilla)<br/>
+Place: Delhi<br/>
+About: I am 1st year Msc Computer Science, University of Delhi<br/>
+Programming Language: c, c++, java, python<br/>
+Email: tanujrohilla325@gmail.com
+
 Name: [Aditya Agarwal](https://github.com/aditya81070)  
 Place: Jaipur, Rajasthan  
 About: I am 3rd year computer science student at Jecrc foundation, Jaipur. I am a front end developer.  
@@ -16,7 +23,19 @@ About: I am a computer science undergraduate from VIT University, Vellore. I am 
 Programming Language: Cpp, C, R, PHP, HTML, CSS <br/>
 Email: vaibhavkhandelwal20@gmail.com
 
-Name: [Dario Sindičić](https://github.com/dariodsa)
-About: I am 4th year comptuer science student from Zagreb, Croatia. I am a competitive programmer and I really like functional languages. Currently I am exploring Linux OS.
-Programming Languages: C++, C, Java, Haskell, Bash, HTML, Javascript
+
+Name: [Dario Sindičić](https://github.com/dariodsa)<br/>
+About: I am 4th year comptuer science student from Zagreb, Croatia. I am a competitive programmer and I really like functional languages. Currently I am exploring Linux OS.<br/>
+Programming Languages: C++, C, Java, Haskell, Bash, HTML, Javascript<br/>
 Email: dario.sindicic@gmail.com
+
+Name: [Mohit Uniyal](https://github.com/mohit2016)<br/>
+About: I am currently pursuing BSc (H) Computer Science from Delhi University, and i'm in final year. I have some experience in frontend development, and android app development. I have knowledge of MEAN stack. Also, I'm in the field of Machine Learning these days.<br/>
+Programming Language: C++, JavaScript, Java, Python<br/>
+Email: mohituniyal2010@gmail.com
+
+Name: [Isaac Yriarte](https://github.com/IsaacYAGI)<br/>
+About: Software Engineer from Venezuela, learning new stuff everyday, I like Cyber Security and DevOps, currently working as an Ionic 3 developer and more cool things as well :)<br/>
+Programming Language: JavaScript, PHP, Python<br/>
+Email: isaacyagi@gmail.com
+
