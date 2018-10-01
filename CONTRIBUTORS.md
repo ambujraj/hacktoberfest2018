@@ -1,4 +1,4 @@
-
+﻿
 Name: [Aditya Agarwal](https://github.com/aditya81070)<br/>
 Place: Jaipur, Rajasthan<br/>
 About: I am 3rd year computer science student at Jecrc foundation, Jaipur. I am a front end developer.<br/>  
@@ -57,6 +57,12 @@ Place: Paris, France<br/>
 About: I'm a student. I love High Tech and I found hobby in programming :D <br/>
 Programming Language: JavaScript, Python<br/>
 Email: hello@siffreinsigy.me
+
+Name:[Ansh Sachdeva](https://github.com/root-ansh)<br/>
+Place: NewDelhi,India <br/>
+About : Ambitious Android Developer and Python Enthusiast. I am a 3rd year B.tech Student , and love open source.</br>
+Programming Language :Java, Kotlin ,Python2/3 ,C</br>
+Email:anshsachdevaprofessional@gmail.com </br>
 
 Name: [Joseph Lee](https://github.com/jjlee050)
 Place: Singapore, SG
