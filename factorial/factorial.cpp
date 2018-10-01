@@ -1,9 +1,13 @@
 #include <iostream>
 #include <stdlib.h>
+#include <vector>
 using namespace std;
 int main()
 {
-    int num, fact;
+    int num, fact, aux;
+    vector<int>results;
+    results.push_back(1);
+    results.push_back(1);
     char c;
     while(true){
     fact = 1;
@@ -16,9 +20,18 @@ int main()
         fact = 1;
     }
     else{
-        for (int i=num;i>0;i--){
-            fact = fact*i;
+        for(int a=0;a<num;a++){
+	    if(results[a]==0){
+	       aux = a;
+	       break;
+	    }
         }
+	fact = results[aux-1];
+        for (int i=num;i>aux;i--){
+            fact = fact*i;
+	    results.push_back(fact);
+        }
+	
     }
     cout<<"Factorial of "<<num<<" is: "<<fact<<endl;
     cout<<"Do You Want to Enter another number?(y/n): ";
