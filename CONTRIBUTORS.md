@@ -147,7 +147,7 @@ Name: [Praveen Kumar Saini](https://github.com/praveen-me)
 Place: Dharamshala, India
 About: I am currently learning Full Stack Development and also a Google Uadicty India Scholar.
 Pragramming Language : JavaScript, Python
-Email: praveenkrsaini0@gmail.com 
+Email: praveenkrsaini0@gmail.com
 
 
 Name: [Prajjwal Jha](https://github.com/JhaPrajjwal)<br/>
@@ -191,7 +191,7 @@ Email: viniciusmsdsantos@gmail.com
 
 
 Name: [Brian Phair] (http://brianphair.com)
-About: I'm have a B.S. degree in Chemistry and am about to finish up a B.S. degree in Computer Science. 
+About: I'm have a B.S. degree in Chemistry and am about to finish up a B.S. degree in Computer Science.
 Programming Language: C, C++, Python
 
 
@@ -210,9 +210,9 @@ Email: suvin@richmun.org
 
 Name: [Andres Langberg](https://github.com/alangberg)
 Place: Buenos Aires
-About: I am currently studying CS at UBA (Universidad de Buenos Aires). Also working as a software engineer at Mercado Libre. 
+About: I am currently studying CS at UBA (Universidad de Buenos Aires). Also working as a software engineer at Mercado Libre.
 Programming Language: Which programming language do you know
-Email: andreslangberg@gmail.com 
+Email: andreslangberg@gmail.com
 
 
 Name: [Bryan Speelman](https://github.com/crayphix)
@@ -286,3 +286,9 @@ Name: [Mrigank Krishan](https://github.com/Mrigank11)
 Place: Indore
 About: Opensource Enthusiast
 Programming Language: Go
+
+Name: [Vipul Sharma](https://github.com/vsvipul)<br/>
+Place: Dharamshala, India<br/>
+About: I am a sophomore at IIT Mandi<br/>
+Programming Languages: C, C++, JavaScript<br/>
+Email: vsvipul555@gmail.com
