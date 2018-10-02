@@ -303,6 +303,11 @@ About: I am a sophomore at IIT Mandi<br/>
 Programming Languages: C, C++, JavaScript<br/>
 Email: vsvipul555@gmail.com
 
+Name: [Tsaruk Alex](https://github.com/WildTiger404)<br/>
+Place: Minsk, Belarus<br/>
+About: I am a 3rd year stundent. I like traveling and events like this one<br/>
+Programming Languages: C#, C/C++, PHP<br/>
+Email: tsarukAlex404@gmail.com
 
 Name: [Priyanka Rajput](https://github.com/Priyankarajput1)<br/>
 Place: Noida,Uttar Pradesh,India<br/>
@@ -316,4 +321,3 @@ Place: Noida,India<br/>
 About: Btech student from JIIT<br/>
 Programming Languages: C,C++,python3<br/>
 email: ranjan.kushwaha456@gmail.com<br/>
-
