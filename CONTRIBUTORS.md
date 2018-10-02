@@ -309,6 +309,11 @@ About: I am a sophomore at IIT Mandi<br/>
 Programming Languages: C, C++, JavaScript<br/>
 Email: vsvipul555@gmail.com
 
+Name: [Samyak](https://github.com/samyak-sopho)
+Place: Allahabad
+About: Will do anything for free shirt
+Programming Language: C++, JS, Java
+
 
 Name: [Marlene Oliveira](https://github.com/m-oliv)
 Place: Lisbon, Portugal
@@ -334,4 +339,3 @@ Place: Noida,India<br/>
 About: Btech student from JIIT<br/>
 Programming Languages: C,C++,python3<br/>
 email: ranjan.kushwaha456@gmail.com<br/>
-
