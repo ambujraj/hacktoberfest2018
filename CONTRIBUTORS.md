@@ -1,7 +1,15 @@
+
+Name: [Prateek Sharma](https://github.com/prateeksharma21)<br/>
+Place: Hamirpur, Himachal Pradesh<br/>
+About: I am a 1st Year Computer Science student at NIT Hamirpur<br/>
+Programming Languages: C, Python<br/>
+Email: sharma7890prateek@outlook.com
+
 Name: Aishwarya Bansal</br>
 Place: Jaipur, Rajasthan</br>
 About: I am 4th year Electronics and communication student at Jecrc foundation, Jaipur. I am a front end developer.</br>
 Programming Languages: C, C++, Javascript </br>
+
 
 Name: [Aditya Agarwal](https://github.com/aditya81070)<br/>
 Place: Jaipur, Rajasthan<br/>
@@ -217,4 +225,5 @@ Name: [Siddharth Gupta](https://github.com/Siddharth-gupta99)
 Place: Mandi, Himachal Pradesh </ br>
 About: I am 2nd year CSE student. </ br>
 Programming Language: C++, C, Python </ br>
+
 
