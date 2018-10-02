@@ -302,3 +302,9 @@ Place: Dharamshala, India<br/>
 About: I am a sophomore at IIT Mandi<br/>
 Programming Languages: C, C++, JavaScript<br/>
 Email: vsvipul555@gmail.com
+
+Name: [Siddhant MAnglik](https://github.com/vaish-456)<br/>
+Place: Noida,India<br/>
+About: Btech student from JIIT<br/>
+Programming Languages: C,C++,python3<br/>
+email: ranjan.kushwaha456@gmail.com<br/>
