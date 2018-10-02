@@ -227,13 +227,10 @@ About: I am 2nd year CSE student. </ br>
 Programming Language: C++, C, Python </ br>
 
 
-Name: [Chirag Khandelwal](https://github.com/Electrux)
-
-Place: India
-
-About: Final Year CSE student
-
-Programming Languages: C++, C
+Name: [Chirag Khandelwal](https://github.com/Electrux)<br/>
+Place: India<br/>
+About: Final Year CSE student<br/>
+Programming Languages: C++, C<br/>
 
 
 
