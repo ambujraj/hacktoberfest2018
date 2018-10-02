@@ -339,3 +339,9 @@ Place: Noida,India<br/>
 About: Btech student from JIIT<br/>
 Programming Languages: C,C++,python3<br/>
 email: ranjan.kushwaha456@gmail.com<br/>
+
+Name: [Acquila Santos](https://github.com/DJAcquila)<br/>
+Place: Goiânia, Goiás<br/>
+About: I am a 3rd Year Computer Science student at UFG (Universidade Federal de Goiás)<br/>
+Programming Languages: C, C++, Python, Shell Script<br/>
+Email: acquila.santos@gmail.com
