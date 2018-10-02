@@ -269,4 +269,16 @@ Name: [Thomas Kulmbach](https://github.com/d0tch)
 Place: Copenhagen, Denmark
 About: I am a webdeveloper in a smaller danish company, creating software for Dentists
 Programming Language: PHP, SWIFT, JavaScript, Objective-C
-Email: Not giving that one out :) 
+Email: Thomas@kulmba.ch
+
+Name: [Sneha Raina](https://github.com/SnehaR26)<br/>
+Place: Delhi, India<br/>
+About: I am a 3rd year IT student<br/>
+Programming Languages: C, C++, Java, JavaScript, Python<br/>
+Email: rainasneha98@gmail.com
+
+Name: [Rute Carrapato](https://github.com/RuteCarrapato)
+Place: Lisbon
+About: Junior Dev
+Programming Language: Java, JavaScript, HTML
+
