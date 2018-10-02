@@ -160,6 +160,13 @@ Programming Language: PHP, JavaScript
 Email: jbraunnl@gmail.com
 
 
+Name: [Vinícius Santos](https://github.com/viniciusmsds)  
+Place: Minas Gerais, Brazil
+About: I am a cience computer student at PUC Minas.
+Programming Language: Java, JavaScript, PHP, C, Python
+Email: viniciusmsdsantos@gmail.com
+
+
 Name: [Brian Phair] (http://brianphair.com)
 About: I'm have a B.S. degree in Chemistry and am about to finish up a B.S. degree in Computer Science. 
 Programming Language: C, C++, Python
@@ -169,4 +176,5 @@ Name: [Surly Z](https://github.com/surlymrz)
 About: Just a random dev for a number of years.
 Programming Language: C#
 Email: 4142115+surlymrz@users.noreply.github.com
+
 
