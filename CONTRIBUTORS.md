@@ -227,3 +227,8 @@ About: I am 2nd year CSE student. </ br>
 Programming Language: C++, C, Python </ br>
 
 
+Name: [Amusat Akeem](https://github.com/dev-haykay)
+Place: Nigeria
+About: Computer science graduate
+Programming Language: C++, Python, PHP
+Email: aoamusat@gmail.com
