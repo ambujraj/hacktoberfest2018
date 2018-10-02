@@ -159,3 +159,10 @@ About: I am doing a PhD in organic chemistry and really like programming. Used L
 Programming Language: PHP, JavaScript
 Email: jbraunnl@gmail.com
 
+Name: [Vinícius Santos](https://github.com/viniciusmsds)  
+Place: Minas Gerais, Brazil
+About: I am a cience computer student at PUC Minas.
+Programming Language: Java, JavaScript, PHP, C, Python
+Email: viniciusmsdsantos@gmail.com
+
+
