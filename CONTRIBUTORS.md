@@ -233,4 +233,11 @@ About: Final Year CSE student<br/>
 Programming Languages: C++, C<br/>
 
 
+Name: [Yash Kedia](https://github.com/yash-kedia)<br/>
+Place: Noida<br/>
+About: I am a 2nd Year Computer Science student at JIIT Noida<br/>
+Programming Languages: C, Python,C++<br/>
+Email: yashkedia011@gmail.com
+
+
 
