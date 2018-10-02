@@ -1,3 +1,8 @@
+Name: [Abhishek Kansal](https://github.com/abhishall)<br/>
+Place: Delhi<br/>
+About: I am pursuing MCA at University of Delhi<br/>
+Programming Languages: Java, Python, C++<br/>
+Email: abhishek.mca18.du@gmail.com
 
 
 Name: Jillian Keenan  
@@ -90,6 +95,7 @@ Programming Language: Java, C, HTML, CSS, Kotlin
 Email: josephlee050@gmail.com
 
 
+
 Name: [Sarthak Mittal](https://github.com/sam-mittal)  
 Place: Delhi,India  
 About: currently pursuing B.Tech in computer science from MAIT.  
@@ -108,4 +114,5 @@ Name: [John Braun](https://github.com/jhnbrn90)
 About: I am doing a PhD in organic chemistry and really like programming. Used Laravel to create some useful tools for our research group, amongst others a chemicals inventory, booking system and supporting information manager.
 Programming Language: PHP, JavaScript
 Email: jbraunnl@gmail.com
+
 
