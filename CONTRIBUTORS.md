@@ -309,6 +309,13 @@ About: I am a sophomore at IIT Mandi<br/>
 Programming Languages: C, C++, JavaScript<br/>
 Email: vsvipul555@gmail.com
 
+
+Name: [Marlene Oliveira](https://github.com/m-oliv)
+Place: Lisbon, Portugal
+About: Software Engineer
+Programming Language: Java, C, C#, Python, JavaScript, HTML, CSS
+
+
 Name: [Tsaruk Alex](https://github.com/WildTiger404)<br/>
 Place: Minsk, Belarus<br/>
 About: I am a 3rd year stundent. I like traveling and events like this one<br/>
@@ -327,3 +334,4 @@ Place: Noida,India<br/>
 About: Btech student from JIIT<br/>
 Programming Languages: C,C++,python3<br/>
 email: ranjan.kushwaha456@gmail.com<br/>
+
