@@ -264,3 +264,9 @@ Place: Mumbai, India
 About: I am a third-year Computer Science student.
 Programming Language: Python, Java, C, HTML, CSS
 Email: studentparth18@gmail.com
+
+Name: [Thomas Kulmbach](https://github.com/d0tch)
+Place: Copenhagen, Denmark
+About: I am a webdeveloper in a smaller danish company, creating software for Dentists
+Programming Language: PHP, SWIFT, JavaScript, Objective-C
+Email: Not giving that one out :) 
