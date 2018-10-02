@@ -1,15 +1,27 @@
-#include <iostream>
+#include<iostream>
+#include<cstring>
 using namespace std;
 int main()
 {
-	int n,remainder,reverse=0,originalnumber;
-	cin>>n;
-	originalnumber=n;
-	while(n!=0){
-		remainder = n%10;
-		reverse=reverse*10 +remainder;
-		n/=10;
-	}
-	(originalnumber==reverse)?cout<<"palindrome":cout<<"not palindrome";
-return 0;
+string str,st;
+int i,j,flag=1;
+cin>>str;
+int l =str.size();
+for(i=0;i<l;i++)
+st[i]=str[i];
+for(i=l-1;i>=0;i--)
+{
+cout<<st[i];
+}
+for(j=0,i=l-1;i>=0,j<l;i--,j++ )
+if(str[j]!=st[i])
+{
+    flag=0;
+}
+if(flag==1)
+{
+    cout<<"\npalindrome";
+}
+else
+    cout<<"\nnot a palindrome";
 }
