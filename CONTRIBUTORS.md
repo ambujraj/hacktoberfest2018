@@ -321,6 +321,13 @@ About: Software Engineer
 Programming Language: Java, C, C#, Python, JavaScript, HTML, CSS
 
 
+Name: [Trevin Edinger](https://github.com/ArkTrevelyan)
+Place: Elkins, WV, USA
+About: High School Graduate. Self teaching to be a programmer.
+Programming Languages: Java, C.
+Email: Yezhekel@ProtonMail.ch
+
+
 Name: [Tsaruk Alex](https://github.com/WildTiger404)<br/>
 Place: Minsk, Belarus<br/>
 About: I am a 3rd year stundent. I like traveling and events like this one<br/>
