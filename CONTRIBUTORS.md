@@ -339,3 +339,10 @@ Place: Noida,India<br/>
 About: Btech student from JIIT<br/>
 Programming Languages: C,C++,python3<br/>
 email: ranjan.kushwaha456@gmail.com<br/>
+
+
+Name: [B Siddhartha](https://github.com/bsidio)<br/>
+Place: Bangalore,India<br/>
+About: Btech student from RVCE<br/>
+Programming Languages: C,C++,html, JS<br/>
+email: mail@bsid.io<br/>
