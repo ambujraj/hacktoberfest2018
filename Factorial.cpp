@@ -1,12 +1,15 @@
-/* create a factorial function for long integers*/
-#include <iostream.h>
+//factorial using recursion
+#include<iostream>
 using namespace std;
-int main(){
-	int i,n;
-	unsigned long long fact=1;// gives factorial of large numbers 
-	cin>>n;
-	for(i=1;i<=n;i++){
-		fact =fact *i;
-	}
-	cout<<fact<<endl;
+int fact(int n)
+	if(n==0)
+		return 1;
+  return n*fact(n-1);
 }
+int main()
+{
+	int n;
+	cin>>n;
+	cout<<"Factorial of the entered no. is :<< fact(n);
+}
+	

@@ -1,8 +1,16 @@
-
+Name: Aishwarya Bansal</br>
+Place: Jaipur, Rajasthan</br>
+About: I am 4th year Electronics and communication student at Jecrc foundation, Jaipur. I am a front end developer.</br>
+Programming Languages: C, C++, Javascript </br>
 
 Name: [Aditya Agarwal](https://github.com/aditya81070)<br/>
 Place: Jaipur, Rajasthan<br/>
 About: I am 3rd year computer science student at Jecrc foundation, Jaipur. I am a front end developer.<br/>
+Programming Languages: C, C++, Python, Javascript  <br/>
+
+Name: [Amrit Srivastava](https://github.com/amritsrivastava)<br/>
+Place: Jaipur, Rajasthan<br/>
+About: I'm a third year student in computer science engineering domain. I'm a full stack web developer.<br/>
 Programming Languages: C, C++, Python, Javascript  <br/>
 
 
@@ -209,5 +217,4 @@ Name: [Siddharth Gupta](https://github.com/Siddharth-gupta99)
 Place: Mandi, Himachal Pradesh </ br>
 About: I am 2nd year CSE student. </ br>
 Programming Language: C++, C, Python </ br>
-
 
