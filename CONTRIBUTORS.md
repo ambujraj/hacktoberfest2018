@@ -303,8 +303,17 @@ About: I am a sophomore at IIT Mandi<br/>
 Programming Languages: C, C++, JavaScript<br/>
 Email: vsvipul555@gmail.com
 
+
+Name: [Priyanka Rajput](https://github.com/Priyankarajput1)<br/>
+Place: Noida,Uttar Pradesh,India<br/>
+About: I am a 3rd Year Computer Science student at JSSATE Noida<br/>
+Programming Languages: C, Java<br/>
+Email: priyankarajput3010@gmail.com
+
+
 Name: [Siddhant MAnglik](https://github.com/vaish-456)<br/>
 Place: Noida,India<br/>
 About: Btech student from JIIT<br/>
 Programming Languages: C,C++,python3<br/>
 email: ranjan.kushwaha456@gmail.com<br/>
+
