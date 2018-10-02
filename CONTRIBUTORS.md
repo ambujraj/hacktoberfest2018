@@ -1,4 +1,7 @@
-
+Name: Aishwarya Bansal</br>
+Place: Jaipur, Rajasthan</br>
+About: I am 4th year Electronics and communication student at Jecrc foundation, Jaipur. I am a front end developer.</br>
+Programming Languages: C, C++, Javascript </br>
 
 Name: [Aditya Agarwal](https://github.com/aditya81070)<br/>
 Place: Jaipur, Rajasthan<br/>
