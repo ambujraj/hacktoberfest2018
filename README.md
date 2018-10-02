@@ -16,7 +16,7 @@
 <h2> List of Programs to work on </h2>
 <ul>
 	<li>  - [ ] Hello World </li>
-	<li> - [ ] Rearching Algorithms </li>
+	<li> - [ ] Searching Algorithms </li>
 		<li> - [ ] Linked list </li>
 		<li> - [ ] Stack </li>
 		<li> - [ ] Queue </li>
