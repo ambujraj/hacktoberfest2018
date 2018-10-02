@@ -297,3 +297,8 @@ Place: Dharamshala, India<br/>
 About: I am a sophomore at IIT Mandi<br/>
 Programming Languages: C, C++, JavaScript<br/>
 Email: vsvipul555@gmail.com
+
+Name: [Marlene Oliveira](https://github.com/m-oliv)
+Place: Lisbon, Portugal
+About: Software Engineer
+Programming Language: Java, C, C#, Python, JavaScript, HTML, CSS
