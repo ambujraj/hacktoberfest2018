@@ -164,3 +164,8 @@ Name: [Surly Z](https://github.com/surlymrz)
 About: Just a random dev for a number of years.
 Programming Language: C#
 Email: 4142115+surlymrz@users.noreply.github.com
+
+Name: [Bryan Speelman](https://github.com/crayphix)
+About: Java Developer
+Programming Language: Java
+Email: 
