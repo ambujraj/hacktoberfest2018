@@ -226,6 +226,12 @@ Place: Mandi, Himachal Pradesh
 About: I am 2nd year CSE student.
 Programming Language: C++, C, Python
 
+Name: [Amusat Akeem](https://github.com/dev-haykay)
+Place: Nigeria
+About: Computer science graduate
+Programming Language: C++, Python, PHP
+Email: aoamusat@gmail.com
+
 
 Name: [Chirag Khandelwal](https://github.com/Electrux)<br/>
 Place: India<br/>
@@ -245,4 +251,3 @@ Place: Blagoevgrad, Simitli
 About: I'm a Student with a final year of High-School
 Programming Language: Java, C#, Android, Kotlin; (Markup languages: HTML, CSS)
 Email: sokratis12gr@gmail.com
-
