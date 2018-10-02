@@ -222,13 +222,32 @@ Email: bryspeelm@gmail.com
 
 
 Name: [Siddharth Gupta](https://github.com/Siddharth-gupta99)
-Place: Mandi, Himachal Pradesh </ br>
-About: I am 2nd year CSE student. </ br>
-Programming Language: C++, C, Python </ br>
-
+Place: Mandi, Himachal Pradesh
+About: I am 2nd year CSE student.
+Programming Language: C++, C, Python
 
 Name: [Amusat Akeem](https://github.com/dev-haykay)
 Place: Nigeria
 About: Computer science graduate
 Programming Language: C++, Python, PHP
 Email: aoamusat@gmail.com
+
+
+Name: [Chirag Khandelwal](https://github.com/Electrux)<br/>
+Place: India<br/>
+About: Final Year CSE student<br/>
+Programming Languages: C++, C<br/>
+
+
+Name: [Yash Kedia](https://github.com/yash-kedia)<br/>
+Place: Noida<br/>
+About: I am a 2nd Year Computer Science student at JIIT Noida<br/>
+Programming Languages: C, Python,C++<br/>
+Email: yashkedia011@gmail.com
+
+
+Name: [Sokratis Fotkatzikis](https://github.com/sokratis12GR)
+Place: Blagoevgrad, Simitli
+About: I'm a Student with a final year of High-School
+Programming Language: Java, C#, Android, Kotlin; (Markup languages: HTML, CSS)
+Email: sokratis12gr@gmail.com
