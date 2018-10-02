@@ -1,3 +1,4 @@
+
 def perfect_square(number)
   perfect=false
   x=1

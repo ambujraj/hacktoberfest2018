@@ -1,8 +1,31 @@
 
-Name: [Aditya Agarwal](https://github.com/aditya81070)<br/>
-Place: Jaipur, Rajasthan<br/>
-About: I am 3rd year computer science student at Jecrc foundation, Jaipur. I am a front end developer.<br/>  
-Programming Languages: C, C++, Python, Javascript  <br/>
+Name: [piyush Bafna](https://github.com/piba941)<br/>
+Place: Belgaum, Karnataka<br/>
+About: I am 2nd year CS student <br/>  
+Programming Languages: C, C++  <br/>
+Email:piyushBafna051@gmail.com
+
+
+Name: [Abhishek Kansal](https://github.com/abhishall)<br/>
+Place: Delhi<br/>
+About: I am pursuing MCA at University of Delhi<br/>
+Programming Languages: Java, Python, C++<br/>
+Email: abhishek.mca18.du@gmail.com
+
+
+Name: Jillian Keenan  
+Place: Belfast, N.Ireland  
+About: I'm a final year computing science student.  
+Programming Languages: Java, C#, Javascript  
+Email: jilliankeenan1@gmail.com
+
+
+
+Name: [Aditya Agrawal](https://github.com/silly-soul)<br/>
+Place: New Delhi, Delhi<br/>
+About: I am 1st year computer science student at Department of computer science, Delhi University. I am a Full stack developer.<br/>  
+Programming Languages: C, C++, Java, Python, Javascript  <br/>
+Email: Adityaag.mca18.du@gmail.com
 
 Name: [Saish Mhatre](https://github.com/lambocrypt)</br>
 Place: Thane</br>
@@ -31,6 +54,16 @@ Programming Language: Cpp, C, R, PHP, HTML, CSS <br/>
 Email: vaibhavkhandelwal20@gmail.com
 
 
+Name: [Mohit Uniyal](https://github.com/mohit2016)  
+About: I am currently pursuing BSc (H) Computer Science from Delhi University, and i'm in final year. I have some experience in frontend development, and android app development. I have knowledge of MEAN stack. Also, I'm in the field of Machine Learning these days.
+Programming Language: C++, JavaScript, Java, Python<br/>
+Email: mohituniyal2010@gmail.com
+
+Name:[Michael Loftus](https://github.com/destoer/)
+About: currently a student studying cs and maths
+Programming Language: C, C++, Rust
+Email: michaelloftus2000@gmail.com
+
 Name: [Bernard Joseph Jean Bruno](https://github.com/theArtechnology)  
 About: Computer Science student as an undergraduate at Université des Mascareignes, Mauritius.
 Programming Language: C, C++, Javascript, Python <br/>
@@ -58,8 +91,46 @@ About: I'm a student. I love High Tech and I found hobby in programming :D <br/>
 Programming Language: JavaScript, Python<br/>
 Email: hello@siffreinsigy.me
 
+Name:[Ansh Sachdeva](https://github.com/root-ansh)<br/>
+Place: NewDelhi,India <br/>
+About : Ambitious Android Developer and Python Enthusiast. I am a 3rd year B.tech Student , and love open source.</br>
+Programming Language :Java, Kotlin ,Python2/3 ,C</br>
+Email:anshsachdevaprofessional@gmail.com </br>
+
 Name: [Joseph Lee](https://github.com/jjlee050)
 Place: Singapore, SG
 About: I am currently a NUS undergraduate Year 2 Computer Science Student. My field of interest is towards Software Engineering and Mobile App Development.
 Programming Language: Java, C, HTML, CSS, Kotlin
 Email: josephlee050@gmail.com
+
+Name: [Praveen Kumar Saini](https://github.com/praveen-me)
+Place: Dharamshala, India
+About: I am currently learning Full Stack Development and also a Google Uadicty India Scholar.
+Pragramming Language : JavaScript, Python
+Email: praveenkrsaini0@gmail.com 
+
+
+Name: [Prajjwal Jha](https://github.com/JhaPrajjwal)<br/>
+Place: Mandi, Himanchal Pradesh<br/>
+About: I am 2nd year computer science student at IIT Mandi. I love competitive ccoding.<br/>  
+Programming Languages: C, C++, Python <br/>
+
+
+Name: [Sarthak Mittal](https://github.com/sam-mittal)  
+Place: Delhi,India  
+About: currently pursuing B.Tech in computer science from MAIT.  
+Programming Language:c++,java,python  
+Email: sam.mittal.2106@gmail.com  
+
+
+Name: [Keshav Gupta](https://github.com/kgupta786)
+Place: Punjab, India
+About: I am currently a B.Tech Undergraduate doing CSE at Thapar Institute of Engineering and Technology.My Interests are in Android,Machine Learning, Web Development.
+Programming Language: Java, C, HTML, CSS, Android, Python, C++,C#,PHP
+Email: iitengineer786@gmail.com
+
+
+Name: [John Braun](https://github.com/jhnbrn90)  
+About: I am doing a PhD in organic chemistry and really like programming. Used Laravel to create some useful tools for our research group, amongst others a chemicals inventory, booking system and supporting information manager.
+Programming Language: PHP, JavaScript
+Email: jbraunnl@gmail.com
