@@ -185,3 +185,7 @@ Programming Language: C#
 Email: 4142115+surlymrz@users.noreply.github.com
 
 
+Name: [Bryan Speelman](https://github.com/crayphix)
+About: Java Developer
+Programming Language: Java
+Email: bryspeelm@gmail.com
