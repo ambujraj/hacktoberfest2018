@@ -1,3 +1,8 @@
+Name: [Prateek Sharma](https://github.com/prateeksharma21)<br/>
+Place: Hamirpur, Himachal Pradesh<br/>
+About: I am a 1st Year Computer Science student at NIT Hamirpur<br/>
+Programming Languages: C, Python<br/>
+Email: sharma7890prateek@outlook.com
 
 
 Name: [Aditya Agarwal](https://github.com/aditya81070)<br/>
