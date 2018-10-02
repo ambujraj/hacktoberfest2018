@@ -1,4 +1,11 @@
 
+Name: Jillian Keenan  
+Place: Belfast, N.Ireland  
+About: I'm a final year computing science student.  
+Programming Languages: Java, C#, Javascript  
+Email: jilliankeenan1@gmail.com
+
+
 Name: [Aditya Agarwal](https://github.com/aditya81070)<br/>
 Place: Jaipur, Rajasthan<br/>
 About: I am 3rd year computer science student at Jecrc foundation, Jaipur. I am a front end developer.<br/>  
@@ -73,4 +80,5 @@ Place: Singapore, SG
 About: I am currently a NUS undergraduate Year 2 Computer Science Student. My field of interest is towards Software Engineering and Mobile App Development.
 Programming Language: Java, C, HTML, CSS, Kotlin
 Email: josephlee050@gmail.com
+
 
