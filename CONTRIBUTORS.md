@@ -240,4 +240,9 @@ Programming Languages: C, Python,C++<br/>
 Email: yashkedia011@gmail.com
 
 
+Name: [Sokratis Fotkatzikis](https://github.com/sokratis12GR)
+Place: Blagoevgrad, Simitli
+About: I'm a Student with a final year of High-School
+Programming Language: Java, C#, Android, Kotlin; (Markup languages: HTML, CSS)
+Email: sokratis12gr@gmail.com
 
