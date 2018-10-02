@@ -1,7 +1,11 @@
+
+#include<iostream>
+#include<cstring>
+
 #include <bits/stdc++.h> //Removed Redundant includes of iostream and vector
 
-using namespace std;
 
+using namespace std;
 int main()
 {
 	int n,d;  //Removed unnecessary variable i
@@ -19,5 +23,6 @@ int main()
 		cout << num << " is a palindrome"<< endl;
 	else
 		cout << num << " is not a palindrome" << endl;
+
 
 }
