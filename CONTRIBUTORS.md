@@ -103,6 +103,12 @@ About: I am currently a NUS undergraduate Year 2 Computer Science Student. My fi
 Programming Language: Java, C, HTML, CSS, Kotlin
 Email: josephlee050@gmail.com
 
+Name: [Praveen Kumar Saini](https://github.com/praveen-me)
+Place: Dharamshala, India
+About: I am currently learning Full Stack Development and also a Google Uadicty India Scholar.
+Pragramming Language : JavaScript, Python
+Email: praveenkrsaini0@gmail.com 
+
 
 Name: [Prajjwal Jha](https://github.com/JhaPrajjwal)<br/>
 Place: Mandi, Himanchal Pradesh<br/>
@@ -128,4 +134,3 @@ Name: [John Braun](https://github.com/jhnbrn90)
 About: I am doing a PhD in organic chemistry and really like programming. Used Laravel to create some useful tools for our research group, amongst others a chemicals inventory, booking system and supporting information manager.
 Programming Language: PHP, JavaScript
 Email: jbraunnl@gmail.com
-
