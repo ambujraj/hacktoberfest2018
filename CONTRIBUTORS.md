@@ -226,6 +226,12 @@ Place: Mandi, Himachal Pradesh
 About: I am 2nd year CSE student.
 Programming Language: C++, C, Python
 
+Name: [Amusat Akeem](https://github.com/dev-haykay)
+Place: Nigeria
+About: Computer science graduate
+Programming Language: C++, Python, PHP
+Email: aoamusat@gmail.com
+
 
 Name: [Chirag Khandelwal](https://github.com/Electrux)<br/>
 Place: India<br/>
@@ -240,9 +246,34 @@ Programming Languages: C, Python,C++<br/>
 Email: yashkedia011@gmail.com
 
 
+Name: [Sokratis Fotkatzikis](https://github.com/sokratis12GR)
+Place: Blagoevgrad, Simitli
+About: I'm a Student with a final year of High-School
+Programming Language: Java, C#, Android, Kotlin; (Markup languages: HTML, CSS)
+Email: sokratis12gr@gmail.com
+
+Name: Pratyush Tiwari
+Place: Delhi
+About: I am a 1st Year ECE student at USICT Delhi
+Programming Languages:  C++,C,HTML,CSS,Python;
+Email: pratyushtiwarimj@gmail.com
+
+
+Name: [Parth Doshi](https://github.com/arsenal-2004)
+Place: Mumbai, India
+About: I am a third-year Computer Science student.
+Programming Language: Python, Java, C, HTML, CSS
+Email: studentparth18@gmail.com
+
 
 Name: [Sneha Raina](https://github.com/SnehaR26)<br/>
 Place: Delhi, India<br/>
 About: I am a 3rd year ITE student<br/>
 Programming Languages: C, C++, Java, JavaScript, Python<br/>
 Email: rainasneha98@gmail.com
+
+Name: [Rute Carrapato](https://github.com/RuteCarrapato)
+Place: Lisbon
+About: Junior Dev
+Programming Language: Java, JavaScript, HTML
+
