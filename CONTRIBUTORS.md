@@ -228,8 +228,11 @@ Programming Language: C++, C, Python </ br>
 
 
 Name: [Chirag Khandelwal](https://github.com/Electrux)
+
 Place: India
+
 About: Final Year CSE student
+
 Programming Languages: C++, C
 
 
