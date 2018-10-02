@@ -1,16 +1,5 @@
-#python3
-/*
-
-Made By: Keshav Gupta
-7:35 PM
-*/
-
-# main method
-
-print("Enter the string to check")
-t=input()
-
-if(t==t[::-1]):
-  print("The string entered is pallindrome")
+number=list(input("Enter a number:"))
+if ( number == number[::-1]):
+    print("Number is Pallindrome")
 else:
-  print("Not a pallindrome")
+    print("Number is not Pallindrome")
