@@ -159,3 +159,6 @@ About: I am doing a PhD in organic chemistry and really like programming. Used L
 Programming Language: PHP, JavaScript
 Email: jbraunnl@gmail.com
 
+Name: [Brian Phair] (http://brianphair.com)
+About: I'm have a B.S. degree in Chemistry and am about to finish up a B.S. degree in Computer Science. 
+Programming Language: C, C++, Python
