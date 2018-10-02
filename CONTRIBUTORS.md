@@ -264,3 +264,8 @@ Place: Mumbai, India
 About: I am a third-year Computer Science student.
 Programming Language: Python, Java, C, HTML, CSS
 Email: studentparth18@gmail.com
+
+Name: [Rute Carrapato](https://github.com/RuteCarrapato)
+Place: Lisbon
+About: Junior Dev
+Programming Language: Java, JavaScript, HTML
