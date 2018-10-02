@@ -104,6 +104,11 @@ Programming Language: Java, C, HTML, CSS, Kotlin
 Email: josephlee050@gmail.com
 
 
+Name: [Prajjwal Jha](https://github.com/JhaPrajjwal)<br/>
+Place: Mandi, Himanchal Pradesh<br/>
+About: I am 2nd year computer science student at IIT Mandi. I love competitive ccoding.<br/>  
+Programming Languages: C, C++, Python <br/>
+
 
 Name: [Sarthak Mittal](https://github.com/sam-mittal)  
 Place: Delhi,India  
@@ -123,5 +128,4 @@ Name: [John Braun](https://github.com/jhnbrn90)
 About: I am doing a PhD in organic chemistry and really like programming. Used Laravel to create some useful tools for our research group, amongst others a chemicals inventory, booking system and supporting information manager.
 Programming Language: PHP, JavaScript
 Email: jbraunnl@gmail.com
-
 
