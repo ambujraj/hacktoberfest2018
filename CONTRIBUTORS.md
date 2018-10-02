@@ -1,4 +1,13 @@
-﻿
+
+
+Name: Jillian Keenan  
+Place: Belfast, N.Ireland  
+About: I'm a final year computing science student.  
+Programming Languages: Java, C#, Javascript  
+Email: jilliankeenan1@gmail.com
+
+
+
 Name: [Aditya Agarwal](https://github.com/aditya81070)<br/>
 Place: Jaipur, Rajasthan<br/>
 About: I am 3rd year computer science student at Jecrc foundation, Jaipur. I am a front end developer.<br/>  
@@ -30,6 +39,16 @@ About: I am a computer science undergraduate from VIT University, Vellore. I am 
 Programming Language: Cpp, C, R, PHP, HTML, CSS <br/>
 Email: vaibhavkhandelwal20@gmail.com
 
+
+Name: [Mohit Uniyal](https://github.com/mohit2016)  
+About: I am currently pursuing BSc (H) Computer Science from Delhi University, and i'm in final year. I have some experience in frontend development, and android app development. I have knowledge of MEAN stack. Also, I'm in the field of Machine Learning these days.
+Programming Language: C++, JavaScript, Java, Python<br/>
+Email: mohituniyal2010@gmail.com
+
+Name:[Michael Loftus](https://github.com/destoer/)
+About: currently a student studying cs and maths
+Programming Language: C, C++, Rust
+Email: michaelloftus2000@gmail.com
 
 Name: [Bernard Joseph Jean Bruno](https://github.com/theArtechnology)  
 About: Computer Science student as an undergraduate at Université des Mascareignes, Mauritius.
@@ -69,3 +88,10 @@ Place: Singapore, SG
 About: I am currently a NUS undergraduate Year 2 Computer Science Student. My field of interest is towards Software Engineering and Mobile App Development.
 Programming Language: Java, C, HTML, CSS, Kotlin
 Email: josephlee050@gmail.com
+
+
+Name: [John Braun](https://github.com/jhnbrn90)  
+About: I am doing a PhD in organic chemistry and really like programming. Used Laravel to create some useful tools for our research group, amongst others a chemicals inventory, booking system and supporting information manager.
+Programming Language: PHP, JavaScript
+Email: jbraunnl@gmail.com
+
