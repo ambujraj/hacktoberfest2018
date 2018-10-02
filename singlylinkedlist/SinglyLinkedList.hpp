@@ -12,16 +12,22 @@ template <typename Key,typename Value>
 class SinglyLinkedList{
   private:
     node<Key,Value> *head,*tail;
+    int size;
 
   public:
     SinglyLinkedList(){
       head=NULL;
       tail=NULL;
+      size=0;
     }
     void insert_front(const Key& key, const Value& value);
     void insert_end(const Key& key, const Value& value);
     void remove();
     void traverse();
+    int length()
+    {
+      return size;
+    }
 };
 
 template <typename Key,typename Value>
@@ -39,6 +45,7 @@ void SinglyLinkedList<Key,Value>::insert_front(const Key& key, const Value& valu
     temp->next=this->head;
     this->head=temp;
   }
+  this->size++;
 }
 
 template <typename Key,typename Value>
@@ -56,6 +63,7 @@ void SinglyLinkedList<Key,Value>::insert_end(const Key& key, const Value& value)
     this->tail->next=temp;
     this->tail=temp;
   }
+  this->size++;
 }
 
 template <typename Key,typename Value>
@@ -69,6 +77,7 @@ void SinglyLinkedList<Key,Value>::remove(){
   node<Key,Value> *temp;
   temp=this->head;
   this->head=temp->next;
+  this->size--;
   delete temp;
 }
 
@@ -86,3 +95,4 @@ void SinglyLinkedList<Key,Value>::traverse(){
   }
   cout<<"\n";
 }
+
