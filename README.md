@@ -15,27 +15,27 @@
 
 <h2> List of Programs to work on </h2>
 <ul>
-	<li> Hello World </li>
-	<li> Searching Algorithms </li>
-		<li> Linked list </li>
-		<li> Stack </li>
-		<li> Queue </li>
-	<li> Traversal Algorithms </li>
-		<li> Linked list </lI>
-	<li> Sorting Algorithms </li>
-		<li> Linked list </li>
-		<li> Queue </li>
-	<li> Random number algorithms </li>
-	<li> Number reversal algorithms </li>
-	<lI> Fibonacci Series </lI>
-	<li> Is palindrome a Number </li>
-	<li> Is number a perfect square? </li>
-	<li> Is string a pangram </li>
-	<li> Find the factorial number </li>
-	<li> Find list of prime numbers. </li>
-	<li> Create an arrow using CSS </li>
-	<li> Convert roman numeral </li>
-	<li> Telephone number validator</li>
+	<li>  - [ ] Hello World </li>
+	<li> - [ ] Searching Algorithms </li>
+		<li> - [ ] Linked list </li>
+		<li> - [ ] Stack </li>
+		<li> - [ ] Queue </li>
+	<li> - [ ] Traversal Algorithms </li>
+		<li> - [ ] Linked list </lI>
+	<li> - [ ] Sorting Algorithms </li>
+		<li> - [ ] Linked list </li>
+		<li> - [ ] Queue </li>
+	<li> - [ ] Random number algorithms </li>
+	<li> - [ ] Number reversal algorithms </li>
+	<lI> - [ ] Fibonacci Series </lI>
+	<li> - [ ] Is palindrome a Number </li>
+	<li> - [ ] Is number a perfect square? </li>
+	<li> - [ ] Is string a pangram </li>
+	<li> - [ ] Find the factorial number </li>
+	<li> - [ ] Find list of prime numbers. </li>
+	<li> - [ ] Create an arrow using CSS </li>
+	<li> - [ ] Convert roman numeral </li>
+	<li> - [ ] Telephone number validator</li>
 
 </ul>
 
