@@ -63,3 +63,9 @@ Place: Singapore, SG
 About: I am currently a NUS undergraduate Year 2 Computer Science Student. My field of interest is towards Software Engineering and Mobile App Development.
 Programming Language: Java, C, HTML, CSS, Kotlin
 Email: josephlee050@gmail.com
+
+Name: [Manvi Gupta](https://github.com/Manvi07)<br/>
+Place: Punjab, India<br/>
+About: I am currently studying computer science and technology in my B.Tech at IIT Mandi. I am a passionate learner and explorer.<br/>
+Programming Language: C++, C, python, HTML, css<br/>
+Email: b17092@students.iitmandi.ac.in<br/>
