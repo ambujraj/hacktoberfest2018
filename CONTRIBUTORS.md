@@ -251,3 +251,10 @@ Place: Blagoevgrad, Simitli
 About: I'm a Student with a final year of High-School
 Programming Language: Java, C#, Android, Kotlin; (Markup languages: HTML, CSS)
 Email: sokratis12gr@gmail.com
+
+
+Name: [Parth Doshi](https://github.com/arsenal-2004)
+Place: Mumbai, India
+About: I am a third-year Computer Science student.
+Programming Language: Python, Java, C, HTML, CSS
+Email: studentparth18@gmail.com
