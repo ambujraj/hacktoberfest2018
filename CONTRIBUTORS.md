@@ -339,3 +339,8 @@ Place: Noida,India<br/>
 About: Btech student from JIIT<br/>
 Programming Languages: C,C++,python3<br/>
 email: ranjan.kushwaha456@gmail.com<br/>
+
+Name: [Pratyush Mishra](https://github.com/styxtheta)<br/>
+Place: Manipal, Karnataka<br/>
+About: Second year IT undergrad.<br/>
+Programming Languages: C++, Python<br/>
