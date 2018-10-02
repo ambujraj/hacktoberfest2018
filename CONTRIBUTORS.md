@@ -241,3 +241,8 @@ Email: yashkedia011@gmail.com
 
 
 
+Name: [Sneha Raina](https://github.com/SnehaR26)<br/>
+Place: Delhi, India<br/>
+About: I am a 3rd year ITE student<br/>
+Programming Languages: C, C++, Java, JavaScript, Python<br/>
+Email: rainasneha98@gmail.com
