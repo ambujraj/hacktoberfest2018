@@ -251,3 +251,9 @@ Place: Blagoevgrad, Simitli
 About: I'm a Student with a final year of High-School
 Programming Language: Java, C#, Android, Kotlin; (Markup languages: HTML, CSS)
 Email: sokratis12gr@gmail.com
+
+Name: Pratyush Tiwari
+Place: Delhi
+About: I am a 1st Year ECE student at USICT Delhi
+Programming Languages:  C++,C,HTML,CSS,Python;
+Email: pratyushtiwarimj@gmail.com
