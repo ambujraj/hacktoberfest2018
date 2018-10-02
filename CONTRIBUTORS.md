@@ -1,3 +1,8 @@
+Name: palak agarwal</br>
+Place: Jaipur, Rajasthan</br>
+About: I am 3rd yearComputer science student at poornima college of engineering, Jaipur. I am a front end developer.</br>
+Programming Languages: C, C++,python</br>
+
 
 Name: [Prateek Sharma](https://github.com/prateeksharma21)<br/>
 Place: Hamirpur, Himachal Pradesh<br/>
