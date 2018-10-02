@@ -134,3 +134,9 @@ Name: [John Braun](https://github.com/jhnbrn90)
 About: I am doing a PhD in organic chemistry and really like programming. Used Laravel to create some useful tools for our research group, amongst others a chemicals inventory, booking system and supporting information manager.
 Programming Language: PHP, JavaScript
 Email: jbraunnl@gmail.com
+
+
+Name: [Surly Z](https://github.com/surlymrz)
+About: Just a random dev for a number of years.
+Programming Language: C#
+Email: 4142115+surlymrz@users.noreply.github.com
