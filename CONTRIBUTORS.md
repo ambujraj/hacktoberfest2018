@@ -339,3 +339,8 @@ Place: Noida,India<br/>
 About: Btech student from JIIT<br/>
 Programming Languages: C,C++,python3<br/>
 email: ranjan.kushwaha456@gmail.com<br/>
+
+Name: [Swapnil Rustagi](https://github.com/Swapnilr1)<br/>
+Place: Gurgaon, Haryana, India<br/>
+About: 2nd year undergraduate student at IIT Mandi studying Computer Science and Engineering <br/>
+Programming Languages: C, C++, Basics of C#, Python <br/>
