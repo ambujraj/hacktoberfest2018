@@ -31,6 +31,16 @@ Programming Language: Cpp, C, R, PHP, HTML, CSS <br/>
 Email: vaibhavkhandelwal20@gmail.com
 
 
+Name: [Mohit Uniyal](https://github.com/mohit2016)  
+About: I am currently pursuing BSc (H) Computer Science from Delhi University, and i'm in final year. I have some experience in frontend development, and android app development. I have knowledge of MEAN stack. Also, I'm in the field of Machine Learning these days.
+Programming Language: C++, JavaScript, Java, Python<br/>
+Email: mohituniyal2010@gmail.com
+
+Name:[Michael Loftus](https://github.com/destoer/)
+About: currently a student studying cs and maths
+Programming Language: C, C++, Rust
+Email: michaelloftus2000@gmail.com
+
 Name: [Bernard Joseph Jean Bruno](https://github.com/theArtechnology)  
 About: Computer Science student as an undergraduate at Université des Mascareignes, Mauritius.
 Programming Language: C, C++, Javascript, Python <br/>
@@ -63,3 +73,4 @@ Place: Singapore, SG
 About: I am currently a NUS undergraduate Year 2 Computer Science Student. My field of interest is towards Software Engineering and Mobile App Development.
 Programming Language: Java, C, HTML, CSS, Kotlin
 Email: josephlee050@gmail.com
+
