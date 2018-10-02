@@ -1,4 +1,11 @@
 
+
+Name: [Aditya Agarwal](https://github.com/aditya81070)<br/>
+Place: Jaipur, Rajasthan<br/>
+About: I am 3rd year computer science student at Jecrc foundation, Jaipur. I am a front end developer.<br/>
+Programming Languages: C, C++, Python, Javascript  <br/>
+
+
 Name: [piyush Bafna](https://github.com/piba941)<br/>
 Place: Belgaum, Karnataka<br/>
 About: I am 2nd year CS student <br/>  
@@ -26,6 +33,15 @@ Place: New Delhi, Delhi<br/>
 About: I am 1st year computer science student at Department of computer science, Delhi University. I am a Full stack developer.<br/>  
 Programming Languages: C, C++, Java, Python, Javascript  <br/>
 Email: Adityaag.mca18.du@gmail.com
+
+
+
+Name: [Antonio Neto](https://github.com/aacgn)<br/>
+Place: Recife, Brazil<br/>
+About: I am 3rd year information systems student at Federal University of Pernambuco, Recife. I am a test engineer.<br/>
+Programming Languages: Python and Javascript  <br/>
+Email: aacgn@cin.ufpe.br
+
 
 Name: [Saish Mhatre](https://github.com/lambocrypt)</br>
 Place: Thane</br>
@@ -102,6 +118,7 @@ Place: Singapore, SG
 About: I am currently a NUS undergraduate Year 2 Computer Science Student. My field of interest is towards Software Engineering and Mobile App Development.
 Programming Language: Java, C, HTML, CSS, Kotlin
 Email: josephlee050@gmail.com
+
 
 Name: [Praveen Kumar Saini](https://github.com/praveen-me)
 Place: Dharamshala, India
