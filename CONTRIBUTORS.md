@@ -226,4 +226,11 @@ Place: Mandi, Himachal Pradesh </ br>
 About: I am 2nd year CSE student. </ br>
 Programming Language: C++, C, Python </ br>
 
+Name: [Yash Kedia](https://github.com/yash-kedia)<br/>
+Place: Noida<br/>
+About: I am a 2nd Year Computer Science student at JIIT Noida<br/>
+Programming Languages: C, Python,C++<br/>
+Email: yashkedia011@gmail.com
+
+
 
