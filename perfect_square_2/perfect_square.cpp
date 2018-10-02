@@ -8,7 +8,7 @@ int main(){
     cout<<"Enter the number : ";
     cin>>a;
     b = sqrt(a);
-    if(a == b*b ){
+    if(a == pow(b,2){
         cout<<"Perfect square.";
     }
     else{
