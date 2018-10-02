@@ -135,6 +135,11 @@ About: I am currently a NUS undergraduate Year 2 Computer Science Student. My fi
 Programming Language: Java, C, HTML, CSS, Kotlin
 Email: josephlee050@gmail.com
 
+Name: [Carlos Sánchez Páez](https://github.com/csp98)
+Place: Spain, ES
+About: I am an Informatics student at Universidad de Granada. Currently doing an Erasmus mobility at Budapest University of Technology and Economics. I am interested in deep learning & security.
+Programming Language: Java, C, C++, Python, Ruby & SQL.
+Email: karlossanpa@gmail.com
 
 Name: [Manvi Gupta](https://github.com/Manvi07)<br/>
 Place: Punjab, India<br/>
@@ -147,7 +152,7 @@ Name: [Praveen Kumar Saini](https://github.com/praveen-me)
 Place: Dharamshala, India
 About: I am currently learning Full Stack Development and also a Google Uadicty India Scholar.
 Pragramming Language : JavaScript, Python
-Email: praveenkrsaini0@gmail.com 
+Email: praveenkrsaini0@gmail.com
 
 
 Name: [Prajjwal Jha](https://github.com/JhaPrajjwal)<br/>
@@ -191,7 +196,7 @@ Email: viniciusmsdsantos@gmail.com
 
 
 Name: [Brian Phair] (http://brianphair.com)
-About: I'm have a B.S. degree in Chemistry and am about to finish up a B.S. degree in Computer Science. 
+About: I'm have a B.S. degree in Chemistry and am about to finish up a B.S. degree in Computer Science.
 Programming Language: C, C++, Python
 
 
@@ -210,9 +215,9 @@ Email: suvin@richmun.org
 
 Name: [Andres Langberg](https://github.com/alangberg)
 Place: Buenos Aires
-About: I am currently studying CS at UBA (Universidad de Buenos Aires). Also working as a software engineer at Mercado Libre. 
+About: I am currently studying CS at UBA (Universidad de Buenos Aires). Also working as a software engineer at Mercado Libre.
 Programming Language: Which programming language do you know
-Email: andreslangberg@gmail.com 
+Email: andreslangberg@gmail.com
 
 
 Name: [Bryan Speelman](https://github.com/crayphix)
@@ -270,3 +275,31 @@ Place: Chennai, India
 About: I am a software engineer at PayPal Chennai.
 Programming Language: Java, Java Script
 Email: isriramdesai@gmail.com
+
+Name: [Thomas Kulmbach](https://github.com/d0tch)
+Place: Copenhagen, Denmark
+About: I am a webdeveloper in a smaller danish company, creating software for Dentists
+Programming Language: PHP, SWIFT, JavaScript, Objective-C
+Email: Thomas@kulmba.ch
+
+Name: [Sneha Raina](https://github.com/SnehaR26)<br/>
+Place: Delhi, India<br/>
+About: I am a 3rd year IT student<br/>
+Programming Languages: C, C++, Java, JavaScript, Python<br/>
+Email: rainasneha98@gmail.com
+
+Name: [Rute Carrapato](https://github.com/RuteCarrapato)
+Place: Lisbon
+About: Junior Dev
+Programming Language: Java, JavaScript, HTML
+
+Name: [Mrigank Krishan](https://github.com/Mrigank11)
+Place: Indore
+About: Opensource Enthusiast
+Programming Language: Go
+
+Name: [Vipul Sharma](https://github.com/vsvipul)<br/>
+Place: Dharamshala, India<br/>
+About: I am a sophomore at IIT Mandi<br/>
+Programming Languages: C, C++, JavaScript<br/>
+Email: vsvipul555@gmail.com
