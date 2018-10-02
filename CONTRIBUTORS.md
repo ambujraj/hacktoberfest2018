@@ -3,6 +3,12 @@ Place: Jaipur, Rajasthan</br>
 About: I am 3rd yearComputer science student at poornima college of engineering, Jaipur. I am a front end developer.</br>
 Programming Languages: C, C++,python</br>
 
+Name: [Sahaj Bamba](https://github.com/Sahaj-Bamba)<br/>
+Place: Rudrapur , Uttarakhand<br/>
+About: I am a 2nd Year Computer Science student at MNNIT Allahabad<br/>
+Programming Languages: C, C++, java, javascript ,php<br/>
+Email: sahajbamba1999@gmail.com
+
 
 Name: [Prateek Sharma](https://github.com/prateeksharma21)<br/>
 Place: Hamirpur, Himachal Pradesh<br/>
