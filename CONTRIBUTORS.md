@@ -1,3 +1,11 @@
+
+Name: [piyush Bafna](https://github.com/piba941)<br/>
+Place: Belgaum, Karnataka<br/>
+About: I am 2nd year CS student <br/>  
+Programming Languages: C, C++  <br/>
+Email:piyushBafna051@gmail.com
+
+
 Name: [Abhishek Kansal](https://github.com/abhishall)<br/>
 Place: Delhi<br/>
 About: I am pursuing MCA at University of Delhi<br/>
@@ -94,6 +102,7 @@ Place: Singapore, SG
 About: I am currently a NUS undergraduate Year 2 Computer Science Student. My field of interest is towards Software Engineering and Mobile App Development.
 Programming Language: Java, C, HTML, CSS, Kotlin
 Email: josephlee050@gmail.com
+
 
 
 Name: [Sarthak Mittal](https://github.com/sam-mittal)  
