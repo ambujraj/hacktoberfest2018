@@ -340,8 +340,9 @@ About: Btech student from JIIT<br/>
 Programming Languages: C,C++,python3<br/>
 email: ranjan.kushwaha456@gmail.com<br/>
 
-Name: [Ayah Ramahi](https://github.com/AyahRamahi)
-Place: Amman,Jordan
-About: Computer Engineering Student.
-Programming Language: C++,Python,Java,C
-Email: N/A
+Name: [Ayah Ramahi](https://github.com/AyahRamahi)<br/>
+Place: Amman,Jordan<br/>
+About: Computer Engineering Student.<br/>
+Programming Language: C++,Python,Java,C<br/>
+Email: N/A<br/>
+<br/>
