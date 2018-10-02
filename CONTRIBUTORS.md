@@ -339,3 +339,8 @@ Place: Noida,India<br/>
 About: Btech student from JIIT<br/>
 Programming Languages: C,C++,python3<br/>
 email: ranjan.kushwaha456@gmail.com<br/>
+
+Name: Vikas Sharma
+Place: Pune, Maharashtra
+About: I am a 1st year Computer science student at bharti Vidyapeeth college of engineering, pune
+Programming Languages: C, C++,python
