@@ -282,3 +282,7 @@ Place: Lisbon
 About: Junior Dev
 Programming Language: Java, JavaScript, HTML
 
+Name: [Mrigank Krishan](https://github.com/Mrigank11)
+Place: Indore
+About: Opensource Enthusiast
+Programming Language: Go
