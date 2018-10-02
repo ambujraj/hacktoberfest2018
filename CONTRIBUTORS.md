@@ -222,8 +222,8 @@ Email: bryspeelm@gmail.com
 
 
 Name: [Siddharth Gupta](https://github.com/Siddharth-gupta99)
-Place: Mandi, Himachal Pradesh </ br>
-About: I am 2nd year CSE student. </ br>
-Programming Language: C++, C, Python </ br>
+Place: Mandi, Himachal Pradesh
+About: I am 2nd year CSE student.
+Programming Language: C++, C, Python
 
 
