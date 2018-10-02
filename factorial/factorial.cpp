@@ -14,8 +14,8 @@ int factorial (int n) // Defining a function factiorial which takes an integer a
 int main()
 {
     int n,result; 
-    cout<<"Enter the number whose factorial you want to find\n";
-    cin>>n;        //Takes input for the value n 
+    cout<<"Enter the number whose factorial you want to find: ";
+    cin>>n;//Takes input for the value n 
     result=factorial(n); //Calls factorial with argument n and assigns its return value to result
     cout<<"The result is \n";
     cout<<result;
