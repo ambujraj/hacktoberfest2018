@@ -160,13 +160,46 @@ Programming Language: PHP, JavaScript
 Email: jbraunnl@gmail.com
 
 
+Name: [FieryNein](https://github.com/jhnbrn90)
+Place: China
+About: I'm currently learning backendp programming
+Programming Language: Javascript, PHP, HTML
+Email: fierynein@gmail.com
+
+
+Name: [Vinícius Santos](https://github.com/viniciusmsds)  
+Place: Minas Gerais, Brazil
+About: I am a cience computer student at PUC Minas.
+Programming Language: Java, JavaScript, PHP, C, Python
+Email: viniciusmsdsantos@gmail.com
+
+
+Name: [Brian Phair] (http://brianphair.com)
+About: I'm have a B.S. degree in Chemistry and am about to finish up a B.S. degree in Computer Science. 
+Programming Language: C, C++, Python
+
+
 Name: [Surly Z](https://github.com/surlymrz)
 About: Just a random dev for a number of years.
 Programming Language: C#
 Email: 4142115+surlymrz@users.noreply.github.com
 
 
+
 Name: [suvink](https://github.com/suvink)
 About: School developer.
 Programming Language: Go, Java, PHP
 Email: suvin@richmun.org
+
+
+Name: [Andres Langberg](https://github.com/alangberg)
+Place: Buenos Aires
+About: I am currently studying CS at UBA (Universidad de Buenos Aires). Also working as a software engineer at Mercado Libre. 
+Programming Language: Which programming language do you know
+Email: andreslangberg@gmail.com 
+
+
+Name: [Bryan Speelman](https://github.com/crayphix)
+About: Java Developer
+Programming Language: Java
+Email: bryspeelm@gmail.com
