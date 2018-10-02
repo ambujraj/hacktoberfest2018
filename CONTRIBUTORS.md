@@ -160,6 +160,13 @@ Programming Language: PHP, JavaScript
 Email: jbraunnl@gmail.com
 
 
+Name: [FieryNein](https://github.com/jhnbrn90)
+Place: China
+About: I'm currently learning backendp programming
+Programming Language: Javascript, PHP, HTML
+Email: fierynein@gmail.com
+
+
 Name: [Vinícius Santos](https://github.com/viniciusmsds)  
 Place: Minas Gerais, Brazil
 About: I am a cience computer student at PUC Minas.
