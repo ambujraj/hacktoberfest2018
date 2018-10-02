@@ -3,25 +3,20 @@
 using namespace std;
 int main()
 {
-string str,st;
-int i,j,flag=1;
+string str;
 cin>>str;
-int l =str.size();
-for(i=0;i<l;i++)
-st[i]=str[i];
-for(i=l-1;i>=0;i--)
-{
-cout<<st[i];
-}
-for(j=0,i=l-1;i>=0,j<l;i--,j++ )
-if(str[j]!=st[i])
-{
-    flag=0;
-}
-if(flag==1)
-{
-    cout<<"\npalindrome";
-}
-else
-    cout<<"\nnot a palindrome";
+int l =str.length();
+int flag=0,j=l-1;
+  for(int i=0;i<=l/2;++i)
+  {
+    if(str[i]!=str[j--])
+    {
+      cout<<endl<<"Not a palindrome";
+      break;
+    }
+    else
+      flag++;
+  }
+  if(flag!=0)
+    cout<<endl<<"Palindrome";
 }
