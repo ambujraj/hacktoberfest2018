@@ -120,6 +120,13 @@ Programming Language: Java, C, HTML, CSS, Kotlin
 Email: josephlee050@gmail.com
 
 
+Name: [Manvi Gupta](https://github.com/Manvi07)<br/>
+Place: Punjab, India<br/>
+About: I am currently studying computer science and technology in my B.Tech at IIT Mandi. I am a passionate learner and explorer.<br/>
+Programming Language: C++, C, python, HTML, css<br/>
+Email: b17092@students.iitmandi.ac.in<br/>
+
+
 Name: [Praveen Kumar Saini](https://github.com/praveen-me)
 Place: Dharamshala, India
 About: I am currently learning Full Stack Development and also a Google Uadicty India Scholar.
@@ -151,3 +158,4 @@ Name: [John Braun](https://github.com/jhnbrn90)
 About: I am doing a PhD in organic chemistry and really like programming. Used Laravel to create some useful tools for our research group, amongst others a chemicals inventory, booking system and supporting information manager.
 Programming Language: PHP, JavaScript
 Email: jbraunnl@gmail.com
+
