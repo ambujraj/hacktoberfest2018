@@ -1,3 +1,9 @@
+Name: [piyush Bafna](https://github.com/piba941)<br/>
+Place: Belgaum, Karnataka<br/>
+About: I am 2nd year CS student <br/>  
+Programming Languages: C, C++  <br/>
+Email:piyushBafna051@gmail.com
+
 
 Name: [Aditya Agarwal](https://github.com/aditya81070)<br/>
 Place: Jaipur, Rajasthan<br/>
