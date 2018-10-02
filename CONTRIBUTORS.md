@@ -1,3 +1,8 @@
+Name: palak agarwal</br>
+Place: Jaipur, Rajasthan</br>
+About: I am 3rd yearComputer science student at poornima college of engineering, Jaipur. I am a front end developer.</br>
+Programming Languages: C, C++,python</br>
+
 
 Name: [Prateek Sharma](https://github.com/prateeksharma21)<br/>
 Place: Hamirpur, Himachal Pradesh<br/>
@@ -135,6 +140,11 @@ About: I am currently a NUS undergraduate Year 2 Computer Science Student. My fi
 Programming Language: Java, C, HTML, CSS, Kotlin
 Email: josephlee050@gmail.com
 
+Name: [Carlos Sánchez Páez](https://github.com/csp98)
+Place: Spain, ES
+About: I am an Informatics student at Universidad de Granada. Currently doing an Erasmus mobility at Budapest University of Technology and Economics. I am interested in deep learning & security.
+Programming Language: Java, C, C++, Python, Ruby & SQL.
+Email: karlossanpa@gmail.com
 
 Name: [Manvi Gupta](https://github.com/Manvi07)<br/>
 Place: Punjab, India<br/>
@@ -147,7 +157,7 @@ Name: [Praveen Kumar Saini](https://github.com/praveen-me)
 Place: Dharamshala, India
 About: I am currently learning Full Stack Development and also a Google Uadicty India Scholar.
 Pragramming Language : JavaScript, Python
-Email: praveenkrsaini0@gmail.com 
+Email: praveenkrsaini0@gmail.com
 
 
 Name: [Prajjwal Jha](https://github.com/JhaPrajjwal)<br/>
@@ -191,7 +201,7 @@ Email: viniciusmsdsantos@gmail.com
 
 
 Name: [Brian Phair] (http://brianphair.com)
-About: I'm have a B.S. degree in Chemistry and am about to finish up a B.S. degree in Computer Science. 
+About: I'm have a B.S. degree in Chemistry and am about to finish up a B.S. degree in Computer Science.
 Programming Language: C, C++, Python
 
 
@@ -210,9 +220,9 @@ Email: suvin@richmun.org
 
 Name: [Andres Langberg](https://github.com/alangberg)
 Place: Buenos Aires
-About: I am currently studying CS at UBA (Universidad de Buenos Aires). Also working as a software engineer at Mercado Libre. 
+About: I am currently studying CS at UBA (Universidad de Buenos Aires). Also working as a software engineer at Mercado Libre.
 Programming Language: Which programming language do you know
-Email: andreslangberg@gmail.com 
+Email: andreslangberg@gmail.com
 
 
 Name: [Bryan Speelman](https://github.com/crayphix)
@@ -252,8 +262,88 @@ About: I'm a Student with a final year of High-School
 Programming Language: Java, C#, Android, Kotlin; (Markup languages: HTML, CSS)
 Email: sokratis12gr@gmail.com
 
+
 Name:[Siddhant Jain](https://github.com/sjsid9)<br/>
 Place:Delhi,India<br/>
 About:A Competitive Programmer,Android Developer,Open Source Developer<br/>
 Programming Language:Java,C,SQL,HTML,CSS,Kotlin,C++,Android<br/>
 Email:sjsid9@gmail.com
+
+Name: Pratyush Tiwari
+Place: Delhi
+About: I am a 1st Year ECE student at USICT Delhi
+Programming Languages:  C++,C,HTML,CSS,Python;
+Email: pratyushtiwarimj@gmail.com
+
+
+Name: [Parth Doshi](https://github.com/arsenal-2004)
+Place: Mumbai, India
+About: I am a third-year Computer Science student.
+Programming Language: Python, Java, C, HTML, CSS
+Email: studentparth18@gmail.com
+
+Name: [Sriram Desai](https://github.com/desai10)
+Place: Chennai, India
+About: I am a software engineer at PayPal Chennai.
+Programming Language: Java, Java Script
+Email: isriramdesai@gmail.com
+
+Name: [Thomas Kulmbach](https://github.com/d0tch)
+Place: Copenhagen, Denmark
+About: I am a webdeveloper in a smaller danish company, creating software for Dentists
+Programming Language: PHP, SWIFT, JavaScript, Objective-C
+Email: Thomas@kulmba.ch
+
+Name: [Sneha Raina](https://github.com/SnehaR26)<br/>
+Place: Delhi, India<br/>
+About: I am a 3rd year IT student<br/>
+Programming Languages: C, C++, Java, JavaScript, Python<br/>
+Email: rainasneha98@gmail.com
+
+Name: [Rute Carrapato](https://github.com/RuteCarrapato)
+Place: Lisbon
+About: Junior Dev
+Programming Language: Java, JavaScript, HTML
+
+Name: [Mrigank Krishan](https://github.com/Mrigank11)
+Place: Indore
+About: Opensource Enthusiast
+Programming Language: Go
+
+Name: [Vipul Sharma](https://github.com/vsvipul)<br/>
+Place: Dharamshala, India<br/>
+About: I am a sophomore at IIT Mandi<br/>
+Programming Languages: C, C++, JavaScript<br/>
+Email: vsvipul555@gmail.com
+
+Name: [Samyak](https://github.com/samyak-sopho)
+Place: Allahabad
+About: Will do anything for free shirt
+Programming Language: C++, JS, Java
+
+
+Name: [Marlene Oliveira](https://github.com/m-oliv)
+Place: Lisbon, Portugal
+About: Software Engineer
+Programming Language: Java, C, C#, Python, JavaScript, HTML, CSS
+
+
+Name: [Tsaruk Alex](https://github.com/WildTiger404)<br/>
+Place: Minsk, Belarus<br/>
+About: I am a 3rd year stundent. I like traveling and events like this one<br/>
+Programming Languages: C#, C/C++, PHP<br/>
+Email: tsarukAlex404@gmail.com
+
+Name: [Priyanka Rajput](https://github.com/Priyankarajput1)<br/>
+Place: Noida,Uttar Pradesh,India<br/>
+About: I am a 3rd Year Computer Science student at JSSATE Noida<br/>
+Programming Languages: C, Java<br/>
+Email: priyankarajput3010@gmail.com
+
+
+Name: [Siddhant MAnglik](https://github.com/vaish-456)<br/>
+Place: Noida,India<br/>
+About: Btech student from JIIT<br/>
+Programming Languages: C,C++,python3<br/>
+email: ranjan.kushwaha456@gmail.com<br/>
+

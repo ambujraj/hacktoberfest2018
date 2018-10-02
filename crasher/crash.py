@@ -1,2 +1,2 @@
-while(true):
+while(True):
   print("Crashed!!   Crashed!!   Crashed!!")
