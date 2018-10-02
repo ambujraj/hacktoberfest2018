@@ -257,3 +257,10 @@ Place: Delhi
 About: I am a 1st Year ECE student at USICT Delhi
 Programming Languages:  C++,C,HTML,CSS,Python;
 Email: pratyushtiwarimj@gmail.com
+
+
+Name: [Parth Doshi](https://github.com/arsenal-2004)
+Place: Mumbai, India
+About: I am a third-year Computer Science student.
+Programming Language: Python, Java, C, HTML, CSS
+Email: studentparth18@gmail.com
