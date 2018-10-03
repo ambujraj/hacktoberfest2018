@@ -521,6 +521,13 @@ About: Second year IT undergrad.<br/>
 Programming Languages: C++, Python<br/>
 
 
+Name: [Andrew Miracle](https://github.com/koolamusic)
+Place: Lagos, Nigeria
+About: Developer Intern at Learnfactory
+Programming Languages: Javascript, Python
+
+
+
 
 Name: [Rohan Chacko](https://github.com/RohanChacko)<br/>
 Place: Gachibowli, Hyderabad<br/>
