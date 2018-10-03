@@ -492,6 +492,12 @@ Place: Manipal, Karnataka<br/>
 About: Second year IT undergrad.<br/>
 Programming Languages: C++, Python<br/>
 
+
+Name: [Harrison Mitchell](https://github.com/harrison-mitchell)
+Place: Sydney
+About: IT undergrad
+Programming Language: Python
+
 Name: [Anmol Goel](https://github.com/agoel00) <br/>
 Place: New Delhi, India <br/>
 About: Computer Science BTech student from GGSIPU. I'm currently interested in Web Development and Machine Learning. <br />
