@@ -356,3 +356,8 @@ Name: [Pratyush Mishra](https://github.com/styxtheta)<br/>
 Place: Manipal, Karnataka<br/>
 About: Second year IT undergrad.<br/>
 Programming Languages: C++, Python<br/>
+
+Name: [Ewerton Queiroz](https://github.com/EwertonQueiroz)<br/>
+Place: Pernambuco, Brazil<br/>
+About: Undergraduate student at UFRPE<br/>
+Programming Languages: C, Python, Java, Perl, Haskell<br/>
