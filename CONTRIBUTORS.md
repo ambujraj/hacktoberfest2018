@@ -35,6 +35,10 @@ About: I am a 1st Year Computer Science student at NIT Hamirpur<br/>
 Programming Languages: C, Python<br/>
 Email: sharma7890prateek@outlook.com
 
+Name: Tanish Lad
+Place: Hyderabad, Telangana
+Email: ladtanishnitin@yahoo.co.in
+
 Name: Aishwarya Bansal</br>
 Place: Jaipur, Rajasthan</br>
 About: I am 4th year Electronics and communication student at Jecrc foundation, Jaipur. I am a front end developer.</br>
