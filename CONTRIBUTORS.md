@@ -521,6 +521,11 @@ About: Second year IT undergrad.<br/>
 Programming Languages: C++, Python<br/>
 
 
+Name: [Gaurav Aggarwal](https://github.com/guvi007)<br/>
+Place: Delhi, India<br/>
+About: I am a Second year IT undergrad.<br/>
+Programming Languages: C++, Python, Java<br/>
+
 Name: [Andrew Miracle](https://github.com/koolamusic)
 Place: Lagos, Nigeria
 About: Developer Intern at Learnfactory
