@@ -507,6 +507,13 @@ About: Second year IT undergrad.<br/>
 Programming Languages: C++, Python<br/>
 
 
+
+Name: [Rohan Chacko](https://github.com/RohanChacko)<br/>
+Place: Gachibowli, Hyderabad<br/>
+About: Second Year CS Undergrad.<br/>
+Programming Languages: C++, Python, JS, HTML, CSS<br/>
+Email: rohanchacko007@gmail.com
+
 Name: [Ewerton Queiroz](https://github.com/EwertonQueiroz)<br/>
 Place: Pernambuco, Brazil<br/>
 About: Undergraduate student at UFRPE<br/>
@@ -523,4 +530,5 @@ Place: New Delhi, India <br/>
 About: Computer Science BTech student from GGSIPU. I'm currently interested in Web Development and Machine Learning. <br />
 Programming Languages: C, C++, Python, JavaScript<br/>
 Email: agoel00@gmail.com<br/>
+
 
