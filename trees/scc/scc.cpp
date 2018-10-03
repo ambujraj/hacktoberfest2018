@@ -1,7 +1,3 @@
-//SCC: Strongly Connected Components
-/*We can find all strongly connected components in O(V+E) time using Kosaraju’s algorithm.
-A directed graph is strongly connected if there is a path between all pairs of vertices in the graph
-can also be done by johnson algorithm and tarzan algorithm*/
 
 #include<bits/stdc++.h>
 using namespace std;
