@@ -394,6 +394,13 @@ Programming Languages: C,C++,python3<br/>
 email: ranjan.kushwaha456@gmail.com<br/>
 
 
+Name: [Danilo Sambugaro](https://github.com/dsambugaro)<br/>
+Place: Paraná, Brazil<br/>
+About: I'm 3nd year Cumputer Science student <br/>
+Programming Languages: C, Python, JS<br/>
+Email: dan.sambugaro@gmail.com
+
+
 Name: [José da Costa](https://github.com/dacostajose)<br/>
 Place: Natal<br/>
 About: Dev, founding partner in vond.me and Tech Student in UFRN<br/>
