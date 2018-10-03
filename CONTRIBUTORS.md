@@ -77,6 +77,11 @@ Place: Jaipur, Rajasthan</br>
 About: I am 4th year Electronics and communication student at Jecrc foundation, Jaipur. I am a front end developer.</br>
 Programming Languages: C, C++, Javascript </br>
 
+Name: Tushar Tyagi</br>
+Place: Mandi, India</br>
+About: I am 2nd year Computer Science student at IIT Mandi, Mandi.</br>
+Programming Languages: C, C++</br>
+
 
 Name: [Aditya Agarwal](https://github.com/aditya81070)<br/>
 Place: Jaipur, Rajasthan<br/>
