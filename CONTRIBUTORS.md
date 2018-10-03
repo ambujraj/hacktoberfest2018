@@ -356,3 +356,11 @@ Name: [Pratyush Mishra](https://github.com/styxtheta)<br/>
 Place: Manipal, Karnataka<br/>
 About: Second year IT undergrad.<br/>
 Programming Languages: C++, Python<br/>
+
+
+Name: [Andrew Miracle](https://github.com/koolamusic)
+Place: Lagos, Nigeria
+About: Developer Intern at Learnfactory
+Programming Languages: Javascript, Python
+
+
