@@ -356,3 +356,8 @@ Name: [Pratyush Mishra](https://github.com/styxtheta)<br/>
 Place: Manipal, Karnataka<br/>
 About: Second year IT undergrad.<br/>
 Programming Languages: C++, Python<br/>
+
+Name: [Bence Mózer](https://github.com/Majzer)<br/>
+Place: Hévíz, Hungary<br/>
+About: Final year in porogramming school.<br/>
+Programming Languages: Java, JavaScript, PHP, CSS<br/>
