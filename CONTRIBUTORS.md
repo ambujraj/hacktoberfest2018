@@ -1,3 +1,8 @@
+#### Name: [sn149](https://github.com/sn149)
+- Place: Sai Gon, VN
+- About: i'm newbie
+- Programming Language: PHP, Python
+
 Name: https://github.com/D3D0X<br>
 Place: Dronten<br>
 About: Dutch Linux engineer<br>
