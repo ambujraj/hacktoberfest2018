@@ -356,3 +356,10 @@ Name: [Pratyush Mishra](https://github.com/styxtheta)<br/>
 Place: Manipal, Karnataka<br/>
 About: Second year IT undergrad.<br/>
 Programming Languages: C++, Python<br/>
+
+
+Name: [Rohan Chacko](https://github.com/RohanChacko)<br/>
+Place: Gachibowli, Hyderabad<br/>
+About: Second Year CS Undergrad.<br/>
+Programming Languages: C++, Python, JS, HTML, CSS<br/>
+Email: rohanchacko007@gmail.com
