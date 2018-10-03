@@ -598,3 +598,10 @@ Place: New Delhi, India <br/>
 About: Computer Science BTech student from GGSIPU. I'm currently interested in Web Development and Machine Learning. <br />
 Programming Languages: C, C++, Python, JavaScript<br/>
 Email: agoel00@gmail.com<br/>
+
+
+Name: [Paul Williams](https://github.com/WilliamsPaulM)
+Place: USA
+About: Bash Enthusiast
+Programming Language: Bash
+
