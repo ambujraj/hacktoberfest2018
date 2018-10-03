@@ -356,3 +356,8 @@ Name: [Pratyush Mishra](https://github.com/styxtheta)<br/>
 Place: Manipal, Karnataka<br/>
 About: Second year IT undergrad.<br/>
 Programming Languages: C++, Python<br/>
+
+Name: [Muhammad Ridwan Fathin](https://github.com/ridwanfathin)<br/>
+Place: Bandung, Indonesia<br/>
+About: Fourth year IT undergrad.<br/>
+Programming Languages: Go, Java, C, C++, Python, Pascal, Javascript, etc.<br/>
