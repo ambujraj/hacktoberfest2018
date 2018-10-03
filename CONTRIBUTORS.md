@@ -9,6 +9,11 @@ Place: Jaipur, Rajasthan</br>
 About: I am 3rd yearComputer science student at poornima college of engineering, Jaipur. I am a front end developer.</br>
 Programming Languages: C, C++,python</br>
 
+Name: Pritam Malik</br>
+Place: Shakarpur, New Delhi</br>
+About: Software Developer</br>
+Programming Languages: C, C++,python,HTML,CSS,JAVASCRIPT</br>
+
 Name: Pradyuman Dixit</br>
 Place: Delft, Netherlands</br>
 About: I am Bachelor's Computer Science and Engineering student at Delft University of Technology (TU Delft) </br>
