@@ -521,6 +521,14 @@ About: Second year IT undergrad.<br/>
 Programming Languages: C++, Python<br/>
 
 
+Name: [Ronit Maitra](https://github.com/zon2)
+Place: Jalpaiguri , West Bengal.
+About: 3rd year Computer science and engineering.
+Programming Languages: C,Java ,  Ruby ,C++, Python
+
+
+
+
 Name: [Muhammad Ridwan Fathin](https://github.com/ridwanfathin)<br/>
 Place: Bandung, Indonesia<br/>
 About: Fourth year IT undergrad.<br/>
@@ -562,3 +570,4 @@ Place: New Delhi, India <br/>
 About: Computer Science BTech student from GGSIPU. I'm currently interested in Web Development and Machine Learning. <br />
 Programming Languages: C, C++, Python, JavaScript<br/>
 Email: agoel00@gmail.com<br/>
+
