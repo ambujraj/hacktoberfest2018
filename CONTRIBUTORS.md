@@ -1,4 +1,4 @@
-
+﻿
 Name: [Mohit Routela](https://github.com/mohitroutela)<br/>
 Place: Mumbai<br/>
 About: I am a computer engineer and loves coding.<br/>
@@ -598,3 +598,9 @@ Place: New Delhi, India <br/>
 About: Computer Science BTech student from GGSIPU. I'm currently interested in Web Development and Machine Learning. <br />
 Programming Languages: C, C++, Python, JavaScript<br/>
 Email: agoel00@gmail.com<br/>
+
+Name: [Mahardika Krisna Ihsani](https://github.com/codefire53)<br/>
+Place: Depok, Indonesia <br/>
+About: CS Undergrad Student at University of Indonesia <br/>
+Programming Languages: C++, Python, R <br/>
+Email: krisnaihsani@gmail.com <br/>
