@@ -393,6 +393,11 @@ About: Btech student from JIIT<br/>
 Programming Languages: C,C++,python3<br/>
 email: ranjan.kushwaha456@gmail.com<br/>
 
+Name: [Jessé Souza](https://github.com/jessesouza21)<br/>
+Place: Campina Grande, Brazil<br/>
+About: Student of Computer Science of Federal University of Campina Grande, UFCG <br/>
+Programming Languages: C++, Java, python<br/>
+email: jesse.neto@ccc.ufcg.edu.br<br/>
 
 Name: [Lucas de Medeiros](https://github.com/LukeHxH)<br/>
 Place: Campina Grane, Brazil <br/>
