@@ -1,7 +1,19 @@
+Name: https://github.com/D3D0X<br>
+Place: Dronten<br>
+About: Dutch Linux engineer<br>
+Programming Language: python<br>
+Email: johanvt@live.nl<br>
+
 Name: palak agarwal</br>
 Place: Jaipur, Rajasthan</br>
 About: I am 3rd yearComputer science student at poornima college of engineering, Jaipur. I am a front end developer.</br>
 Programming Languages: C, C++,python</br>
+
+Name: Pradyuman Dixit</br>
+Place: Delft, Netherlands</br>
+About: I am Bachelor's Computer Science and Engineering student at Delft University of Technology (TU Delft) </br>
+Fine me @https://github.com/Pradyuman7 </br>
+Programming Languages: C, C++, Java</br>
 
 
 Name: [Prateek Sharma](https://github.com/prateeksharma21)<br/>
@@ -345,3 +357,8 @@ Place: Goiânia, Goiás<br/>
 About: I am a 3rd Year Computer Science student at UFG (Universidade Federal de Goiás)<br/>
 Programming Languages: C, C++, Python, Shell Script<br/>
 Email: acquila.santos@gmail.com
+
+Name: [Pratyush Mishra](https://github.com/styxtheta)<br/>
+Place: Manipal, Karnataka<br/>
+About: Second year IT undergrad.<br/>
+Programming Languages: C++, Python<br/>
