@@ -372,6 +372,14 @@ About: Btech student from JIIT<br/>
 Programming Languages: C,C++,python3<br/>
 email: ranjan.kushwaha456@gmail.com<br/>
 
+
+
+Name: [B Siddhartha](https://github.com/bsidio)<br/>
+Place: Bangalore,India<br/>
+About: Btech student from RVCE<br/>
+Programming Languages: C,C++,html, JS<br/>
+email: mail@bsid.io<br/>
+
 Name: Vikas Sharma
 Place: Pune, Maharashtra
 About: I am a 1st year Computer science student at bharti Vidyapeeth college of engineering, pune
@@ -414,5 +422,3 @@ Place: New Delhi, India <br/>
 About: Computer Science BTech student from GGSIPU. I'm currently interested in Web Development and Machine Learning. <br />
 Programming Languages: C, C++, Python, JavaScript<br/>
 Email: agoel00@gmail.com<br/>
-
-
