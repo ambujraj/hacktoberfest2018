@@ -2,12 +2,13 @@
 using namespace std;
 void swap(int &a, int &b)
 {
-    a^=b;
-    b^=a;
-    a^=b; 
-    return;
+    int t;
+    t=a;
+    a=b;
+    b=t;
 }
-int main () {
+int main () 
+{
    int x = 100;
    int y = 200;
  
