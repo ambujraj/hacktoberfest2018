@@ -1,11 +1,12 @@
-function reverse_number(n)
-{
-  var rev = 0, rem;
-  while (n > 0)
-  {
-    rem = n % 10;
-    rev = rev * 10 + rem ;
-    n = Math.floor(n/10);
-  }
-  return n;
+function reverse_number(n){
+  const a = n.toString().split('').reverse().join('');
+  return parseInt(a) * Math.sign(n);
 }
+
+// STEPS EXPLAINED
+// Make the number a string
+// Convert the String to an Array and Reverse the Array
+// Convert the Reversed Array to a String
+// Make the String a number
+// Apply the Sign using Math.sign for +ve or -ve integers
+
