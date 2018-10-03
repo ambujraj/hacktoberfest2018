@@ -4,26 +4,35 @@
 using namespace std;
 
 int main()
-{ int array[50], i, j, temp;
-  cout<<"Input the number of array elements";
+{ 
+  int array[100], i, j, temp;
+ 
+  cout<<"Input the number of array elements: ";
   cin>>n;
-  cout<<"Input the array elements";
-  for(i=0; i<n; i++) 
-    cin>>array[i];
-  
-  for(i=0; i<n-1; i++)
-  { for(j=0; j<n-i-1; j++)
-    { if(array[j] > array[j+1]
-      { temp = array[j+1];
-        array[j+1] = array[j];
-        array[j] = temp;
-      }
+ 
+  cout<<"Input the array elements: ";
+  for(i=0; i<n; i++) //Input elements of the array
+    {                               
+      cin>>array[i];
+      cout<<" ";
     }
-  }
+ 
+  for(i=0; i<n; i++)
+    { 
+      for(j=0; j<n-i-1; j++)
+          {
+            if(array[j] > array[j+1] 
+                { 
+                   temp = array[j+1];.  //Swaps the elements
+                   array[j+1] = array[j];
+                   array[j] = temp;
+                }
+          }
+    }
   
-  cout<<"The sorted array is";
+  cout<<"The sorted array is: ";
   for(i=0; i<n; i++) 
-    cout<<array[i]<<" ";
+    cout<<array[i]<<" "; //Displays the sorted array
   
   return 0;
 }  
