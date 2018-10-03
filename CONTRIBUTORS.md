@@ -339,3 +339,10 @@ Place: Noida,India<br/>
 About: Btech student from JIIT<br/>
 Programming Languages: C,C++,python3<br/>
 email: ranjan.kushwaha456@gmail.com<br/>
+
+
+Name: [Kartik Singh](https://github.com/Kartik212112)<br/>
+Place: Patna,India<br/>
+About: Btech student from IITP<br/>
+Programming Languages: C++<br/>
+email: kartiktolia21@gmail.com <br/>
