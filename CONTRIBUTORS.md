@@ -356,3 +356,10 @@ Name: [Pratyush Mishra](https://github.com/styxtheta)<br/>
 Place: Manipal, Karnataka<br/>
 About: Second year IT undergrad.<br/>
 Programming Languages: C++, Python<br/>
+
+Name: [Ronit Maitra](https://github.com/zon2)
+Place: Jalpaiguri , West Bengal.
+About: 3rd year Computer science and engineering.
+Programming Languages: C,Java ,  Ruby ,C++, Python
+
+
