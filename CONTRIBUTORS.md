@@ -393,6 +393,13 @@ About: Btech student from JIIT<br/>
 Programming Languages: C,C++,python3<br/>
 email: ranjan.kushwaha456@gmail.com<br/>
 
+
+Name: [José da Costa](https://github.com/dacostajose)<br/>
+Place: Natal<br/>
+About: Dev, founding partner in vond.me and Tech Student in UFRN<br/>
+Programming Language: C, html, jsvascript, css, python 2.7 <br/>
+Email: dacostajosefilho@gmail.com<br/>
+
 Name: [Jessé Souza](https://github.com/jessesouza21)<br/>
 Place: Campina Grande, Brazil<br/>
 About: Student of Computer Science of Federal University of Campina Grande, UFCG <br/>
