@@ -521,6 +521,12 @@ About: Second year IT undergrad.<br/>
 Programming Languages: C++, Python<br/>
 
 
+Name: [Shivani Gupta](https://github.com/Gshivani1234)<br/>
+Place: Noida, Uttar Pradesh<br/>
+About: Third year CSE,undergraduate Student<br/>
+Programming Languages: C,Python<br/>
+
+
 Name: [Bence Mózer](https://github.com/Majzer)<br/>
 Place: Hévíz, Hungary<br/>
 About: Final year in porogramming school.<br/>
@@ -576,3 +582,4 @@ Place: New Delhi, India <br/>
 About: Computer Science BTech student from GGSIPU. I'm currently interested in Web Development and Machine Learning. <br />
 Programming Languages: C, C++, Python, JavaScript<br/>
 Email: agoel00@gmail.com<br/>
+
