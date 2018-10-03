@@ -356,3 +356,8 @@ Name: [Pratyush Mishra](https://github.com/styxtheta)<br/>
 Place: Manipal, Karnataka<br/>
 About: Second year IT undergrad.<br/>
 Programming Languages: C++, Python<br/>
+
+Name: [Ahmad Javed](https://github.com/ahmadjaved97)<br/>
+Place: New Delhi, Delhi<br/>
+About: Third year Mathematics and Computing Undergrad at DTU.<br/>
+Programming Languages: C++, C, Python<br/>
