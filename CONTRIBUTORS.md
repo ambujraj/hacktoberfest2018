@@ -3,6 +3,12 @@ Place: Jaipur, Rajasthan</br>
 About: I am 3rd yearComputer science student at poornima college of engineering, Jaipur. I am a front end developer.</br>
 Programming Languages: C, C++,python</br>
 
+Name: Pradyuman Dixit</br>
+Place: Delft, Netherlands</br>
+About: I am Bachelor's Computer Science and Engineering student at Delft University of Technology (TU Delft) </br>
+Fine me @https://github.com/Pradyuman7 </br>
+Programming Languages: C, C++, Java</br>
+
 
 Name: [Prateek Sharma](https://github.com/prateeksharma21)<br/>
 Place: Hamirpur, Himachal Pradesh<br/>
