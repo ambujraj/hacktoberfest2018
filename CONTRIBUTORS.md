@@ -356,3 +356,8 @@ Name: [Pratyush Mishra](https://github.com/styxtheta)<br/>
 Place: Manipal, Karnataka<br/>
 About: Second year IT undergrad.<br/>
 Programming Languages: C++, Python<br/>
+
+Name: [Shivani Gupta](https://github.com/Gshivani1234)<br/>
+Place: Noida, Uttar Pradesh<br/>
+About: Third year CSE,undergraduate Student<br/>
+Programming Languages: C,Python<br/>
