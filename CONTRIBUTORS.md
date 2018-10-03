@@ -339,3 +339,9 @@ Place: Noida,India<br/>
 About: Btech student from JIIT<br/>
 Programming Languages: C,C++,python3<br/>
 email: ranjan.kushwaha456@gmail.com<br/>
+
+Name: [Lucas de Medeiros](https://github.com/LukeHxH)<br/>
+Place: Campina Grane, Brazil <br/>
+About: Computer Science student at Federal University of Campina Grande (UFCG).<br/>
+Programming Languages: C/C++, Java, Python, PHP, Haskell<br/>
+Email: lucasmed812@gmail.com<br/>
