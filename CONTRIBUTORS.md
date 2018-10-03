@@ -1,7 +1,14 @@
+
+Name: [Mohit Routela](https://github.com/mohitroutela)<br/>
+Place: Mumbai<br/>
+About: I am a computer engineer and loves coding.<br/>
+Programming Language:C,C++,Python<br/>
+
 Name: [sn149](https://github.com/sn149)
 Place: Sai Gon, VN
 About: i'm newbie
 Programming Language: PHP, Python
+
 
 Name: https://github.com/D3D0X<br>
 Place: Dronten<br>
