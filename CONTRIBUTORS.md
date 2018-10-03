@@ -521,6 +521,12 @@ About: Second year IT undergrad.<br/>
 Programming Languages: C++, Python<br/>
 
 
+Name: [Bence Mózer](https://github.com/Majzer)<br/>
+Place: Hévíz, Hungary<br/>
+About: Final year in porogramming school.<br/>
+Programming Languages: Java, JavaScript, PHP, CSS<br/>
+
+
 Name: [Ronit Maitra](https://github.com/zon2)
 Place: Jalpaiguri , West Bengal.
 About: 3rd year Computer science and engineering.
@@ -570,4 +576,3 @@ Place: New Delhi, India <br/>
 About: Computer Science BTech student from GGSIPU. I'm currently interested in Web Development and Machine Learning. <br />
 Programming Languages: C, C++, Python, JavaScript<br/>
 Email: agoel00@gmail.com<br/>
-
