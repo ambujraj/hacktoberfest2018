@@ -356,3 +356,8 @@ Name: [Pratyush Mishra](https://github.com/styxtheta)<br/>
 Place: Manipal, Karnataka<br/>
 About: Second year IT undergrad.<br/>
 Programming Languages: C++, Python<br/>
+
+Name: [Harrison Mitchell](https://github.com/harrison-mitchell)
+Place: Sydney
+About: IT undergrad
+Programming Language: Python
