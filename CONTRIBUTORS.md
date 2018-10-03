@@ -22,7 +22,7 @@ About: I am a 1st Year Computer Science student at NIT Hamirpur<br/>
 Programming Languages: C, Python<br/>
 Email: sharma7890prateek@outlook.com
 
-Name:Kshitij Bithel
+Name:[Kshitij Bithel](https://github.com/KSHITIJBITHEL)
 Place: roorkee,India
 About: a computer enthusiast,1st yr IIT Roorkee EE student
 
