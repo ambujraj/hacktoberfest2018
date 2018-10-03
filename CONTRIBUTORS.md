@@ -134,6 +134,12 @@ About: Software Engineer from Venezuela, learning new stuff everyday, I like Cyb
 Programming Language: JavaScript, PHP, Python<br/>
 Email: isaacyagi@gmail.com
 
+Name: [Jay Vasant](https://github.com/jayavasantjv)<br/>
+Place: Bhopal, India<br/>
+About: Engineering student who enjoys programming :D <br/>
+Programming Language: Java, Python<br/>
+Email: jayvasantjv@gmail.com
+
 Name: [Siffrein Sigy](https://github.com/siffreinsg)<br/>
 Place: Paris, France<br/>
 About: I'm a student. I love High Tech and I found hobby in programming :D <br/>
