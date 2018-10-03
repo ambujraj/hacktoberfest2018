@@ -352,6 +352,13 @@ About: Btech student from JIIT<br/>
 Programming Languages: C,C++,python3<br/>
 email: ranjan.kushwaha456@gmail.com<br/>
 
+
+Name: [Swapnil Rustagi](https://github.com/Swapnilr1)<br/>
+Place: Gurgaon, Haryana, India<br/>
+About: 2nd year undergraduate student at IIT Mandi studying Computer Science and Engineering <br/>
+Programming Languages: C, C++, Basics of C#, Python <br/>
+
+
 Name: [Acquila Santos](https://github.com/DJAcquila)<br/>
 Place: Goiânia, Goiás<br/>
 About: I am a 3rd Year Computer Science student at UFG (Universidade Federal de Goiás)<br/>
