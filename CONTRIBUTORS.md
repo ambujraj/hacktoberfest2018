@@ -356,3 +356,9 @@ Name: [Pratyush Mishra](https://github.com/styxtheta)<br/>
 Place: Manipal, Karnataka<br/>
 About: Second year IT undergrad.<br/>
 Programming Languages: C++, Python<br/>
+
+Name: [gdim](https://github.com/gdim7)
+Place: Athens, Greece
+About: Student
+Programming Languages: C, Java
+Email: cod2asd@hotmail.com
