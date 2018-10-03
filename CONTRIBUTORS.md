@@ -526,6 +526,11 @@ About: Second year IT undergrad.<br/>
 Programming Languages: C++, Python<br/>
 
 
+Name: [Ahmad Javed](https://github.com/ahmadjaved97)<br/>
+Place: New Delhi, Delhi<br/>
+About: Third year Mathematics and Computing Undergrad at DTU.<br/>
+Programming Languages: C++, C, Python<br/>
+
 Name: [Anirudh Jwala](https://github.com/anirudh-jwala)<br/>
 Place: Hyderabad, Telangana<br/>
 About: CS Student at CMRIT, Hyd. I'm an Android & Python Developer.<br/>
@@ -593,4 +598,3 @@ Place: New Delhi, India <br/>
 About: Computer Science BTech student from GGSIPU. I'm currently interested in Web Development and Machine Learning. <br />
 Programming Languages: C, C++, Python, JavaScript<br/>
 Email: agoel00@gmail.com<br/>
-
