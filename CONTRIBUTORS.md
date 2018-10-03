@@ -365,12 +365,18 @@ About: I am a 3rd Year Computer Science student at JSSATE Noida<br/>
 Programming Languages: C, Java<br/>
 Email: priyankarajput3010@gmail.com
 
-
 Name: [Siddhant MAnglik](https://github.com/vaish-456)<br/>
 Place: Noida,India<br/>
 About: Btech student from JIIT<br/>
 Programming Languages: C,C++,python3<br/>
 email: ranjan.kushwaha456@gmail.com<br/>
+
+
+Name: [Kasim Hussain](https://github.com/kasiimh1) </br>
+Place: Manchester, United Kingdom</br>
+About: Currently stuyding Computer Science BSc at MMU </br>
+Programming Languages: C#, C, Java, JS, CSS3, HTML5, PHP, SQL, mySQL, Mips ASM,</br>
+
 
 
 
@@ -422,3 +428,4 @@ Place: New Delhi, India <br/>
 About: Computer Science BTech student from GGSIPU. I'm currently interested in Web Development and Machine Learning. <br />
 Programming Languages: C, C++, Python, JavaScript<br/>
 Email: agoel00@gmail.com<br/>
+
