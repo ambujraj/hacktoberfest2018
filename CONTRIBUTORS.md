@@ -15,6 +15,12 @@ About: I am 3rd yearComputer science student at poornima college of engineering,
 Programming Languages: C, C++,python</br>
 
 
+Name: Pritam Malik</br>
+Place: Shakarpur, New Delhi</br>
+About: Software Developer</br>
+Programming Languages: C, C++,python,HTML,CSS,JAVASCRIPT</br>
+
+
 Name: [rhubeek](https://github.com/rhubeek)<br/>
 Place: Melbourne Australia<br/>
 About: I like free shirts<br/>
@@ -31,6 +37,7 @@ Name: [Sahaj Bamba](https://github.com/Sahaj-Bamba) </br>
 Place: Rudrapur , Uttarakhand</br>
 About: I am 2nd yearComputer science student at MNNIT , Allahabad. </br>
 Programming Languages: C, C++ , java , php , java script .</br>
+
 
 Name: Pradyuman Dixit</br>
 Place: Delft, Netherlands</br>
