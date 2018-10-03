@@ -415,6 +415,13 @@ Programming Languages: C,C++,python3<br/>
 email: ranjan.kushwaha456@gmail.com<br/>
 
 
+
+Name: [Kartik Singh](https://github.com/Kartik212112)<br/>
+Place: Patna,India<br/>
+About: Btech student from IITP<br/>
+Programming Languages: C++<br/>
+email: kartiktolia21@gmail.com <br/>
+
 Name: [Danilo Sambugaro](https://github.com/dsambugaro)<br/>
 Place: Paraná, Brazil<br/>
 About: I'm 3nd year Cumputer Science student <br/>
@@ -530,5 +537,3 @@ Place: New Delhi, India <br/>
 About: Computer Science BTech student from GGSIPU. I'm currently interested in Web Development and Machine Learning. <br />
 Programming Languages: C, C++, Python, JavaScript<br/>
 Email: agoel00@gmail.com<br/>
-
-
