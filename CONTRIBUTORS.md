@@ -356,3 +356,8 @@ Name: [Pratyush Mishra](https://github.com/styxtheta)<br/>
 Place: Manipal, Karnataka<br/>
 About: Second year IT undergrad.<br/>
 Programming Languages: C++, Python<br/>
+
+Name: [Anirudh Jwala](https://github.com/anirudh-jwala)<br/>
+Place: Hyderabad, Telangana<br/>
+About: CS Student at CMRIT, Hyd. I'm an Android & Python Developer.<br/>
+Programming Languages: C, Java, Python, C++, JavaScript, HTML<br/>
