@@ -554,3 +554,8 @@ Name: [Dhruv Patel](https://github.com/dhruv007patel)<br/>
 Place: Gujarat<br/>
 About: Currently pursuing B.tech from Amrita University.<br/>
 Programming Languages: Java, Python, C++,C#<br/>
+
+Name: [Michele Riva](https://github.com/micheleriva)<br />
+Place: Milan, Italy <br />
+About: Machine Learning, Functional Programming, Web Development <br />
+Programming Languages: JavaScript, C++, Haskell, Scala, Python, Ruby
