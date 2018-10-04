@@ -7,7 +7,7 @@
  
 ## What is Hacktoberfest?
 
- Hacktoberfest is a month long celebration held from Oct 1- Oct 31 By <a target="_blank" href="https://hacktoberfest.digitalocean.com/">Digital Ocean</a> and <a href="https://github.com/">Github</a> to get people involved in <strong>open-source</strong>.
+ Hacktoberfest is a month long celebration of open source software held in the month of October to get people involved in <strong>open-source</strong>. This year's edition is presented by <a target="_blank" href="https://hacktoberfest.digitalocean.com/">DigitalOcean</a>, <a target="_blank" href="https://github.com/">GitHub</a> and <a target="_blank" href="https://www.twilio.com/">twilio</a>.
 
 <h2>Rules</h2>
  To get a T-shirt, you must make five pull requests between October 1–31 in any timezone. Pull requests can be to any public repo on GitHub, not just the ones we’ve highlighted. The pull request must contain commits you made yourself.
