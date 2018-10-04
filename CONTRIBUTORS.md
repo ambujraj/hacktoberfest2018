@@ -626,3 +626,8 @@ Name: [Shreyansh Kulshreshtha](http://github.com/shreyanshkuls)<br />
 Place: Mandi, Himachal Pradesh, India<br />
 About: Undergraduate student, Music enthusiast, like programming<br />
 Programming Languages: C, C++<br />
+
+Name: [Gabriel Nobrega](https://github.com/gabrielomn)<br/>
+Place: Paraiba, Brazil<br/>
+About: Undergraduate student at UFCG<br/>
+Programming Languages: C, Python, Java, JavaScript<br/>
