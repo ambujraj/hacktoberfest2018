@@ -617,3 +617,8 @@ Name: [Michele Riva](https://github.com/micheleriva)<br />
 Place: Milan, Italy <br />
 About: Machine Learning, Functional Programming, Web Development <br />
 Programming Languages: JavaScript, C++, Haskell, Scala, Python, Ruby
+
+Name: [Shreyansh Kulshreshtha](http://github.com/shreyanshkuls)<br />
+Place: Mandi, Himachal Pradesh, India<br />
+About: Undergraduate student, Music enthusiast, like programming<br />
+Programming Languages: C, C++<br />
