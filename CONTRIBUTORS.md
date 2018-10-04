@@ -617,3 +617,11 @@ Name: [Michele Riva](https://github.com/micheleriva)<br />
 Place: Milan, Italy <br />
 About: Machine Learning, Functional Programming, Web Development <br />
 Programming Languages: JavaScript, C++, Haskell, Scala, Python, Ruby
+
+
+Name: [Anushka Bhandari](https://github.com/anushkab)<br />
+Place: Delhi ,India <br />
+About: Undergraduate @IIITD <br />
+Programming Languages: Java, Python
+
+
