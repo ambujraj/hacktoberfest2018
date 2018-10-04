@@ -598,3 +598,9 @@ Place: New Delhi, India <br/>
 About: Computer Science BTech student from GGSIPU. I'm currently interested in Web Development and Machine Learning. <br />
 Programming Languages: C, C++, Python, JavaScript<br/>
 Email: agoel00@gmail.com<br/>
+
+Name: [Sean D'Souza](https://github.com/seendsouza) <br/>
+Place: Ottawa, Canada <br/>
+About: High school student currently interested in big data and analytics <br/>
+Programming Language: Python, VB, AWK <br/>
+Email: sdammobubbles@gmail.com <br />
