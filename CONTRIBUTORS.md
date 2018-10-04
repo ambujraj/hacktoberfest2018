@@ -1,3 +1,8 @@
+Name: [Miftahul J.](https://github.com/jiadibo)<br/>
+Place: Indonesia<br/>
+About: I'm moslem programmer<br/>
+Programming Language: Java, kotlin, flutter<br/>
+Email: jihad.strange@gmail.com<br/>
 
 Name: [Mohit Routela](https://github.com/mohitroutela)<br/>
 Place: Mumbai<br/>
