@@ -598,3 +598,8 @@ Place: New Delhi, India <br/>
 About: Computer Science BTech student from GGSIPU. I'm currently interested in Web Development and Machine Learning. <br />
 Programming Languages: C, C++, Python, JavaScript<br/>
 Email: agoel00@gmail.com<br/>
+
+Name: [Stephen Sladek](https://github.com/stanecobalt) <br/>
+Place: Cape Girardeau, MO <br/>
+About: Information Systems undergrad at SEMO, works as a web dev, interested in VR <br/>
+Programming Languages: C, C++, C#, JavaScript, SQL <br/>
