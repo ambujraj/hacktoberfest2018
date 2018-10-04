@@ -406,6 +406,12 @@ About: I am a 3rd Year Computer Science student at JSSATE Noida<br/>
 Programming Languages: C, Java<br/>
 Email: priyankarajput3010@gmail.com
 
+Name: [Darshan D V](https://github.com/darshandv)<br/>
+Place: Mangalore, Karnataka ,India<br/>
+About: I am a Computer Science student at NITK Surathkal<br/>
+Programming Languages: C, C++, Python, HTML, CSS, JS, Java<br/>
+Email: darshandv10@gmail.com
+
 Name: [Siddhant MAnglik](https://github.com/vaish-456)<br/>
 Place: Noida,India<br/>
 About: Btech student from JIIT<br/>
