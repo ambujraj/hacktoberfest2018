@@ -1,5 +1,6 @@
 
 
+
 Name: [Sajjal](https://github.com/sajjalt)<br/>
 Place: New Delhi<br/>
 About: I am presently studying computer science at Thapar Institue of Engineering and Technology and love coding.<br/>
@@ -10,7 +11,6 @@ Place: New Delhi<br/>
 
 About: I am presently studying computer engineering at Thapar Institue of Engineering and Technology and loves coding.<br/>
 Programming Language:C,C++ and a little bit of Python<br/>
-
 About: I am presently studying computer science at Thapar Institute of Engineering and Technology and loves coding.<br/>
 Programming Language:C,C++,Python<br/>
 
@@ -544,6 +544,13 @@ Programming Languages: C, C++, Python, JavaScript<br/>
 Email: agoel00@gmail.com<br/>
 
 
+Name: [Mahardika Krisna Ihsani](https://github.com/codefire53)<br/>
+Place: Depok, Indonesia <br/>
+About: CS Undergrad Student at University of Indonesia <br/>
+Programming Languages: C++, Python, R <br/>
+Email: krisnaihsani@gmail.com <br/>
+
+
 Name: [Paul Williams](https://github.com/WilliamsPaulM)
 Place: USA
 About: Bash Enthusiast
@@ -559,4 +566,3 @@ Name: [Dhruv Patel](https://github.com/dhruv007patel)<br/>
 Place: Gujarat<br/>
 About: Currently pursuing B.tech from Amrita University.<br/>
 Programming Languages: Java, Python, C++,C#<br/>
-
