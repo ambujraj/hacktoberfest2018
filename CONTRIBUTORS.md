@@ -19,6 +19,10 @@ Programming Language:C,C++ and a little bit of Python<br/>
 About: I am presently studying computer science at Thapar Institute of Engineering and Technology and loves coding.<br/>
 Programming Language:C,C++,Python<br/>
 
+Name: [Sanket Chaudhari](https://github.com/sanket143)<br />
+Place: Gandhinagar<br />
+About: Loves exploring technologies and so fond of App/Web Development.
+Favourite Languages: JS, C++
 
 Name: [Mohit Routela](https://github.com/mohitroutela)<br/>
 Place: Mumbai<br/>
