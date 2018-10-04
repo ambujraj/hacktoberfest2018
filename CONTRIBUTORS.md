@@ -626,3 +626,8 @@ Name: [Shreyansh Kulshreshtha](http://github.com/shreyanshkuls)<br />
 Place: Mandi, Himachal Pradesh, India<br />
 About: Undergraduate student, Music enthusiast, like programming<br />
 Programming Languages: C, C++<br />
+
+Name: [Canoi Gomes](https://github.com/canoi12)<br />
+Place: Natal, Brazil<br />
+About: IT Student<br />
+Programming Languages: C, C++, Lua, Python, JavaScript, C#, GML<br />
