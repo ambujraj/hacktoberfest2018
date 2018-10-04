@@ -598,3 +598,10 @@ Place: New Delhi, India <br/>
 About: Computer Science BTech student from GGSIPU. I'm currently interested in Web Development and Machine Learning. <br />
 Programming Languages: C, C++, Python, JavaScript<br/>
 Email: agoel00@gmail.com<br/>
+
+
+Name: [Kamakshi Behl](creative-computing-society.github.io)<br/>
+Place: Amritsar, India <br/>
+About: Computer engineering from Thapar University, Patiala<br/>
+Programming Languages:C, C++<br/>
+Email: kamakshi.behl22@gmail.com<br/>
