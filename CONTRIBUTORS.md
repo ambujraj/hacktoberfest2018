@@ -4,6 +4,11 @@ About: I'm moslem programmer<br/>
 Programming Language: Java, kotlin, flutter<br/>
 Email: jihad.strange@gmail.com<br/>
 
+Name: [Utkarsh Garg](https://github.com/utkarsh22garg)<br/>
+Place: Allahabad,India<br/>
+About: I'm pursuing 3rd year from MNNIT Allahbad<br/>
+Programming Language: Java,C,C++<br/>
+Email: utkarsh22garg@gmail.com<br/>
 
 
 Name: [Sajjal](https://github.com/sajjalt)<br/>
