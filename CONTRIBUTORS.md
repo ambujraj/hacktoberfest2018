@@ -544,6 +544,11 @@ Programming Languages: C, C++, Python, JavaScript<br/>
 Email: agoel00@gmail.com<br/>
 
 
+Name: [Paul Williams](https://github.com/WilliamsPaulM)
+Place: USA
+About: Bash Enthusiast
+Programming Language: Bash
+
 Name: [Anmol Goel](https://github.com/edieblu) <br/>
 Place: London, UK <br/>
 About: Proud owner of one dog and two cats <br />
@@ -554,3 +559,4 @@ Name: [Dhruv Patel](https://github.com/dhruv007patel)<br/>
 Place: Gujarat<br/>
 About: Currently pursuing B.tech from Amrita University.<br/>
 Programming Languages: Java, Python, C++,C#<br/>
+
