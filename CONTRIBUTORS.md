@@ -1,3 +1,20 @@
+
+
+Name: [Sajjal](https://github.com/sajjalt)<br/>
+Place: New Delhi<br/>
+About: I am presently studying computer science at Thapar Institue of Engineering and Technology and love coding.<br/>
+Programming Language:C,C++,Python<br/>
+
+Name: [Sajjal Tiwari](https://github.com/sajjalt)<br/>
+Place: New Delhi<br/>
+
+About: I am presently studying computer engineering at Thapar Institue of Engineering and Technology and loves coding.<br/>
+Programming Language:C,C++ and a little bit of Python<br/>
+
+About: I am presently studying computer science at Thapar Institute of Engineering and Technology and loves coding.<br/>
+Programming Language:C,C++,Python<br/>
+
+
 Name: [Mohit Routela](https://github.com/mohitroutela)<br/>
 Place: Mumbai<br/>
 About: I am a computer engineer and loves coding.<br/>
@@ -526,7 +543,14 @@ About: Computer Science BTech student from GGSIPU. I'm currently interested in W
 Programming Languages: C, C++, Python, JavaScript<br/>
 Email: agoel00@gmail.com<br/>
 
+
 Name: [Anmol Goel](https://github.com/edieblu) <br/>
 Place: London, UK <br/>
 About: Proud owner of one dog and two cats <br />
 Programming Languages: JavaScript all the way!<br/>
+
+
+Name: [Dhruv Patel](https://github.com/dhruv007patel)<br/>
+Place: Gujarat<br/>
+About: Currently pursuing B.tech from Amrita University.<br/>
+Programming Languages: Java, Python, C++,C#<br/>
