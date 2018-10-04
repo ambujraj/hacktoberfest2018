@@ -626,3 +626,10 @@ Name: [Shreyansh Kulshreshtha](http://github.com/shreyanshkuls)<br />
 Place: Mandi, Himachal Pradesh, India<br />
 About: Undergraduate student, Music enthusiast, like programming<br />
 Programming Languages: C, C++<br />
+
+
+Name: [Thaynnara Gonçalves](https://github.com/thaynnara007)<br/>
+Place: Campina Grande, Paraiba, Brasil<br/>
+About: I am a 3rd Year Computer Science student at UFCG (Universidade Federal de Campina Grande)<br/>
+Programming Languages: Python, Java, JavaScript, Prolog<br/>
+
