@@ -626,3 +626,8 @@ Name: [Shreyansh Kulshreshtha](http://github.com/shreyanshkuls)<br />
 Place: Mandi, Himachal Pradesh, India<br />
 About: Undergraduate student, Music enthusiast, like programming<br />
 Programming Languages: C, C++<br />
+
+Name: [Leandro Ferreira](https://github.com/leofls)<br />
+Place: Maceió, Alagoas Pradesh, Brazil<br />
+About: robotics teacher, programming student<br />
+Programming Languages: PHP, C++, Java, Python<br />
