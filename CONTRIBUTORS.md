@@ -1,3 +1,9 @@
+Name: [Miftahul J.](https://github.com/jiadibo)<br/>
+Place: Indonesia<br/>
+About: I'm moslem programmer<br/>
+Programming Language: Java, kotlin, flutter<br/>
+Email: jihad.strange@gmail.com<br/>
+
 
 
 Name: [Sajjal](https://github.com/sajjalt)<br/>
@@ -10,7 +16,6 @@ Place: New Delhi<br/>
 
 About: I am presently studying computer engineering at Thapar Institue of Engineering and Technology and loves coding.<br/>
 Programming Language:C,C++ and a little bit of Python<br/>
-
 About: I am presently studying computer science at Thapar Institute of Engineering and Technology and loves coding.<br/>
 Programming Language:C,C++,Python<br/>
 
@@ -35,6 +40,13 @@ Name: palak agarwal</br>
 Place: Jaipur, Rajasthan</br>
 About: I am 3rd yearComputer science student at poornima college of engineering, Jaipur. I am a front end developer.</br>
 Programming Languages: C, C++,python</br>
+
+
+Name: [Henry McCreery](github.com/hmccree)
+Place: Portland, Oregon, USA
+About: High school robotics team member project manager
+Programming language: Python
+
 
 Name: Pritam Malik</br>
 Place: Shakarpur, New Delhi</br>
@@ -255,6 +267,7 @@ Place: Minas Gerais, Brazil
 About: I am a cience computer student at PUC Minas.
 Programming Language: Java, JavaScript, PHP, C, Python
 Email: viniciusmsdsantos@gmail.com
+
 
 Name: [Brian Phair](http://brianphair.com)
 About: I'm have a B.S. degree in Chemistry and am about to finish up a B.S. degree in Computer Science.
@@ -481,6 +494,13 @@ Place: Manipal, Karnataka<br/>
 About: Second year IT undergrad.<br/>
 Programming Languages: C++, Python<br/>
 
+
+Name: [Bodin Chinthanet](https://github.com/gotzillaz)<br/>
+Place: Nara, Japan<br/>
+About: Ordinary student
+Programming Languages: C++, Python, Java, C#, JavaScript, R<br/>
+
+
 Name: [Ahmad Javed](https://github.com/ahmadjaved97)<br/>
 Place: New Delhi, Delhi<br/>
 About: Third year Mathematics and Computing Undergrad at DTU.<br/>
@@ -504,7 +524,7 @@ Programming Languages: Java, JavaScript, PHP, CSS<br/>
 Name: [Ronit Maitra](https://github.com/zon2)
 Place: Jalpaiguri , West Bengal.
 About: 3rd year Computer science and engineering.
-Programming Languages: C,Java , Ruby ,C++, Python
+Programming Languages: C,Java ,  Ruby ,C++, Python
 
 Name: [Muhammad Ridwan Fathin](https://github.com/ridwanfathin)<br/>
 Place: Bandung, Indonesia<br/>
@@ -544,6 +564,37 @@ Programming Languages: C, C++, Python, JavaScript<br/>
 Email: agoel00@gmail.com<br/>
 
 
+Name: [Kamakshi Behl](creative-computing-society.github.io)<br/>
+Place: Amritsar, India <br/>
+About: Computer engineering from Thapar University, Patiala<br/>
+Programming Languages:C, C++<br/>
+Email: kamakshi.behl22@gmail.com<br/>
+
+
+Name: [Sean D'Souza](https://github.com/seendsouza) <br/>
+Place: Ottawa, Canada <br/>
+About: High school student currently interested in big data and analytics <br/>
+Programming Language: Python, VB, AWK <br/>
+Email: sdammobubbles@gmail.com <br />
+
+
+Name: [Stephen Sladek](https://github.com/stanecobalt) <br/>
+Place: Cape Girardeau, MO <br/>
+About: Information Systems undergrad at SEMO, works as a web dev, interested in VR <br/>
+Programming Languages: C, C++, C#, JavaScript, SQL <br/>
+
+Name: [Mahardika Krisna Ihsani](https://github.com/codefire53)<br/>
+Place: Depok, Indonesia <br/>
+About: CS Undergrad Student at University of Indonesia <br/>
+Programming Languages: C++, Python, R <br/>
+Email: krisnaihsani@gmail.com <br/>
+
+
+Name: [Paul Williams](https://github.com/WilliamsPaulM)
+Place: USA
+About: Bash Enthusiast
+Programming Language: Bash
+
 Name: [Anmol Goel](https://github.com/edieblu) <br/>
 Place: London, UK <br/>
 About: Proud owner of one dog and two cats <br />
@@ -555,7 +606,11 @@ Place: Gujarat<br/>
 About: Currently pursuing B.tech from Amrita University.<br/>
 Programming Languages: Java, Python, C++,C#<br/>
 
+
 Name: [Michele Riva](https://github.com/micheleriva)<br />
 Place: Milan, Italy <br />
 About: Machine Learning, Functional Programming, Web Development <br />
 Programming Languages: JavaScript, C++, Haskell, Scala, Python, Ruby
+
+
+
