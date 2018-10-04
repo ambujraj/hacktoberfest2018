@@ -631,3 +631,4 @@ Name: [Canoi Gomes](https://github.com/canoi12)<br />
 Place: Natal, Brazil<br />
 About: IT Student<br />
 Programming Languages: C, C++, Lua, Python, JavaScript, C#, GML<br />
+Email: canoiaguiar@gmail.com<br />
