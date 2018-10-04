@@ -607,10 +607,13 @@ About: Currently pursuing B.tech from Amrita University.<br/>
 Programming Languages: Java, Python, C++,C#<br/>
 
 
+Name: [Jeremy Chen](https://github.com/jeremy850407)<br/>
+Place: Taipei, Taiwan<br/>
+About: Graduate Student<br/>
+Programming Languages: Java, Python, C, C++, Javascript<br/>
+
+
 Name: [Michele Riva](https://github.com/micheleriva)<br />
 Place: Milan, Italy <br />
 About: Machine Learning, Functional Programming, Web Development <br />
 Programming Languages: JavaScript, C++, Haskell, Scala, Python, Ruby
-
-
-
