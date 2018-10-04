@@ -1,4 +1,4 @@
-Name: [Miftahul J.](https://github.com/jiadibo)<br/>
+﻿Name: [Miftahul J.](https://github.com/jiadibo)<br/>
 Place: Indonesia<br/>
 About: I'm moslem programmer<br/>
 Programming Language: Java, kotlin, flutter<br/>
@@ -626,3 +626,8 @@ Name: [Shreyansh Kulshreshtha](http://github.com/shreyanshkuls)<br />
 Place: Mandi, Himachal Pradesh, India<br />
 About: Undergraduate student, Music enthusiast, like programming<br />
 Programming Languages: C, C++<br />
+
+Name: [Felipe](https://github.com/ja1felipe)<br/>
+Place: Brazil<br/>
+About: I am studying computer science.<br/>
+Programming Language:Python, java<br/>
