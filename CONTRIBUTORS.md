@@ -356,3 +356,8 @@ Name: [Pratyush Mishra](https://github.com/styxtheta)<br/>
 Place: Manipal, Karnataka<br/>
 About: Second year IT undergrad.<br/>
 Programming Languages: C++, Python<br/>
+
+Name: [Bodin Chinthanet](https://github.com/gotzillaz)<br/>
+Place: Nara, Japan<br/>
+About: Ordinary student
+Programming Languages: C++, Python, Java, C#, JavaScript, R<br/>
