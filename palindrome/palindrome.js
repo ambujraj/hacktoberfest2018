@@ -1,3 +1,4 @@
+
 function palindrome(str) {
   var re = /[\W_]/g;
   var lowRegStr = str.toLowerCase().replace(re, '');
@@ -6,3 +7,4 @@ function palindrome(str) {
 }
 
 palindrome("Ana voli Milovana");
+
