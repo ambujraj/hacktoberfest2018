@@ -559,6 +559,13 @@ Programming Languages: C, C++, Python, JavaScript<br/>
 Email: agoel00@gmail.com<br/>
 
 
+Name: [Sean D'Souza](https://github.com/seendsouza) <br/>
+Place: Ottawa, Canada <br/>
+About: High school student currently interested in big data and analytics <br/>
+Programming Language: Python, VB, AWK <br/>
+Email: sdammobubbles@gmail.com <br />
+
+
 Name: [Stephen Sladek](https://github.com/stanecobalt) <br/>
 Place: Cape Girardeau, MO <br/>
 About: Information Systems undergrad at SEMO, works as a web dev, interested in VR <br/>
@@ -586,3 +593,4 @@ Name: [Dhruv Patel](https://github.com/dhruv007patel)<br/>
 Place: Gujarat<br/>
 About: Currently pursuing B.tech from Amrita University.<br/>
 Programming Languages: Java, Python, C++,C#<br/>
+
