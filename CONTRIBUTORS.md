@@ -1,3 +1,9 @@
+
+Name: [Sajjal](https://github.com/sajjalt)<br/>
+Place: New Delhi<br/>
+About: I am presently studying computer science at Thapar Institue of Engineering and Technology and love coding.<br/>
+Programming Language:C,C++,Python<br/>
+
 Name: [Sajjal Tiwari](https://github.com/sajjalt)<br/>
 Place: New Delhi<br/>
 
@@ -6,6 +12,7 @@ Programming Language:C,C++ and a little bit of Python<br/>
 
 About: I am presently studying computer science at Thapar Institute of Engineering and Technology and loves coding.<br/>
 Programming Language:C,C++,Python<br/>
+
 
 
 Name: [Mohit Routela](https://github.com/mohitroutela)<br/>
