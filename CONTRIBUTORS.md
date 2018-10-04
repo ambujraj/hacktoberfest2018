@@ -617,3 +617,9 @@ Name: [Michele Riva](https://github.com/micheleriva)<br />
 Place: Milan, Italy <br />
 About: Machine Learning, Functional Programming, Web Development <br />
 Programming Languages: JavaScript, C++, Haskell, Scala, Python, Ruby
+
+
+Name: [Mridul Aggarwal](https://github.com/Mridul97)<br />
+Place: New Delhi, India <br />
+About: Machine Learning Enthusiast <br />
+Programming Languages: JavaScript, C++, Python, Java
