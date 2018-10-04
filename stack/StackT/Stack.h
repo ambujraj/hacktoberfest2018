@@ -11,19 +11,19 @@ class Stack {
         Node<T>* nodePtr;
     public:
         Stack() { nodePtr = nullptr; size = 0; }
-		Stack(Stack<T> &s);
+	Stack(Stack<T> &s);
         ~Stack();
         T top() { return nodePtr->getData(); }
         void push(T item);
         void pop();
         void swap();
-		bool empty() { return (nodePtr == nullptr); }
+	bool empty() { return (nodePtr == nullptr); }
         long getSize() { return size; }
 };
 
 template<class T>
 Stack<T>::Stack(Stack<T> &s){
-	size = s.size();
+	size = s.getSize();
 	while(!s.empty()){
 		push(s.top());
 		s.pop();
