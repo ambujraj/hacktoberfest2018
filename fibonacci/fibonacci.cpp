@@ -1,25 +1,17 @@
-#include <iostream>
+//Fibonacci Series using Recursion
+#include<iostream>
 using namespace std;
-int main()
+int fib(int n)
 {
-    int num;
-    cout<<"Enter the number of terms: ";
-    cin>>num;
-    int a[num];
-    for(int i=0;i<num;i++)
-    {
-        if(i==0){
-            a[i] = 0;
+   if (n <= 1)
+      return n;
+   return fib(n-1) + fib(n-2);
+}
 
-        }
-        else if(i==1){
-            a[i] = 1;
-        }
-        else{
-        a[i] = a[i-1]+a[i-2];
-    }}
-    cout<<"The fibonacci series: ";
-    for(int i=0;i<num;i++){
-        cout<<a[i]<<" ";
-    }
+int main ()
+{
+    int n;
+    cin>>n;
+    cout<<fib(n);
+    return 0;
 }

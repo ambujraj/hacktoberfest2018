@@ -1,4 +1,5 @@
 #include <iostream>
+#include <algorithm>
 using namespace std;
 int main()
 {
@@ -27,19 +28,7 @@ int main()
         }
         cin >> a[i];
     }
-    int t;
-    for (int i = 0; i < num; i++)
-    {
-        for (int j = i; j < num; j++)
-        {
-            if (a[i] > a[j])
-            {
-                t = a[i];
-                a[i] = a[j];
-                a[j] = t;
-            }
-        }
-    }
+    sort(a,a+num);
     cout << "The SORTED array is:" << endl;
     for (int i = 0; i < num; i++)
     {
