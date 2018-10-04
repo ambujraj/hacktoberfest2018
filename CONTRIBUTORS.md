@@ -256,6 +256,7 @@ About: I am a cience computer student at PUC Minas.
 Programming Language: Java, JavaScript, PHP, C, Python
 Email: viniciusmsdsantos@gmail.com
 
+
 Name: [Brian Phair](http://brianphair.com)
 About: I'm have a B.S. degree in Chemistry and am about to finish up a B.S. degree in Computer Science.
 Programming Language: C, C++, Python
@@ -481,6 +482,13 @@ Place: Manipal, Karnataka<br/>
 About: Second year IT undergrad.<br/>
 Programming Languages: C++, Python<br/>
 
+
+Name: [Bodin Chinthanet](https://github.com/gotzillaz)<br/>
+Place: Nara, Japan<br/>
+About: Ordinary student
+Programming Languages: C++, Python, Java, C#, JavaScript, R<br/>
+
+
 Name: [Ahmad Javed](https://github.com/ahmadjaved97)<br/>
 Place: New Delhi, Delhi<br/>
 About: Third year Mathematics and Computing Undergrad at DTU.<br/>
@@ -504,7 +512,7 @@ Programming Languages: Java, JavaScript, PHP, CSS<br/>
 Name: [Ronit Maitra](https://github.com/zon2)
 Place: Jalpaiguri , West Bengal.
 About: 3rd year Computer science and engineering.
-Programming Languages: C,Java , Ruby ,C++, Python
+Programming Languages: C,Java ,  Ruby ,C++, Python
 
 Name: [Muhammad Ridwan Fathin](https://github.com/ridwanfathin)<br/>
 Place: Bandung, Indonesia<br/>
@@ -542,7 +550,6 @@ Place: New Delhi, India <br/>
 About: Computer Science BTech student from GGSIPU. I'm currently interested in Web Development and Machine Learning. <br />
 Programming Languages: C, C++, Python, JavaScript<br/>
 Email: agoel00@gmail.com<br/>
-
 
 Name: [Mahardika Krisna Ihsani](https://github.com/codefire53)<br/>
 Place: Depok, Indonesia <br/>
