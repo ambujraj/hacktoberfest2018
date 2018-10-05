@@ -714,3 +714,8 @@ Place: Brazil<br/>
 About: I am studying computer science.<br/>
 Programming Language:Python, java<br/>
 
+Name: [Lucas](https://github.com/luchiago)<br/>
+Place: Teresina, Piauí, Brazil
+About: Eternal apprentice
+Programming Language: Python, Java, C
+Email: lucashiago63@gmail.com
