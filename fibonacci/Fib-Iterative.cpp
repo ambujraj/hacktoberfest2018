@@ -11,6 +11,8 @@ int main()
     int n;
 	cout<<"Enter the terms upto which the Fibonnaci Series has to be printed\n";
 	cin>>n;
+	
+	//Checking base cases as well
 	if(n==1)
 	{
 		cout<<f1;
