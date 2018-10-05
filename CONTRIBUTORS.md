@@ -633,6 +633,12 @@ About: Machine Learning, Functional Programming, Web Development <br />
 Programming Languages: JavaScript, C++, Haskell, Scala, Python, Ruby
 
 
+Name: [Andrea](https://github.com/kaywinnet)<br />
+Place: Madrid, Spain <br />
+About: Graduate Student <br />
+Programming Languages: Python, C++, R
+
+
 
 Name: [Anushka Bhandari](https://github.com/anushkab)<br />
 Place: Delhi ,India <br />
