@@ -714,3 +714,7 @@ Place: Brazil<br/>
 About: I am studying computer science.<br/>
 Programming Language:Python, java<br/>
 
+Name: [Stephane](https://github.com/stmoreau)
+Place: UK
+About: Web Developer.<br/>
+Programming Languages:Python, java, javascript
