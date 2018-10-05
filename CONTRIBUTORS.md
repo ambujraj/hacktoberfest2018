@@ -1,3 +1,10 @@
+Name: [Ryssmo](https://github.com/Ryssmo)<br/>
+Place: Norway<br/>
+About: Coding is life<br/>
+Programming Language: Html, CSS, JS<br/>
+Email: eskilryss@hotmail.com<br/>
+
+
 Name: [Miftahul J.](https://github.com/jiadibo)<br/>
 Place: Indonesia<br/>
 About: I'm moslem programmer<br/>
