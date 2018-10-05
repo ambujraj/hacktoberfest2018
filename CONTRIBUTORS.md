@@ -714,3 +714,9 @@ Place: Brazil<br/>
 About: I am studying computer science.<br/>
 Programming Language:Python, java<br/>
 
+
+Name: [William VDG](https://github.com/willtheorangeguy)<br/>
+Place: Vancouver, BC, Canada<br/>
+About: High school student studying computer science and computer forensics, hoping to get a job with the RCMP after I graduate university.<br/>
+Programming Language: Python, HTML, CSS, C++ (a little bit)<br/>
+

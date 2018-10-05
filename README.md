@@ -1,7 +1,7 @@
 ## Hacktoberfest 2018
  Anyone can contribute to this repo to make their contribution to open-source on <a target="_blank" href="https://github.com/">Github</a>.<br>
  
- Celebrate <a href="https://hacktoberfest.digitalocean.com/" target="_blank">HacktoberFest</a> by getting involved in the Open Source Community by completing some simple tasks in this project.<br>
+ Celebrate <a href="https://hacktoberfest.digitalocean.com/" target="_blank">Hacktoberfest</a> by getting involved in the Open Source Community by completing some simple tasks in this project.<br>
  
  This is a Public Repository open to all members of the GitHub Community. Any member of the community may contribute to this project without being a collaborator.
  
@@ -11,7 +11,7 @@
 
 <h2>Rules</h2>
  To get a T-shirt, you must make five pull requests between October 1–31 in any timezone. Pull requests can be to any public repo on GitHub, not just the ones we’ve highlighted. The pull request must contain commits you made yourself.
- <br><br>You can check your progress of HacktoberFest at <a target="_blank" href="https://hacktoberfest.digitalocean.com/stats/">this link</a><br><br><strong>Pull requests marked as spam will not be entitled for a T-shirt</strong>.
+ <br><br>You can check your progress of Hacktoberfest at <a target="_blank" href="https://hacktoberfest.digitalocean.com/stats/">this link</a><br><br><strong>Pull requests marked as spam will not be entitled for a T-shirt</strong>.
 
 <h2> List of Programs to work on </h2>
 <ul>
