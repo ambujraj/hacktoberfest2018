@@ -626,3 +626,8 @@ Name: [Shreyansh Kulshreshtha](http://github.com/shreyanshkuls)<br />
 Place: Mandi, Himachal Pradesh, India<br />
 About: Undergraduate student, Music enthusiast, like programming<br />
 Programming Languages: C, C++<br />
+
+Name: [Angelo Teoxon](http://github.com/ateoxon)<br />
+Place: Houston, TX<br />
+About: Undergrad CS major, enjoy web dev, data mining, and databases!!<br />
+Programming Languages: Python, Java, Javascript, PHP<br />
