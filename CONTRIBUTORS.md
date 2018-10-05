@@ -622,7 +622,14 @@ Place: Milan, Italy <br />
 About: Machine Learning, Functional Programming, Web Development <br />
 Programming Languages: JavaScript, C++, Haskell, Scala, Python, Ruby
 
+
+Name: [Rehan](https://github.com/Rehan1995)<br/>
+Place: Kadawatha , Srilanka<br/>
+About: undergraduate student<br/>
+Programming Languages: Java, Python, C#, Javascript <br/>
+
+
 Name: [Shreyansh Kulshreshtha](http://github.com/shreyanshkuls)<br />
 Place: Mandi, Himachal Pradesh, India<br />
 About: Undergraduate student, Music enthusiast, like programming<br />
-Programming Languages: C, C++<br />
+Programming Languages: C, C++<br/>
