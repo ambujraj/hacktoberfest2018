@@ -4,13 +4,11 @@ About: I'm moslem programmer<br/>
 Programming Language: Java, kotlin, flutter<br/>
 Email: jihad.strange@gmail.com<br/>
 
-
 Name: [Utkarsh Garg](https://github.com/utkarsh22garg)<br/>
 Place: Allahabad,India<br/>
 About: I'm pursuing 3rd year from MNNIT Allahbad<br/>
 Programming Language: Java,C,C++<br/>
 Email: utkarsh22garg@gmail.com<br/>
-
 
 Name: [Adit Mehta](https://github.com/aditmehta9)<br/>
 Place: Rajkot, Gujarat<br/>
@@ -40,7 +38,6 @@ Place: Mumbai<br/>
 About: I am a computer engineer and loves coding.<br/>
 Programming Language:C,C++,Python<br/>
 
-
 Name: [Harsh Bhut](https://github.com/harshbhut42)<br/>
 Place: Gandhinagar<br/>
 About: I am fast learner.<br/>
@@ -62,13 +59,10 @@ Place: Jaipur, Rajasthan</br>
 About: I am 3rd yearComputer science student at poornima college of engineering, Jaipur. I am a front end developer.</br>
 Programming Languages: C, C++,python</br>
 
-
-
 Name: [Henry McCreery](github.com/hmccree)
 Place: Portland, Oregon, USA
 About: High school robotics team member project manager
 Programming language: Python
-
 
 Name: Pritam Malik</br>
 Place: Shakarpur, New Delhi</br>
@@ -290,7 +284,6 @@ About: I am a cience computer student at PUC Minas.
 Programming Language: Java, JavaScript, PHP, C, Python
 Email: viniciusmsdsantos@gmail.com
 
-
 Name: [Brian Phair](http://brianphair.com)
 About: I'm have a B.S. degree in Chemistry and am about to finish up a B.S. degree in Computer Science.
 Programming Language: C, C++, Python
@@ -396,25 +389,21 @@ About: I am a sophomore at IIT Mandi<br/>
 Programming Languages: C, C++, JavaScript<br/>
 Email: vsvipul555@gmail.com
 
-
 Name: [Samyak](https://github.com/samyak-sopho)
 Place: Allahabad
 About: Will do anything for free shirt
 Programming Language: C++, JS, Java
-
 
 Name: [Marlene Oliveira](https://github.com/m-oliv)
 Place: Lisbon, Portugal
 About: Software Engineer
 Programming Language: Java, C, C#, Python, JavaScript, HTML, CSS
 
-
 Name: [Trevin Edinger](https://github.com/ArkTrevelyan)
 Place: Elkins, WV, USA
 About: High School Graduate. Self teaching to be a programmer.
 Programming Languages: Java, C.
 Email: Yezhekel@ProtonMail.ch
-
 
 Name: [Tsaruk Alex](https://github.com/WildTiger404)<br/>
 Place: Minsk, Belarus<br/>
@@ -428,7 +417,6 @@ About: I am a 3rd Year Computer Science student at JSSATE Noida<br/>
 Programming Languages: C, Java<br/>
 Email: priyankarajput3010@gmail.com
 
-
 Name: [Darshan D V](https://github.com/darshandv)<br/>
 Place: Mangalore, Karnataka ,India<br/>
 About: I am a Computer Science student at NITK Surathkal<br/>
@@ -440,7 +428,6 @@ Place: Noida,India<br/>
 About: Btech student from JIIT<br/>
 Programming Languages: C,C++,python3<br/>
 email: ranjan.kushwaha456@gmail.com<br/>
-
 
 Name: [Kartik Singh](https://github.com/Kartik212112)<br/>
 Place: Patna,India<br/>
@@ -528,12 +515,10 @@ Place: Manipal, Karnataka<br/>
 About: Second year IT undergrad.<br/>
 Programming Languages: C++, Python<br/>
 
-
 Name: [Bodin Chinthanet](https://github.com/gotzillaz)<br/>
 Place: Nara, Japan<br/>
 About: Ordinary student
 Programming Languages: C++, Python, Java, C#, JavaScript, R<br/>
-
 
 Name: [Ahmad Javed](https://github.com/ahmadjaved97)<br/>
 Place: New Delhi, Delhi<br/>
@@ -558,7 +543,7 @@ Programming Languages: Java, JavaScript, PHP, CSS<br/>
 Name: [Ronit Maitra](https://github.com/zon2)
 Place: Jalpaiguri , West Bengal.
 About: 3rd year Computer science and engineering.
-Programming Languages: C,Java ,  Ruby ,C++, Python
+Programming Languages: C,Java , Ruby ,C++, Python
 
 Name: [Muhammad Ridwan Fathin](https://github.com/ridwanfathin)<br/>
 Place: Bandung, Indonesia<br/>
@@ -597,20 +582,17 @@ About: Computer Science BTech student from GGSIPU. I'm currently interested in W
 Programming Languages: C, C++, Python, JavaScript<br/>
 Email: agoel00@gmail.com<br/>
 
-
 Name: [Kamakshi Behl](creative-computing-society.github.io)<br/>
 Place: Amritsar, India <br/>
 About: Computer engineering from Thapar University, Patiala<br/>
 Programming Languages:C, C++<br/>
 Email: kamakshi.behl22@gmail.com<br/>
 
-
 Name: [Sean D'Souza](https://github.com/seendsouza) <br/>
 Place: Ottawa, Canada <br/>
 About: High school student currently interested in big data and analytics <br/>
 Programming Language: Python, VB, AWK <br/>
 Email: sdammobubbles@gmail.com <br />
-
 
 Name: [Stephen Sladek](https://github.com/stanecobalt) <br/>
 Place: Cape Girardeau, MO <br/>
@@ -623,7 +605,6 @@ About: CS Undergrad Student at University of Indonesia <br/>
 Programming Languages: C++, Python, R <br/>
 Email: krisnaihsani@gmail.com <br/>
 
-
 Name: [Paul Williams](https://github.com/WilliamsPaulM)
 Place: USA
 About: Bash Enthusiast
@@ -634,83 +615,72 @@ Place: London, UK <br/>
 About: Proud owner of one dog and two cats <br />
 Programming Languages: JavaScript all the way!<br/>
 
-
 Name: [Dhruv Patel](https://github.com/dhruv007patel)<br/>
 Place: Gujarat<br/>
 About: Currently pursuing B.tech from Amrita University.<br/>
 Programming Languages: Java, Python, C++,C#<br/>
-
 
 Name: [Jeremy Chen](https://github.com/jeremy850407)<br/>
 Place: Taipei, Taiwan<br/>
 About: Graduate Student<br/>
 Programming Languages: Java, Python, C, C++, Javascript<br/>
 
-
 Name: [Michele Riva](https://github.com/micheleriva)<br />
 Place: Milan, Italy <br />
 About: Machine Learning, Functional Programming, Web Development <br />
 Programming Languages: JavaScript, C++, Haskell, Scala, Python, Ruby
-
 
 Name: [Andrea](https://github.com/kaywinnet)<br />
 Place: Madrid, Spain <br />
 About: Graduate Student <br />
 Programming Languages: Python, C++, R
 
-
-
 Name: [Anushka Bhandari](https://github.com/anushkab)<br />
 Place: Delhi ,India <br />
 About: Undergraduate @IIITD <br />
 Programming Languages: Java, Python
-
-
 
 Name: [Mridul Aggarwal](https://github.com/Mridul97)<br />
 Place: New Delhi, India <br />
 About: Machine Learning Enthusiast <br />
 Programming Languages: JavaScript, C++, Python, Java
 
-
 Name: [Rehan](https://github.com/Rehan1995)<br/>
 Place: Kadawatha , Srilanka<br/>
 About: undergraduate student<br/>
 Programming Languages: Java, Python, C#, Javascript <br/>
-
 
 Name: [Shreyansh Kulshreshtha](http://github.com/shreyanshkuls)<br />
 Place: Mandi, Himachal Pradesh, India<br />
 About: Undergraduate student, Music enthusiast, like programming<br />
 Programming Languages: C, C++<br />
 
-
 Name: [Gabriel Nobrega](https://github.com/gabrielomn)<br/>
 Place: Paraiba, Brazil<br/>
 About: Undergraduate student at UFCG<br/>
 Programming Languages: C, Python, Java, JavaScript<br/>
-
 
 Name: [Leandro Ferreira](https://github.com/leofls)<br />
 Place: Maceió, Alagoas Pradesh, Brazil<br />
 About: robotics teacher, programming student<br />
 Programming Languages: PHP, C++, Java, Python<br />
 
-
 Name: [Rob Anderson](http://github.com/riznob)<br />
 Place: Beaverton, Oregon, USA<br />
 About: Father, althete, snowboarder, surfer, drummer<br />
 Programming Languages: Java, groovy, javascript, bash, python, php<br />
-
 
 Name: [abbusofyan](http://github.com/abbusofyan)<br />
 Place: Jakarta, Indonesia<br />
 About: Student at Gunadarma University, have a passion in programming<br />
 Programming Languages: php, java, javascript<br />
 
-
 Name: [Felipe](https://github.com/ja1felipe)<br/>
 Place: Brazil<br/>
 About: I am studying computer science.<br/>
 Programming Language:Python, java<br/>
 
+Name: [Khawoat](https://github.com/khawoat6)<br/>
+Place: Bangkok, Thailand<br/>
+About: I am studying computer engineering at Kasetsart University , Bangkok, Thailand.<br/>
+Programming Language:Python, java, html, css, c++ etc.<br/>
