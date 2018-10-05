@@ -4,6 +4,11 @@ About: I'm moslem programmer<br/>
 Programming Language: Java, kotlin, flutter<br/>
 Email: jihad.strange@gmail.com<br/>
 
+Name: [Siddharth Naithani](https://github.com/sn99)<br/>
+Place: India<br/>
+About: I am currently a student at NIT Hamirpur, India<br/>
+Programming Lnaguages: Rust, C++ and Javascript<br/>
+Email: siddharthn.099@gmail.com<br/>
 
 Name: [Utkarsh Garg](https://github.com/utkarsh22garg)<br/>
 Place: Allahabad,India<br/>
