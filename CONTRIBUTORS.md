@@ -626,3 +626,8 @@ Name: [Shreyansh Kulshreshtha](http://github.com/shreyanshkuls)<br />
 Place: Mandi, Himachal Pradesh, India<br />
 About: Undergraduate student, Music enthusiast, like programming<br />
 Programming Languages: C, C++<br />
+
+Name: [Sharan Narayan](http://github.com/sharan-nyn)<br />
+Place: Kochi, Kerala, India<br />
+About: B.Tech Student<br />
+Programming Languages: C, C++<br />
