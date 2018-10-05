@@ -714,3 +714,8 @@ Place: Brazil<br/>
 About: I am studying computer science.<br/>
 Programming Language:Python, java<br/>
 
+Name: [Jyotirmaya Mahanta](https://github.com/Alokpro1)<br/>
+Place: Rourkela, India<br/>
+About: I am studying computer science  at NIT Rourkela.<br/>
+Programming Language:javascript, netbeans,python,c,c++, java<br/>
+
