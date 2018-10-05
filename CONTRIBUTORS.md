@@ -19,6 +19,10 @@ Programming Language:C,C++ and a little bit of Python<br/>
 About: I am presently studying computer science at Thapar Institute of Engineering and Technology and loves coding.<br/>
 Programming Language:C,C++,Python<br/>
 
+Name: [Sanket Chaudhari](https://github.com/sanket143)<br />
+Place: Gandhinagar<br />
+About: Loves exploring technologies and so fond of App/Web Development.
+Favourite Languages: JS, C++
 
 Name: [Mohit Routela](https://github.com/mohitroutela)<br/>
 Place: Mumbai<br/>
@@ -618,9 +622,14 @@ Place: Milan, Italy <br />
 About: Machine Learning, Functional Programming, Web Development <br />
 Programming Languages: JavaScript, C++, Haskell, Scala, Python, Ruby
 
+
 Name: [Rehan](https://github.com/Rehan1995)<br/>
 Place: Kadawatha , Srilanka<br/>
 About: undergraduate student<br/>
 Programming Languages: Java, Python, C#, Javascript <br/>
 
 
+Name: [Shreyansh Kulshreshtha](http://github.com/shreyanshkuls)<br />
+Place: Mandi, Himachal Pradesh, India<br />
+About: Undergraduate student, Music enthusiast, like programming<br />
+Programming Languages: C, C++<br/>
