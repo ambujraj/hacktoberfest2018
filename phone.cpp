@@ -1,6 +1,4 @@
-#include <iostream>
-#include <string>
-#include <cstdlib>
+#include <bits/stdc++.h>
 using namespace std;
 
 int stringdigit(string str)
@@ -22,7 +20,7 @@ int main(void)
 	string number;
 	cin >> number;
 
-	if(number.length() != 10 || stringdigit(number) == 1)
+	if(number.length() != 10 || !stringdigit(number))
 	{
 		cout << "Not a valid phone number" << endl;
 		return 1;
