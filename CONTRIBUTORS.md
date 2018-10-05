@@ -1,3 +1,9 @@
+Name: [Abay](https://github.com/abaykan)<br/>
+Place: Jombang, Indonesia.<br/>
+About: Proudly Owner of [Codelatte Indonesia](https://codelatte.org/)<br/>
+Programming Language: JavaScript, Python.<br/>
+Email: abay@codelatte.org<br/>
+
 Name: [Miftahul J.](https://github.com/jiadibo)<br/>
 Place: Indonesia<br/>
 About: I'm moslem programmer<br/>
