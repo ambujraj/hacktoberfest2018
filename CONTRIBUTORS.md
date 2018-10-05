@@ -678,8 +678,13 @@ About: Undergraduate student, Music enthusiast, like programming<br />
 Programming Languages: C, C++<br />
 
 
+Name: [abbusofyan](http://github.com/abbusofyan)<br />
+Place: Jakarta, Indonesia<br />
+About: Student at Gunadarma University, have a passion in programming<br />
+Programming Languages: php, java, javascript<br />
+
+
 Name: [Felipe](https://github.com/ja1felipe)<br/>
 Place: Brazil<br/>
 About: I am studying computer science.<br/>
 Programming Language:Python, java<br/>
-
