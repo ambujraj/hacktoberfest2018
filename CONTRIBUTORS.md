@@ -1,14 +1,21 @@
-﻿Name: [Miftahul J.](https://github.com/jiadibo)<br/>
+Name: [Miftahul J.](https://github.com/jiadibo)<br/>
 Place: Indonesia<br/>
 About: I'm moslem programmer<br/>
 Programming Language: Java, kotlin, flutter<br/>
 Email: jihad.strange@gmail.com<br/>
 
+
+Name: [Utkarsh Garg](https://github.com/utkarsh22garg)<br/>
+Place: Allahabad,India<br/>
+About: I'm pursuing 3rd year from MNNIT Allahbad<br/>
+Programming Language: Java,C,C++<br/>
+Email: utkarsh22garg@gmail.com<br/>
+
+
 Name: [Adit Mehta](https://github.com/aditmehta9)<br/>
 Place: Rajkot, Gujarat<br/>
 About: I am presently studying ICT at DA-IICT and I like contributing in open source organizations.<br/>
 Programming Language:C,C++,Java,Ruby,Chapel<br/>
-
 
 Name: [Sajjal](https://github.com/sajjalt)<br/>
 Place: New Delhi<br/>
