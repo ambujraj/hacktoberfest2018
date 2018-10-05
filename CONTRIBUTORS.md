@@ -1,4 +1,4 @@
-Name: [Miftahul J.](https://github.com/jiadibo)<br/>
+﻿Name: [Miftahul J.](https://github.com/jiadibo)<br/>
 Place: Indonesia<br/>
 About: I'm moslem programmer<br/>
 Programming Language: Java, kotlin, flutter<br/>
@@ -714,3 +714,7 @@ Place: Brazil<br/>
 About: I am studying computer science.<br/>
 Programming Language:Python, java<br/>
 
+Name: [Tina Ngo](https://github.com/tinatrinhngo)<br/>
+Place: California<br/>
+About: I am a computer science student.<br/>
+Programming Language: Currently learning C++ and Java<br/>
