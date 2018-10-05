@@ -4,12 +4,18 @@ About: I'm moslem programmer<br/>
 Programming Language: Java, kotlin, flutter<br/>
 Email: jihad.strange@gmail.com<br/>
 
+
 Name: [Utkarsh Garg](https://github.com/utkarsh22garg)<br/>
 Place: Allahabad,India<br/>
 About: I'm pursuing 3rd year from MNNIT Allahbad<br/>
 Programming Language: Java,C,C++<br/>
 Email: utkarsh22garg@gmail.com<br/>
 
+
+Name: [Adit Mehta](https://github.com/aditmehta9)<br/>
+Place: Rajkot, Gujarat<br/>
+About: I am presently studying ICT at DA-IICT and I like contributing in open source organizations.<br/>
+Programming Language:C,C++,Java,Ruby,Chapel<br/>
 
 Name: [Sajjal](https://github.com/sajjalt)<br/>
 Place: New Delhi<br/>
@@ -33,6 +39,12 @@ Name: [Mohit Routela](https://github.com/mohitroutela)<br/>
 Place: Mumbai<br/>
 About: I am a computer engineer and loves coding.<br/>
 Programming Language:C,C++,Python<br/>
+
+
+Name: [Harsh Bhut](https://github.com/harshbhut42)<br/>
+Place: Gandhinagar<br/>
+About: I am fast learner.<br/>
+Programming Language: C,C++,Java<br/>
 
 Name: [sn149](https://github.com/sn149)
 Place: Sai Gon, VN
@@ -411,6 +423,12 @@ About: I am a 3rd Year Computer Science student at JSSATE Noida<br/>
 Programming Languages: C, Java<br/>
 Email: priyankarajput3010@gmail.com
 
+Name: [Darshan D V](https://github.com/darshandv)<br/>
+Place: Mangalore, Karnataka ,India<br/>
+About: I am a Computer Science student at NITK Surathkal<br/>
+Programming Languages: C, C++, Python, HTML, CSS, JS, Java<br/>
+Email: darshandv10@gmail.com
+
 Name: [Siddhant MAnglik](https://github.com/vaish-456)<br/>
 Place: Noida,India<br/>
 About: Btech student from JIIT<br/>
@@ -626,6 +644,33 @@ Name: [Michele Riva](https://github.com/micheleriva)<br />
 Place: Milan, Italy <br />
 About: Machine Learning, Functional Programming, Web Development <br />
 Programming Languages: JavaScript, C++, Haskell, Scala, Python, Ruby
+
+
+Name: [Andrea](https://github.com/kaywinnet)<br />
+Place: Madrid, Spain <br />
+About: Graduate Student <br />
+Programming Languages: Python, C++, R
+
+
+
+Name: [Anushka Bhandari](https://github.com/anushkab)<br />
+Place: Delhi ,India <br />
+About: Undergraduate @IIITD <br />
+Programming Languages: Java, Python
+
+
+
+Name: [Mridul Aggarwal](https://github.com/Mridul97)<br />
+Place: New Delhi, India <br />
+About: Machine Learning Enthusiast <br />
+Programming Languages: JavaScript, C++, Python, Java
+
+
+Name: [Rehan](https://github.com/Rehan1995)<br/>
+Place: Kadawatha , Srilanka<br/>
+About: undergraduate student<br/>
+Programming Languages: Java, Python, C#, Javascript <br/>
+
 
 Name: [Shreyansh Kulshreshtha](http://github.com/shreyanshkuls)<br />
 Place: Mandi, Himachal Pradesh, India<br />
