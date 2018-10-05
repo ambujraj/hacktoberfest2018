@@ -29,6 +29,12 @@ Place: Mumbai<br/>
 About: I am a computer engineer and loves coding.<br/>
 Programming Language:C,C++,Python<br/>
 
+
+Name: [Harsh Bhut](https://github.com/harshbhut42)<br/>
+Place: Gandhinagar<br/>
+About: I am fast learner.<br/>
+Programming Language: C,C++,Java<br/>
+
 Name: [sn149](https://github.com/sn149)
 Place: Sai Gon, VN
 About: i'm newbie
