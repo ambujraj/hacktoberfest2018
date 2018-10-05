@@ -714,3 +714,8 @@ Place: Brazil<br/>
 About: I am studying computer science.<br/>
 Programming Language:Python, java<br/>
 
+
+Name: [Shubham Nauni](https://github.com/shanejustice)<br/>
+Place: Delhi, India<br/>
+About: Programmer, Writer, Thinker, Filmmaker. <br/>
+Programming Languages: C, C++, Python, HTML, CSS, PHP <br/>
