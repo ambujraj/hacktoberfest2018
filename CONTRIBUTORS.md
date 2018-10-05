@@ -626,3 +626,8 @@ Name: [Shreyansh Kulshreshtha](http://github.com/shreyanshkuls)<br />
 Place: Mandi, Himachal Pradesh, India<br />
 About: Undergraduate student, Music enthusiast, like programming<br />
 Programming Languages: C, C++<br />
+
+Name: [yugesh baral](http://github.com/yogibrl)<br />
+Place: Bhaktapur, Nepal<br />
+About: To be Computer Engineer<br />
+Programming Languages: C, C++<br />
