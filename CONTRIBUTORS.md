@@ -1,4 +1,4 @@
-﻿Name: [Miftahul J.](https://github.com/jiadibo)<br/>
+Name: [Miftahul J.](https://github.com/jiadibo)<br/>
 Place: Indonesia<br/>
 About: I'm moslem programmer<br/>
 Programming Language: Java, kotlin, flutter<br/>
@@ -61,6 +61,7 @@ Name: palak agarwal</br>
 Place: Jaipur, Rajasthan</br>
 About: I am 3rd yearComputer science student at poornima college of engineering, Jaipur. I am a front end developer.</br>
 Programming Languages: C, C++,python</br>
+
 
 
 Name: [Henry McCreery](github.com/hmccree)
@@ -395,21 +396,25 @@ About: I am a sophomore at IIT Mandi<br/>
 Programming Languages: C, C++, JavaScript<br/>
 Email: vsvipul555@gmail.com
 
+
 Name: [Samyak](https://github.com/samyak-sopho)
 Place: Allahabad
 About: Will do anything for free shirt
 Programming Language: C++, JS, Java
+
 
 Name: [Marlene Oliveira](https://github.com/m-oliv)
 Place: Lisbon, Portugal
 About: Software Engineer
 Programming Language: Java, C, C#, Python, JavaScript, HTML, CSS
 
+
 Name: [Trevin Edinger](https://github.com/ArkTrevelyan)
 Place: Elkins, WV, USA
 About: High School Graduate. Self teaching to be a programmer.
 Programming Languages: Java, C.
 Email: Yezhekel@ProtonMail.ch
+
 
 Name: [Tsaruk Alex](https://github.com/WildTiger404)<br/>
 Place: Minsk, Belarus<br/>
@@ -423,6 +428,7 @@ About: I am a 3rd Year Computer Science student at JSSATE Noida<br/>
 Programming Languages: C, Java<br/>
 Email: priyankarajput3010@gmail.com
 
+
 Name: [Darshan D V](https://github.com/darshandv)<br/>
 Place: Mangalore, Karnataka ,India<br/>
 About: I am a Computer Science student at NITK Surathkal<br/>
@@ -434,6 +440,7 @@ Place: Noida,India<br/>
 About: Btech student from JIIT<br/>
 Programming Languages: C,C++,python3<br/>
 email: ranjan.kushwaha456@gmail.com<br/>
+
 
 Name: [Kartik Singh](https://github.com/Kartik212112)<br/>
 Place: Patna,India<br/>
@@ -706,3 +713,4 @@ Name: [Felipe](https://github.com/ja1felipe)<br/>
 Place: Brazil<br/>
 About: I am studying computer science.<br/>
 Programming Language:Python, java<br/>
+
