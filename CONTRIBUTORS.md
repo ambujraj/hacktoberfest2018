@@ -616,6 +616,10 @@ Place: Taipei, Taiwan<br/>
 About: Graduate Student<br/>
 Programming Languages: Java, Python, C, C++, Javascript<br/>
 
+Name: [Alex Hanfland](https://github.com/Pillborn)<br/>
+Place: USA, Allen<br/>
+About: Graduate Student<br/>
+Programming Languages: None yeet!<br/>
 
 Name: [Michele Riva](https://github.com/micheleriva)<br />
 Place: Milan, Italy <br />
