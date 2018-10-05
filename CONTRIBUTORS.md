@@ -623,6 +623,14 @@ About: Machine Learning, Functional Programming, Web Development <br />
 Programming Languages: JavaScript, C++, Haskell, Scala, Python, Ruby
 
 
+
+Name: [Anushka Bhandari](https://github.com/anushkab)<br />
+Place: Delhi ,India <br />
+About: Undergraduate @IIITD <br />
+Programming Languages: Java, Python
+
+
+
 Name: [Mridul Aggarwal](https://github.com/Mridul97)<br />
 Place: New Delhi, India <br />
 About: Machine Learning Enthusiast <br />
@@ -639,4 +647,3 @@ Name: [Shreyansh Kulshreshtha](http://github.com/shreyanshkuls)<br />
 Place: Mandi, Himachal Pradesh, India<br />
 About: Undergraduate student, Music enthusiast, like programming<br />
 Programming Languages: C, C++<br/>
-
