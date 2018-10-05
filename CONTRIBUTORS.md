@@ -1,9 +1,13 @@
-Name: [Miftahul J.](https://github.com/jiadibo)<br/>
+﻿Name: [Miftahul J.](https://github.com/jiadibo)<br/>
 Place: Indonesia<br/>
 About: I'm moslem programmer<br/>
 Programming Language: Java, kotlin, flutter<br/>
 Email: jihad.strange@gmail.com<br/>
 
+Name: [Adit Mehta](https://github.com/aditmehta9)<br/>
+Place: Rajkot, Gujarat<br/>
+About: I am presently studying ICT at DA-IICT and I like contributing in open source organizations.<br/>
+Programming Language:C,C++,Java,Ruby,Chapel<br/>
 
 
 Name: [Sajjal](https://github.com/sajjalt)<br/>
