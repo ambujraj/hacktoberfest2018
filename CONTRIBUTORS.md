@@ -678,6 +678,12 @@ About: Undergraduate student, Music enthusiast, like programming<br />
 Programming Languages: C, C++<br />
 
 
+Name: [Rob Anderson](http://github.com/riznob)<br />
+Place: Beaverton, Oregon, USA<br />
+About: Father, althete, snowboarder, surfer, drummer<br />
+Programming Languages: Java, groovy, javascript, bash, python, php<br />
+
+
 Name: [abbusofyan](http://github.com/abbusofyan)<br />
 Place: Jakarta, Indonesia<br />
 About: Student at Gunadarma University, have a passion in programming<br />
