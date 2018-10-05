@@ -40,7 +40,7 @@
 </ul>
 
 ## Getting Started
-* Add Your Name to the CONTRIBUTORS.md file using following model
+* Add your name to the CONTRIBUTORS.md file using following model
 ```markdown
 Name: [YOUR NAME](Github Link)
 Place: city you belong to
