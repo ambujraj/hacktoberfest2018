@@ -63,3 +63,9 @@ Place: Singapore, SG
 About: I am currently a NUS undergraduate Year 2 Computer Science Student. My field of interest is towards Software Engineering and Mobile App Development.
 Programming Language: Java, C, HTML, CSS, Kotlin
 Email: josephlee050@gmail.com
+
+Name: [Salif Moin](https://github.com/salif-04)<br/>
+Place: Jamshedpur<br/>
+About: I am a Computer Science and Engineering student.<br/>
+Programming Language: Java, Python, C, C++, JavaScript<br/>
+Email: syedsalifmoin@gmail.com
