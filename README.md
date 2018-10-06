@@ -1,30 +1,31 @@
-## Hacktoberfest 2018
- Anyone can contribute to this repo to make their contribution to open-source on <a target="_blank" href="https://github.com/">Github</a>.<br>
- 
- Celebrate <a href="https://hacktoberfest.digitalocean.com/" target="_blank">HacktoberFest</a> by getting involved in the Open Source Community by completing some simple tasks in this project.<br>
- 
+# Hacktoberfest 2018
+
+ Anyone can contribute to this repo to make their contribution to open-source on [Github](https://github.com/).  
+  
+ Celebrate [HacktoberFest](https://hacktoberfest.digitalocean.com/) by getting involved in the Open Source Community by completing some simple tasks in this project.  
+  
  This is a Public Repository open to all members of the GitHub Community. Any member of the community may contribute to this project without being a collaborator.
- 
+
 ## What is Hacktoberfest?
 
  Hacktoberfest is a month long celebration of open source software held in the month of October to get people involved in <strong>open-source</strong>. This year's edition is presented by <a target="_blank" href="https://hacktoberfest.digitalocean.com/">DigitalOcean</a>, <a target="_blank" href="https://github.com/">GitHub</a> and <a target="_blank" href="https://www.twilio.com/">twilio</a>.
 
-<h2>Rules</h2>
+## Rules
  To get a T-shirt, you must make five pull requests between October 1–31 in any timezone. Pull requests can be to any public repo on GitHub, not just the ones we’ve highlighted. The pull request must contain commits you made yourself.
  <br><br>You can check your progress of HacktoberFest at <a target="_blank" href="https://hacktoberfest.digitalocean.com/stats/">this link</a><br><br><strong>Pull requests marked as spam will not be entitled for a T-shirt</strong>.
 
-<h2> List of Programs to work on </h2>
+## List of Programs to work on
 <ul>
 	<li>  - [ ] Hello World </li>
 	<li> - [ ] Searching Algorithms </li>
-		<li> - [ ] Linked list </li>
-		<li> - [ ] Stack </li>
-		<li> - [ ] Queue </li>
+	<li> - [ ] Linked list </li>
+	<li> - [ ] Stack </li>
+	<li> - [ ] Queue </li>
 	<li> - [ ] Traversal Algorithms </li>
-		<li> - [ ] Linked list </lI>
+	<li> - [ ] Linked list </lI>
 	<li> - [ ] Sorting Algorithms </li>
-		<li> - [ ] Linked list </li>
-		<li> - [ ] Queue </li>
+	<li> - [ ] Linked list </li>
+	<li> - [ ] Queue </li>
 	<li> - [ ] Random number algorithms </li>
 	<li> - [ ] Number reversal algorithms </li>
 	<lI> - [ ] Fibonacci Series </lI>
@@ -36,7 +37,6 @@
 	<li> - [ ] Create an arrow using CSS </li>
 	<li> - [ ] Convert roman numeral </li>
 	<li> - [ ] Telephone number validator</li>
-
 </ul>
 
 ## Getting Started

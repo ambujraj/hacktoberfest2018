@@ -6,14 +6,14 @@ import (
 )
 
 func reverse(num int64) int64 {
-	var ans, count int64
+	var answer, count int64
 	for num > 0 {
 		mod := num % 10
-		ans = 10*ans + mod
+		answer = 10*answer + mod
 		num = num / 10
 		count += 1
 	}
-	return ans
+	return answer
 }
 
 func main() {
