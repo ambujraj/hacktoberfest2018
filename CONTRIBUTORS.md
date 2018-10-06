@@ -814,3 +814,7 @@ Place: São Paulo, Brazil<br/>
 About: I am studying System development.<br/>
 Programming Language:PHP, Java, Pascal<br/>
 
+Name: [Trung Tran](https://github.com/tdtrung17693)<br/>
+Place: Can Tho, Vietnam<br/>
+About: I am currently a 1st year Computer Science student.<br/>
+Programming Languages: C, Python, Javascript, Erlang, PHP<br/>
