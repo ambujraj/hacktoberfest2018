@@ -5,6 +5,12 @@ About: Coding is life<br/>
 Programming Language: Html, CSS, JS<br/>
 Email: eskilryss@hotmail.com<br/>
 
+Name: [Rohit](https://github.com/rohitkumar-rk)<br/>
+Place: Jhansi, UP, India<br/>
+About: I'm pursuing 3rd Year CSE from BIET Jhansi.<br/>
+Programming Language: C, JavA <br/>
+Email: rohitdpskh@gmail.com<br/>
+
 
 Name: [Miftahul J.](https://github.com/jiadibo)<br/>
 Place: Indonesia<br/>
