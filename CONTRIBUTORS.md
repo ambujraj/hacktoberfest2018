@@ -1,3 +1,8 @@
+Name: [Ryssmo](https://github.com/Tanmay17)<br/>
+Place: India<br/>
+About: Coding is Poetry<br/>
+Programming Language: Java, JS, Ruby, C#<br/>
+Email: tanmays321@gmail.com<br/>
 
 Name: [Ryssmo](https://github.com/Ryssmo)<br/>
 Place: Norway<br/>
