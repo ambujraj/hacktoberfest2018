@@ -800,3 +800,10 @@ Name: [Felipe](https://github.com/ja1felipe)<br/>
 Place: Brazil<br/>
 About: I am studying computer science.<br/>
 Programming Language:Python, java<br/>
+
+
+Name: [Hugo](https://github.com/katyushi)<br/>
+Place: São Paulo, Brazil<br/>
+About: I am studying System development.<br/>
+Programming Language:PHP, Java, Pascal<br/>
+
