@@ -1,3 +1,10 @@
+Name: [Ryssmo](https://github.com/Ryssmo)<br/>
+Place: Norway<br/>
+About: Coding is life<br/>
+Programming Language: Html, CSS, JS<br/>
+Email: eskilryss@hotmail.com<br/>
+
+
 Name: [Miftahul J.](https://github.com/jiadibo)<br/>
 Place: Indonesia<br/>
 About: I'm moslem programmer<br/>
@@ -16,6 +23,14 @@ Name: [Adit Mehta](https://github.com/aditmehta9)<br/>
 Place: Rajkot, Gujarat<br/>
 About: I am presently studying ICT at DA-IICT and I like contributing in open source organizations.<br/>
 Programming Language:C,C++,Java,Ruby,Chapel<br/>
+
+Name: [Garima Chahar](https://github.com/garimahc15)<br/>
+Place: Mandi, India<br/>
+About: I am 1st year Electrical Engineering student at IIT Mandi, Mandi.<br/>
+Programming Languages: Python<br/>
+Email: b18114@students.iitmandi.ac.in<br/>
+
+
 
 Name: [Sajjal](https://github.com/sajjalt)<br/>
 Place: New Delhi<br/>
@@ -685,10 +700,63 @@ About: Undergraduate student, Music enthusiast, like programming<br />
 Programming Languages: C, C++<br />
 
 
+
 Name: [Daniel Dusek](https://github.com/dusekdan)
 Place: Brno, Czech Republic || Heraklion, Krete
 About: No one of consequence.
 Programming Language: It's not about languages, but about paradigms. So objective, procedural, lightly functional, hardly logical. <br />
+
+Name: [Sharan Narayan](http://github.com/sharan-nyn)<br />
+Place: Kochi, Kerala, India<br />
+About: B.Tech Student<br />
+Programming Languages: C, C++<br />
+
+
+Name: [Ahmet Burak Baraklı](http://github.com/ahmetburakbarakli)<br />
+Place: Ankara, Turkey <br />
+About: CS Undergrad Student at Middle East Technical University <br />
+Programming Languages: Java, C++, Python<br />
+
+
+
+Name: [Mayank Abhishek](https://github.com/abhishekmayank)
+Place: Bangalore, India
+About: Web Developer, Data Enthusiast
+Programming Language: Python, Javascript, PHP, R
+Email: mail.mabhishek@gmail.com
+
+
+Name: [Angelo Teoxon](http://github.com/ateoxon)<br />
+Place: Houston, TX<br />
+About: Undergrad CS major, enjoy web dev, data mining, and databases!!<br />
+Programming Languages: Python, Java, Javascript, PHP<br />
+
+
+Name: [bjellesma](https://github.com/bjellesma)
+Place: Massachusetts 
+About: Programmer, Captain Crunch devourer
+Programming Language: Python, JavaScript
+Email: william.jellesma@gmail.com
+
+
+Name: [yugesh baral](http://github.com/yogibrl)<br />
+Place: Bhaktapur, Nepal<br />
+About: To be Computer Engineer<br />
+Programming Languages: C, C++<br />
+
+
+
+Name: [Thaynnara Gonçalves](https://github.com/thaynnara007)<br/>
+Place: Campina Grande, Paraiba, Brasil<br/>
+About: I am a 3rd Year Computer Science student at UFCG (Universidade Federal de Campina Grande)<br/>
+Programming Languages: Python, Java, JavaScript, Prolog<br/>
+
+
+Name: [Canoi Gomes](https://github.com/canoi12)<br />
+Place: Natal, Brazil<br />
+About: IT Student<br />
+Programming Languages: C, C++, Lua, Python, JavaScript, C#, GML<br />
+Email: canoiaguiar@gmail.com<br />
 
 
 Name: [Gabriel Nobrega](https://github.com/gabrielomn)<br/>
