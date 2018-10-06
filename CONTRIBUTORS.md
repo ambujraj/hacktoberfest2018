@@ -1,3 +1,4 @@
+
 Name: [Ryssmo](https://github.com/Ryssmo)<br/>
 Place: Norway<br/>
 About: Coding is life<br/>
@@ -698,6 +699,13 @@ Name: [Shreyansh Kulshreshtha](https://github.com/shreyanshkuls)<br />
 Place: Mandi, Himachal Pradesh, India<br />
 About: Undergraduate student, Music enthusiast, like programming<br />
 Programming Languages: C, C++<br />
+
+
+Name: [Tafique](https://github.com/tafique)<br/>
+Place: Bhubanewswar<br/>
+About: I am presently studying Instrumentation and electronics  at College  of Engineering and Technology and love coding.<br/>
+Programming Language:C,C++,Python<br/>
+
 
 
 
