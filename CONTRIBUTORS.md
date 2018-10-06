@@ -19,6 +19,11 @@ About: I'm pursuing 3rd year from MNNIT Allahbad<br/>
 Programming Language: Java,C,C++<br/>
 Email: utkarsh22garg@gmail.com<br/>
 
+Name: [Eren Sertkaya](https://github.com/erensertkaya)<br/>
+Place: Turkey<br/>
+About: I'm web developer which develop passive-income projects<br/>
+Programming Language: Php,Javascript<br/>
+Email: eren.sertkaya.es@gmail.com<br/>
 
 Name: [Adit Mehta](https://github.com/aditmehta9)<br/>
 Place: Rajkot, Gujarat<br/>
