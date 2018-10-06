@@ -814,3 +814,10 @@ Place: São Paulo, Brazil<br/>
 About: I am studying System development.<br/>
 Programming Language:PHP, Java, Pascal<br/>
 
+
+
+Name: [Prashant kumar](https://github.com/koderproxy)<br/>
+Place: Dehradun, Uttarakhand<br/>
+About: Third year CSE,undergraduate Student<br/>
+Programming Languages: C,C++,java<br/>
+
