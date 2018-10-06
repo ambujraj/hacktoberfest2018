@@ -1,4 +1,4 @@
-class Fixnum
+
 
   # Constant variable with 'unique' roman numerals, plus some special cases (e.g. "IV, IX, XC, CM...")
   ROMANS = {  1000 => "M",
