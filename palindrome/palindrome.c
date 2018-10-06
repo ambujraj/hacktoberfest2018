@@ -3,8 +3,10 @@
 
 int main(int argc, char **argv) {
     if (argc < 2)
+    {
+        printf("Error ! No input found\n");
         return 1;
-
+    }
     int len = strlen(argv[1]), i, palindrome = 1;
     for (i = 0; i < (len + (len % 2) / 2); i++) {
         if (argv[1][i] != argv[1][(len - 1) - i]) {
