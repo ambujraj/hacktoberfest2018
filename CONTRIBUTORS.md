@@ -814,3 +814,7 @@ Place: São Paulo, Brazil<br/>
 About: I am studying System development.<br/>
 Programming Language:PHP, Java, Pascal<br/>
 
+Name: [YuviManral](https://github.com/YuviManral)<br/>
+Place: Punjab, India<br/>
+About: I am studying Electronics and Computer Engineering.<br/>
+Programming Language:C++, C, HTML, MySQL<br/>
