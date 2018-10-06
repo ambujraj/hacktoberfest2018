@@ -814,3 +814,9 @@ Place: São Paulo, Brazil<br/>
 About: I am studying System development.<br/>
 Programming Language:PHP, Java, Pascal<br/>
 
+
+
+Name: [Pijus](https://github.com/pijusrancevas)
+Place: Horsens, Denmark
+About: Software Engineer student
+Programming Language: Python, Javascript, JAVA (soon), C# 
