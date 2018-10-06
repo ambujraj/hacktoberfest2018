@@ -685,6 +685,13 @@ About: Undergraduate student, Music enthusiast, like programming<br />
 Programming Languages: C, C++<br />
 
 
+Name: [Mayank Abhishek](https://github.com/abhishekmayank)
+Place: Bangalore, India
+About: Web Developer, Data Enthusiast
+Programming Language: Python, Javascript, PHP, R
+Email: mail.mabhishek@gmail.com
+
+
 Name: [Angelo Teoxon](http://github.com/ateoxon)<br />
 Place: Houston, TX<br />
 About: Undergrad CS major, enjoy web dev, data mining, and databases!!<br />
