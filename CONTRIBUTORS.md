@@ -700,6 +700,12 @@ About: Undergraduate student, Music enthusiast, like programming<br />
 Programming Languages: C, C++<br />
 
 
+Name: [Sharan Narayan](http://github.com/sharan-nyn)<br />
+Place: Kochi, Kerala, India<br />
+About: B.Tech Student<br />
+Programming Languages: C, C++<br />
+
+
 Name: [Ahmet Burak Baraklı](http://github.com/ahmetburakbarakli)<br />
 Place: Ankara, Turkey <br />
 About: CS Undergrad Student at Middle East Technical University <br />
