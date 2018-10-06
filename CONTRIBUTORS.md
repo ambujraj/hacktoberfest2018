@@ -814,3 +814,7 @@ Place: São Paulo, Brazil<br/>
 About: I am studying System development.<br/>
 Programming Language:PHP, Java, Pascal<br/>
 
+Name: [Tanuj](https://github.com/tantrumXO)<br/>
+Place: Delhi, India<br/>
+About: A student, but a full-time procrastinator too.<br/>
+Programming Language: Python, JavaScript, Java<br/>
