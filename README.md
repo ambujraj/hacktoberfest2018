@@ -1,5 +1,5 @@
 ## Hacktoberfest 2018
- Anyone can contribute to this repo to make their contribution to open-source on <a target="_blank" href="https://github.com/">Github</a>.<br>
+ Anyone can contribute to this repo to make their contribution to open-source on <a target="_blank" href="https://github.com/">GitHub</a>.<br>
  
  Celebrate <a href="https://hacktoberfest.digitalocean.com/" target="_blank">HacktoberFest</a> by getting involved in the Open Source Community by completing some simple tasks in this project.<br>
  
@@ -42,7 +42,7 @@
 ## Getting Started
 * Add Your Name to the CONTRIBUTORS.md file using following model
 ```markdown
-Name: [YOUR NAME](Github Link)
+Name: [YOUR NAME](GitHub Link)
 Place: city you belong to
 About: Short Intro
 Programming Language: Which programming language do you know
