@@ -4,6 +4,11 @@ About: I'm moslem programmer<br/>
 Programming Language: Java, kotlin, flutter<br/>
 Email: jihad.strange@gmail.com<br/>
 
+Name: [Jahnavi Gupta.](https://github.com/janvig)<br/>
+Place: Gandhinagar, India<br/>
+About: I'm pursuing BTech in ICT at DA-IICT<br/>
+Programming Language: Java, C, C++, MATLAB, dart<br/>
+Email: guptajhnv@gmail.com<br/>
 
 Name: [Utkarsh Garg](https://github.com/utkarsh22garg)<br/>
 Place: Allahabad,India<br/>
