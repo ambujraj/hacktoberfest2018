@@ -702,3 +702,7 @@ Name: [Felipe](https://github.com/ja1felipe)<br/>
 Place: Brazil<br/>
 About: I am studying computer science.<br/>
 Programming Language:Python, java<br/>
+
+Name: [Aditi bansal](https://github.com/Aditibansal2603)<br/>
+Place: Rohtak,Haryana<br/>
+About: I am presently studying COE at THAPAR INSTITUTE OF ENGINEERING AND TECHNOLOGY.<br/>
