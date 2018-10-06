@@ -1,3 +1,8 @@
+Name: [Janvi Bhagiya](https://github.com/JSbahgiya)
+Place: Vadodara
+About: CS B.Tech second year student
+Programming Language: C,Java,C++
+Email: bhagiyajanvi@gmail.com
 
 Name: [Ryssmo](https://github.com/Ryssmo)<br/>
 Place: Norway<br/>
