@@ -814,3 +814,7 @@ Place: São Paulo, Brazil<br/>
 About: I am studying System development.<br/>
 Programming Language:PHP, Java, Pascal<br/>
 
+Name: [Rishi](https://github.com/rishiosaur)<br/>
+Place: Brampton, Canada</br>
+About: I'm 13, and am studying School.<br/>
+Programming Language:Javascript, TypeScript, Java<br/>
