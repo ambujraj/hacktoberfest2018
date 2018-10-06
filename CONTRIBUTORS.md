@@ -67,6 +67,10 @@ Place: Mumbai<br/>
 About: I am a computer engineer and loves coding.<br/>
 Programming Language:C,C++,Python<br/>
 
+Name: [Mehmet Sahin](https://github.com/mixemer)<br/>
+Place: NYC<br/>
+About: Really passionate about coding.<br/>
+Programming Language: C++, Wolfram Language, Python and JS<br/>
 
 Name: [Harsh Bhut](https://github.com/harshbhut42)<br/>
 Place: Gandhinagar<br/>
