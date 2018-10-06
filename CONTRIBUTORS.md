@@ -5,6 +5,11 @@ About: Coding is life<br/>
 Programming Language: Html, CSS, JS<br/>
 Email: eskilryss@hotmail.com<br/>
 
+Name: [Shubham Yadav](https://github.com/RaoShubham)<br/>
+Place: Allahabad,India<br/>
+About: I'm pursuing 3rd year from MNNIT Allahbad<br/>
+Programming Language: Java,C,C++,HTML,CSS<br/>
+Email: sy3974923@gmail.com<br/>
 
 Name: [Miftahul J.](https://github.com/jiadibo)<br/>
 Place: Indonesia<br/>
