@@ -1,4 +1,8 @@
-
+Name: [Smit Jasani](https://github.com/Smit2010)
+Place: Ahemdabad
+About: A B.Tech second year CS student
+Programming Language: Java,C,C++,Python
+Email: smitjasani12345@gmail.com
 Name: [Ryssmo](https://github.com/Ryssmo)<br/>
 Place: Norway<br/>
 About: Coding is life<br/>
