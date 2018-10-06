@@ -22,6 +22,10 @@ Place: New Delhi<br/>
 About: I am presently studying computer science at Thapar Institue of Engineering and Technology and love coding.<br/>
 Programming Language:C,C++,Python<br/>
 
+Name: [Aditi bansal](https://github.com/Aditibansal2603)<br/>
+Place: Rohtak,Haryana<br/>
+About: I am presently studying COE at THAPAR INSTITUTE OF ENGINEERING AND TECHNOLOGY.<br/>
+
 Name: [Sajjal Tiwari](https://github.com/sajjalt)<br/>
 Place: New Delhi<br/>
 
@@ -38,8 +42,6 @@ Favourite Languages: JS, C++
 Name: [Mohit Routela](https://github.com/mohitroutela)<br/>
 Place: Mumbai<br/>
 About: I am a computer engineer and loves coding.<br/>
-Programming Language:C,C++,Python<br/>
-
 
 Name: [Harsh Bhut](https://github.com/harshbhut42)<br/>
 Place: Gandhinagar<br/>
