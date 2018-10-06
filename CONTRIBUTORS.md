@@ -42,6 +42,11 @@ About: I am 1st year Electrical Engineering student at IIT Mandi, Mandi.<br/>
 Programming Languages: Python<br/>
 Email: b18114@students.iitmandi.ac.in<br/>
 
+Name: [Suraj Sharma](https://github.com/Iamsurajsharma)<br/>
+Place: New Delhi, India<br/>
+About: Developer who never forgets semicolon .<br/>
+Programming Languages: JavaScript, C, C++, Java <br/>
+Website: http://codeparadox.in <br/>
 
 
 Name: [Sajjal](https://github.com/sajjalt)<br/>
