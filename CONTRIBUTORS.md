@@ -685,6 +685,12 @@ About: Undergraduate student, Music enthusiast, like programming<br />
 Programming Languages: C, C++<br />
 
 
+Name: [Angelo Teoxon](http://github.com/ateoxon)<br />
+Place: Houston, TX<br />
+About: Undergrad CS major, enjoy web dev, data mining, and databases!!<br />
+Programming Languages: Python, Java, Javascript, PHP<br />
+
+
 Name: [bjellesma](https://github.com/bjellesma)
 Place: Massachusetts 
 About: Programmer, Captain Crunch devourer
