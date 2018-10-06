@@ -18,6 +18,11 @@ About: I'm pursuing 3rd year from MNNIT Allahbad<br/>
 Programming Language: Java,C,C++<br/>
 Email: utkarsh22garg@gmail.com<br/>
 
+Name: [Harsh Jain](https://github.com/hjain5164)<br/>
+Place: Indore, India<br/>
+About: I'm pursuing 3rd year from Medicaps University, Indore <br/>
+Programming Language: C, C++, Java, Python, JS<br/>
+Email: hjain5164@gmail.com<br/>
 
 Name: [Alex Wellnitz](https://github.com/n00d13)<br/>
 Place: Ellern, Germany<br/>
