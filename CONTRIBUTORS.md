@@ -694,11 +694,17 @@ About: undergraduate student<br/>
 Programming Languages: Java, Python, C#, Javascript <br/>
 
 
-Name: [Shreyansh Kulshreshtha](http://github.com/shreyanshkuls)<br />
+Name: [Shreyansh Kulshreshtha](https://github.com/shreyanshkuls)<br />
 Place: Mandi, Himachal Pradesh, India<br />
 About: Undergraduate student, Music enthusiast, like programming<br />
 Programming Languages: C, C++<br />
 
+
+
+Name: [Daniel Dusek](https://github.com/dusekdan)
+Place: Brno, Czech Republic || Heraklion, Krete
+About: No one of consequence.
+Programming Language: It's not about languages, but about paradigms. So objective, procedural, lightly functional, hardly logical. <br />
 
 Name: [Sharan Narayan](http://github.com/sharan-nyn)<br />
 Place: Kochi, Kerala, India<br />
