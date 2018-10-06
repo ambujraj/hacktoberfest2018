@@ -814,7 +814,7 @@ Place: São Paulo, Brazil<br/>
 About: I am studying System development.<br/>
 Programming Language:PHP, Java, Pascal<br/>
 
-Name: [Wisnu Febriadi](htpps://github.com/wfebriadi)<br/>
+Name: [Wisnu Febriadi](https://github.com/wfebriadi)<br/>
 Place: Kepulauan Riau, Indonesia<br/>
 About: Student at Universitas Maritim Raja Ali Haji<br/>
 Programming Language: PHP, Java<br/>
