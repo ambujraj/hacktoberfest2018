@@ -53,9 +53,13 @@ Email:
 ```markdown
 git clone https://github.com/your-username/hacktoberfest2018.git
 ```
-* Create a branch
+* Create a branch for a new feature
 ```markdown
-git checkout -b branch-name
+git checkout -b feature/branch-name
+```
+* Or if it's a bugfix to a file
+```markdown
+git checkout -b bugfix/branch-name
 ```
 * Make your changes (Choose from any task below)
 * Commit and Push
