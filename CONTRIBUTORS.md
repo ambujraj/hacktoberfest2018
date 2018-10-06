@@ -1,4 +1,4 @@
-Name: [Ryssmo](https://github.com/Tanmay17)<br/>
+Name: [Tanmay Srivastava](https://github.com/Tanmay17)<br/>
 Place: India<br/>
 About: Coding is Poetry<br/>
 Programming Language: Java, JS, Ruby, C#<br/>
