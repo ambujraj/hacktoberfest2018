@@ -814,3 +814,9 @@ Place: São Paulo, Brazil<br/>
 About: I am studying System development.<br/>
 Programming Language:PHP, Java, Pascal<br/>
 
+Name: [Jai Katiyar](https://github.com/jai37)  
+Place: Kanpur,India  
+About: currently pursuing B.Sc 
+Programming Language:C  
+Email: jaikatiyar420@gmail.com
+
