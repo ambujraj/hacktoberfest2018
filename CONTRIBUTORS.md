@@ -685,6 +685,13 @@ About: Undergraduate student, Music enthusiast, like programming<br />
 Programming Languages: C, C++<br />
 
 
+Name: [bjellesma](https://github.com/bjellesma)
+Place: Massachusetts 
+About: Programmer, Captain Crunch devourer
+Programming Language: Python, JavaScript
+Email: william.jellesma@gmail.com
+
+
 Name: [yugesh baral](http://github.com/yogibrl)<br />
 Place: Bhaktapur, Nepal<br />
 About: To be Computer Engineer<br />
