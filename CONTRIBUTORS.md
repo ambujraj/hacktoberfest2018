@@ -17,6 +17,14 @@ Place: Rajkot, Gujarat<br/>
 About: I am presently studying ICT at DA-IICT and I like contributing in open source organizations.<br/>
 Programming Language:C,C++,Java,Ruby,Chapel<br/>
 
+Name: [Garima Chahar](https://github.com/garimahc15)<br/>
+Place: Mandi, India<br/>
+About: I am 1st year Electrical Engineering student at IIT Mandi, Mandi.<br/>
+Programming Languages: Python<br/>
+Email: b18114@students.iitmandi.ac.in<br/>
+
+
+
 Name: [Sajjal](https://github.com/sajjalt)<br/>
 Place: New Delhi<br/>
 About: I am presently studying computer science at Thapar Institue of Engineering and Technology and love coding.<br/>
@@ -683,6 +691,7 @@ Name: [Shreyansh Kulshreshtha](http://github.com/shreyanshkuls)<br />
 Place: Mandi, Himachal Pradesh, India<br />
 About: Undergraduate student, Music enthusiast, like programming<br />
 Programming Languages: C, C++<br />
+
 
 
 Name: [Mayank Abhishek](https://github.com/abhishekmayank)
