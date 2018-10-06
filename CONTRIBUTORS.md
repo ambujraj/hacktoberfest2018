@@ -685,6 +685,12 @@ About: Undergraduate student, Music enthusiast, like programming<br />
 Programming Languages: C, C++<br />
 
 
+Name: [yugesh baral](http://github.com/yogibrl)<br />
+Place: Bhaktapur, Nepal<br />
+About: To be Computer Engineer<br />
+Programming Languages: C, C++<br />
+
+
 
 Name: [Thaynnara Gonçalves](https://github.com/thaynnara007)<br/>
 Place: Campina Grande, Paraiba, Brasil<br/>
@@ -727,4 +733,3 @@ Name: [Felipe](https://github.com/ja1felipe)<br/>
 Place: Brazil<br/>
 About: I am studying computer science.<br/>
 Programming Language:Python, java<br/>
-
