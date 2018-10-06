@@ -814,3 +814,9 @@ Place: São Paulo, Brazil<br/>
 About: I am studying System development.<br/>
 Programming Language:PHP, Java, Pascal<br/>
 
+
+Name: [Priyadarshan Singh](https://github.com/PDROJACK)
+Place: Delhi
+About: CS undergraduate
+Programming Language: Python,Javascript,C,C++
+Email: singhpd75@gmail.com
