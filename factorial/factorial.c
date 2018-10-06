@@ -3,15 +3,13 @@
 
 int main()
 {
-	int n; // No. for which Factorial is required
-	scanf("%d", &n);
-	int result = 1;
-	
+	long long int n; // No. for which Factorial is required
+	scanf("%lld", &n);
+	long long int result = 1;
 	while(n)
 	{result*=n;
 	n--;}
-
-	printf("%d\n", result);
+	printf("%lld\n", result);
 	return 0;
 }
 
