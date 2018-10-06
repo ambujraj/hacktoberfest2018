@@ -1,78 +1,110 @@
 #include<stdio.h>
-#include<conio.h>
-#define max 5
-void push(int stack[], int val);
-int pop(int stack[]);
-int peep(int stack[]);
-void display(int stack[]);
-int stack[max];
-int top = -1;
-int main(){
-int val, option;
-clrscr();
-do{
-printf("\n 1.PUSH");
-printf("\n 2.POP");
-printf("\n 3.PEEP");
-printf("\n 4.display");
-printf("\n\nenter your choice :");
-scanf("%d", &option);
-switch(option){
-case 1: printf("enter the value to be pushed");
-        scanf("%d", &val);
-		push(int stack, int val);
-		break;
-case 2: val= pop(stack);
-        printf("the value poped is: %d", val);
-		break;
-case 3: val=peep(stack);
-        printf("the top of the stack is: %d", val);
-		break;
-case 4: display(stack);
-        break;
-}} while(option != 5);
-return 0;
+#include<stdlib.h>
+
+typedef struct node {
+int data;
+struct node *next;
+}node;
+
+typedef struct//implementation of stack
+{
+	node *head;
+}STACK;
+
+
+void init(STACK *s)
+{
+	s->head=NULL;
 }
-void push(int stack[], int val){
-	if(top == max-1){
-		printf("stack is full");
+int isempty(STACK s)
+{
+	if(s.head==NULL)
+	{
+		return 1;
 	}
-	else{
-		top++;
-		stack[top] = val;
+	else
+	{
+		return 0;
 	}
 }
-int pop(int stack[]){
-	int val;
-	if(top == -1){
-		printf("stack is underflow");
+
+void push(STACK *s, int data)
+{
+	node *newnode=(node *)malloc(sizeof(node));
+	newnode->next=s->head;
+	newnode->data=data;
+	s->head=newnode;
+}
+
+int pop(STACK *s)
+{
+	if(isempty(*s))
+	{
+		printf("STACK UNDERFLOW!!!\n");
 		return -1;
 	}
-	else{
-		val= stack[top];
-		top--;
-		return val;
-	}
+	node *p=s->head;
+	s->head=(s->head)->next;
+	int temp=p->data;
+	free(p);
+	return temp;
 }
-int peep(int stack[]){
-	int val;
-	if(top== -1){
-		printf("stack is underflow");
+
+int peep(STACK s)
+{
+	if(isempty(s))
+	{
+		printf("STACK UNDERFLOW!!!\n");
 		return -1;
 	}
-	else{
-		val =stack[top];
-		return val;
-	}
+	return s.head->data;
 }
-void display(int stack[]){
-	int i;
-	if(top == -1){
-		printf("stack is underflow");
+
+void display(STACK s)
+{
+	if(isempty(s))
+	{
+		printf("STACK UNDERFLOW!!!\n");
+		return;
 	}
-	else{
-		for(i=top; i>=0; i--){
-			printf("the stack elements are: %d", stack[i]);
+	node *p=s.head;
+	while(p!=NULL)
+	{
+		printf("%d\n",p->data);
+		p=p->next;
+	}
+	printf("\n");
+}
+
+
+int main()
+{
+	STACK *s;
+	init(s);
+	int option,val;
+	do
+	{
+		printf("\n 1.PUSH");
+		printf("\n 2.POP");
+		printf("\n 3.PEEP");
+		printf("\n 4.display");
+		printf("\n 5.EXIT");
+		printf("\n\nenter your choice: ");
+		scanf("%d", &option);
+		switch(option)
+		{
+		case 1: printf("enter the value to be pushed: ");
+        	scanf("%d", &val);
+			push(s,val);
+			break;
+		case 2: val= pop(s);
+        	printf("the value popped is: %d", val);
+			break;
+		case 3: val=peep(*s);
+        	printf("The Top of the stack is: %d", val);
+			break;
+		case 4: display(*s);
+        	break;
 		}
-	}
+	} while(option != 5);
 }
