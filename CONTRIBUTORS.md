@@ -809,8 +809,9 @@ Programming Language:Python, java<br/>
 
 
 
-Name: [Hugo](https://github.com/katyushi)<br/>
-Place: São Paulo, Brazil<br/>
-About: I am studying System development.<br/>
-Programming Language:PHP, Java, Pascal<br/>
+
+Name: [Umar](https://github.com/umarsalman)<br/>
+Place: New Delhi, India<br/>
+About: Btech(CS).<br/>
+Programming Language:C,C++<br/>
 
