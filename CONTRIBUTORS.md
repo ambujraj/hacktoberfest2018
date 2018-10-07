@@ -1,4 +1,4 @@
-Name: [Rocarft](https://github.com/rocarft)<br/>
+﻿Name: [Rocarft](https://github.com/rocarft)<br/>
 Place: Georgia<br/>
 About: Music, Coding, Fun!<br/>
 Programming Language: Html, CSS, JS, C++, C#, Python<br/>
@@ -884,3 +884,10 @@ Place: Chennai, Tamil Nadu, IN
 About: A Data Enthusiast with 8+ Years of Experience in MS Office & AutoHotkey
 Programming Language: VBA, AHK, SQL(Basics), R(Basics) 
 Email: shyam.dragon89@gmail.com
+
+
+Name: [Payal Pandya](https://github.com/payPan22)
+Place: Pune, Maharashtra, In
+About: Software Developer
+Programming Language: C, C++, C#, Python
+Email: pandya.payal2212@gmail.com
