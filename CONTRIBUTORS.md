@@ -864,3 +864,8 @@ Place: Horsens, Denmark
 About: Software Engineer student
 Programming Language: Python, Javascript, JAVA (soon), C# 
 
+Name: [Dishant Rathi](https://github.com/dishantrathi)
+Place: Vadodara, Gujarat, In
+About: CS Undergraduate, Python Developer and ML Enthusiast
+Programming Language: Python3, Js, C++
+Email: dishantrathi97@gmail.com
