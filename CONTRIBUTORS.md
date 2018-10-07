@@ -877,3 +877,10 @@ Place: Vadodara, Gujarat, In
 About: CS Undergraduate, Python Developer and ML Enthusiast
 Programming Language: Python3, Js, C++
 Email: dishantrathi97@gmail.com
+
+
+Name: [MOHAMMAD WARIS](https://github.com/warisrao)
+Place: Noida, In
+About: Fullsatack Developer and Javascript Enthusiast
+Programming Language: Javascript, C++ , Python
+Email: mwarisrao@gmail.com
