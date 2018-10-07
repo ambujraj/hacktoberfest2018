@@ -877,3 +877,10 @@ Place: Vadodara, Gujarat, In
 About: CS Undergraduate, Python Developer and ML Enthusiast
 Programming Language: Python3, Js, C++
 Email: dishantrathi97@gmail.com
+
+
+Name: [Ansh Kapoor](https://github.com/dishantrathi)
+Place:Noida,Uttar Pradesh,India
+About: IT undergraduate,Artificial Intelligence enthusiast
+Programming Language:C,C++,Java,Javascript,HTML,CSS
+Email:ansh605@gmail.com
