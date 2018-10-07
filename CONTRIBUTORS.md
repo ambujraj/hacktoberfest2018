@@ -1,3 +1,10 @@
+
+Name: [Santino](https://github.com/santinohu)<br/>
+Place: Netherlands<br/>
+About: Software engineer student!<br/>
+Programming Language: Python, PHP, Java, PL/SQL<br/>
+Email: santino.b@live.nl<br/>
+
 Name: [Rocarft](https://github.com/rocarft)<br/>
 Place: Georgia<br/>
 About: Music, Coding, Fun!<br/>
@@ -800,7 +807,6 @@ Place: Horsens, Denmark<br/>
 About: Software Engineer student<br/>
 Programming Language: Python, Javascript, JAVA (soon), C# <br/>
 
-
 Name: [Anish Kumar Singh](https://github.com/anishkumarsingh93)<br/>
 Place: Gurugram, India<br/>
 About: Go Developer and Data Scientist looking out for real world challanges.<br/>
@@ -812,3 +818,21 @@ Place: Vadodara, Gujarat, In<br/>
 About: CS Undergraduate, Python Developer and ML Enthusiast<br/>
 Programming Language: Python3, Js, C++<br/>
 Email: dishantrathi97@gmail.com<br/>
+
+Name: [Shyam Sundar S](https://github.com/ShyamSundarShankar)<br/>
+Place: Chennai, Tamil Nadu, IN<br/>
+About: A Data Enthusiast with 8+ Years of Experience in MS Office & AutoHotkey<br/>
+Programming Language: VBA, AHK, SQL(Basics), R(Basics) <br/>
+Email: shyam.dragon89@gmail.com<br/>
+
+Name: [Payal Pandya](https://github.com/payPan22)<br/>
+Place: Pune, Maharashtra, In<br/>
+About: Software Developer<br/>
+Programming Language: C, C++, C#, Python<br/>
+Email: pandya.payal2212@gmail.com<br/>
+
+Name: [Tiago Bernardo](https://github.com/Tiago-OP)<br/>
+Place: London, UK<br/>
+About: Software Developer<br/>
+Programming Language: C#<br/>
+Email: tiagoxdxx@gmail.com<br/>
