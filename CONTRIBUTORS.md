@@ -10,11 +10,11 @@ About: Coding is life<br/>
 Programming Language: Html, CSS, JS<br/>
 Email: eskilryss@hotmail.com<br/>
 
-Name: [Md Inzamamul Haque](https://github.com/mihaque313)
-Place: Patna
-About: I love to code, solve programming problems. Currently workingas devOps engineer at Relevance lab, Bangalore.
-Programming Language: C, python, java, ruby, scala, JS, bash 
-Email: mihaque313@gmail.com
+Name: [Md Inzamamul Haque](https://github.com/mihaque313)<br/>
+Place: Patna<br/>
+About: I love to code, solve programming problems. Currently working as devOps engineer at Relevance lab, Bangalore.<br/>
+Programming Language: C, python, java, ruby, scala, JS, bash <br/>
+Email: mihaque313@gmail.com<br/>
 
 
 Name: [Miftahul J.](https://github.com/jiadibo)<br/>
