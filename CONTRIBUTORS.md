@@ -877,3 +877,9 @@ Place: Vadodara, Gujarat, In
 About: CS Undergraduate, Python Developer and ML Enthusiast
 Programming Language: Python3, Js, C++
 Email: dishantrathi97@gmail.com
+
+
+Name: [Iván Cordero](https://github.com/ivcoar)
+Place: Madrid, Spain
+About: Software Engineer student @ UPM
+Programming Language: C/C++, Python, Kotlin, Java
