@@ -826,6 +826,13 @@ About: I am studying System development.<br/>
 Programming Language:PHP, Java, Pascal<br/>
 
 
+Name: [Salif Moin](https://github.com/salif-04)<br/>
+Place: Jamshedpur<br/>
+About: I am a Computer Science and Engineering student.<br/>
+Programming Language: Java, Python, C, C++, JavaScript<br/>
+Email: syedsalifmoin@gmail.com
+
+
 
 Name: [Priyadarshan Singh](https://github.com/PDROJACK)
 Place: Delhi
@@ -844,4 +851,3 @@ Name: [Pijus](https://github.com/pijusrancevas)
 Place: Horsens, Denmark
 About: Software Engineer student
 Programming Language: Python, Javascript, JAVA (soon), C# 
-
