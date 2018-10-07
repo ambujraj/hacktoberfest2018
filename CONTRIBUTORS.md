@@ -879,6 +879,13 @@ Programming Language: Python3, Js, C++
 Email: dishantrathi97@gmail.com
 
 
+Name: [Shyam Sundar S](https://github.com/ShyamSundarShankar)
+Place: Chennai, Tamil Nadu, IN
+About: A Data Enthusiast with 8+ Years of Experience in MS Office & AutoHotkey
+Programming Language: VBA, AHK, SQL(Basics), R(Basics) 
+Email: shyam.dragon89@gmail.com
+
+
 Name: [Payal Pandya](https://github.com/payPan22)
 Place: Pune, Maharashtra, In
 About: Software Developer
