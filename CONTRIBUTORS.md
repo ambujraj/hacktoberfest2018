@@ -877,3 +877,9 @@ Place: Vadodara, Gujarat, In
 About: CS Undergraduate, Python Developer and ML Enthusiast
 Programming Language: Python3, Js, C++
 Email: dishantrathi97@gmail.com
+
+Name: [Janitha Rasanga](https://github.com/Janitha133)<br/>
+Place: Rathnapura, Sri Lanka<br/>
+About: University of Moratuwa<br/>
+Programming Language: C, Java, Js<br/>
+Email: janitharasanga133@gmail.com<br/>
