@@ -1,3 +1,9 @@
+Name: [Ishaan Goyal](https://github.com/Ishaan0905)<br/>
+Place: India<br/>
+About: Gaming, Coding, Foodie<br/>
+Programming Language: C, Python<br/>
+Email: ishaangoyalishaan@gmail.com<br/>
+
 Name: [Rocarft](https://github.com/rocarft)<br/>
 Place: Georgia<br/>
 About: Music, Coding, Fun!<br/>
