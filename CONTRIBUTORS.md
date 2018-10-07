@@ -877,3 +877,9 @@ Place: Vadodara, Gujarat, In
 About: CS Undergraduate, Python Developer and ML Enthusiast
 Programming Language: Python3, Js, C++
 Email: dishantrathi97@gmail.com
+
+Name: [Sejal Bhalla](https://github.com/sejaldel)
+Place: Ghaziabad, Uttar Pradesh, India
+About: CS undergraduate
+Programming Language: Python, Java
+Email: sejalgab@gmail.com
