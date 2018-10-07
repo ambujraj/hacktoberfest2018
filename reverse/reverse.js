@@ -1,6 +1,6 @@
 function reverse_number(n){
   const a = n.toString().split('').reverse().join('');
-  return parseInt(a) * Math.sign(n);
+  return parseInt(a, 10) * Math.sign(n);
 }
 
 // STEPS EXPLAINED
