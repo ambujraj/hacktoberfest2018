@@ -826,6 +826,13 @@ About: I am studying System development.<br/>
 Programming Language:PHP, Java, Pascal<br/>
 
 
+
+Name: [Priyadarshan Singh](https://github.com/PDROJACK)
+Place: Delhi
+About: CS undergraduate
+Programming Language: Python,Javascript,C,C++
+Email: singhpd75@gmail.com
+
 Name: [emekoi](https://github.com/emekoi)
 Place: antarctica
 About: i like programming but i can't finish anything
