@@ -28,6 +28,7 @@
 	<li> - [ ] Random number algorithms </li>
 	<li> - [ ] Number reversal algorithms </li>
 	<lI> - [ ] Fibonacci Series </lI>
+	<lI> - [ ] Nth Fibonacci Using Golden Ratio </lI>
 	<li> - [ ] Is palindrome a Number </li>
 	<li> - [ ] Is number a perfect square? </li>
 	<li> - [ ] Is string a pangram </li>
