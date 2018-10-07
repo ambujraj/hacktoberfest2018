@@ -1,3 +1,8 @@
+Name: [Nazaren0k](https://github.com/Nazaren0k)<br/>
+Place: Ukraine, Ivano-Frankivsk<br/>
+About: I am a 1st Year Software Engineer student at IFNTUOG<br/>
+Programming Languages: C, Java, SQL<br/>
+Email: nazarkhopta@gmail.com
 
 Name: [Santino](https://github.com/santinohu)<br/>
 Place: Netherlands<br/>
