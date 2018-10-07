@@ -1,3 +1,9 @@
+Name: [Himanshu Daga](https://github.com/himanshu-daga)<br/>
+Place: India<br/>
+About: Coding is fun!<br/>
+Programming Language: Html, CSS, JS, C, Python, Matlab, Java<br/>
+Email: hd11daga@gmail.com<br/>
+
 Name: [Rocarft](https://github.com/rocarft)<br/>
 Place: Georgia<br/>
 About: Music, Coding, Fun!<br/>
