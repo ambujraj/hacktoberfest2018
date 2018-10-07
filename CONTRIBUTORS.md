@@ -877,3 +877,8 @@ Place: Vadodara, Gujarat, In
 About: CS Undergraduate, Python Developer and ML Enthusiast
 Programming Language: Python3, Js, C++
 Email: dishantrathi97@gmail.com
+
+Name: [Luke594](https://github.com/Luke594)<br/>
+Place: Italy<br/>
+About: Programmer, developer, thinker<br/>
+Programming Language: Java, Scala, OCaml, Erlang, Python, Bash, C, Assembly, PHP, CSS, JavaScript, R<br/>
