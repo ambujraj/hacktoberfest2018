@@ -864,3 +864,8 @@ Place: Horsens, Denmark
 About: Software Engineer student
 Programming Language: Python, Javascript, JAVA (soon), C# 
 
+Name: [Ankit](https://github.com/PrajapatiAnkit)
+Place: Kanpur, UP India
+About: PHP Web Developer
+Programming Language: PHP, Javascript, JAVA
+
