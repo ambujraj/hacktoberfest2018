@@ -1,3 +1,15 @@
+Name: [Syed Nasim](https://github.com/hatlesshacker)<br/>
+Place: kolkata, india<br/>
+About: Coding, singing, writing<br/>
+Programming Language: PHP, C/C++, Java, SQL<br/>
+Email: nasim@warmachine.rf.gd<br/>
+
+Name: [Ryssmo](https://github.com/Ryssmo)<br/>
+Place: Norway<br/>
+About: Coding is life<br/>
+Programming Language: Html, CSS, JS<br/>
+Email: eskilryss@hotmail.com<br/>
+
 Name: [Rocarft](https://github.com/rocarft)<br/>
 Place: Georgia<br/>
 About: Music, Coding, Fun!<br/>
