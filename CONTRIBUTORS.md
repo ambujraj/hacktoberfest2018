@@ -826,6 +826,12 @@ About: I am studying System development.<br/>
 Programming Language:PHP, Java, Pascal<br/>
 
 
+Name: [Vilmos Hegyi](https://github.com/foxxydev)
+Place: Arad, Romania
+About: Computer Science student in his third year of studies, also full time Software Developer.
+Programming Language: C++, C#, Java, HTML/HTML5, CSS/CSS3, JavaScript, mySQL, PHP
+Email: foxxydevelopments@gmail.com
+
 Name: [Salif Moin](https://github.com/salif-04)<br/>
 Place: Jamshedpur<br/>
 About: I am a Computer Science and Engineering student.<br/>
@@ -851,3 +857,4 @@ Name: [Pijus](https://github.com/pijusrancevas)
 Place: Horsens, Denmark
 About: Software Engineer student
 Programming Language: Python, Javascript, JAVA (soon), C# 
+
