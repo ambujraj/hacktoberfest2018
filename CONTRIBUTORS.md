@@ -877,3 +877,9 @@ Place: Vadodara, Gujarat, In
 About: CS Undergraduate, Python Developer and ML Enthusiast
 Programming Language: Python3, Js, C++
 Email: dishantrathi97@gmail.com
+
+Name: [Alex M](https://github.com/roya3000)
+Place: Kiev, Ukraine
+About: Software engineer, game player
+Programming Language: javascript, golang
+Email: alexmix3000@gmail.com
