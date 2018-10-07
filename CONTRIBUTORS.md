@@ -1,4 +1,4 @@
-Name: [Rocarft](https://github.com/rocarft)<br/>
+﻿Name: [Rocarft](https://github.com/rocarft)<br/>
 Place: Georgia<br/>
 About: Music, Coding, Fun!<br/>
 Programming Language: Html, CSS, JS, C++, C#, Python<br/>
@@ -877,3 +877,10 @@ Place: Vadodara, Gujarat, In
 About: CS Undergraduate, Python Developer and ML Enthusiast
 Programming Language: Python3, Js, C++
 Email: dishantrathi97@gmail.com
+
+
+Name: [Payal Pandya](https://github.com/payPan22)
+Place: Pune, Maharashtra, In
+About: Software Developer
+Programming Language: C, C++, C#, Python
+Email: pandya.payal2212@gmail.com
