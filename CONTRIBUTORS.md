@@ -93,6 +93,11 @@ Place: Sai Gon, VN
 About: i'm newbie
 Programming Language: PHP, Python
 
+Name: [Mayank Devnani](https://github.com/may12day)<br/>
+Place: Jaipur <br/>
+About: I'm a computer science student and I love coding.<br/>
+Programming Language : C,C++,Java,Python3<br/>
+
 Name: https://github.com/D3D0X<br>
 Place: Dronten<br>
 About: Dutch Linux engineer<br>
@@ -767,7 +772,7 @@ Programming Languages: Python, Java, Javascript, PHP<br />
 
 
 Name: [bjellesma](https://github.com/bjellesma)
-Place: Massachusetts 
+Place: Massachusetts
 About: Programmer, Captain Crunch devourer
 Programming Language: Python, JavaScript
 Email: william.jellesma@gmail.com
@@ -866,7 +871,7 @@ Programming Language: c, zig, lua, nim, rust (kinda), java (kinda)
 Name: [Pijus](https://github.com/pijusrancevas)
 Place: Horsens, Denmark
 About: Software Engineer student
-Programming Language: Python, Javascript, JAVA (soon), C# 
+Programming Language: Python, Javascript, JAVA (soon), C#
 
 
 Name: [Anish Kumar Singh](https://github.com/anishkumarsingh93)
@@ -886,7 +891,7 @@ Email: dishantrathi97@gmail.com
 Name: [Shyam Sundar S](https://github.com/ShyamSundarShankar)
 Place: Chennai, Tamil Nadu, IN
 About: A Data Enthusiast with 8+ Years of Experience in MS Office & AutoHotkey
-Programming Language: VBA, AHK, SQL(Basics), R(Basics) 
+Programming Language: VBA, AHK, SQL(Basics), R(Basics)
 Email: shyam.dragon89@gmail.com
 
 
@@ -901,4 +906,3 @@ Place: London, UK
 About: Software Developer
 Programming Language: C#
 Email: tiagoxdxx@gmail.com
-
