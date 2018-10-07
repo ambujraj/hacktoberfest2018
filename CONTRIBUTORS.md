@@ -1,3 +1,8 @@
+Name: [Rocarft](https://github.com/rocarft)<br/>
+Place: Georgia<br/>
+About: Music, Coding, Fun!<br/>
+Programming Language: Html, CSS, JS, C++, C#, Python<br/>
+Email: cadeknight715@gmail.com<br/>
 
 Name: [Ryssmo](https://github.com/Ryssmo)<br/>
 Place: Norway<br/>
