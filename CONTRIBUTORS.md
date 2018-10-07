@@ -1,9 +1,20 @@
+Name: [Rocarft](https://github.com/rocarft)<br/>
+Place: Georgia<br/>
+About: Music, Coding, Fun!<br/>
+Programming Language: Html, CSS, JS, C++, C#, Python<br/>
+Email: cadeknight715@gmail.com<br/>
 
 Name: [Ryssmo](https://github.com/Ryssmo)<br/>
 Place: Norway<br/>
 About: Coding is life<br/>
 Programming Language: Html, CSS, JS<br/>
 Email: eskilryss@hotmail.com<br/>
+
+Name: [Md Inzamamul Haque](https://github.com/mihaque313)
+Place: Patna
+About: I love to code, solve programming problems. Currently workingas devOps engineer at Relevance lab, Bangalore.
+Programming Language: C, python, java, ruby, scala, JS, bash 
+Email: mihaque313@gmail.com
 
 
 Name: [Miftahul J.](https://github.com/jiadibo)<br/>
@@ -814,8 +825,29 @@ Place: São Paulo, Brazil<br/>
 About: I am studying System development.<br/>
 Programming Language:PHP, Java, Pascal<br/>
 
+
 Name: [Salif Moin](https://github.com/salif-04)<br/>
 Place: Jamshedpur<br/>
 About: I am a Computer Science and Engineering student.<br/>
 Programming Language: Java, Python, C, C++, JavaScript<br/>
 Email: syedsalifmoin@gmail.com
+
+
+
+Name: [Priyadarshan Singh](https://github.com/PDROJACK)
+Place: Delhi
+About: CS undergraduate
+Programming Language: Python,Javascript,C,C++
+Email: singhpd75@gmail.com
+
+Name: [emekoi](https://github.com/emekoi)
+Place: antarctica
+About: i like programming but i can't finish anything
+Programming Language: c, zig, lua, nim, rust (kinda), java (kinda)
+
+
+
+Name: [Pijus](https://github.com/pijusrancevas)
+Place: Horsens, Denmark
+About: Software Engineer student
+Programming Language: Python, Javascript, JAVA (soon), C# 
