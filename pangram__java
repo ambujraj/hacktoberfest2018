@@ -20,7 +20,7 @@ public static void main(String args[]) {
             set.add(c);
         }
 
-        System.out.println(set.size());
+        System.out.println("Size of the set: " + set.size());
         if(set.size() == 26)
            System.out.println("pangram");
         else
