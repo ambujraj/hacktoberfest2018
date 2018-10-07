@@ -1,3 +1,4 @@
+
 Name: [Santino](https://github.com/santinohu)<br/>
 Place: Netherlands<br/>
 About: Software engineer student!<br/>
@@ -68,11 +69,8 @@ Programming Language:C,C++,Python<br/>
 
 Name: [Sajjal Tiwari](https://github.com/sajjalt)<br/>
 Place: New Delhi<br/>
-
 About: I am presently studying computer engineering at Thapar Institue of Engineering and Technology and loves coding.<br/>
 Programming Language:C,C++ and a little bit of Python<br/>
-About: I am presently studying computer science at Thapar Institute of Engineering and Technology and loves coding.<br/>
-Programming Language:C,C++,Python<br/>
 
 Name: [Sanket Chaudhari](https://github.com/sanket143)<br />
 Place: Gandhinagar<br />
@@ -883,3 +881,17 @@ Place: Vadodara, Gujarat, In
 About: CS Undergraduate, Python Developer and ML Enthusiast
 Programming Language: Python3, Js, C++
 Email: dishantrathi97@gmail.com
+
+
+Name: [Shyam Sundar S](https://github.com/ShyamSundarShankar)
+Place: Chennai, Tamil Nadu, IN
+About: A Data Enthusiast with 8+ Years of Experience in MS Office & AutoHotkey
+Programming Language: VBA, AHK, SQL(Basics), R(Basics) 
+Email: shyam.dragon89@gmail.com
+
+
+Name: [Payal Pandya](https://github.com/payPan22)
+Place: Pune, Maharashtra, In
+About: Software Developer
+Programming Language: C, C++, C#, Python
+Email: pandya.payal2212@gmail.com
