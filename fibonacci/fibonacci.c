@@ -4,8 +4,16 @@ int main()
  int n1=0,n2=1,n3,i,number;    
  printf("Enter the number of elements:");    
  scanf("%d",&number);    
- printf("\n%d %d",n1,n2);//printing 0 and 1    
- for(i=2;i<number;++i)//loop starts from 2 because 0 and 1 are already printed    
+ if(number==0)           //if user only wants 1 number
+ { printf("\n%d",n1);
+    return;
+ }
+   if(number==1)               //if user wants only two numbers
+ { printf("\n%d %d",n1,n2);
+    return;
+ }
+  printf("\n%d %d",n1,n2);//printing 0 and 1    
+ for(i=3;i<number;i++)//loop starts from 2 because 0 and 1 are already printed    
  {    
   n3=n1+n2;    
   printf(" %d",n3);    
