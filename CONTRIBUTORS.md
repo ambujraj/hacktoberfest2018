@@ -1,3 +1,8 @@
+Name: [Bardr](https://github.com/Bardr)<br/>
+Place: Poland<br/>
+About: Student and software developer! Likes AI, anime and good beer.<br/>
+Programming Language: Python, C#, JS, HTML, CSS, TS, Prolog, Lisp<br/>
+Email: thokiworld@gmail.com<br/>
 
 Name: [Santino](https://github.com/santinohu)<br/>
 Place: Netherlands<br/>
