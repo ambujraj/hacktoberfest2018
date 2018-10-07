@@ -10,3 +10,11 @@ def palindrome(a):
     else:
         print(a, "not palindrome")
     
+
+num = input("\nType in the number: ")
+try:
+   n = int(num)
+except ValueError:
+   print("Please input an integer!")
+
+print(palindrome(n))

@@ -1,8 +1,17 @@
-def F(n):
-    if n == 0: return 0
-    elif n == 1: return 1
-    else: return F(n-1)+F(n-2)
+def fibo(n):  
+	if n <= 1:
+		return n
+	else:
+		return fibo(n-1) + fibo(n-2)
 
-if __name__ == '__main__':
-    num = int(input("Enter a number: "))
-    print(F(num))
+num = int(input("Enter a number: "))   
+
+if num < 2:  
+	print("0 1")
+elif num == 1:
+    print("0")
+elif num == 0:
+    print("Limit should be greater than 0") 
+else:  
+	for i in range(num):
+ 		print(fibo(i), end=' ')
