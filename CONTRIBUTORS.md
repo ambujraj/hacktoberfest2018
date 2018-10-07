@@ -895,3 +895,10 @@ Place: Pune, Maharashtra, In
 About: Software Developer
 Programming Language: C, C++, C#, Python
 Email: pandya.payal2212@gmail.com
+
+Name: [Tiago Bernardo](https://github.com/Tiago-OP)
+Place: London, UK
+About: Software Developer
+Programming Language: C#
+Email: tiagoxdxx@gmail.com
+
