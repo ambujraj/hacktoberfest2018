@@ -877,3 +877,9 @@ Place: Vadodara, Gujarat, In
 About: CS Undergraduate, Python Developer and ML Enthusiast
 Programming Language: Python3, Js, C++
 Email: dishantrathi97@gmail.com
+
+Name: [Hassan Murtaza](https://github.com/MrHassanMurtaza)
+Place: Islamabad, Pakistan
+About: DevOps Engineer
+Programming Language: Python, NodeJS, Bash, Batch, Java
+Email: mrhassanmurtaza@gmail.com
