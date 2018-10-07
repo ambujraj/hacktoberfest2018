@@ -826,6 +826,12 @@ About: I am studying System development.<br/>
 Programming Language:PHP, Java, Pascal<br/>
 
 
+
+Name: [Jiradeto](https://github.com/jiradeto)<br/>
+Place: Bolzano, Italy<br/>
+About: master student who enjoy coding.<br/>
+Programming Language:Ruby, Java, JavaScript<br/>
+
 Name: [Vilmos Hegyi](https://github.com/foxxydev)
 Place: Arad, Romania
 About: Computer Science student in his third year of studies, also full time Software Developer.
