@@ -877,3 +877,9 @@ Place: Vadodara, Gujarat, In
 About: CS Undergraduate, Python Developer and ML Enthusiast
 Programming Language: Python3, Js, C++
 Email: dishantrathi97@gmail.com
+
+Name: [Anudit Nagar](https://github.com/anuditnagar)<br/>
+Place: Noida, Uttar Pradesh, India<br/>
+About: CS Undergraduate, worked on multiple, cross platform projects as a lead full stack developer.<br/>
+Programming Language: Html, CSS, JS, C++, C#, Python<br/>
+Email: nagaranudit@gmail.com<br/>
