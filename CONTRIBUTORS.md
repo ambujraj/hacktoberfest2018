@@ -1,3 +1,8 @@
+Name: [Vishal Pouras](https://github.com/vishal-pouras)<br/>
+Place: India<br/>
+About: Computer Science Sophomore<br/>
+Programming Language: Python, C/C++, Java<br/>
+Email: vishalpouras@gmail.com<br/>
 
 Name: [Santino](https://github.com/santinohu)<br/>
 Place: Netherlands<br/>
