@@ -864,3 +864,8 @@ Place: Horsens, Denmark
 About: Software Engineer student
 Programming Language: Python, Javascript, JAVA (soon), C# 
 
+Name: [Anish Kumar Singh](https://github.com/anishkumarsingh93)
+Place: Gurugram, India
+About: Go Developer and Data Scientist looking out for real world challanges.
+Programming Language: Go,Python
+Email: anishkumarsingh93@gmail.com
