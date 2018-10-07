@@ -4,6 +4,12 @@ About: Music, Coding, Fun!<br/>
 Programming Language: Html, CSS, JS, C++, C#, Python<br/>
 Email: cadeknight715@gmail.com<br/>
 
+Name: [Jatin Aggarwal](https://github.com/jatinagg1)<br/>
+Place: India<br/>
+About: Music, Coding,Sports, Fun!<br/>
+Programming Language: Html, C++, C, SQL<br/>
+Email: jatinagg1@gmail.com<br/>
+
 Name: [Ryssmo](https://github.com/Ryssmo)<br/>
 Place: Norway<br/>
 About: Coding is life<br/>
