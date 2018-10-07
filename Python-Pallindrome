@@ -1,0 +1,13 @@
+no=input("Enter a number to check whether it is pallindrome or not")
+record=no;
+rev=0
+while no>0:
+  last=no%10
+  rev=rev*10+last
+  no=no/10
+no=record
+if rev==no:
+  print 'This is a Pallindrome number'
+else:
+  print 'This is not a Pallindrome number'
+  
