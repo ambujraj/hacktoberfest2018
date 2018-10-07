@@ -877,3 +877,9 @@ Place: Vadodara, Gujarat, In
 About: CS Undergraduate, Python Developer and ML Enthusiast
 Programming Language: Python3, Js, C++
 Email: dishantrathi97@gmail.com
+
+Name: [Dhruv](https://github.com/p0larstern)
+Place: Uttar Pradesh, India
+About: College student, still learning
+Programming Language: Python, HTML, C
+Email: paldhruv89@gmail.com
