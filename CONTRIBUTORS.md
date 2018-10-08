@@ -960,3 +960,10 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+
+Name: [Ziane Maamar](https://github.com/drxdesign)<br/>
+Place: Algeria<br/>
+About:  am a 26 year old self-taught Web and Graphics Designer.<br/>
+Programming Language: HTML, CSS, javaScript, jQuery, Python, Ruby, PHP<br/>
+Email: drx-design@hotmail.com<br/>
