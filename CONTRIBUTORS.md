@@ -1,3 +1,8 @@
+Name: [SnowyMan](https://github.com/SnowyMan)
+Place: Oahu, Hawaii
+About: Student at University of Hawaii learning software development
+Programming Language: C#
+Email: alphakowawa@gmail.com
 
 Name: [Bardr](https://github.com/Bardr)<br/>
 Place: Poland<br/>
