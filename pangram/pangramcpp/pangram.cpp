@@ -2,6 +2,7 @@
 #include <iostream>
 #include <string>
 #include <algorithm>
+#include <locale>
 #include "pangram.h"
 
 using namespace std;
@@ -14,7 +15,12 @@ temp("") { }
 
 bool Pangram::isPangram(string sentence){
 	int k = 0;
-	this->toLowerCase(sentence);
+
+	for(int l=0; l<sentence.length();l++){
+		tolower(sentence[l]);
+	}
+
+	cout << "sentence: " << sentence << endl;
 
 	for(int i = 0; i < sentence.length();i++) {
 		for(int j = 0; j < alphabet.length();j++){
@@ -43,10 +49,6 @@ bool Pangram::isLetterInTemp(char letter){
 		}
 	}
 	return false;
-}
-
-void Pangram::toLowerCase(string sent){
-
 }
 
 bool Pangram::isTempEqualToAlpha(string temp1){
