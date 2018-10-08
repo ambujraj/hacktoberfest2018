@@ -960,3 +960,8 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Jerodev](https://github.com/jerodev)<br/>
+Place: Belgium<br/>
+About: Full-Stack Web Developer<br/>
+Programming Language: C#, PHP, JavaScript<br/>
