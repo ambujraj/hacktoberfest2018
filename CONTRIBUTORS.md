@@ -1,4 +1,4 @@
-
+﻿
 Name: [Santino](https://github.com/santinohu)<br/>
 Place: Netherlands<br/>
 About: Software engineer student!<br/>
@@ -767,7 +767,7 @@ Programming Languages: Python, Java, Javascript, PHP<br />
 
 
 Name: [bjellesma](https://github.com/bjellesma)
-Place: Massachusetts 
+Place: Massachusetts
 About: Programmer, Captain Crunch devourer
 Programming Language: Python, JavaScript
 Email: william.jellesma@gmail.com
@@ -866,7 +866,7 @@ Programming Language: c, zig, lua, nim, rust (kinda), java (kinda)
 Name: [Pijus](https://github.com/pijusrancevas)
 Place: Horsens, Denmark
 About: Software Engineer student
-Programming Language: Python, Javascript, JAVA (soon), C# 
+Programming Language: Python, Javascript, JAVA (soon), C#
 
 
 Name: [Anish Kumar Singh](https://github.com/anishkumarsingh93)
@@ -886,7 +886,7 @@ Email: dishantrathi97@gmail.com
 Name: [Shyam Sundar S](https://github.com/ShyamSundarShankar)
 Place: Chennai, Tamil Nadu, IN
 About: A Data Enthusiast with 8+ Years of Experience in MS Office & AutoHotkey
-Programming Language: VBA, AHK, SQL(Basics), R(Basics) 
+Programming Language: VBA, AHK, SQL(Basics), R(Basics)
 Email: shyam.dragon89@gmail.com
 
 
@@ -902,3 +902,8 @@ About: Software Developer
 Programming Language: C#
 Email: tiagoxdxx@gmail.com
 
+Name: [Leonardo Sena](https://github.com/leosena21)<br/>
+Place: Salvador, Brazil<br/>
+About: Computer Engineer<br/>
+Programming Language: C#, Python<br/>
+Email: leeosena21@gmail.com<br/>
