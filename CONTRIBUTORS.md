@@ -948,6 +948,11 @@ About: Developer and Creative Technologist
 Programming Language: JavaScript
 Email: jewelljrscott@gmail.com
 
+Name: [Rama Shanker](https://github.com/rama0804)
+Place: Lucknow, India
+About: Coding and Networking
+Programming Language: Java
+Email: singhrama323@gmail.com
 
 Name: [0xjhow](https://github.com/0xjhow)
 Place: Recife
