@@ -902,3 +902,9 @@ About: Software Developer
 Programming Language: C#
 Email: tiagoxdxx@gmail.com
 
+Name: [Raul Almeida](https://github.com/haltsimog)
+Place: Curitiba, Brazil
+About: CS student at Federal University of Paraná
+Programming Language: C, Python
+Email: haltsimog@gmail.com
+
