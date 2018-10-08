@@ -1,3 +1,8 @@
+Name: [James Anderson](https://github.com/moodiest)
+Place: United Kingdom
+About: Student and Cryptocurrency Enthusiast.
+Programming Language: C#
+Email: james@eli.cx
 
 Name: [Bardr](https://github.com/Bardr)<br/>
 Place: Poland<br/>
