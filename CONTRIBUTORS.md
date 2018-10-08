@@ -960,3 +960,8 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [nikkaella](Github Link)
+Place: California, USA
+About: I'm a broke college student in UC Davis studying Computer Science
+Programming Language: C++, Java
