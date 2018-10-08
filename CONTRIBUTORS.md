@@ -960,3 +960,10 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Polkampally Keerthana](https://github.com/keerthanapolkampally)<br/>
+Place: Mangalore , Karnataka<br/>
+About: Computer Science Student and Machine Learning enthusiast<br/>
+Programming Language: c,c++,python<br/>
+Email: keerthana.keetu.p@gmail.com<br/>
+
