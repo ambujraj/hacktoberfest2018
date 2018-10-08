@@ -5,22 +5,24 @@
 
 using namespace std;
 
-Pangram::Pangram() : userInput(""), alphabet("abcdefghijklmnopqrstuvwxyz "),
+Pangram::Pangram() : userInput(""), alphabet("abcdefghijklmnopqrstuvwxyz"),
 temp("") { }
 
-Pangram::Pangram(string userInput) : userInput(userInput), alphabet("abcdefghijklmnopqrstuvwxyz "),
+Pangram::Pangram(string userInput) : userInput(userInput), alphabet("abcdefghijklmnopqrstuvwxyz"),
 temp("") { }
 
 bool Pangram::isPangram(string sentence){
-	bool allLettersUsed = false;
+	// bool allLettersUsed = false;
 	int k = 0;
 
 	for(int i = 0; i < sentence.length();i++) {
 		for(int j = 0; j < alphabet.length();j++){
 			if(sentence[i] == alphabet[j]){
 				cout << sentence[i] << " is in sentence" << endl;
-				if(this->isLetterInTemp(sentence[i]) == false){
+				// cout << "sentence.length(): " << sentence.length() << endl;
+				if(!this->isLetterInTemp(sentence[i])){
 					temp[k] = sentence[i];
+					cout << "temp[" << k << "]: " << temp[k] << endl;
 					k++;
 				}
 			}
@@ -29,9 +31,7 @@ bool Pangram::isPangram(string sentence){
 
 	this->printTemp(temp);
 
-	allLettersUsed = this->isTempEqualToAlpha(temp);
-
-	return allLettersUsed;
+	return this->isTempEqualToAlpha(temp);
 }
 
 // checks if the letter is already in the temp character array
@@ -45,35 +45,28 @@ bool Pangram::isLetterInTemp(char letter){
 }
  
 bool Pangram::isTempEqualToAlpha(string temp1){
-	bool idk = false;
+	cout << "temp1: " << temp1 << endl;
+	cout << "temp1.length(): " << temp1.length() << endl;
+	if(temp1.length() != alphabet.length()){
+		return false;
+	}
+	else{
+		sort(string temp1, string temp1+temp1.length());
 
-	for(int i = 0; i<temp.length();i++){
-		for(int j = 0; j < alphabet.length();j++){
-			if(temp[i] == alphabet[j]){
-				idk = true;
+		for(int i = 0; i<temp1.length();i++){
+			if(temp1[i]==alphabet[i]){
+				return true;
 			}
 			else{
-				idk = false;
-				goto endloop;
+				return false;
 			}
 		}
 	}
-
-endloop:
-	if(idk){
-		return true;
-	}
-	else {
-		return false;
-	}
-
 }
 
 void Pangram::printTemp(string temp2){
-	cout << "temp array: ";
-	for(int i = 0; i < temp2.length(); i++){
-		cout << temp2[i];
-	}
+	cout << "array: " << temp2 << endl;
+	cout << "alphabet: " << alphabet << endl;
 }
 
 int main() {
@@ -84,7 +77,7 @@ int main() {
 
 	Pangram p(user);
 
-	if(p.isPangram(user) == true){
+	if(p.isPangram(user)){
 		cout << user << " is a Pangram!" << endl;
 	}
 	else{

@@ -8,7 +8,7 @@ class Pangram {
 	private:
 		string userInput;
 		string alphabet;
-		string temp;
+		char temp[26];
 
 	public:
 		Pangram();
