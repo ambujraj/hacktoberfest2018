@@ -910,6 +910,13 @@ About: Software Developer
 Programming Language: C#
 Email: tiagoxdxx@gmail.com
 
+Name: [Jewell Scott](https://github.com/jewellscott)
+Place: city you belong to
+About: Developer and Creative Technologist
+Programming Language: JavaScript
+Email: jewelljrscott@gmail.com
+
+
 Name: [0xjhow](https://github.com/0xjhow)
 Place: Recife
 About: InfoSec professional
@@ -921,3 +928,4 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
