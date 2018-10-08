@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Prakhar Gupta](https://github.com/prakhar897)<br/>
+Place: India<br/>
+About: Student and software developer! Likes AI, anime and good beer.<br/>
+Programming Language: Python, JS, HTML, CSS,Java<br/>
+Email: prakhar897@gmail.com<br/>
