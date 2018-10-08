@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Helen Dias](https://github.com/HelenDias)<br/>
+Place: Brasil<br/>
+About: Full stack developer<br/>
+Programming Language: Javascript, Node, GraphQL, Vue.js, PHP, Python<br/>
+Email: helen@dev-next.com<br/>
