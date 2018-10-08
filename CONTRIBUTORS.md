@@ -902,3 +902,8 @@ About: Software Developer
 Programming Language: C#
 Email: tiagoxdxx@gmail.com
 
+Name: [Jewell Scott](https://github.com/jewellscott)
+Place: city you belong to
+About: Developer and Creative Technologist
+Programming Language: JavaScript
+Email: jewelljrscott@gmail.com
