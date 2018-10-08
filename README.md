@@ -3,7 +3,7 @@
  
  Celebrate <a href="https://hacktoberfest.digitalocean.com/" target="_blank">HacktoberFest</a> by getting involved in the Open Source Community by completing some simple tasks in this project.
  
- This is a Public Repository open to all members of the GitHub Community. Any member of the community may contribute to this project without being a collaborator.
+ This is a Public Repository open to all members of the GitHub Community. Any member of the community may contribute to this project without being a collaborator.</p>
  
 ## What is Hacktoberfest?
 
