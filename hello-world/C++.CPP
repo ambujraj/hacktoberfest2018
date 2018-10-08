@@ -1,11 +1,20 @@
-//Importing Standard Library iostream - required for input and output
 #include <iostream>
 
-//Removes the need to use std::
 using namespace std;
 
 int main()
 {
-    cout << "Hello world!"<<endl; //Prints Hello World and then a new line
-    
+	cout<<char('A' + 7);
+	cout<<char('a' + 4);
+	cout<<char('a' + 11);
+	cout<<char('a' + 11);
+	cout<<char('a' + 14);
+	cout<<char(32);
+	cout<<char('A' + 22);;
+	cout<<char('a' + 14);
+	cout<<char('a' + 17);
+	cout<<char('a' + 11);
+	cout<<char('a' + 3);
+	cout<<char(33);
+	cout<<endl;
 }
