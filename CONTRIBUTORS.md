@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Evan](https://github.com/evankim0528)<br/>
+Place: LA<br/>
+About: Computer Science Student.<br/>
+Programming Language: C/C++, JS, HTML/CSS, React, Node, Meteor, Express, Java, Python<br/>
+Email: evankim0528@gmail.com<br/>
