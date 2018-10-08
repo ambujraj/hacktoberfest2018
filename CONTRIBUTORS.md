@@ -111,6 +111,11 @@ Place: Sai Gon, VN
 About: i'm newbie
 Programming Language: PHP, Python
 
+Name: [Mayank Devnani](https://github.com/may12day)<br/>
+Place: Jaipur <br/>
+About: I'm a computer science student and I love coding.<br/>
+Programming Language : C,C++,Java,Python3<br/>
+
 Name: https://github.com/D3D0X<br>
 Place: Dronten<br>
 About: Dutch Linux engineer<br>
