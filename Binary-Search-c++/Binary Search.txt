@@ -6,7 +6,7 @@ int binarySearch(int *input,int beg,int end,int number){
     if(beg>end){
         return -1;
     }
-    int mid = (beg+end)/2;
+    int mid = beg+(end-beg)/2;    //To Prevent Overflow Error
     if(number == input[mid]){
         return mid;
     }
