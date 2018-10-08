@@ -17,6 +17,12 @@ About: Software engineer student!<br/>
 Programming Language: Python, C++, Swift<br/>
 Email: luojames52@gmail.com<br/>
 
+Name: [Lucas Gomes](https://github.com/lukasg18)<br/>
+Place: Brazil<br/>
+About: Software engineer student!<br/>
+Programming Language: Python, TypeScript, JavaScript<br/>
+Email: lukas.gomes2010@gmail.com<br/>
+
 Name: [Santino](https://github.com/santinohu)<br/>
 Place: Netherlands<br/>
 About: Software engineer student!<br/>
