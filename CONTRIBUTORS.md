@@ -960,3 +960,8 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Sedaboni](https://github.com/sedaboni)
+Place: Bologna, Italy
+About: Math student at University of Bologna
+Programming Language: Python, PHP, Javascript, Matlab
