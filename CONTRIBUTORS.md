@@ -929,6 +929,12 @@ About: Software Developer
 Programming Language: C#
 Email: tiagoxdxx@gmail.com
 
+Name: [Vinod J](https://github.com/VinodVJ)
+Place: Bangalore, India
+About: Software Engineer
+Programing Languages: Javascript, Java, Python
+Email: vinodj.2194@gmail.com
+
 Name: [Ankur Dubey](https://github.com/ankurdubey521)
 Place: Jharkhand, India
 About: Student at BIT Mesra
