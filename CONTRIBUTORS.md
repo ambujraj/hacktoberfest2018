@@ -960,3 +960,8 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Hidduh](https://www.github.com/Hidduh)
+Place: The Netherlands
+About: Student, Software Engineering
+Programming Language: C#, PHP, JS, Java, SQL and a bunch of other languages
