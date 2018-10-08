@@ -1,3 +1,10 @@
+
+Name: [Bardr](https://github.com/Bardr)<br/>
+Place: Poland<br/>
+About: Student and software developer! Likes AI, anime and good beer.<br/>
+Programming Language: Python, C#, JS, HTML, CSS, TS, Prolog, Lisp<br/>
+Email: thokiworld@gmail.com<br/>
+
 Name: [Vishal Pouras](https://github.com/vishal-pouras)<br/>
 Place: India<br/>
 About: Computer Science Sophomore<br/>
@@ -9,7 +16,6 @@ Place: Bay Area<br/>
 About: Software engineer student!<br/>
 Programming Language: Python, C++, Swift<br/>
 Email: luojames52@gmail.com<br/>
-
 
 
 Name: [Santino](https://github.com/santinohu)<br/>
