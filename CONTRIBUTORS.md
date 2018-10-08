@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Icaro Duarte](https://github.com/icarodgl)
+Place: Vitória, Brazil
+About: Information system
+Programming Language: Python, Java and  JS
+Email: icarodgl@gmail.com
