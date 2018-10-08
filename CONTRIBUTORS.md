@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Manglesh Saurabh](https://github.com/Manglesh123)<br/>
+Place: New Delhi, India<br/>
+About: ECE student 3rd year<br/>
+Programming Language: C#, Python,JS, Jquery,Django<br/>
+Email: mangleshsaurabh@gmail.com<br/>
