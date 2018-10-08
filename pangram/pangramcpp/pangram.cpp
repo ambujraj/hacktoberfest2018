@@ -1,19 +1,20 @@
 // A pangram is a sentence or verse that contains all the letters of the alphabet.
 #include <iostream>
 #include <string>
+#include <algorithm>
 #include "pangram.h"
 
 using namespace std;
 
-Pangram::Pangram() : userInput(""), alphabet("abcdefghijklmnopqrstuvwxyz"),
+Pangram::Pangram() : userInput(""), alphabet("abcdefghijklmnopqrstuvwxyz\0"),
 temp("") { }
 
-Pangram::Pangram(string userInput) : userInput(userInput), alphabet("abcdefghijklmnopqrstuvwxyz"),
+Pangram::Pangram(string userInput) : userInput(userInput), alphabet("abcdefghijklmnopqrstuvwxyz\0"),
 temp("") { }
 
 bool Pangram::isPangram(string sentence){
-	// bool allLettersUsed = false;
 	int k = 0;
+	this->toLowerCase(sentence);
 
 	for(int i = 0; i < sentence.length();i++) {
 		for(int j = 0; j < alphabet.length();j++){
@@ -43,15 +44,17 @@ bool Pangram::isLetterInTemp(char letter){
 	}
 	return false;
 }
- 
+
+void Pangram::toLowerCase(string sent){
+
+}
+
 bool Pangram::isTempEqualToAlpha(string temp1){
-	cout << "temp1: " << temp1 << endl;
-	cout << "temp1.length(): " << temp1.length() << endl;
 	if(temp1.length() != alphabet.length()){
 		return false;
 	}
 	else{
-		sort(string temp1, string temp1+temp1.length());
+		sort(temp1.begin(), temp1.end());
 
 		for(int i = 0; i<temp1.length();i++){
 			if(temp1[i]==alphabet[i]){

@@ -17,4 +17,5 @@ class Pangram {
 		bool isLetterInTemp(char let);
 		bool isTempEqualToAlpha(string temp1);
 		void printTemp(string temp2);
+		void toLowerCase(string sent);
 };
