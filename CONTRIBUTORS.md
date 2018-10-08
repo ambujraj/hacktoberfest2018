@@ -1,3 +1,8 @@
+Name: [Ricky](https://github.com/rickyli888)<br/>
+Place: Florida<br/>
+About: Computer Science student that likes basketball<br/>
+Programming Language: Java, C, Python<br/>
+Email: rickyli860@gmail.com<br/>
 
 Name: [Bardr](https://github.com/Bardr)<br/>
 Place: Poland<br/>
