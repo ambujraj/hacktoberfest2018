@@ -960,3 +960,8 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Sushant J](https://github.com/sushant-j)<br/>
+Place: Pune, MH (India)<br/>
+About: Software Engineer.<br/>
+Programming Language: Python, C#, JS, HTML, CSS, TS, Java, Kotlin<br/>
