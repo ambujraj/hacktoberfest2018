@@ -1,4 +1,4 @@
-
+﻿
 Name: [Bardr](https://github.com/Bardr)<br/>
 Place: Poland<br/>
 About: Student and software developer! Likes AI, anime and good beer.<br/>
@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Siddharth Dhanuka](https://github.com/siddhanuka)
+Place: Bengaluru
+About: Software Engineer
+Programming Language: Python
+Email: nonsense171@gmail.com
