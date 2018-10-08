@@ -1,4 +1,10 @@
 
+Name: [Hattou Faïssal](https://github.com/Bakhaw)<br/>
+Place: France<br/>
+About: Web developer. React lover.<br/>
+Programming Language: JS, HTML, CSS<br/>
+Email: faissal.hattou@gmail.com<br/>
+
 Name: [Bardr](https://github.com/Bardr)<br/>
 Place: Poland<br/>
 About: Student and software developer! Likes AI, anime and good beer.<br/>
