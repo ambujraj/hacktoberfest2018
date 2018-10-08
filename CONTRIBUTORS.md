@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Lokesh Raj Arora](https://github.com/lokiiarora)
+Place: Darjeeling, India<br/>
+About: Software Developer, likes working on web technologies and cool ideas<br/>
+Programming Language: JavaScript, Go, Python, Java<br/>
+Email: lokesh.slg06@gmail.com<br/>
