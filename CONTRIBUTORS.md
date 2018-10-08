@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Ovidiu Sabau](https://github.com/OvidiuSabau)</br>
+Place: Edinburgh, UK</br>
+About: 2nd year student</br>
+Programming Language: Python, Java, C++, Haskell, PHP</br>
+
