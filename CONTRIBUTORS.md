@@ -902,3 +902,8 @@ About: Software Developer
 Programming Language: C#
 Email: tiagoxdxx@gmail.com
 
+Name: [0xjhow](https://github.com/0xjhow)
+Place: Recife
+About: InfoSec professional
+Programming Language: bash script, Python and C
+Email:
