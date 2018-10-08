@@ -1,8 +1,10 @@
+
 Name: [jluo117](https://github.com/jluo117)<br/>
 Place: Bay Area<br/>
 About: Software engineer student!<br/>
 Programming Language: Python, C++, Swift<br/>
 Email: luojames52@gmail.com<br/>
+
 
 
 Name: [Santino](https://github.com/santinohu)<br/>
@@ -908,3 +910,8 @@ About: Software Developer
 Programming Language: C#
 Email: tiagoxdxx@gmail.com
 
+Name: [Leonardo Sena](https://github.com/leosena21)<br/>
+Place: Salvador, Brazil<br/>
+About: Computer Engineer<br/>
+Programming Language: C#, Python<br/>
+Email: leeosena21@gmail.com<br/>
