@@ -17,6 +17,12 @@ About: Software engineer student!<br/>
 Programming Language: Python, C++, Swift<br/>
 Email: luojames52@gmail.com<br/>
 
+Name: [Yash Kesarwani](https://github.com/YASHYK47)
+Place: Noida
+About: 2nd year student at JSSATE,Noida
+Programming Language: C,C++,NodeJs,HTML
+Email:yashky47@gmail.com
+
 Name: [Santino](https://github.com/santinohu)<br/>
 Place: Netherlands<br/>
 About: Software engineer student!<br/>
