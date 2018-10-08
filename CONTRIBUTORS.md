@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Chris](https://github.com/clerity85)<br/>
+Place: Singapore<br/>
+About: Analyst<br/>
+Programming Language: PHP<br/>
+Email: cravere@gmail.com<br/>
