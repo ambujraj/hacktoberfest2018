@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Pritam Piyush](https://github.com/pritampiyush5)<br/>
+Place: Patiala,India<br/>
+About: Electrical Engineering<br/>
+Programming Language: C,C++,Java netbeans<br/>
+Email: pritampiyush007@gmail.com<br/>
