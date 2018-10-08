@@ -960,3 +960,10 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+
+Name: [Pranjal Singh](https://github.com/pranjalsingh20)<br/>
+Place: Patiala, Punjab<br/>
+About: Elecrtonics & Communication Engineering<br/>
+Programming Language: C,C++ <br/>
+Email: pranjalpp01@gmail.com<br/>
