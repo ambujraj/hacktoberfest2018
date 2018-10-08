@@ -1,3 +1,8 @@
+Name: [Vishal Pouras](https://github.com/vishal-pouras)<br/>
+Place: India<br/>
+About: Computer Science Sophomore<br/>
+Programming Language: Python, C/C++, Java<br/>
+Email: vishalpouras@gmail.com<br/>
 
 Name: [jluo117](https://github.com/jluo117)<br/>
 Place: Bay Area<br/>
