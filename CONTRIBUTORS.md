@@ -960,3 +960,8 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Felipe Do E. Santo](https://github.com/felipez3r0)<br/>
+Place: Salvador, Brazil<br/>
+About: Professor<br/>
+Programming Language: C#, PHP<br/>
