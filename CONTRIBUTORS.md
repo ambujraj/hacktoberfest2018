@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Pedro VIcari](https://github.com/pvicari)<br/>
+Place: Brazil<br/>
+About: Student of Science Computer and Backend developer! <br/>
+Programming Language: Python, C, JS, HTML, CSS, Java<br/>
+Email: peehvicari@gmail.com<br/>
