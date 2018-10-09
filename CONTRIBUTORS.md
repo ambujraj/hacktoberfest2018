@@ -1,4 +1,4 @@
-
+﻿
 Name: [Bardr](https://github.com/Bardr)<br/>
 Place: Poland<br/>
 About: Student and software developer! Likes AI, anime and good beer.<br/>
@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Rudra](https://github.com/dynamite-bud)
+Place: Chandigarh,India
+About: CS student at Panjab University
+Programming Language: C/Cpp, Python, Javascript
+Email: r82941037@gmail.com
