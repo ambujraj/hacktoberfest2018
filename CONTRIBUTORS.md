@@ -67,6 +67,13 @@ Programming Language: Php,Javascript<br/>
 Email: eren.sertkaya.es@gmail.com<br/>
 
 
+Name: [Jerome Rumbaoa](https://github.com/jerumbaoa)<br/>
+Place: Philippines<br/>
+About: The game changer<br/>
+Programming Language: python<br/>
+Email: jerumbaoa@gmail.com<br/>
+
+
 Name: [Adit Mehta](https://github.com/aditmehta9)<br/>
 Place: Rajkot, Gujarat<br/>
 About: I am presently studying ICT at DA-IICT and I like contributing in open source organizations.<br/>
