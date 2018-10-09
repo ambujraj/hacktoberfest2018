@@ -5,6 +5,12 @@ About: Student and software developer! Likes AI, anime and good beer.<br/>
 Programming Language: Python, C#, JS, HTML, CSS, TS, Prolog, Lisp<br/>
 Email: thokiworld@gmail.com<br/>
 
+Name: [Bill Tanthowi Jauhari](https://github.com/billxcode)<br/>
+Place: Indonesia<br/>
+About: Iam Software Engineer in Technologue ID.<br/>
+Programming Language: Python, PHP<br/>
+Email: xcodebill@gmail.com<br/>
+
 Name: [Vishal Pouras](https://github.com/vishal-pouras)<br/>
 Place: India<br/>
 About: Computer Science Sophomore<br/>
