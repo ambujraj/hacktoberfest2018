@@ -17,6 +17,12 @@ About: Software engineer student!<br/>
 Programming Language: Python, C++, Swift<br/>
 Email: luojames52@gmail.com<br/>
 
+Name: [KyaaKats](https://github.com/KyaaKats)<br/>
+Place: Hawaii<br/>
+About: Computer engineering student!<br/>
+Programming Language: C#, C++, <br/>
+Email: betakowawa@gmail.com<br/>
+
 Name: [Santino](https://github.com/santinohu)<br/>
 Place: Netherlands<br/>
 About: Software engineer student!<br/>
