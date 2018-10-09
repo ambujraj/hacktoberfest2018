@@ -960,3 +960,8 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Rud156](https://github.com/Rud156)<br/>
+Place: India<br/>
+About: Student and Web/Game Developer.<br/>
+Programming Language: Python, C#, JS, C++<br/>
