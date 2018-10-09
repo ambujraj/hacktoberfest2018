@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [bronasek](https://github.com/bronasek)<br/>
+Place: Darlowo, Poland<br/>
+About: Learning how to code<br/>
+Programming Language: Java, JavaScript, C++<br/>
+Email: kamil.b.swider@gmail.com<br/>
