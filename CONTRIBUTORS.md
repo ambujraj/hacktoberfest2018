@@ -960,3 +960,10 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+
+Name: [Endrik Lelo](https://github.com/EndrikLelo)
+Place: Tirana, Albania
+About: Java Software Developer
+Programming Language: Java
+Email: lelo.endrik@gmail.com
