@@ -1,3 +1,10 @@
+﻿
+Name: [Osama Azmi](https://github.com/Samuelimza)<br/>
+Place: Dhanbad ,India<br/>
+About: Sophomore from IIT(ISM) Dhanbad<br/>
+Programming Language: Java, C, C++, python<br/>
+Email: osamaazmi1999@gmail.com<br/>
+
 
 Name: [Bardr](https://github.com/Bardr)<br/>
 Place: Poland<br/>
