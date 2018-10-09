@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Raúl Gil](https://github.com/raulgv)<br/>
+Place: Spain<br/>
+About: Student and software developer! Likes web dev and AI<br/>
+Programming Language: HTML, CSS, JS, Java, MySQL, PhP<br/>
+Email: raulgvega19@gmail.com<br/>
