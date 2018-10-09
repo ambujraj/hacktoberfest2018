@@ -71,5 +71,51 @@ public class Trie {
 		return this.searchWord(this.root, word);
 	}
 
+private boolean searchWord(Node parent, String word) {
+		if (word.length() == 0) {
+			if (parent.isTerminal) {
+				return true;
+			} else {
+				return false;
+			}
+		}
+		char cc = word.charAt(0);
+		String ros = word.substring(1);
+
+		Node child = parent.children.get(cc);
+		if (child == null) {
+			return false;
+		}
+		return this.searchWord(child, ros);
+	}
+
+	public void removeWord(String word) {
+		this.removeWord(this.root, word);
+	}
+
+	private void removeWord(Node parent, String word) {
+		if (word.length() == 0) {
+			if (parent.isTerminal) {
+				parent.isTerminal = false;
+				this.numWords--;
+			} else {
+
+			}
+			return;
+		}
+
+		char cc = word.charAt(0);
+		String ros = word.substring(1);
+
+		Node child = parent.children.get(cc);
+		if (child == null) {
+			return;
+		}
+		this.removeWord(child, ros);
+		if (!child.isTerminal && child.children.size() == 0) {
+			parent.children.remove(cc);
+		}
+
+	}
 
 }
