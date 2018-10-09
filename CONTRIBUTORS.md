@@ -23,6 +23,12 @@ About: Software engineer student!<br/>
 Programming Language: Python, PHP, Java, PL/SQL<br/>
 Email: santino.b@live.nl<br/>
 
+Name: [Chathurangi Jayawardana](https://github.com/ChathurangiJayawardana)<br/>
+Place: Colombo<br/>
+About: IT student<br/>
+Programming Language: Python, PHP, Java, c#,Html,css,JS<br/>
+Email: chathumahesha94@gmail.com<br/>
+
 Name: [Rocarft](https://github.com/rocarft)<br/>
 Place: Georgia<br/>
 About: Music, Coding, Fun!<br/>
