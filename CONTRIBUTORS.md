@@ -960,3 +960,10 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+
+Name: [Anjali Bansal](https://github.com/Anjibansal)<br/>
+Place: Delhi, India<br/>
+About: Pursuing Computer Science Engineering <br/>
+Programming Language: C++, HTML, CSS, Javacsript, Learning python and java<br/>
+Email: anjalibansal1104@gmail.com<br/>
