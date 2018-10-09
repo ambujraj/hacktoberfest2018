@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [George759](https://github.com/George759)<br/>
+Place: India<br/>
+About: Computer Science Sophomore<br/>
+Programming Language: Python, C/C++<br/>
+Email: georgevarghese722@gmail.com<br/>
