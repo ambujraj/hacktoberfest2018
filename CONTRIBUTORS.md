@@ -1,3 +1,9 @@
+Name: [Rohan Sharma](https://github.com/eXpErImEnTcoder)<br/>
+Place: India<br/>
+About: CS undergraduate. Experienced with web exploitation and cyber 
+security.<br/>
+Programming Language: C, C++, Python, JS.<br/>
+Email: rohansharma.rohan27@gmail.com<br/>
 
 Name: [Bardr](https://github.com/Bardr)<br/>
 Place: Poland<br/>
