@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Umar Farouq](https://github.com/humarh-dharnarh)<br/>
+Place: Accra, Ghana<br/>
+About: Developer and Designer<br/>
+Programming Language: C++, PHP, JavaScript, Python<br/>
+Email: upharouk@gmail.com<br/>
