@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Didier Valdez](https://github.com/xdidier901)<br/>
+Place: Hermosillo, México<br/>
+About: Software Engineer<br/>
+Programming Language: C#, JavaScript, Java<br/>
+Email: xdidier901@gmail.com<br/>
