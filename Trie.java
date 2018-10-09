@@ -56,6 +56,20 @@ public class Trie {
 	public void display() {
 		this.display(this.root, "");
 	}
+	private void display(Node node, String osf) {
+		if (node.isTerminal) {
+			String toPrint = osf.substring(1) + node.data;
+			System.out.println(toPrint);
+		}
+		Set<Map.Entry<Character, Node>> entries = node.children.entrySet();
+		for (Map.Entry<Character, Node> entry : entries) {
+			this.display(entry.getValue(), osf + node.data);
+		}
+	}
+
+	public boolean searchWord(String word) {
+		return this.searchWord(this.root, word);
+	}
 
 
 }
