@@ -960,3 +960,10 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+
+Name: [MeTeoRise](https://github.com/MeTeoRise)
+Place: Thessaloniki, Greece
+About: Electrical and Computer Engineer
+Programming Language: Python, Java, C, C++
+Email: teoleo777@hotmail.com
