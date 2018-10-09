@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Shaurya Bagga](https://github.com/shauryabagga)
+Place: Delhi, India
+About: Student at IIIT-Delhi, India, currently studying CS
+Programming Language: C++, Java, Python
+Email: shauryab56@gmail.com
