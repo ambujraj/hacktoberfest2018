@@ -1,3 +1,8 @@
+Name: [Janvi Bhagiya](https://github.com/JSbahgiya)
+Place: Vadodara
+About: CS B.Tech second year student
+Programming Language: C,Java,C++
+Email: bhagiyajanvi@gmail.com
 
 Name: [Bardr](https://github.com/Bardr)<br/>
 Place: Poland<br/>
