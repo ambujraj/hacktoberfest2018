@@ -948,6 +948,10 @@ About: Developer and Creative Technologist
 Programming Language: JavaScript
 Email: jewelljrscott@gmail.com
 
+Name: [Andreas](https://github.com/andreas-ra)
+Place: Hamburg
+About: Scientist, devoloper, weightlifter
+Programming Language: Java
 
 Name: [0xjhow](https://github.com/0xjhow)
 Place: Recife
