@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Marbille Juntado](https://github.com/MarbilleJuntado)<br/>
+Place: Metro Manila, Philippines<br/>
+About: Software Engineer<br/>
+Programming Language: Elixir, Javascript, Python<br/>
+Email: marbille.juntado@hotmail.ph<br/>
