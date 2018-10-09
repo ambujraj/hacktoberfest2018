@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Aditya Jeswani](https://github.com/AdityaJ42)
+Place: India
+About: Computer Engineer
+Programming Language: C, Python, Java
+Email: adit98@gmail.com
