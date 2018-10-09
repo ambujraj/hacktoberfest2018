@@ -1,3 +1,9 @@
+Name:[Brijesh Reddy](https://github.com/Brijesh097)</br>
+Place: Mumbai</br>
+About: I am a full stack web developer living in Tilak Nagar.</br>
+Programming Langauage: C,PHP,HTML,CSS,Python,JavaScript,Laravel</br>
+Email: brijesh.reddy15@siesgst.ac.in</br>
+
 
 Name: [Bardr](https://github.com/Bardr)<br/>
 Place: Poland<br/>
