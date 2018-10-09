@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [JanakPoojary](https://github.com/JanakPoojary)<br/>
+Place: Vadodara, Gujarat, India<br/>
+About: Computer Engineer<br/>
+Programming Language: C, C++, Java <br/>
+Email: janakrajpoojari@gmail.com<br/>
