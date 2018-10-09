@@ -467,6 +467,10 @@ Place: Allahabad
 About: Will do anything for free shirt
 Programming Language: C++, JS, Java
 
+Name: [Nancy H](https://github.com/nancynh)
+Place: Illinois
+About: CS student
+Programming Language: Java, C++
 
 Name: [Marlene Oliveira](https://github.com/m-oliv)
 Place: Lisbon, Portugal
@@ -479,7 +483,6 @@ Place: Elkins, WV, USA
 About: High School Graduate. Self teaching to be a programmer.
 Programming Languages: Java, C.
 Email: Yezhekel@ProtonMail.ch
-
 
 Name: [Tsaruk Alex](https://github.com/WildTiger404)<br/>
 Place: Minsk, Belarus<br/>
