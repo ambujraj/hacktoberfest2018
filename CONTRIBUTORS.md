@@ -960,3 +960,10 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+
+Name: [James Johnson](https://github.com/JVJohnson)<br/>
+Place: Columbia, SC
+About: CE major at UofSC
+Programming Language: Python, C++, Java
+Email: james.vinton.johnson@gmail.com

@@ -1,0 +1,5 @@
+Need numpy and opencv-python for python3
+"
+pip3 install numpy
+pip3 install opencv-python
+"
