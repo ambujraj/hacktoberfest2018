@@ -1,3 +1,8 @@
+Name: [SinghHimadri](https://github.com/SinghHimadri)<br/>
+Place: India<br/>
+About: IT Student<br/>
+Programming Language: Python, C, C++<br/>
+Email: himsingh1612@gmail.com@gmail.com<br/>
 
 Name: [Bardr](https://github.com/Bardr)<br/>
 Place: Poland<br/>
