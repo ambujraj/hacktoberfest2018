@@ -1,3 +1,8 @@
+Name: [guga katsiashvili](https://github.com/gugakatsi)<br/>
+Place: Georgia<br/>
+About: Software engineer , philantropist<br/>
+Programming Language: Kotlin, Java , Js ... <br/>
+Email: guga.katsiashvili@gmail.com<br/>
 
 Name: [Bardr](https://github.com/Bardr)<br/>
 Place: Poland<br/>
