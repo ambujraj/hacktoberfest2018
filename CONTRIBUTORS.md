@@ -60,6 +60,11 @@ Place: Ellern, Germany<br/>
 About: Software Developer from Germany<br/>
 Programming Language: C#, JS, Swift<br/>
 
+Name: [Arshdeep Singh Kawatra](https://github.com/arshdeepsk)<br/>
+Place: Patiala, India<br/>
+About: Front end web Developer, Programmer.<br/>
+Programming Language: C, C++, Python, CSS, JS<br/>
+
 Name: [Eren Sertkaya](https://github.com/erensertkaya)<br/>
 Place: Turkey<br/>
 About: I'm web developer which develop passive-income projects<br/>
