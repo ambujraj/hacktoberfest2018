@@ -1,4 +1,8 @@
 // A pangram is a sentence or verse that contains all the letters of the alphabet.
+
+// This program only works for sentences that don't have capital letters.
+// test cases still needed
+
 #include <iostream>
 #include <string>
 #include <algorithm>
@@ -16,13 +20,20 @@ temp("") { }
 bool Pangram::isPangram(string sentence){
 	int k = 0;
 
-	for(int l=0; l<sentence.length();l++){
-		tolower(sentence[l]);
-	}
+	// I tried to make it also work for capital letters
+	// locale loc;
 
-	cout << "sentence: " << sentence << endl;
+	// for(int l=0; l < sentence.length();l++){
+		// cout << tolower(sentence[l],loc);
+	// }
 
-	for(int i = 0; i < sentence.length();i++) {
+	// cout << "sentence: " << sentence << endl;
+
+	for(int i = 0; i < sentence.length();++i) {
+		if(sentence[i] == ' '){
+				cout << "sentence[i]: " << sentence[i] << endl;
+				i++;
+		}	
 		for(int j = 0; j < alphabet.length();j++){
 			if(sentence[i] == alphabet[j]){
 				cout << sentence[i] << " is in sentence" << endl;
@@ -52,12 +63,15 @@ bool Pangram::isLetterInTemp(char letter){
 }
 
 bool Pangram::isTempEqualToAlpha(string temp1){
+	// cout << "temp1: " << temp1.length() << endl;
+	// cout << "alphabet length :" << alphabet.length() << endl;
+	sort(temp1.begin(), temp1.end());
+	cout << "sorted: " << temp1 << endl; 
+	
 	if(temp1.length() != alphabet.length()){
 		return false;
 	}
 	else{
-		sort(temp1.begin(), temp1.end());
-
 		for(int i = 0; i<temp1.length();i++){
 			if(temp1[i]==alphabet[i]){
 				return true;
