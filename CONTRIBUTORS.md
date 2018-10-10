@@ -1,3 +1,9 @@
+Name: [Arsalan Azmi](http://github.com/lethalazo)
+Place: Aberystwyth
+About: Ai student at Aberystwyth university
+Programming Language: Java, Python, C, Cpp, Ruby, JavaScript, Haskell, 
+PHP
+Email: arsalanazmi@hotmail.com
 
 Name: [Bardr](https://github.com/Bardr)<br/>
 Place: Poland<br/>
