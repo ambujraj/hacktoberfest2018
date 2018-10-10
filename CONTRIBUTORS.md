@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+
+Name: [Samir](https://github.com/Qhsami)
+Place: TX, USA 
+About: .NET Developer 
+Programming Language: C#,JS,PHP 
