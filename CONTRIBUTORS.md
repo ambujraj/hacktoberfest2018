@@ -960,3 +960,10 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+
+Name: [pittyi2nd](https://github.com/pittyi2nd)
+Place: Japan
+About: Student
+Programming Language: Python3
+Email: simplepleple.hatena@gmail.com
