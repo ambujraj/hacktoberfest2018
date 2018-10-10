@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Prabhát Kumar](https://github.com/bart-bk)<br/>
+Place: Salvador, Brazil<br/>
+About: Software Engineer<br/>
+Programming Language: C#, Python, C, JavaScript, PHP, Java<br/>
+Email: bartkoliveira@gmail.com<br/>
