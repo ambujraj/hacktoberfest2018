@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Brendan Pettis](https://github.com/brendanpettis)
+Place: Milwaukee, WI
+About: Software Engineer | Student
+Programming Language: JavaScript, Python, Java, C#, C++
+Email: codemetheus@gmail.com
