@@ -1,3 +1,9 @@
+Name: [Vidit_Varshney](https://github.com/viditvarshney)<br>
+Place: Greater Noida , Uttar Pradesh, India <br>
+About: Student of Computer Science and Contributor to Open-Source
+Programming Language: Python , C 
+Email: viditvarshney222@gmail.com
+
 
 Name: [Bardr](https://github.com/Bardr)<br/>
 Place: Poland<br/>
