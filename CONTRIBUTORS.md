@@ -961,8 +961,8 @@ About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
 
-Name: [Apostolos Papadopoulos](https://github.com/ApostPap)
-Place: Thessaloniki, Greece
-About: Third year in college styding Computer Science.
-Programming Language: Java, C?
-Email: apostolos114@gmail.com
+Name: [Apostolos Papadopoulos](https://github.com/ApostPap)<br/>
+Place: Thessaloniki, Greece<br/>
+About: Third year in college styding Computer Science.<br/>
+Programming Language: Java, C<br/>
+Email: apostolos114@gmail.com<br/>
