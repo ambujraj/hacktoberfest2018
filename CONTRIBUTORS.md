@@ -78,7 +78,9 @@ About: I am 1st year Electrical Engineering student at IIT Mandi, Mandi.<br/>
 Programming Languages: Python<br/>
 Email: b18114@students.iitmandi.ac.in<br/>
 
-
+Name: [Michelle Lewis](https://github.com/tooblue)
+Place: Houston
+Programming Language: PHP, Javascript
 
 Name: [Sajjal](https://github.com/sajjalt)<br/>
 Place: New Delhi<br/>
