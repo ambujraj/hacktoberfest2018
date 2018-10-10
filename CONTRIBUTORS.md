@@ -11,6 +11,12 @@ About: Computer Science Sophomore<br/>
 Programming Language: Python, C/C++, Java<br/>
 Email: vishalpouras@gmail.com<br/>
 
+Name: [Sandeep](https://github.com/sandeepsanjusplr)<br/>
+Place: India<br/>
+About: CS graduate<br/>
+Programming Language: C,HTML,CSS<br/>
+Email: sandeepsanjusplr@gmail.com<br/>
+
 Name: [jluo117](https://github.com/jluo117)<br/>
 Place: Bay Area<br/>
 About: Software engineer student!<br/>
