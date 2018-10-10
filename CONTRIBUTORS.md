@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Sandy Edwards](https://github.com/slowbeam)
+Place: Hoboken, NJ USA
+About: Electronic music producer and artist turned web developer.
+Programming Language: Javascript, Ruby
+Email: sedwardscode@gmail.com
