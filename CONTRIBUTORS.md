@@ -23,6 +23,12 @@ About: Software engineer student!<br/>
 Programming Language: Python, PHP, Java, PL/SQL<br/>
 Email: santino.b@live.nl<br/>
 
+Name: [Satraan](https://github.com/satraan)<br/>
+Place: South Africa<br/>
+About: Junior java developer<br/>
+Programming Language: Java, Groovy, Grails<br/>
+Email: ms@ceave.co.za<br/>
+
 Name: [Rocarft](https://github.com/rocarft)<br/>
 Place: Georgia<br/>
 About: Music, Coding, Fun!<br/>
