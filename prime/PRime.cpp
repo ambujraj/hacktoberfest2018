@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cmath>
 using namespace std;
 
 int main()
@@ -8,8 +9,8 @@ int main()
 
   cout << "Enter a positive integer: ";
   cin >> n;
-
-  for(i = 2; i <= n / 2; ++i)
+  
+  for(i = 2; i <= sqrt(n); ++i)
   {
       if(n % i == 0)
       {
