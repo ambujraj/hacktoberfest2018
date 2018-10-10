@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Hari Charan](https://github.com/wolfharan)<br/>
+Place: Karnataka, India<br/>
+About: Computer Engineer<br/>
+Programming Language: C#, Python, PHP, Javascript<br/>
+Email: hari.rocker1299@gmail.com<br/>
