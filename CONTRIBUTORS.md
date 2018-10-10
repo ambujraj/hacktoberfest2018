@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Govind Dixit](https://github.com/GOVINDDIXIT)<br/>
+Place: Allahabad, India<br/>
+About: IT Student<br/>
+Programming Language: C++, c, Java, Kotlin, Python<br/>
+Email: govinddixit93@gmail.com<br/>
