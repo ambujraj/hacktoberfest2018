@@ -948,6 +948,11 @@ About: Developer and Creative Technologist
 Programming Language: JavaScript
 Email: jewelljrscott@gmail.com
 
+Name: [Samayita D. R. Scott](https://github.com/samayitadroughley)
+Place: Zurich
+About: Learning different languages
+Programming Language: C#, Python, JavaScript
+Email: samayita7145@gmail.com
 
 Name: [0xjhow](https://github.com/0xjhow)
 Place: Recife
