@@ -1,3 +1,6 @@
+// Written by: Nikka Yalung
+// Completed 10/09/2018
+
 #include <iostream>
 #include <cstdlib>
 #include <string>
