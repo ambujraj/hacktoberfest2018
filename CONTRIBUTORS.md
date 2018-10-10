@@ -1,3 +1,8 @@
+Name: [Gajendra Saraswat](https://github.com/saarques)<br/>
+Place: Bikaner, Rajasthan, India<br/>
+About: Student, Aspiring Data Scientist<br/>
+Programming Language: Python, C, C++<br/>
+Email: saraswatgajendra97@gmail.com<br/>
 
 Name: [Bardr](https://github.com/Bardr)<br/>
 Place: Poland<br/>
