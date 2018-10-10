@@ -663,6 +663,13 @@ Programming Languages: C, C++, Python, JavaScript<br/>
 Email: agoel00@gmail.com<br/>
 
 
+Name: [Rudra](https://github.com/dynamite-bud)
+Place: Chandigarh,India
+About: CS student at Panjab University
+Programming Language: C/Cpp, Python, Javascript
+Email: r82941037@gmail.com
+
+
 Name: [Kamakshi Behl](creative-computing-society.github.io)<br/>
 Place: Amritsar, India <br/>
 About: Computer engineering from Thapar University, Patiala<br/>
@@ -961,8 +968,4 @@ About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
 
-Name: [Rudra](https://github.com/dynamite-bud)
-Place: Chandigarh,India
-About: CS student at Panjab University
-Programming Language: C/Cpp, Python, Javascript
-Email: r82941037@gmail.com
+
