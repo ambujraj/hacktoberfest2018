@@ -960,3 +960,8 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name:[Himanshu Thanna](https://github.com/himanshuthanna)
+Place:Delhi,India
+About:TCS Employee
+Programming language:Java,C
