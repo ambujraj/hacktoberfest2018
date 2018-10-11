@@ -11,6 +11,12 @@ About: Computer Science Sophomore<br/>
 Programming Language: Python, C/C++, Java<br/>
 Email: vishalpouras@gmail.com<br/>
 
+Name: [Benchea Alexandru](https://github.com/Aquaryus01)
+Place: Romania
+About: Computer Science student
+Programming Language: Python, C++, Angular 6, Typescript, C, PHP
+Email: alexbenchea99@yahoo.com
+
 Name: [jluo117](https://github.com/jluo117)<br/>
 Place: Bay Area<br/>
 About: Software engineer student!<br/>
