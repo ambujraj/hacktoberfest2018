@@ -948,6 +948,11 @@ About: Developer and Creative Technologist
 Programming Language: JavaScript
 Email: jewelljrscott@gmail.com
 
+Name: [Mathew Carroll](https://github.com/raedryn)
+Place: Massachusetts, United States
+About: Amateur Developer
+Programming Language: HTML, Javascript
+Email: raedryn@gmail.com
 
 Name: [0xjhow](https://github.com/0xjhow)
 Place: Recife
