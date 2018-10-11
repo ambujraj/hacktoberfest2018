@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Gargi](https://github.com/gsrajadh)<br/>
+Place: Atlanta, USA<br/>
+About: Software Developer<br/>
+Programming Language: Go, Python<br/>
+Email: gargi.2812@gmail.com<br/>
