@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+
+Name: [rame54](https://github.com/rame54)
+Place: Milan, Italy
+About: It systems and network security student
+Programming Language: Assembly, python, c, php
