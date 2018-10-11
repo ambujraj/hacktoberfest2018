@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Rupna Maitra](https://github.com/zonex909)<br/>
+Place: Kolkata , West bengal , india<br/>
+About: Retired software developer<br/>
+Programming Language: C#, Python , ruby , lisp , cpp<br/>
+Email: killerdadu99@gmail.com<br/>
