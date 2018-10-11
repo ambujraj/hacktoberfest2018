@@ -960,3 +960,10 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+
+Name: [Anadi Kashyap](https://github.com/anadi198)
+Place: Kalyani, India
+About: 2nd year Computer Science student
+Programming Language: C, C++, Python
+Email:  anadi.kashyap1598@gmail.com
