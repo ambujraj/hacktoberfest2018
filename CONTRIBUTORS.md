@@ -961,7 +961,7 @@ About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
 
-Name: [M4l2tIlV](https://github.com/M4l2tIlV)
-Place: Around the World
-About: Developer 
-Programming Language: PYTHON,JS,PHP 
+Name: [M4l2tIlV](https://github.com/M4l2tIlV)<br/>
+Place: Around the World<br/>
+About: Developer <br/>
+Programming Language: PYTHON,JS,PHP<br/>
