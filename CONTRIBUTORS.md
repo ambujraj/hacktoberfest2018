@@ -91,6 +91,12 @@ Place: Ellern, Germany<br/>
 About: Software Developer from Germany<br/>
 Programming Language: C#, JS, Swift<br/>
 
+Name: [Collin Cates](https://github.com/collincates)<br/>
+Place: Los Angeles<br/>
+About: Software Developer<br/>
+Programming Language: Python<br/>
+Email: collin.cates@gmail.com<br/>
+
 Name: [Eren Sertkaya](https://github.com/erensertkaya)<br/>
 Place: Turkey<br/>
 About: I'm web developer which develop passive-income projects<br/>
