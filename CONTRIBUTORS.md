@@ -961,6 +961,6 @@ About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
 
-Name: [MisterX22](https://github.com/MisterX22/)
-Place: Lannion, France
-About: Still looking what is behind the hill
+Name: [MisterX22](https://github.com/MisterX22/)<br/>
+Place: Lannion, France<br/>
+About: Still looking what is behind the hill<br/>
