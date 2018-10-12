@@ -984,3 +984,9 @@ Place: Gwalior, India<br/>
 About: IT student at ABV - Indian Institute of Information Technology and Management, Gwalior<br/>
 Programming Languages: C++, C, JAVA, Ruby, Python, JavaScript, Golang<br/>
 Email: ari0997@gmail.com<br/>
+
+Name: [Furkan Göksel](https://github.com/FireHunter27)
+Place: Ankara, Turkey 
+About: Computer Engineering Student
+Programming Language: python, java, c, c++
+Email: furkan.goksel27@gmail.com
