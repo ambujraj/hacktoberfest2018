@@ -66,6 +66,11 @@ About: I'm web developer which develop passive-income projects<br/>
 Programming Language: Php,Javascript<br/>
 Email: eren.sertkaya.es@gmail.com<br/>
 
+Name: [Arthur Vasconcellos](https://github.com/arthursvpb)
+Place: João Pessoa, Brasil
+About: Hey! I am a computer science student from Brazil.
+Programming Language: C, Python and JavaScript.
+Email: contatoarthursilveira@gmail.com
 
 Name: [Adit Mehta](https://github.com/aditmehta9)<br/>
 Place: Rajkot, Gujarat<br/>
