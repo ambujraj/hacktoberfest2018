@@ -1157,3 +1157,9 @@ Place: Ankara, Turkey
 About: Computer Engineering Student
 Programming Language: python, java, c, c++
 Email: furkan.goksel27@gmail.com
+
+Name: [Eric Chen](https://github.com/LacticAcidCYC)
+Place: Los Angeles, US
+About: I am a graduate student major in Computer Science in University of Southern California
+Programming Language: C++, Java, JavaScript, PHP, Python
+Email: rsjcyc@gmail.com
