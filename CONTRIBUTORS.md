@@ -1157,3 +1157,9 @@ Place: Ankara, Turkey
 About: Computer Engineering Student
 Programming Language: python, java, c, c++
 Email: furkan.goksel27@gmail.com
+
+Name: [Cristi Cismas](https://github.com/cristicismas)
+Place: Reghin, Romania 
+About: Passionate self-taught web developer
+Programming Language: JavaScript, C#
+Email: cristicismas99@gmail.com
