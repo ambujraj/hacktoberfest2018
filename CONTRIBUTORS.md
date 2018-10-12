@@ -1,3 +1,8 @@
+Name: [Pradyumna Deshmukh](https://github.com/manasec)<br/>
+Place: INDIA</br>
+About: Crack->code->eat->sleep->coffee->repeat</br>
+Programming Language: C,C++,shell-script,html</br>
+Email: pradyumnad12@gmail.com</br>
 
 Name: [Gajendra Saraswat](https://github.com/saarques)<br/>
 Place: Bikaner, Rajasthan, India<br/>
