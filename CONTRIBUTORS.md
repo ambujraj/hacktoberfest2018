@@ -1157,3 +1157,9 @@ Place: Ankara, Turkey
 About: Computer Engineering Student
 Programming Language: python, java, c, c++
 Email: furkan.goksel27@gmail.com
+
+Name: [Raghu kamat](https://github.com/GeniusStorm)
+Place: Stamford, Connecticut 
+About: Software Engg
+Programming Language: Ruby, Elixir, Javascript
+Email: rgkamat21@gmail.com
