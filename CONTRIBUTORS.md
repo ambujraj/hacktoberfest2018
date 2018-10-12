@@ -765,8 +765,12 @@ Programming Languages: Java, Python, C, C++, Javascript<br/>
 Name: [Michele Riva](https://github.com/micheleriva)<br />
 Place: Milan, Italy <br />
 About: Machine Learning, Functional Programming, Web Development <br />
-Programming Languages: JavaScript, C++, Haskell, Scala, Python, Ruby
+Programming Languages: JavaScript, C++, Haskell, Scala, Python, Ruby<br/>
 
+Name: [Elaine Akemi](https://github.com/elaineakemi)<br />
+Place: Dublin, Ireland <br />
+About: Software Developer <br />
+Programming Languages: C#, ASP.NET, JavaScript<br/>
 
 Name: [Andrea](https://github.com/kaywinnet)<br />
 Place: Madrid, Spain <br />
