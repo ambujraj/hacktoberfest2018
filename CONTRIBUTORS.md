@@ -984,6 +984,12 @@ Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
 
 
+Name:[Himanshu Thanna](https://github.com/himanshuthanna)
+Place:Delhi,India
+About:TCS Employee
+Programming language:Java,C
+
+
 
 Name: [sakshi pareek](https://github.com/sakshipareek)</br>
 Place: Rajasthan, India</br>
