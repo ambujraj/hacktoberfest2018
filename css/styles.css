@@ -1,36 +1,35 @@
 @charset "UTF-8";
 h1 {
-	text-align:center;
-	font-size:2vw;
+	text-align: center;
+	font-size: 2vw;
 	font-family: Arial, Helvetica, sans-serif;
 
 }
 
 ul {
-		list-style-type: none;
-		background-color:#333333;
-		padding:0;
-		margin:0;
-		overflow:hidden;
+	list-style-type: none;
+	background-color: #333;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
 		
 }
 
 li {
-	float:left;
+	float: left;
  }
 
 li a {
-		text-decoration: none;
-		display:block;
-		padding:18px;
-		color:white;
-		text-align: center;
-		
+	text-decoration: none;
+	display: block;
+	padding: 18px;
+	color: #FFF;
+	text-align: center;
 }
 
 li a:hover{
-	background-color:#111111;
+	background-color: #111;
 }
 body {
-	background-image:url(landing.jpeg);
+	background-image: url(landing.jpeg);
 }
