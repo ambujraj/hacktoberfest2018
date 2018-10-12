@@ -977,6 +977,11 @@ About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
 
+Name: [Gargi](https://github.com/gsrajadh)<br/>
+Place: Atlanta, USA<br/>
+About: Software Developer<br/>
+Programming Language: Go, Python<br/>
+Email: gargi.2812@gmail.com<br/>
 
 Name: [Rupna Maitra](https://github.com/zonex909)<br/>
 Place: Kolkata , West bengal , india<br/>
