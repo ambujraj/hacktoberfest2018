@@ -972,6 +972,11 @@ Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
 
 
+Name: [Rosy Sanby](https://github.com/rosy-sanby)<br/>
+Place: Cape Town, South Africa<br/>
+About: Computer Engineer<br/>
+Programming Language: Javascript<br/>
+
 Name: [Paulo Bruny](https://github.com/pbruny)<br/>
 Place: Petrolina, Brazil<br/>
 About: Computer Engineering Student<br/>
