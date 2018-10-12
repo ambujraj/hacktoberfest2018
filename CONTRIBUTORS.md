@@ -1,3 +1,10 @@
+Name: [Arsalan Azmi](http://github.com/lethalazo)
+Place: Aberystwyth
+About: Ai student at Aberystwyth university
+Programming Language: Java, Python, C, Cpp, Ruby, JavaScript, Haskell, 
+PHP
+Email: arsalanazmi@hotmail.com
+
 Name: [Waqar Ahmed](https://github.com/waahm7)<br/>
 Place: Pakistan<br/>
 About: Computer sceince sutdent, intrested in logical & mathematical concepts.<br/>
@@ -9,6 +16,7 @@ Place: India<br/>
 About: Computer science student, excited about AI  and ML<br/>
 Programming Language:C, C++, JAVA, R, Python, JS, HTML, CSS<br/>
 Email: prakash.nath@students.iiit.ac.in<br/>
+
 
 Name: [Bardr](https://github.com/Bardr)<br/>
 Place: Poland<br/>
@@ -995,6 +1003,7 @@ Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
 
 
+
 Name: [Sandy Edwards](https://github.com/slowbeam)
 Place: Hoboken, NJ USA
 About: Electronic music producer and artist turned web developer.
@@ -1105,3 +1114,4 @@ Place: Ankara, Turkey
 About: Computer Engineering Student
 Programming Language: python, java, c, c++
 Email: furkan.goksel27@gmail.com
+
