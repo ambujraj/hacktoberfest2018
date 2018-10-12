@@ -992,6 +992,12 @@ About: CS student at Federal University of Paraná
 Programming Language: C, Python
 Email: haltsimog@gmail.com
 
+Name: [Christophoros](https://github.com/christophorosdk)
+Place: Copenhagen, Denmark
+About: Student
+Programming Language: Python
+Email: christoffer@chrisharrits.com
+
 Name: [Jewell Scott](https://github.com/jewellscott)
 Place: city you belong to
 About: Developer and Creative Technologist
