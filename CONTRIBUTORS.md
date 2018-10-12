@@ -984,6 +984,12 @@ Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
 
 
+Name: [Anadi Kashyap](https://github.com/anadi198)<br/>
+Place: Kalyani, India<br/>
+About: 2nd year Computer Science student<br/>
+Programming Language: C, C++, Python<br/>
+Email:  anadi.kashyap1598@gmail.com<br/>
+
 Name: [Jayesh Valbhani](https://github.com/jvalbhani)
 Place: Vadodara, India
 About: Student, Pursuing MS in Information Technology from DA-IICT. Back-end Develeoper
