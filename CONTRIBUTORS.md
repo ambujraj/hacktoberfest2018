@@ -1157,3 +1157,9 @@ Place: Ankara, Turkey
 About: Computer Engineering Student
 Programming Language: python, java, c, c++
 Email: furkan.goksel27@gmail.com
+
+Name: [Paul Flanagan](https://github.com/paultflanagan)
+Place: Chester, New Jersey
+About: Computer Science Student and Intern
+Programming Language: Java, Python, VBScript
+Email: paultflanagan@gmail.com
