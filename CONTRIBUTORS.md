@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Hitanshu Sahu](https://github.com/Phantom-Cluster)<br/>
+Place: Kanpur, India<br/>
+About: Developer, Designer<br/>
+Programming Language: Python, JS<br/>
+Email: hitansh.hacker1992@gmail.com<br/>
