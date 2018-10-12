@@ -995,6 +995,13 @@ Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
 
 
+Name: [Prabhát Kumar](https://github.com/bart-bk)<br/>
+Place: Salvador, Brazil<br/>
+About: Software Engineer<br/>
+Programming Language: C#, Python, C, JavaScript, PHP, Java<br/>
+Email: bartkoliveira@gmail.com<br/>
+
+
 Name: [Keshav Bhatia](https://github.com/keshav095)<br/>
 Place: delhi,india<br/>
 About: Computer Engineer<br/>
@@ -1092,3 +1099,4 @@ Place: Ankara, Turkey
 About: Computer Engineering Student
 Programming Language: python, java, c, c++
 Email: furkan.goksel27@gmail.com
+
