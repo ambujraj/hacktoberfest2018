@@ -587,9 +587,9 @@ About: Computer Science student at Federal University of Campina Grande (UFCG).<
 Programming Languages: C/C++, Java, Python, PHP, Haskell<br/>
 Email: lucasmed812@gmail.com<br/>
 
-Name: [Avinash Raghuthu](https://github.com/avinashraghuthu)l</br>
+Name: [Avinash Raghuthu](https://github.com/avinashraghuthu)</br>
 Place: India</br>
-About: Software Engineer.</br>
+About: Software Engineer</br>
 Programming Languages: Python, Java, C++</br>
 
 Name: [Vincent]()l</br>
