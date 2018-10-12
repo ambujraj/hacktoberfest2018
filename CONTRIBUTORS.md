@@ -960,3 +960,10 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+
+Name: [Paulo Bruny](https://github.com/pbruny)<br/>
+Place: Petrolina, Brazil<br/>
+About: Computer Engineering Student<br/>
+Programming Language: C, Javascript, Java<br/>
+Email: paulobruny@gmail.com<br/>
