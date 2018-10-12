@@ -1157,3 +1157,8 @@ Place: Ankara, Turkey
 About: Computer Engineering Student
 Programming Language: python, java, c, c++
 Email: furkan.goksel27@gmail.com
+
+Name: [Deumus74](https://github.com/Deumus74)
+Place: Berlin
+About: git newbee
+Programming Language: Python, Purebasic
