@@ -50,6 +50,29 @@ public:
             inorder(root->r);
         }
     }
+    
+    void preorder(node<t>*root)
+    {
+        if(root!=NULL)
+        {
+            t n = root->val;
+            cout<<"\t"<<n;
+            preorder(root->l);
+            preorder(root->r);
+        }
+    }
+    
+    
+    void postorder(node<t>*root)
+    {
+        if(root!=NULL)
+        {
+            postorder(root->l);
+            postorder(root->r);
+            t n = root->val;
+            cout<<"\t"<<n;
+        }
+    }
 
 };
 int main()
