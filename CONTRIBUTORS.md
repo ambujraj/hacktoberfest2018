@@ -1017,6 +1017,12 @@ Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
 
 
+Name: [Zakariya](https://github.com/f-zee)<br/>
+Place: GitHub :D<br/>
+About: Junior Android Developer<br/>
+Programming Language: Java, Python<br/>
+
+
 Name: [Apostolos Papadopoulos](https://github.com/ApostPap)<br/>
 Place: Thessaloniki, Greece<br/>
 About: Third year in college styding Computer Science.<br/>
