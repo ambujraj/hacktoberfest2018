@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Arvind Rachuri](https://github.com/arealdeadone)<br/>
+Place: Gwalior, India<br/>
+About: IT student at ABV - Indian Institute of Information Technology and Management, Gwalior<br/>
+Programming Languages: C++, C, JAVA, Ruby, Python, JavaScript, Golang<br/>
+Email: ari0997@gmail.com<br/>
