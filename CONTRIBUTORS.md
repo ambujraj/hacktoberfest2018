@@ -977,6 +977,13 @@ About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
 
+
+Name: [sakshi pareek](https://github.com/sakshipareek)</br>
+Place: Rajasthan, India</br>
+About: student </br>
+Programming language: python,java</br>
+Email: sakshi27pareek@gmail.com</br>
+
 Name: [Gargi](https://github.com/gsrajadh)<br/>
 Place: Atlanta, USA<br/>
 About: Software Developer<br/>
