@@ -1010,6 +1010,12 @@ Email: leeosena21@gmail.com<br/>
 
 
 
+Name: [Samir](https://github.com/Qhsami)
+Place: TX, USA 
+About: .NET Developer 
+Programming Language: C#,JS,PHP 
+
+
 Name: [Sandy Edwards](https://github.com/slowbeam)
 Place: Hoboken, NJ USA
 About: Electronic music producer and artist turned web developer.
@@ -1120,4 +1126,5 @@ Place: Ankara, Turkey
 About: Computer Engineering Student
 Programming Language: python, java, c, c++
 Email: furkan.goksel27@gmail.com
+
 
