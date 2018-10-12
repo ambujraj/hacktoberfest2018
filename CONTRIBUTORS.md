@@ -977,6 +977,12 @@ About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
 
+Name: [Gahan](https://github.com/gahan-nirmauni)<br/>
+Place: India<br/>
+About: Computer Engineer<br/>
+Programming Language: C, Python<br/>
+Email: 18mcec10@nirmauni.ac.in<br/>
+
 Name: [MisterX22](https://github.com/MisterX22/)<br/>
 Place: Lannion, France<br/>
 About: Still looking what is behind the hill<br/>
