@@ -26,7 +26,13 @@ Name: [Santino](https://github.com/santinohu)<br/>
 Place: Netherlands<br/>
 About: Software engineer student!<br/>
 Programming Language: Python, PHP, Java, PL/SQL<br/>
-Email: santino.b@live.nl<br/>
+Email: santino.b@live.nl<br
+
+Name: [Tharuja](https://github.com/Tharuja)<br/>
+Place: Sri lanka<br/>
+About: Software engineer student!<br/>
+Programming Language: Java ,React js,C<br/>
+Email: kmtsandeepanie@gmail.com<br/>
 
 Name: [Rocarft](https://github.com/rocarft)<br/>
 Place: Georgia<br/>
