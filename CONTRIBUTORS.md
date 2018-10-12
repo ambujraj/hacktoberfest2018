@@ -1157,3 +1157,9 @@ Place: Ankara, Turkey
 About: Computer Engineering Student
 Programming Language: python, java, c, c++
 Email: furkan.goksel27@gmail.com
+
+Name: [Qmitry](https://github.com/qmitry)
+Place: Moscow, Russia 
+About: Computer Engineer
+Programming Language: python, java, js
+Email: qmitry@gmail.com
