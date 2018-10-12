@@ -1,3 +1,10 @@
+
+Name: [Gajendra Saraswat](https://github.com/saarques)<br/>
+Place: Bikaner, Rajasthan, India<br/>
+About: Student, Aspiring Data Scientist<br/>
+Programming Language: Python, C, C++<br/>
+Email: saraswatgajendra97@gmail.com<br/>
+
 Name: [Arsalan Azmi](http://github.com/lethalazo)
 Place: Aberystwyth
 About: Ai student at Aberystwyth university
@@ -16,6 +23,7 @@ Place: India<br/>
 About: Computer science student, excited about AI  and ML<br/>
 Programming Language:C, C++, JAVA, R, Python, JS, HTML, CSS<br/>
 Email: prakash.nath@students.iiit.ac.in<br/>
+
 
 
 Name: [Bardr](https://github.com/Bardr)<br/>
