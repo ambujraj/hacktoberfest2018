@@ -1041,3 +1041,9 @@ Place: Ankara, Turkey
 About: Computer Engineering Student
 Programming Language: python, java, c, c++
 Email: furkan.goksel27@gmail.com
+
+Name: [Archisman Acharya](https://github.com/archieacharya)<br/>
+Place: Bhubaneswar, India<br/>
+About: CSE Undergrad who from VIT University. Loves Data Structures and Algorithms.<br/>
+Programming Language: Java, cpp, python<br/>
+Email: ada180497@gmail.com<br/>
