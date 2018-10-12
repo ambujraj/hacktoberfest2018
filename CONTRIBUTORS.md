@@ -1,3 +1,9 @@
+Name: [Waqar Ahmed](https://github.com/waahm7)<br/>
+Place: Pakistan<br/>
+About: Computer sceince sutdent, intrested in logical & mathematical concepts.<br/>
+Programming Language:C, C++, JAVA, Kotlin, Java<br/>
+Email: waahm7@gmail.com<br/>
+
 Name: [pnjha](https://github.com/pnjha)<br/>
 Place: India<br/>
 About: Computer science student, excited about AI  and ML<br/>
@@ -982,25 +988,6 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
-
-
-Name: [Anadi Kashyap](https://github.com/anadi198)<br/>
-Place: Kalyani, India<br/>
-About: 2nd year Computer Science student<br/>
-Programming Language: C, C++, Python<br/>
-Email:  anadi.kashyap1598@gmail.com<br/>
-
-Name: [Jayesh Valbhani](https://github.com/jvalbhani)
-Place: Vadodara, India
-About: Student, Pursuing MS in Information Technology from DA-IICT. Back-end Develeoper
-Programming Language: Java
-Email: jayeshvalbhani1711@gmail.com
-
-
-Name: [rame54](https://github.com/rame54)
-Place: Milan, Italy
-About: It systems and network security student
-Programming Language: Assembly, python, c, php
 
 
 Name: [LCaleb Conrad](https://github.com/ccconrad)<br/>
