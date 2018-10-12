@@ -960,3 +960,9 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Rafael Julio](https://github.com/h4ndshake)
+Place: São Paulo, Brazil
+About: Computer Engineer
+Programming Language: C/C++, Arduino, Web, .NET 4.5, Java, others.
+Email: rafael_julio@protonmail.com
