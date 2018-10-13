@@ -1237,3 +1237,7 @@ Place: Allahabad, India
 About: Computer Science Student with a youtube channel : Gamma Guy
 Programming Language: HTML, CSS, JS, Java
 Email: prasoonpandey24@yahoo.com
+
+Name: Aviral Chauhan(https://github.com/Aviralchauhan7)
+Place: Patiala, India
+About: Electronics & Communication Engineering student from Thapar Institute of Engineering & Technology
