@@ -60,6 +60,12 @@ About: Computer Science student
 Programming Language: Python, C++, Angular 6, Typescript, C, PHP
 Email: alexbenchea99@yahoo.com
 
+Name: [Bj&ouml;rn Kristensson Alfsson](https://github.com/BKristenssonAlfsson)<br/>
+Place: Sweden
+About: Computer programmer student
+Programming language: Java EE, JPA, SpringBoot, Hibernate, Angular 6, Typescript
+Email: bjorn.alfsson@gmail.com 
+
 Name: [jluo117](https://github.com/jluo117)<br/>
 Place: Bay Area<br/>
 About: Software engineer student!<br/>
