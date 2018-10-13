@@ -1165,3 +1165,8 @@ Place: Ankara, Turkey
 About: Computer Engineering Student
 Programming Language: python, java, c, c++
 Email: furkan.goksel27@gmail.com
+
+Name: [Ankush Mehta](https://github.com/Ankush3103)
+Place: Aurangabad, Delhi
+About: I am an ambitious coder and avid reader.
+Programming Language: HTML, CSS, RUBY, PYTHON
