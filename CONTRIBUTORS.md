@@ -1,3 +1,11 @@
+Name: [Aman Singh](https://github.com/AMANSINGH1998)<br/>
+Place: INDIA<br/>
+About: Student and Web developer! Likes AI.<br/>
+Programming Language: c++, JS, HTML, CSS<br/>
+Email: amansingh19981998@gmail.com<br/>
+
+
+
 
 Name: [Gajendra Saraswat](https://github.com/saarques)<br/>
 Place: Bikaner, Rajasthan, India<br/>
