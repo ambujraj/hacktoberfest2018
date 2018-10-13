@@ -957,6 +957,12 @@ About: Software Engineer student
 Programming Language: Python, Javascript, JAVA (soon), C#
 
 
+Name: [porpeeranut](https://github.com/porpeeranut)
+Place: Earth Planet
+About: Dev
+Programming Language: C
+
+
 Name: [Anish Kumar Singh](https://github.com/anishkumarsingh93)
 Place: Gurugram, India
 About: Go Developer and Data Scientist looking out for real world challanges.
