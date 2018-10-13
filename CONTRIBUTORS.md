@@ -1163,8 +1163,14 @@ About: IT student at ABV - Indian Institute of Information Technology and Manage
 Programming Languages: C++, C, JAVA, Ruby, Python, JavaScript, Golang<br/>
 Email: ari0997@gmail.com<br/>
 
-Name: [Furkan Göksel](https://github.com/FireHunter27)
-Place: Ankara, Turkey 
-About: Computer Engineering Student
-Programming Language: python, java, c, c++
-Email: furkan.goksel27@gmail.com
+Name: [Furkan Göksel](https://github.com/FireHunter27)<br/>
+Place: Ankara, Turkey<br/>
+About: Computer Engineering Student<br/>
+Programming Language: python, java, c, c++<br/>
+Email: furkan.goksel27@gmail.com<br/>
+
+Name: [Alvin Tandiardi](https://github.com/alvintan05)<br/>
+Place: DKI Jakarta, Indonesia<br/>
+About: Information Technology Student<br/>
+Programming Language: C++, Java<br/>
+Email: alvintandiardi@gmail.com<br/>
