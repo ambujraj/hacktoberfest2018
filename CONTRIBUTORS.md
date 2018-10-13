@@ -1198,3 +1198,9 @@ Name: Minu Kumari(https://github.com/minukumari)</br>
 Place: New Delhi</br>
 About: Student</br>
 Programming Languages: C, C++,python,HTML,CSS,JAVASCRIPT,Django</br>
+
+Name: Prasoon Pandey(https://github.com/GammaBurst101)
+Place: Allahabad, India
+About: Computer Science Student with a youtube channel : Gamma Guy
+Programming Language: HTML, CSS, JS, Java
+Email: prasoonpandey24@yahoo.com
