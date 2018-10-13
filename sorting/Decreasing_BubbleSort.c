@@ -37,7 +37,7 @@ int main()
     }
 
     //Sorted Array
-    printf("\n\Decreasing order:\n");
+    printf("\n\nDecreasing order:\n");
     for(i=0; i<Length; i++)
         printf("%i ", array[i]);
 
