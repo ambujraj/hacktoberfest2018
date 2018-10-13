@@ -1237,3 +1237,10 @@ Place: Allahabad, India
 About: Computer Science Student with a youtube channel : Gamma Guy
 Programming Language: HTML, CSS, JS, Java
 Email: prasoonpandey24@yahoo.com
+
+Name: [Victor Domiciano Mendonça](https://github.com/victordomiciano)
+Place: São Paulo, Brazil
+About: Computer Science Student at IME-USP
+Programming Language: C, Java, Python, GDScript
+Email: victor.dm3@gmail.com
+
