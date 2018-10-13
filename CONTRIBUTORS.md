@@ -4,6 +4,13 @@ About: Student and Web developer! Likes AI.<br/>
 Programming Language: c++, JS, HTML, CSS<br/>
 Email: amansingh19981998@gmail.com<br/>
 
+Name: [Jogi Miglani](https://github.com/jmig5776)<br/>
+Place: INDIA<br/>
+About: Mathematics and Computing student at IIT BHU and fitness freak.<br/>
+Programming Language: c++, python<br/>
+Email: jmig5776@gmail.com<br/>
+
+
 Name: [Yashraj Shrivastava](https://github.com/yashrj73)<br/>
 Place: Chennai, India<br/>
 About: Student Developer<br/>
