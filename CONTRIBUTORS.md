@@ -18,6 +18,12 @@ About: Mathematics and Computing student at IIT BHU and fitness freak.<br/>
 Programming Language: c++, python<br/>
 Email: jmig5776@gmail.com<br/>
 
+Name: [Dileep Senevirathne](https://github.com/IshankaDSenevirathne)<br/>
+Place: SRI LANKA<br/>
+About: Physics Student<br/>
+Programming Language: java,python<br/>
+Email: ishankadsnevrathne@gmail.com<br/>
+
 
 Name: [Yashraj Shrivastava](https://github.com/yashrj73)<br/>
 Place: Chennai, India<br/>
