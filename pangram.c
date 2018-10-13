@@ -34,3 +34,15 @@ void main()
     }
     getch();
 }
+/* Example
+Input-
+Enter the String:
+The quick brown fox jumps over the lazy dog.
+Output-
+The Entered String is a Pangram String.
+Input-
+Enter the String:
+I am a student.
+Output-
+The Entered String is not a Pangram String.
+*/
