@@ -4,6 +4,12 @@ About: Student and Web developer! Likes AI.<br/>
 Programming Language: c++, JS, HTML, CSS<br/>
 Email: amansingh19981998@gmail.com<br/>
 
+﻿Name: [Aminullah Taj Muhammad](https://github.com/AminullahTajMuhammad)<br/>
+Place: Pakistan<br/>
+About: Student and Software engineer! <br/>
+Programming Language: c, c++, java, HTML, CSS<br/>
+Email: aminullahtajmuhammad@gmail.com<br/>
+
 Name: [Yashraj Shrivastava](https://github.com/yashrj73)<br/>
 Place: Chennai, India<br/>
 About: Student Developer<br/>
