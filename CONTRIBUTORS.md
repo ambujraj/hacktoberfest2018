@@ -35,8 +35,6 @@ About: Computer science student, excited about AI  and ML<br/>
 Programming Language:C, C++, JAVA, R, Python, JS, HTML, CSS<br/>
 Email: prakash.nath@students.iiit.ac.in<br/>
 
-
-
 Name: [Bardr](https://github.com/Bardr)<br/>
 Place: Poland<br/>
 About: Student and software developer! Likes AI, anime and good beer.<br/>
@@ -957,10 +955,24 @@ About: Software Engineer student
 Programming Language: Python, Javascript, JAVA (soon), C#
 
 
+
+Name: [porpeeranut](https://github.com/porpeeranut)
+Place: Earth Planet
+About: Dev
+Programming Language: C
+
+
 Name: [Anish Kumar Singh](https://github.com/anishkumarsingh93)
 Place: Gurugram, India
 About: Go Developer and Data Scientist looking out for real world challanges.
 Programming Language: Go,Python
+
+
+
+Name: [Anish Kumar Singh](https://github.com/anishkumarsingh93)<br/>
+Place: Gurugram, India<br/>
+About: Go Developer and Data Scientist looking out for real world challanges.<br/>
+Programming Language: Go,Python<br/>
 Email: anishkumarsingh93@gmail.com
 
 
@@ -1174,3 +1186,8 @@ Place: Karawang, Indonesia
 About: Senior School Graduate from DPS Indonesia. Love tech and business.
 Programming Language: Java
 Email: dayitvagoel@gmail.com
+
+Name: Minu Kumari(https://github.com/minukumari)</br>
+Place: New Delhi</br>
+About: Student</br>
+Programming Languages: C, C++,python,HTML,CSS,JAVASCRIPT,Django</br>
