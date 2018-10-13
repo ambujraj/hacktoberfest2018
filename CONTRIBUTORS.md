@@ -1,11 +1,14 @@
-Name: [Aman Singh](https://github.com/AMANSINGH1998)<br/>
+﻿Name: [Aman Singh](https://github.com/AMANSINGH1998)<br/>
 Place: INDIA<br/>
 About: Student and Web developer! Likes AI.<br/>
 Programming Language: c++, JS, HTML, CSS<br/>
 Email: amansingh19981998@gmail.com<br/>
 
-
-
+Name: [Yashraj Shrivastava](https://github.com/yashrj73)<br/>
+Place: Chennai, India<br/>
+About: Student Developer<br/>
+Programming Language: C++, JS, Java, Python<br/>
+Email: yashraj699@gmail.com<br/>
 
 Name: [Gajendra Saraswat](https://github.com/saarques)<br/>
 Place: Bikaner, Rajasthan, India<br/>
