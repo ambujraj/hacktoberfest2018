@@ -4,6 +4,14 @@ About: Student and Web developer! Likes AI.<br/>
 Programming Language: c++, JS, HTML, CSS<br/>
 Email: amansingh19981998@gmail.com<br/>
 
+
+Name: [Aminullah Taj Muhammad](https://github.com/AminullahTajMuhammad)<br/>
+Place: Pakistan<br/>
+About: Student and Software engineer! <br/>
+Programming Language: c, c++, java, HTML, CSS<br/>
+Email: aminullahtajmuhammad@gmail.com<br/>
+
+
 Name: [Jogi Miglani](https://github.com/jmig5776)<br/>
 Place: INDIA<br/>
 About: Mathematics and Computing student at IIT BHU and fitness freak.<br/>
@@ -1187,6 +1195,20 @@ Place: Gwalior, India<br/>
 About: IT student at ABV - Indian Institute of Information Technology and Management, Gwalior<br/>
 Programming Languages: C++, C, JAVA, Ruby, Python, JavaScript, Golang<br/>
 Email: ari0997@gmail.com<br/>
+
+
+Name: [Furkan Göksel](https://github.com/FireHunter27)<br/>
+Place: Ankara, Turkey<br/>
+About: Computer Engineering Student<br/>
+Programming Language: python, java, c, c++<br/>
+Email: furkan.goksel27@gmail.com<br/>
+
+Name: [Alvin Tandiardi](https://github.com/alvintan05)<br/>
+Place: DKI Jakarta, Indonesia<br/>
+About: Information Technology Student<br/>
+Programming Language: C++, Java<br/>
+Email: alvintandiardi@gmail.com<br/>
+
 
 Name: [Furkan Göksel](https://github.com/FireHunter27)
 Place: Ankara, Turkey 
