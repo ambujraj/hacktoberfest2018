@@ -1237,3 +1237,9 @@ Place: Allahabad, India
 About: Computer Science Student with a youtube channel : Gamma Guy
 Programming Language: HTML, CSS, JS, Java
 Email: prasoonpandey24@yahoo.com
+
+Name: [Patrick Bateman](https://github.com/pbateman828)<br/>
+Place: South Carolina, USA<br/>
+About: Junior Developer<br/>
+Programming Language: Rust<br/>
+Email: pbateman828@gmail.com<br/>
