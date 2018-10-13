@@ -1157,3 +1157,9 @@ Place: Ankara, Turkey
 About: Computer Engineering Student
 Programming Language: python, java, c, c++
 Email: furkan.goksel27@gmail.com
+
+Name: [Lucas Marinzeck](https://github.com/Lucas-Marinzeck)<br/>
+Place: Ribeirão Preto, Brazil<br/>
+About: CS Student<br/>
+Programming Language: C#, C<br/>
+Email: lucasmarinzeck@gmail.com<br/>
