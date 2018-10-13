@@ -1181,6 +1181,12 @@ About: Computer Engineering Student
 Programming Language: python, java, c, c++
 Email: furkan.goksel27@gmail.com
 
+Name: [Dayitva Goel](https://github.com/Dayitva)
+Place: Karawang, Indonesia
+About: Senior School Graduate from DPS Indonesia. Love tech and business.
+Programming Language: Java
+Email: dayitvagoel@gmail.com
+
 Name: Minu Kumari(https://github.com/minukumari)</br>
 Place: New Delhi</br>
 About: Student</br>
