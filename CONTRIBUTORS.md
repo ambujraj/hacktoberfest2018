@@ -1198,6 +1198,12 @@ Programming Language: python, java, c, c++
 Email: furkan.goksel27@gmail.com
 
 
+Name: [Deumus74](https://github.com/Deumus74)
+Place: Berlin
+About: git newbee
+Programming Language: Python, Purebasic
+
+
 Name: [Eric Chen](https://github.com/LacticAcidCYC)
 Place: Los Angeles, US
 About: I am a graduate student major in Computer Science in University of Southern California
@@ -1318,5 +1324,4 @@ Place: Greater Noida,India<br/>
 About: Front End Developer and IT Engineer<br/>
 Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
 Email: vaibhav.tandongcet@gmail.com
-
 
