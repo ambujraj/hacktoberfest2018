@@ -1,5 +1,5 @@
 
-Name: [Muhamamd Alif A](https://github.com/saarques)<br/>
+Name: [Muhammad Alif A](https://github.com/saarques)<br/>
 Place: Keputih, Surabaya City, Indonesia<br/>
 About: Student College at PENS, Machine Learning and Data Science <br/>
 Programming Language: Python, Java<br/>
