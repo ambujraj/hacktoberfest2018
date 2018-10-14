@@ -31,6 +31,12 @@ About: Student Developer<br/>
 Programming Language: C++, JS, Java, Python<br/>
 Email: yashraj699@gmail.com<br/>
 
+Name: [Muhammad Alif A](https://github.com/saarques)<br/>
+Place: Keputih, Surabaya City, Indonesia<br/>
+About: Student College at PENS, Machine Learning and Data Science <br/>
+Programming Language: Python, Java<br/>
+Email: alifakbar111@gmail.com<br/>
+
 Name: [Gajendra Saraswat](https://github.com/saarques)<br/>
 Place: Bikaner, Rajasthan, India<br/>
 About: Student, Aspiring Data Scientist<br/>
