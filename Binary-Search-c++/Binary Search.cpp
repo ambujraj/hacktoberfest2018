@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+//funtion for implementing binary search
 int binarySearch(int *input,int beg,int end,int number){
     if(beg>end){
         return -1;
@@ -20,7 +20,7 @@ int binarySearch(int *input,int beg,int end,int number){
     
     return -1;
 }
-
+//main funtion for calling and control
 int main(){
     //Size of The Array
     int n,number;
