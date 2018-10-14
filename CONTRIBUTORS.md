@@ -57,6 +57,11 @@ Programming Language: Java, Python, C, Cpp, Ruby, JavaScript, Haskell,
 PHP
 Email: arsalanazmi@hotmail.com
 
+Name: [Shivam](https://github.com/shivam)<br/>
+Place: INDIA<br/>
+About: Student and Web developer! Likes AI.<br/>
+Programming Language: c++, JS, HTML, CSS<br/>
+
 Name: [Waqar Ahmed](https://github.com/waahm7)<br/>
 Place: Pakistan<br/>
 About: Computer sceince sutdent, intrested in logical & mathematical concepts.<br/>
