@@ -8,5 +8,4 @@ int main()
    	printf("%c", hello[i]);
    }
    printf("\n");
-   return 0;
 }

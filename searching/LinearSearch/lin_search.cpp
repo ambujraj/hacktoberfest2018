@@ -5,6 +5,7 @@
  return -1 */
 #include<iostream>
 using namespace std;
+
 int search(int arr[], int n, int x)
 {
     int i;
@@ -13,18 +14,19 @@ int search(int arr[], int n, int x)
          return i;
     return -1;
 }
+
 int main()
 {
     cout<<"enter size of array ";
     int n,k;
     cin>>n;
-    int * arr= new int [n];
+    int * arr = new int [n];
     cout<<"enter elements of array ";
-    for(int i=0;i<n;i++)
+    for(int i = 0; i < n ; i++)
     cin>>arr[i];
     cout<<"enter the element to be searched";
     cin>>k;
-    if(search(arr,n,k)==-1)
+    if(search(arr,n,k) == -1)
     cout<<"element not found";
     else
     cout<<"element is present at "<<search(arr,n,k)<<" index";
