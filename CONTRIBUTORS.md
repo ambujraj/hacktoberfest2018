@@ -936,6 +936,11 @@ Place: Brazil<br/>
 About: I am studying computer science.<br/>
 Programming Language:Python, java<br/>
 
+Name: [Slothy](https://github.com/gyasikn)<br/>
+Place: Florida, USA<br/>
+About: Software Developer<br/>
+Programming Language: JavaScript, Ruby, HTML & CSS<br/>
+
 
 Name: [llshwetall](https://github.com/llshwetall)<br/>
 Place: India<br/>
