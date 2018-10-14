@@ -12,6 +12,13 @@ Programming Language: c, c++, java, HTML, CSS<br/>
 Email: aminullahtajmuhammad@gmail.com<br/>
 
 
+Name: [Jayesh Joshi](https://github.com/python-jjlearner)<br/>
+Place: India<br/>
+About: Student and Software engineer! <br/>
+Programming Language: c, c++, java, HTML, CSS, Python3 , PHP <br/>
+Email: masterjj1251@gmail.com<br/>
+
+
 Name: [Jogi Miglani](https://github.com/jmig5776)<br/>
 Place: INDIA<br/>
 About: Mathematics and Computing student at IIT BHU and fitness freak.<br/>
