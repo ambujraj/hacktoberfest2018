@@ -1273,6 +1273,13 @@ About: Junior Developer<br/>
 Programming Language: Rust<br/>
 Email: pbateman828@gmail.com<br/>
 
+
+Name: [William Zhou](https://github.com/wzhouwzhou)<br/>
+Place: White Plains, New York, USA<br/>
+About: Business Administration and Management-Finance Major in Questrom School of Business at Boston University | Questrom Student Government Senator 2018-Present; Developer, Systems Administrator, Designer, Chatbot Creator, and More. I also study the violin and piano.<br/>
+Programming Language: Proficient: Node JS, Coffeescript; Front-End Javascript, HTML, CSS, Java, Python, C++<br/>
+Email: wzhouwzhou@gmail.com<br/>
+
 Name: [StrongWong](https://github.com/strongwong)<br/>
 Place: China<br/>
 About: Embedded Software Enginner<br/>
