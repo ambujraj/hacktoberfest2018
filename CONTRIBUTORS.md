@@ -1249,3 +1249,8 @@ Place: South Carolina, USA<br/>
 About: Junior Developer<br/>
 Programming Language: Rust<br/>
 Email: pbateman828@gmail.com<br/>
+
+Name: [Dmitry](https://github.com/N0menIllisLegio)<br/>
+Place: Belarus<br/>
+About: Student<br/>
+Programming Language: c#, c++, java, HTML, CSS<br/>
