@@ -1249,3 +1249,9 @@ Place: South Carolina, USA<br/>
 About: Junior Developer<br/>
 Programming Language: Rust<br/>
 Email: pbateman828@gmail.com<br/>
+
+Name: Nalin Luthra
+Place: New Delhi, Delhi, India
+About: Student, Robotic Researcher
+Programming Language: Python, C, C++, Java
+Email: nalin.luthra@gmail.com
