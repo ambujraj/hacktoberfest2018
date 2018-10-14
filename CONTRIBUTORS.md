@@ -1,4 +1,5 @@
 
+
 Name: [Kanishk Gupta](https://github.com/gkanishk)<br/>
 Place: INDIA<br/>
 About: Student and HackerEarth CA Likes learning.<br/>
@@ -941,6 +942,7 @@ Place: India<br/>
 About: 2nd year B.tech student at IIITH.<br/>
 Programming Language:Python, C++, C, Bash, Reactjs, golang<br/>
 
+
 Name: [Hugo](https://github.com/katyushi)<br/>
 Place: São Paulo, Brazil<br/>
 About: I am studying System development.<br/>
@@ -981,6 +983,7 @@ Programming Language: Python, Javascript, JAVA (soon), C#
 
 
 
+
 Name: [porpeeranut](https://github.com/porpeeranut)
 Place: Earth Planet
 About: Dev
@@ -993,12 +996,12 @@ About: Go Developer and Data Scientist looking out for real world challanges.
 Programming Language: Go,Python
 
 
-
 Name: [Anish Kumar Singh](https://github.com/anishkumarsingh93)<br/>
 Place: Gurugram, India<br/>
 About: Go Developer and Data Scientist looking out for real world challanges.<br/>
 Programming Language: Go,Python<br/>
 Email: anishkumarsingh93@gmail.com
+
 
 Name: [Dishant Rathi](https://github.com/dishantrathi)
 Place: Vadodara, Gujarat, In
@@ -1202,6 +1205,12 @@ Place: Ankara, Turkey
 About: Computer Engineering Student
 Programming Language: python, java, c, c++
 Email: furkan.goksel27@gmail.com
+
+
+Name: [Zachary Dixon](https://github.com/zachdixon)
+Place: Dallas, TX
+About: Lead Front End Developer, gamer, woodworker
+Programming Language: JavaScript
 
 
 Name: [Deumus74](https://github.com/Deumus74)
