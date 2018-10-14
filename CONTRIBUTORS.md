@@ -1285,3 +1285,9 @@ Name: [Ilham Firdausi Putra](https://github.com/Ilhamfp31)
 Place: Indonesia
 About: Student and Software engineer!
 Programming Language: C++, Python, Java
+
+Name: [Waramun Achametra](https://github.com/booms2p)<br/>
+Place: Bangkok, Thailand<br/>
+About: Developer<br/>
+Programming Language: Javascript, TypeScript, Nodejs<br/>
+Email: booms_2p@hotmail.com<br/>
