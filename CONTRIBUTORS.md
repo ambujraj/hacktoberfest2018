@@ -1249,3 +1249,9 @@ Place: South Carolina, USA<br/>
 About: Junior Developer<br/>
 Programming Language: Rust<br/>
 Email: pbateman828@gmail.com<br/>
+
+Name: [StrongWong](https://github.com/strongwong)<br/>
+Place: China<br/>
+About: Embedded Software Enginner<br/>
+Programming Language: C/C++, Python<br/>
+Email: strongwong003@gmail.com<br/>
