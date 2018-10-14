@@ -20,8 +20,12 @@ int main()
     cin >> num;
     
     if (perfect_square(num))
-    {cout << num << " is a perfect square!"}
+    {
+        cout << num << " is a perfect square!";
+    }
     else
-    {cout << num << " is not a perfect square!"}
+    {
+        cout << num << " is not a perfect square!";
+    }
 }
 
