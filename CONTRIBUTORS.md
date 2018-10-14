@@ -1269,6 +1269,13 @@ About: Computer Engineering Student
 Programming Language: python, java, c, c++
 Email: furkan.goksel27@gmail.com
 
+
+Name: [Ankush Mehta](https://github.com/Ankush3103)
+Place: Aurangabad, Delhi
+About: I am an ambitious coder and avid reader.
+Programming Language: HTML, CSS, RUBY, PYTHON
+
+
 Name: [Dayitva Goel](https://github.com/Dayitva)
 Place: Karawang, Indonesia
 About: Senior School Graduate from DPS Indonesia. Love tech and business.
