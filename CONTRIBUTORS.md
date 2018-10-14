@@ -1345,3 +1345,9 @@ About: Front End Developer and IT Engineer<br/>
 Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
 Email: vaibhav.tandongcet@gmail.com
 
+Name: [Alissa Taylor](https://github.com/alissastaylor)<br/>
+Place: Atlanta, GA<br/>
+About: Full-Stack Software Engineer<br/>
+Programming Languages: JAVASCRIPT, ES6, HTML, CSS
+Email: vaibhav.alissashaytaylor@gmail.com
+
