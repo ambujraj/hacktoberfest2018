@@ -1281,6 +1281,12 @@ Programming Language: Rust<br/>
 Email: pbateman828@gmail.com<br/>
 
 
+Name: [Dmitry](https://github.com/N0menIllisLegio)<br/>
+Place: Belarus<br/>
+About: Student<br/>
+Programming Language: c#, c++, java, HTML, CSS<br/>
+
+
 Name: [William Zhou](https://github.com/wzhouwzhou)<br/>
 Place: White Plains, New York, USA<br/>
 About: Business Administration and Management-Finance Major in Questrom School of Business at Boston University | Questrom Student Government Senator 2018-Present; Developer, Systems Administrator, Designer, Chatbot Creator, and More. I also study the violin and piano.<br/>
@@ -1322,3 +1328,4 @@ Place: Greater Noida,India<br/>
 About: Front End Developer and IT Engineer<br/>
 Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
 Email: vaibhav.tandongcet@gmail.com
+
