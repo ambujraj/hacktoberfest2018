@@ -1242,6 +1242,12 @@ About: CS Student at Universidade de São Paulo<br/>
 Programming Languages: C, Java, Javascript, Ruby, Python<br/>
 Email: ricardokojo@usp.br
 
+Name: [Lucila Otoni](https://github.com/LucilaOtoni)<br/>
+Place: Belo Horizonte, Brazil<br/>
+About: Junior Developer<br/>
+Programming Languages: PLSQL, JavaScript<br/>
+Email: lucilaotoni@hotmail.com
+
 
 Name: [Ankush Mehta](https://github.com/Ankush3103)
 Place: Aurangabad, Delhi
