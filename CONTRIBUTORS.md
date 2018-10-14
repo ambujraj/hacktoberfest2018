@@ -1197,6 +1197,12 @@ About: Computer Engineering Student
 Programming Language: python, java, c, c++
 Email: furkan.goksel27@gmail.com
 
+Name: [Lucas Marinzeck](https://github.com/Lucas-Marinzeck)<br/>
+Place: Ribeirão Preto, Brazil<br/>
+About: CS Student<br/>
+Programming Language: C#, C<br/>
+Email: lucasmarinzeck@gmail.com<br/>
+
 Name: [Ricardo Kojo](https://github.com/ricardokojo)<br/>
 Place: São Paulo, Brazil<br/>
 About: CS Student at Universidade de São Paulo<br/>
@@ -1305,4 +1311,5 @@ Place: Greater Noida,India<br/>
 About: Front End Developer and IT Engineer<br/>
 Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
 Email: vaibhav.tandongcet@gmail.com
+
 
