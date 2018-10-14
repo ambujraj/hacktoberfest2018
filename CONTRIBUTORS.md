@@ -1297,15 +1297,14 @@ Place: Indonesia
 About: Student and Software engineer!
 Programming Language: C++, Python, Java
 
-
-Name: KESHAV KUMAR
-Place: INDIA
-About: Student and Programmer.
-Programming Language: C,JAVA, HTML, CSS,MySQL
-Email: akeshav53@gmail.com
-
 Name: [Waramun Achametra](https://github.com/booms2p)<br/>
 Place: Bangkok, Thailand<br/>
 About: Developer<br/>
 Programming Language: Javascript, TypeScript, Nodejs<br/>
 Email: booms_2p@hotmail.com<br/>
+
+Name: [Vaibhav Tandon](https://github.com/vaibhav111tandon)<br/>
+Place: Greater Noida,India<br/>
+About: Front End Developer and IT Engineer<br/>
+Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
+Email: vaibhav.tandongcet@gmail.com
