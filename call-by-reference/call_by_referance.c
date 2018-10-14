@@ -5,7 +5,8 @@ void increment(int  *var)
 }
 int main()
 {
-     int num=20;
+     float num;
+     scanf("%lf",&num);	
      increment(&num);
      printf("Value of num is: %d", num);
    return 0;

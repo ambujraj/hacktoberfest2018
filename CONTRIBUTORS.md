@@ -10,6 +10,12 @@ About: Mathematics and Computing student at IIT BHU and fitness freak.<br/>
 Programming Language: c++, python<br/>
 Email: jmig5776@gmail.com<br/>
 
+Name: [Akshay Kumar](https://github.com/GHakshay)<br/>
+Place: Jaipur, Rajasthan, INDIA<br/>
+About: Student, Python Developer, Interested in AI.<br/>
+Programming Language: c, c++, python<br/>
+Email: akshay.at009@gmail.com<br/> 
+
 
 Name: [Yashraj Shrivastava](https://github.com/yashrj73)<br/>
 Place: Chennai, India<br/>
