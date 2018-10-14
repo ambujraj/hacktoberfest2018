@@ -1,4 +1,9 @@
 
+Name: [Prateek Bharat Sharma](https://github.com/prateeksharma21a)<br/>
+Place: INDIA<br/>
+About: Student of CS and loves coding<br/>
+Programming Languages: Python<br/>
+Email: prateeksharma21abc@gmail.com<br/>
 
 Name: [Kanishk Gupta](https://github.com/gkanishk)<br/>
 Place: INDIA<br/>
