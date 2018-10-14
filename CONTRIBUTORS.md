@@ -1345,3 +1345,8 @@ About: Front End Developer and IT Engineer<br/>
 Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
 Email: vaibhav.tandongcet@gmail.com
 
+Name: [Kazuko Kannagi](https://github.com/kannagikazuko)<br/>
+Place: USA<br/>
+About: Hobbyist programmer and Discord Bot Developer<br/>
+Programming Language: Primarily Javascript (Node JS) and Coffeescript<br/>
+Email: kannagikazuko@gmail.com<br/>
