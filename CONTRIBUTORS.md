@@ -1256,6 +1256,12 @@ About: Junior Developer<br/>
 Programming Language: Rust<br/>
 Email: pbateman828@gmail.com<br/>
 
+Name: Nalin Luthra
+Place: New Delhi, Delhi, India
+About: Student, Robotic Researcher
+Programming Language: Python, C, C++, Java
+Email: nalin.luthra@gmail.com
+
 Name: [BHONESH CHAWLA](https://github.com/bhonesh1998)<br/>
 Place: JAIPUR,RAJASTHAN,INDIA <br/>
 About: android developer and competitive coder <br/>
