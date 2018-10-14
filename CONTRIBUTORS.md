@@ -31,6 +31,12 @@ About: Student Developer<br/>
 Programming Language: C++, JS, Java, Python<br/>
 Email: yashraj699@gmail.com<br/>
 
+Name: [Muhammad Alif A](https://github.com/saarques)<br/>
+Place: Keputih, Surabaya City, Indonesia<br/>
+About: Student College at PENS, Machine Learning and Data Science <br/>
+Programming Language: Python, Java<br/>
+Email: alifakbar111@gmail.com<br/>
+
 Name: [Gajendra Saraswat](https://github.com/saarques)<br/>
 Place: Bikaner, Rajasthan, India<br/>
 About: Student, Aspiring Data Scientist<br/>
@@ -1255,3 +1261,15 @@ Place: New Delhi, Delhi, India
 About: Student, Robotic Researcher
 Programming Language: Python, C, C++, Java
 Email: nalin.luthra@gmail.com
+
+Name: [BHONESH CHAWLA](https://github.com/bhonesh1998)<br/>
+Place: JAIPUR,RAJASTHAN,INDIA <br/>
+About: android developer and competitive coder <br/>
+Programming Language: c,cpp,java <br/>
+Email: rajachawla778@gmail.com <br/>
+
+
+Name: [Ilham Firdausi Putra](https://github.com/Ilhamfp31)
+Place: Indonesia
+About: Student and Software engineer!
+Programming Language: C++, Python, Java
