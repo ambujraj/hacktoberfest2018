@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-int main()
+void main()
 {
 	int n; // No. for which Factorial is required
 	scanf("%d", &n);
@@ -12,6 +12,4 @@ int main()
 	n--;}
 
 	printf("%d\n", result);
-	return 0;
 }
-
