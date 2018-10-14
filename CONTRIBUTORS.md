@@ -1286,6 +1286,12 @@ About: Computer Science Student with a youtube channel : Gamma Guy
 Programming Language: HTML, CSS, JS, Java
 Email: prasoonpandey24@yahoo.com
 
+Name: [Andrea Rucco](https://github.com/MaxiStarling56)
+Place: Lecce, Italy
+About: Computer Fanatic/Lover/Student
+Programming Language: C, C++, HTML, CSS.
+Email: maxistaling@gmail.com
+
 
 Name: Aviral Chauhan(https://github.com/Aviralchauhan7)
 Place: Patiala, India
