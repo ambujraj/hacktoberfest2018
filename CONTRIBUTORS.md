@@ -89,6 +89,12 @@ About: Computer sceince sutdent, intrested in logical & mathematical concepts.<b
 Programming Language:C, C++, JAVA, Kotlin, Java<br/>
 Email: waahm7@gmail.com<br/>
 
+Name: [Randika Niroshan](https://github.com/RandikaNiroshan)
+Place: Colombo
+About: I'm a Android Mobile app development student and I have made few apps by my self
+Programming Language:C++, JAVA, Kotlin, VB.net
+Email: rniroshan1994@gmail.com
+
 Name: [pnjha](https://github.com/pnjha)<br/>
 Place: India<br/>
 About: Computer science student, excited about AI and ML<br/>
