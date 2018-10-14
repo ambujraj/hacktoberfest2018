@@ -1,4 +1,10 @@
-﻿Name: [Aman Singh](https://github.com/AMANSINGH1998)<br/>
+Name: [Kanishk Gupta](https://github.com/gkanishk)<br/>
+Place: INDIA<br/>
+About: Student and HackerEarth CA Likes learning.<br/>
+Programming Language: c++,Java,Android, JS, HTML, CSS<br/>
+Email: kanishkgupta1234@gmail.com<br/>
+
+Name: [Aman Singh](https://github.com/AMANSINGH1998)<br/>
 Place: INDIA<br/>
 About: Student and Web developer! Likes AI.<br/>
 Programming Language: c++, JS, HTML, CSS<br/>
