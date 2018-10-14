@@ -1,0 +1,84 @@
+#include <iostream>
+#include <set>
+#include <bits/stdc++.h>
+#include <limits.h>
+#include <string>
+#include <math.h>
+#include <sstream>
+#include <iomanip>
+#include <vector>
+#include <cstdlib>
+#include <algorithm>
+#include <map>
+#include <utility>
+#define ll long long int
+using namespace std;
+
+ll searc(vector< pair<ll,ll> > v,ll max,ll n,ll m)
+{
+    ll start = 0;
+    ll end = max;
+
+    while(start <= end)
+    {
+        ll candy = 0;
+        ll cad = 0;
+        ll mid = (start+end)/2;
+        for(ll i=0; i<n; i++)
+        {
+            if(v[i].first > mid)
+            {
+                cad = ((v[i].first - mid)/v[i].second) + ((v[i].first - mid) % v[i].second !=0);
+                candy += cad;
+            }
+        }
+        if(candy > m)
+        {
+            start = mid+1;
+        }
+        else
+        {
+            end = mid-1;
+        }
+    }
+    return start;
+
+}
+
+int main()
+{
+    std::ios::sync_with_stdio(false);
+    cin.tie(NULL);
+    ll n,m;
+    cin>>n>>m;
+    ll sum=0;
+    ll max = INT_MIN;
+    ll a[100000],b[100000];
+    for(ll i=0; i<n; i++)
+    {
+        cin>>a[i];
+
+    }
+    for(ll i=0; i<n; i++)
+        cin>>b[i];
+    ll prod[100000]={0};
+    for(ll i=0; i<n; i++)
+    {
+        prod[i] = a[i] * b[i];
+        if(prod[i] > max)
+            max = prod[i];
+    }
+    vector< pair<ll,ll> > v;
+    for(ll i=0; i<n; i++)
+    {
+        v.push_back( make_pair(prod[i],b[i]) );
+    }
+    sort(v.begin(), v.end());
+
+    ll ans = searc(v,max,n,m);
+    cout<<ans;
+
+    return 0;
+}
+
+
