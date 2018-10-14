@@ -1,1 +1,1 @@
-document.write("Hello World")
+console.log("HELLO HACTOBER FEST");
