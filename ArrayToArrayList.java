@@ -16,9 +16,7 @@ class A{
  	 ArrayList<Integer> ar=new ArrayList<>(Arrays.asList(i));
 	 ar.add(54889);
 	   System.out.println(ar);
-     
-    	   
-	  
+
 	}
 
 }

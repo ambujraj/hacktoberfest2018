@@ -1,7 +1,8 @@
 #include <stdio.h>
-void increment(int  *var)
+
+void increment(int  *num)
 {
-    *var = *var+1;
+    *num = *num+1;
 }
 int main()
 {

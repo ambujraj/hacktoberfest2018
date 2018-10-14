@@ -4,11 +4,27 @@ About: Student and Web developer! Likes AI.<br/>
 Programming Language: c++, JS, HTML, CSS<br/>
 Email: amansingh19981998@gmail.com<br/>
 
+
+Name: [Aminullah Taj Muhammad](https://github.com/AminullahTajMuhammad)<br/>
+Place: Pakistan<br/>
+About: Student and Software engineer! <br/>
+Programming Language: c, c++, java, HTML, CSS<br/>
+Email: aminullahtajmuhammad@gmail.com<br/>
+
+
+Name: [Jayesh Joshi](https://github.com/python-jjlearner)<br/>
+Place: India<br/>
+About: Student and Software engineer! <br/>
+Programming Language: c, c++, java, HTML, CSS, Python3 , PHP <br/>
+Email: masterjj1251@gmail.com<br/>
+
+
 Name: [Jogi Miglani](https://github.com/jmig5776)<br/>
 Place: INDIA<br/>
 About: Mathematics and Computing student at IIT BHU and fitness freak.<br/>
 Programming Language: c++, python<br/>
 Email: jmig5776@gmail.com<br/>
+
 
 Name: [Akshay Kumar](https://github.com/GHakshay)<br/>
 Place: Jaipur, Rajasthan, INDIA<br/>
@@ -16,12 +32,24 @@ About: Student, Python Developer, Interested in AI.<br/>
 Programming Language: c, c++, python<br/>
 Email: akshay.at009@gmail.com<br/> 
 
+Name: [Dileep Senevirathne](https://github.com/IshankaDSenevirathne)<br/>
+Place: SRI LANKA<br/>
+About: Physics Student<br/>
+Programming Language: java,python<br/>
+Email: ishankadsnevrathne@gmail.com<br/>
+
 
 Name: [Yashraj Shrivastava](https://github.com/yashrj73)<br/>
 Place: Chennai, India<br/>
 About: Student Developer<br/>
 Programming Language: C++, JS, Java, Python<br/>
 Email: yashraj699@gmail.com<br/>
+
+Name: [Muhammad Alif A](https://github.com/saarques)<br/>
+Place: Keputih, Surabaya City, Indonesia<br/>
+About: Student College at PENS, Machine Learning and Data Science <br/>
+Programming Language: Python, Java<br/>
+Email: alifakbar111@gmail.com<br/>
 
 Name: [Gajendra Saraswat](https://github.com/saarques)<br/>
 Place: Bikaner, Rajasthan, India<br/>
@@ -35,6 +63,11 @@ About: Ai student at Aberystwyth university
 Programming Language: Java, Python, C, Cpp, Ruby, JavaScript, Haskell, 
 PHP
 Email: arsalanazmi@hotmail.com
+
+Name: [Shivam](https://github.com/shivam)<br/>
+Place: INDIA<br/>
+About: Student and Web developer! Likes AI.<br/>
+Programming Language: c++, JS, HTML, CSS<br/>
 
 Name: [Waqar Ahmed](https://github.com/waahm7)<br/>
 Place: Pakistan<br/>
@@ -65,6 +98,12 @@ Place: Romania
 About: Computer Science student
 Programming Language: Python, C++, Angular 6, Typescript, C, PHP
 Email: alexbenchea99@yahoo.com
+
+Name: [Bj&ouml;rn Kristensson Alfsson](https://github.com/BKristenssonAlfsson)<br/>
+Place: Sweden
+About: Computer programmer student
+Programming language: Java EE, JPA, SpringBoot, Hibernate, Angular 6, Typescript
+Email: bjorn.alfsson@gmail.com 
 
 Name: [jluo117](https://github.com/jluo117)<br/>
 Place: Bay Area<br/>
@@ -156,6 +195,11 @@ Name: [Sajjal](https://github.com/sajjalt)<br/>
 Place: New Delhi<br/>
 About: I am presently studying computer science at Thapar Institue of Engineering and Technology and love coding.<br/>
 Programming Language:C,C++,Python<br/>
+
+Name: [Keshav Kabra](https://github.com/ksvkabra/)<br/ >
+Place: Jaipur<br/ >
+About: I am presently studying computer engineering at JECRC.<br/ >
+Programming Language:C, C++, php, js, python
 
 Name: [Sajjal Tiwari](https://github.com/sajjalt)<br/>
 Place: New Delhi<br/>
@@ -608,6 +652,11 @@ Place: Campina Grane, Brazil <br/>
 About: Computer Science student at Federal University of Campina Grande (UFCG).<br/>
 Programming Languages: C/C++, Java, Python, PHP, Haskell<br/>
 Email: lucasmed812@gmail.com<br/>
+
+Name: [Avinash Raghuthu](https://github.com/avinashraghuthu)</br>
+Place: India</br>
+About: Software Engineer</br>
+Programming Languages: Python, Java, C++</br>
 
 Name: [Vincent]()l</br>
 Place: USA</br>
@@ -1188,6 +1237,20 @@ About: IT student at ABV - Indian Institute of Information Technology and Manage
 Programming Languages: C++, C, JAVA, Ruby, Python, JavaScript, Golang<br/>
 Email: ari0997@gmail.com<br/>
 
+
+Name: [Furkan Göksel](https://github.com/FireHunter27)<br/>
+Place: Ankara, Turkey<br/>
+About: Computer Engineering Student<br/>
+Programming Language: python, java, c, c++<br/>
+Email: furkan.goksel27@gmail.com<br/>
+
+Name: [Alvin Tandiardi](https://github.com/alvintan05)<br/>
+Place: DKI Jakarta, Indonesia<br/>
+About: Information Technology Student<br/>
+Programming Language: C++, Java<br/>
+Email: alvintandiardi@gmail.com<br/>
+
+
 Name: [Furkan Göksel](https://github.com/FireHunter27)
 Place: Ankara, Turkey 
 About: Computer Engineering Student
@@ -1204,3 +1267,58 @@ Name: Minu Kumari(https://github.com/minukumari)</br>
 Place: New Delhi</br>
 About: Student</br>
 Programming Languages: C, C++,python,HTML,CSS,JAVASCRIPT,Django</br>
+
+Name: Prasoon Pandey(https://github.com/GammaBurst101)
+Place: Allahabad, India
+About: Computer Science Student with a youtube channel : Gamma Guy
+Programming Language: HTML, CSS, JS, Java
+Email: prasoonpandey24@yahoo.com
+
+Name: [Patrick Bateman](https://github.com/pbateman828)<br/>
+Place: South Carolina, USA<br/>
+About: Junior Developer<br/>
+Programming Language: Rust<br/>
+Email: pbateman828@gmail.com<br/>
+
+
+Name: [William Zhou](https://github.com/wzhouwzhou)<br/>
+Place: White Plains, New York, USA<br/>
+About: Business Administration and Management-Finance Major in Questrom School of Business at Boston University | Questrom Student Government Senator 2018-Present; Developer, Systems Administrator, Designer, Chatbot Creator, and More. I also study the violin and piano.<br/>
+Programming Language: Proficient: Node JS, Coffeescript; Front-End Javascript, HTML, CSS, Java, Python, C++<br/>
+Email: wzhouwzhou@gmail.com<br/>
+
+Name: [StrongWong](https://github.com/strongwong)<br/>
+Place: China<br/>
+About: Embedded Software Enginner<br/>
+Programming Language: C/C++, Python<br/>
+Email: strongwong003@gmail.com<br/>
+
+Name: Nalin Luthra
+Place: New Delhi, Delhi, India
+About: Student, Robotic Researcher
+Programming Language: Python, C, C++, Java
+Email: nalin.luthra@gmail.com
+
+Name: [BHONESH CHAWLA](https://github.com/bhonesh1998)<br/>
+Place: JAIPUR,RAJASTHAN,INDIA <br/>
+About: android developer and competitive coder <br/>
+Programming Language: c,cpp,java <br/>
+Email: rajachawla778@gmail.com <br/>
+
+
+Name: [Ilham Firdausi Putra](https://github.com/Ilhamfp31)
+Place: Indonesia
+About: Student and Software engineer!
+Programming Language: C++, Python, Java
+
+Name: [Waramun Achametra](https://github.com/booms2p)<br/>
+Place: Bangkok, Thailand<br/>
+About: Developer<br/>
+Programming Language: Javascript, TypeScript, Nodejs<br/>
+Email: booms_2p@hotmail.com<br/>
+
+Name: [Vaibhav Tandon](https://github.com/vaibhav111tandon)<br/>
+Place: Greater Noida,India<br/>
+About: Front End Developer and IT Engineer<br/>
+Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
+Email: vaibhav.tandongcet@gmail.com
