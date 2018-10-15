@@ -1345,3 +1345,10 @@ About: Front End Developer and IT Engineer<br/>
 Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
 Email: vaibhav.tandongcet@gmail.com
 
+Name: [Hunter Wallace](https://github.com/Hjwallace)<br/>
+Place: Muncie,Indiana<br/>
+About: Computer Science Sophmore at Ball State University<br/>
+Programming Languages: JAVA,HTML/CSS,Python
+Email: hunterjwallace@gmail.com
+
+
