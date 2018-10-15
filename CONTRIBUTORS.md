@@ -1345,3 +1345,8 @@ About: Front End Developer and IT Engineer<br/>
 Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
 Email: vaibhav.tandongcet@gmail.com
 
+Name: [Fahri Güreşçi](https://github.com/fahri314)
+Place: Turkey, Tekirdağ
+About: Computer Enginner
+Programming Language: Python, C++, C, Javascript
+Email: fahri314@gmail.com
