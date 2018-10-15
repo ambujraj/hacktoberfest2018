@@ -1345,3 +1345,9 @@ About: Front End Developer and IT Engineer<br/>
 Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
 Email: vaibhav.tandongcet@gmail.com
 
+Name: [HARDIK KAPOOR](https://github.com/blackpanther99)
+Place: INDIA
+About: Persuing B.tech in IT from CIC, DU.
+Programming Language: C++, C, Java, Python
+Email: hardikkapoor1999@gmail.com
+
