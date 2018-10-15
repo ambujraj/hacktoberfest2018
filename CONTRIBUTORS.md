@@ -1249,3 +1249,9 @@ Place: South Carolina, USA<br/>
 About: Junior Developer<br/>
 Programming Language: Rust<br/>
 Email: pbateman828@gmail.com<br/>
+
+﻿Name: [Prashant Dixit](https://github.com/prashant564)<br/>
+Place: INDIA<br/>
+About: Student and Machine Learning enthusiast! Likes Python.<br/>
+Programming Language: c++, Python, Java<br/>
+Email: prashantdixit600@gmail.com<br/>
