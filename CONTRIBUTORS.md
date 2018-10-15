@@ -1343,5 +1343,10 @@ Name: [Vaibhav Tandon](https://github.com/vaibhav111tandon)<br/>
 Place: Greater Noida,India<br/>
 About: Front End Developer and IT Engineer<br/>
 Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
-Email: vaibhav.tandongcet@gmail.com
+Email: vaibhav.tandongcet@gmail.com<br/>
 
+Name: [Hearot](https://github.com/hearot)<br/>
+Place: Florence, Italy<br/>
+About: Software Developer<br/>
+Programming Languages: Python, Go, PHP, C++<br/>
+Email: gabriel@hearot.it<br/>
