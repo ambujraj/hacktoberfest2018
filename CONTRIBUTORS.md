@@ -1333,6 +1333,12 @@ Place: Indonesia
 About: Student and Software engineer!
 Programming Language: C++, Python, Java
 
+Name: [Erick Surya Dinata](https://github.com/proesd)
+Place: Indonesia
+About: I'm just a person who curious with technology and science
+Programming Language: most used: PHP, HTML, CSS, Javascrtipt other: SHELL, Python, Java, C++, Solidity
+
+
 Name: [Waramun Achametra](https://github.com/booms2p)<br/>
 Place: Bangkok, Thailand<br/>
 About: Developer<br/>
