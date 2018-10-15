@@ -1345,3 +1345,8 @@ About: Front End Developer and IT Engineer<br/>
 Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
 Email: vaibhav.tandongcet@gmail.com
 
+Name: [Abhisek Chaudhuri](https://github.com/abhisekssp4025)<br/>
+Place: West Bengal, India<br/>
+About: Front End Developer
+Programming Languages: C++, Python, HTML, CSS, JavaScript
+Email: abhisekssp4025@gmail.com
