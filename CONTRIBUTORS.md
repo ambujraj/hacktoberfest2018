@@ -1,4 +1,8 @@
-
+Name: [Youen FROGER](https://github.com/laenNoCode)<br/>
+Place: FRANCE<br/>
+About: software engineering student and developer! Likes async<br/>
+Programming languages: c++ c# Java Js Android PHP Ruby Python OCaml Html Css and plenty of other <br/>
+Email: Youen.froger2@gmail.com
 
 Name: [Kanishk Gupta](https://github.com/gkanishk)<br/>
 Place: INDIA<br/>
