@@ -1345,3 +1345,8 @@ About: Front End Developer and IT Engineer<br/>
 Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
 Email: vaibhav.tandongcet@gmail.com
 
+Name: [Bhushan Khanale](https://github.com/bkhanale)<br/>
+Place: Pune, India<br/>
+About: Competitive Programmer<br/>
+Programming Languages: C, C++, JAVA, Python
+Email: bkhanale@gmail.com
