@@ -1345,3 +1345,8 @@ About: Front End Developer and IT Engineer<br/>
 Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
 Email: vaibhav.tandongcet@gmail.com
 
+Name: [Zayam Tariq](https://github.com/234082)
+Place: USA
+About: Computer Science Student
+Programming Languages: Swift, C++
+Email: zayamtariq@yahoo.com
