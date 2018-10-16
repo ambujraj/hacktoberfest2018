@@ -1345,3 +1345,8 @@ About: Front End Developer and IT Engineer<br/>
 Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
 Email: vaibhav.tandongcet@gmail.com
 
+Name : [Achillix] (https://github.com/achillix)<br/>
+Place : Jakarta , Indonesia <br/>
+About : Future Programmer | Newbs | 18" | IT engineer colleger
+Programming Languages : C++ , html
+Email : yagami.chira@gmail.com
