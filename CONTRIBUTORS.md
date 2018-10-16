@@ -1,4 +1,4 @@
-
+﻿
 
 Name: [Kanishk Gupta](https://github.com/gkanishk)<br/>
 Place: INDIA<br/>
@@ -1345,3 +1345,8 @@ About: Front End Developer and IT Engineer<br/>
 Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
 Email: vaibhav.tandongcet@gmail.com
 
+Name:[Sudhanshu Jaisani](https://github.com/sudhanshujaisani38)<br/>
+Place:Indore,India<br/>
+About:Oracle Certified Developer.
+Programming Languages: Java*,C,Python,Android.<br/>
+Email:sudhanshujaisani38@gmail.com<br/>
