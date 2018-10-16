@@ -1,4 +1,8 @@
-
+Name: [Bayli](https://github.com/baylisade)<br/>
+Place: Toronto, Ontario<br/>
+About: Student at UofT.<br/>
+Programming Language: HTML, CSS, Javascript, jQuery<br/>
+Email: bayli1@gmail.com<br/>
 
 Name: [Kanishk Gupta](https://github.com/gkanishk)<br/>
 Place: INDIA<br/>
