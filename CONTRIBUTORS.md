@@ -25,6 +25,11 @@ About: O'Clock student (Nova) learning web developpement.<br/>
 Programming Languages: HTML, CSS, JS, PHP, MySQL.<br/>
 Email: saubinm@free.fr<br/>
 
+Name: [Ekansh Gupta](https://github.com/Ekansh-01)<br/>
+Place: Muzaffarnagar,INDIA<br/>
+About: B.Tech student at IIIT Allahabad<br/>
+Programming Languages: HTML,CSS,JAVA,C++,C<br/> 
+Email: Gupta.ekansh.01@gmail.com<br/>
 
 Name: [Jayesh Joshi](https://github.com/python-jjlearner)<br/>
 Place: India<br/>
