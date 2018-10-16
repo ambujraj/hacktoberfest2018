@@ -1,4 +1,4 @@
-
+﻿
 
 Name: [Kanishk Gupta](https://github.com/gkanishk)<br/>
 Place: INDIA<br/>
@@ -436,6 +436,14 @@ Place: Punjab, India<br/>
 About: I am currently studying computer science and technology in my B.Tech at IIT Mandi. I am a passionate learner and explorer.<br/>
 Programming Language: C++, C, python, HTML, css<br/>
 Email: b17092@students.iitmandi.ac.in<br/>
+
+Name:[Sanduni Imalsha](https://github.com/sanduniisa)<br/>
+Place: Colombo, SriLanka<br/>
+About: I am an undergratuate in University of Colombo School of Computing in Information Systems.<br/>
+Programming Language: Python, C, HTML, CSS, PHP, JavaScript.<br/>
+Email: sanduniisa@gmail.com
+
+
 
 Name: [Praveen Kumar Saini](https://github.com/praveen-me)
 Place: Dharamshala, India
