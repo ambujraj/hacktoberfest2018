@@ -1,10 +1,16 @@
-
+﻿
 
 Name: [Kanishk Gupta](https://github.com/gkanishk)<br/>
 Place: INDIA<br/>
 About: Student and HackerEarth CA Likes learning.<br/>
 Programming Language: c++,Java,Android, JS, HTML, CSS<br/>
 Email: kanishkgupta1234@gmail.com<br/>
+
+Name: [Prashant Shakya](https://github.com/shakyaprashant)<br/>
+Place:INDIA<br/>
+About: Grad Student at MNNIT ALLAHABAD<br/>
+Programming Language: C++,Java,Python<br/>
+Email: prashantshakya@outlook.com<br/>
 
 Name: [Aman Singh](https://github.com/AMANSINGH1998)<br/>
 Place: INDIA<br/>
