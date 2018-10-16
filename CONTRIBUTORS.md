@@ -1345,3 +1345,9 @@ About: Front End Developer and IT Engineer<br/>
 Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
 Email: vaibhav.tandongcet@gmail.com
 
+Name: [Thái Huy Nhật Quang](https://github.com/thaihuynhatquang)<br/>
+Place: Hà Nội, Việt Nam<br/>
+About: Developer<br/>
+Programming Languages: Javascript, C/C++, Python
+Email: thaihuynhatquang@gmail.com
+
