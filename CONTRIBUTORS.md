@@ -13,6 +13,12 @@ Programming Language: c++, JS, HTML, CSS<br/>
 Email: amansingh19981998@gmail.com<br/>
 
 
+Name: [Adarsh Chaudhary](https://github.com/AdarshKC)<br/>
+Place: INDIA<br/>
+About: Studies CSE at IIT Patna <br/>
+Programming Language: C, C++, HTML, CSS, JAVASCRIPT<br/>
+Email: adarsh.cs17@iitp.ac.in<br/>
+
 Name: [Aminullah Taj Muhammad](https://github.com/AminullahTajMuhammad)<br/>
 Place: Pakistan<br/>
 About: Student and Software engineer! <br/>
