@@ -12,6 +12,12 @@ About: Student and Web developer! Likes AI.<br/>
 Programming Language: c++, JS, HTML, CSS<br/>
 Email: amansingh19981998@gmail.com<br/>
 
+Name: [Warushika Hansini](https://github.com/warushika)<br/>
+Place: SRILANKS<br/>
+About: Student and Web developer! Likes AI and UI& UX.<br/>
+Programming Language: JS, HTML, CSS, php, python<br/>
+Email: warushikamapalagama95@gmail.com<br/>
+
 
 Name: [Aminullah Taj Muhammad](https://github.com/AminullahTajMuhammad)<br/>
 Place: Pakistan<br/>
