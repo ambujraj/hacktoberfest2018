@@ -1352,3 +1352,9 @@ About: SysAdmin and Infrastructure Analyst<br/>
 Programming Languages: PYTHON,SEHLL SCRIPT
 Email: chenriquecdc@gmail.com
 
+
+Name: [Lokesh Todwal](https://github.com/lokesh005)<br/>
+Place: Bengaluru, Karnataka<br/>
+About: Data Scientist<br/>
+Programming Languages: PYTHON
+Email: lokeshtodwal005@gmail.com
