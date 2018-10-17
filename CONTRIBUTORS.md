@@ -1423,3 +1423,9 @@ Place: Bengaluru, Karnataka<br/>
 About: Data Scientist<br/>
 Programming Languages: PYTHON
 Email: lokeshtodwal005@gmail.com
+
+Name: [Yatharth Vardan}(https://github.com/YATHARTHVARDAN)<br/>
+Place: Delhi,India <br/>
+About: Student in DTU<br/>
+Programming Languages:C++
+Email: yatharthvardan@gmail.com
