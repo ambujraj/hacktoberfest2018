@@ -1477,3 +1477,9 @@ Place: Delhi,India <br/>
 About: Student in DTU<br/>
 Programming Languages:C++
 Email: yatharthvardan@gmail.com
+
+Name: [Sakuna Madushanka](https://github.com/Sakuwz) <br/>
+Place: Nuwara Eliya,Sri Lanka <br/>
+About: Reading for Software Engineering BSc(Hons) - University of Kelaniya,Sri Lanka <br/>
+Programming Languages:C++,java,C,C# <br/>
+Email: sakuwwz@gmail.com <br/>
