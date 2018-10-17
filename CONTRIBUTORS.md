@@ -1427,6 +1427,11 @@ About: Student<br/>
 Programming Languages: Java, Python, C<br/>
 Email: oka217@nyu.edu<br/>
 
+Name: [Thái Huy Nhật Quang](https://github.com/thaihuynhatquang)<br/>
+Place: Hà Nội, Việt Nam<br/>
+About: Developer<br/>
+Programming Languages: Javascript, C/C++, Python
+Email: thaihuynhatquang@gmail.com
 
 Name: [Carlos Carvalho](https://github.com/chcdc)<br/>
 Place: Brazil<br/>
