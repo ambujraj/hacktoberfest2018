@@ -1362,7 +1362,14 @@ Name: [Vaibhav Tandon](https://github.com/vaibhav111tandon)<br/>
 Place: Greater Noida,India<br/>
 About: Front End Developer and IT Engineer<br/>
 Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
-Email: vaibhav.tandongcet@gmail.com
+Email: vaibhav.tandongcet@gmail.com<br/>
+
+
+Name: [Tom](https://github.com/hypery11)<br/>
+Place: Taichung<br/>
+About: Student @Tunghai University<br/>
+Programming Language: PHP,PYTHON,JS<br/>
+Email: hypery11@gmail.com<br/>
 
 
 Name: [Owura Asare](https://github.com/owura82)<br/>
