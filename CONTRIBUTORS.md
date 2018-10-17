@@ -1,4 +1,4 @@
-Name: [Aaron Shivers](https://github.com/aaronshivers)
+﻿Name: [Aaron Shivers](https://github.com/aaronshivers)
 Place: Missouri
 About: Hi, I'm just getting started.
 Programming Language: JavaScript
@@ -1477,3 +1477,9 @@ Place: Delhi,India <br/>
 About: Student in DTU<br/>
 Programming Languages:C++
 Email: yatharthvardan@gmail.com
+
+Name: [HARSH GUPTA](Github Link)
+Place: ASSAM,GUWAHATI
+About: BTECH CSE AT IITG
+Programming Language: C++;PYTHON
+Email: hagu0987@gmail.com
