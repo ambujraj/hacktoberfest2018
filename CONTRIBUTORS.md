@@ -811,6 +811,11 @@ Place: Delhi, India<br/>
 About: I am a Second year IT undergrad.<br/>
 Programming Languages: C++, Python, Java<br/>
 
+Name: [Peerarust Siriamphan](https://github.com/Gnoyoyo)<br/>
+Place: Bangkok, Thailand<br/>
+About: Junior Software Engineer<br/>
+Programming Languages: TypeScript, C++, Python<br/>
+
 Name: [Andrew Miracle](https://github.com/koolamusic)
 Place: Lagos, Nigeria
 About: Developer Intern at Learnfactory
