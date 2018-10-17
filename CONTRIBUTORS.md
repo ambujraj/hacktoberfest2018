@@ -4,6 +4,12 @@ About: Hi, I'm just getting started.
 Programming Language: JavaScript
 Email: aaronshivers@gmail.com
 
+Name: [Gabriel Cueto](https://github.com/TheMushrr00m)<br/>
+Place: Cancún, México. :glasses<br/>
+About: Software Developer, Speker.<br/>
+Programming Language: Elixir, Golang, Python, Ruby<br/>
+Email:admin@gcueto.com<br/>
+
 Name: [Dimali Dissanayake](https://github.com/dimalik98)<br/>
 Place: Sri Lanka<br/>
 About: UNdergraduate @ NSBM Green University.<br/>
