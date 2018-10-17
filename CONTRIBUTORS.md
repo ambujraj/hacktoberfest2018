@@ -1352,3 +1352,9 @@ About: SysAdmin and Infrastructure Analyst<br/>
 Programming Languages: PYTHON,SEHLL SCRIPT
 Email: chenriquecdc@gmail.com
 
+Name: [Djamel Eddine YAGOUB](https://github.com/DjamelEd)<br/>
+Place: Algeria<br/>
+About: IT engineer<br/>
+Programming Language: Python,Java,Android, JS, HTML, CSS<br/>
+Email: djamel.ed.y@gmail.com<br/>
+
