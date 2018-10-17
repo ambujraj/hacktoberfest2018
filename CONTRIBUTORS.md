@@ -1,4 +1,4 @@
-﻿Name: [Dimali Dissanayake](https://github.com/dimalik98)<br/>
+Name: [Dimali Dissanayake](https://github.com/dimalik98)<br/>
 Place: Sri Lanka<br/>
 About: UNdergraduate @ NSBM Green University.<br/>
 Programming Language: C,C#,Java,HTML,Python<br/>
@@ -22,6 +22,13 @@ Place: Pakistan<br/>
 About: Student and Software engineer! <br/>
 Programming Language: c, c++, java, HTML, CSS<br/>
 Email: aminullahtajmuhammad@gmail.com<br/>
+
+
+Name: [Devinda Ravisara](https://github.com/devinda98)<br/>
+Place: Sri Lanka<br/>
+About: University Student <br/>
+Programming Language: c, java, HTML, Python<br/>
+Email: devindaravisara@gmail.com<br/>
 
 Name:[Mathieu Saubin](https://github.com/Doomfang3)
 Place: FRANCE<br/>
