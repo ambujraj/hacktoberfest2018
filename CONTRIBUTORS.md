@@ -1346,7 +1346,7 @@ Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
 Email: vaibhav.tandongcet@gmail.com
 
 Name: [Owura Asare](https://github.com/owura82)<br/>
-Place: NYC, New York
-About: Student
-Programming Languages: Java, Python, C
-Email: oka217@nyu.edu
+Place: NYC, New York<br/>
+About: Student<br/>
+Programming Languages: Java, Python, C<br/>
+Email: oka217@nyu.edu<br/>
