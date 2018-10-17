@@ -1,14 +1,39 @@
-﻿Name: [Dimali Dissanayake](https://github.com/dimalik98)<br/>
+Name: [Aaron Shivers](https://github.com/aaronshivers)
+Place: Missouri
+About: Hi, I'm just getting started.
+Programming Language: JavaScript
+Email: aaronshivers@gmail.com
+
+Name: [Gabriel Cueto](https://github.com/TheMushrr00m)<br/>
+Place: Cancún, México. :glasses<br/>
+About: Software Developer, Speker.<br/>
+Programming Language: Elixir, Golang, Python, Ruby<br/>
+Email:admin@gcueto.com<br/>
+
+Name: [Dimali Dissanayake](https://github.com/dimalik98)<br/>
 Place: Sri Lanka<br/>
 About: UNdergraduate @ NSBM Green University.<br/>
 Programming Language: C,C#,Java,HTML,Python<br/>
 Email:dimalidissanayake.dd@gmail.com<br/>
+
+Name: [Ahnaf Hadi Fathulloh](https://github.com/ahnafhf21)<br/>
+Place: Jakarta, Indonesia<br/>
+About: Student, Learner, Thinker.<br/>
+Programming Language: C++,Java,HTML,LUA,PHP,Pascal<br/>
+Email:ahnafhadi@gmail.com<br/>
 
 Name: [Kanishk Gupta](https://github.com/gkanishk)<br/>
 Place: INDIA<br/>
 About: Student and HackerEarth CA Likes learning.<br/>
 Programming Language: c++,Java,Android, JS, HTML, CSS<br/>
 Email: kanishkgupta1234@gmail.com<br/>
+
+
+Name: [Prashant Shakya](https://github.com/shakyaprashant)<br/>
+Place:INDIA<br/>
+About: Grad Student at MNNIT ALLAHABAD<br/>
+Programming Language: C++,Java,Python<br/>
+Email: prashantshakya@outlook.com<br/>
 
 
 Name: [Arman Gupta](https://github.com/Arman1611)<br/>
@@ -22,6 +47,7 @@ Place: Sri Lanka<br/>
 About: Undergraduate at NSBM Green University<br/>
 Programming Language: C,Java,HTML,CSS,Python<br/>
 Email: buddhimadealwis4@gmail.com<br/>
+
 
 
 
@@ -155,7 +181,7 @@ Name: [Santino](https://github.com/santinohu)<br/>
 Place: Netherlands<br/>
 About: Software engineer student!<br/>
 Programming Language: Python, PHP, Java, PL/SQL<br/>
-Email: santino.b@live.nl<br
+Email: santino.b@live.nl<br/>
 
 Name: [Tharuja](https://github.com/Tharuja)<br/>
 Place: Sri lanka<br/>
@@ -1371,6 +1397,11 @@ About: Front End Developer and IT Engineer<br/>
 Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
 Email: vaibhav.tandongcet@gmail.com<br/>
 
+Name:[Sudhanshu Jaisani](https://github.com/sudhanshujaisani38)<br/>
+Place:Indore,India<br/>
+About:Oracle Certified Developer.
+Programming Languages: Java*,C,Python,Android.<br/>
+Email:sudhanshujaisani38@gmail.com<br/>
 
 Name: [Tom](https://github.com/hypery11)<br/>
 Place: Taichung<br/>
@@ -1404,3 +1435,9 @@ Place: Bengaluru, Karnataka<br/>
 About: Data Scientist<br/>
 Programming Languages: PYTHON
 Email: lokeshtodwal005@gmail.com
+
+Name: [Yatharth Vardan}(https://github.com/YATHARTHVARDAN)<br/>
+Place: Delhi,India <br/>
+About: Student in DTU<br/>
+Programming Languages:C++
+Email: yatharthvardan@gmail.com
