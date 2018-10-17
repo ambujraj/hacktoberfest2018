@@ -1477,3 +1477,9 @@ Place: Delhi,India <br/>
 About: Student in DTU<br/>
 Programming Languages:C++
 Email: yatharthvardan@gmail.com
+
+Name: [Brendan Surtees](https://github.com/brendan-js)
+Place: Brisbane, Australia
+About: I'm a 2nd year Computer Science student, studying at Queensland University of Technology
+Programming Language: Python, Java, C#
+Email: brendan2511@gmail.com
