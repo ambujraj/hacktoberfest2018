@@ -63,7 +63,7 @@ Name: [Akshay Kumar](https://github.com/GHakshay)<br/>
 Place: Jaipur, Rajasthan, INDIA<br/>
 About: Student, Python Developer, Interested in AI.<br/>
 Programming Language: c, c++, python<br/>
-Email: akshay.at009@gmail.com<br/> 
+Email: akshay.at009@gmail.com<br/>
 
 Name: [Dileep Senevirathne](https://github.com/IshankaDSenevirathne)<br/>
 Place: SRI LANKA<br/>
@@ -1363,6 +1363,13 @@ Place: Greater Noida,India<br/>
 About: Front End Developer and IT Engineer<br/>
 Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
 Email: vaibhav.tandongcet@gmail.com
+
+
+Name: [Owura Asare](https://github.com/owura82)<br/>
+Place: NYC, New York<br/>
+About: Student<br/>
+Programming Languages: Java, Python, C<br/>
+Email: oka217@nyu.edu<br/>
 
 
 Name: [Carlos Carvalho](https://github.com/chcdc)<br/>
