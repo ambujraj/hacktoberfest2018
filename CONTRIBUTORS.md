@@ -1,4 +1,8 @@
-﻿
+Name: [Dimali Dissanayake](https://github.com/dimalik98)<br/>
+Place: Sri Lanka<br/>
+About: UNdergraduate @ NSBM Green University.<br/>
+Programming Language: C,C#,Java,HTML,Python<br/>
+Email:dimalidissanayake.dd@gmail.com<br/>
 
 Name: [Kanishk Gupta](https://github.com/gkanishk)<br/>
 Place: INDIA<br/>
