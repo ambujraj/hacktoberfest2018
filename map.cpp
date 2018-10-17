@@ -9,9 +9,9 @@ int main()
 	map<string,int> m;
 	
 	//copying an array into a map
-	int arr[10] = {12,14,15,16,17,17,16,60,12,1};
+	int arr[11] = {12,14,15,16,17,17,16,60,12,1,56};
 	map<int,int> map1;
-	for(int i=0;i<10;i++)
+	for(int i=0;i<11;i++)
 	{
 		map1[arr[i]]++;
 	}
