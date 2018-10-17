@@ -1078,6 +1078,11 @@ About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
 
+Name: [Jerodev](https://github.com/jerodev)<br/>
+Place: Belgium<br/>
+About: Full-Stack Web Developer<br/>
+Programming Language: C#, PHP, JavaScript<br/>
+
 Name: [Zakariya](https://github.com/f-zee)<br/>
 Place: GitHub :D<br/>
 About: Junior Android Developer<br/>
@@ -1344,4 +1349,3 @@ Place: Greater Noida,India<br/>
 About: Front End Developer and IT Engineer<br/>
 Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
 Email: vaibhav.tandongcet@gmail.com
-
