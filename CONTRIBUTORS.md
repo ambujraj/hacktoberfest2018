@@ -1,3 +1,4 @@
+
 Name: [Aaron Shivers](https://github.com/aaronshivers)
 Place: Missouri
 About: Hi, I'm just getting started.
@@ -23,11 +24,19 @@ Programming Language: c++,Java,Android, JS, HTML, CSS<br/>
 Email: kanishkgupta1234@gmail.com<br/>
 
 
+Name: [Prashant Shakya](https://github.com/shakyaprashant)<br/>
+Place:INDIA<br/>
+About: Grad Student at MNNIT ALLAHABAD<br/>
+Programming Language: C++,Java,Python<br/>
+Email: prashantshakya@outlook.com<br/>
+
+
 Name: [Arman Gupta](https://github.com/Arman1611)<br/>
 Place: INDIA<br/>
 About: Student and Android Developer.<br/>
 Programming Language: C,C++,Java,dart,python,Android, JS, HTML, CSS<br/>
 Email: armangupta0504@gmail.com<br/>
+
 
 
 Name: [Aman Singh](https://github.com/AMANSINGH1998)<br/>
@@ -160,7 +169,7 @@ Name: [Santino](https://github.com/santinohu)<br/>
 Place: Netherlands<br/>
 About: Software engineer student!<br/>
 Programming Language: Python, PHP, Java, PL/SQL<br/>
-Email: santino.b@live.nl<br
+Email: santino.b@live.nl<br/>
 
 Name: [Tharuja](https://github.com/Tharuja)<br/>
 Place: Sri lanka<br/>
