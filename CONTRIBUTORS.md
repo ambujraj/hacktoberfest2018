@@ -495,6 +495,14 @@ About: I am currently studying computer science and technology in my B.Tech at I
 Programming Language: C++, C, python, HTML, css<br/>
 Email: b17092@students.iitmandi.ac.in<br/>
 
+Name:[Sanduni Imalsha](https://github.com/sanduniisa)<br/>
+Place: Colombo, SriLanka<br/>
+About: I am an undergratuate in University of Colombo School of Computing in Information Systems.<br/>
+Programming Language: Python, C, HTML, CSS, PHP, JavaScript.<br/>
+Email: sanduniisa@gmail.com
+
+
+
 Name: [Praveen Kumar Saini](https://github.com/praveen-me)
 Place: Dharamshala, India
 About: I am currently learning Full Stack Development and also a Google Uadicty India Scholar.
