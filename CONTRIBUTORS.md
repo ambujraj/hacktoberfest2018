@@ -1,3 +1,9 @@
+Name: [Aaron Shivers](https://github.com/aaronshivers)
+Place: Missouri
+About: Hi, I'm just getting started.
+Programming Language: JavaScript
+Email: aaronshivers@gmail.com
+
 Name: [Dimali Dissanayake](https://github.com/dimalik98)<br/>
 Place: Sri Lanka<br/>
 About: UNdergraduate @ NSBM Green University.<br/>
