@@ -1078,6 +1078,12 @@ About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
 
+Name: [Marbille Juntado](https://github.com/MarbilleJuntado)<br/>
+Place: Metro Manila, Philippines<br/>
+About: Software Engineer<br/>
+Programming Language: Elixir, Javascript, Python<br/>
+Email: marbille.juntado@hotmail.ph<br/>
+
 Name: [Zakariya](https://github.com/f-zee)<br/>
 Place: GitHub :D<br/>
 About: Junior Android Developer<br/>
@@ -1344,4 +1350,3 @@ Place: Greater Noida,India<br/>
 About: Front End Developer and IT Engineer<br/>
 Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
 Email: vaibhav.tandongcet@gmail.com
-
