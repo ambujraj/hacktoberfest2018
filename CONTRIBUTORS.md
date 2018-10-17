@@ -1,4 +1,8 @@
-
+Name: [Aaron Shivers](https://github.com/aaronshivers)
+Place: Missouri
+About: Hi, I'm just getting started.
+Programming Language: JavaScript
+Email: aaronshivers@gmail.com
 
 Name: [Kanishk Gupta](https://github.com/gkanishk)<br/>
 Place: INDIA<br/>
@@ -44,7 +48,7 @@ Name: [Akshay Kumar](https://github.com/GHakshay)<br/>
 Place: Jaipur, Rajasthan, INDIA<br/>
 About: Student, Python Developer, Interested in AI.<br/>
 Programming Language: c, c++, python<br/>
-Email: akshay.at009@gmail.com<br/> 
+Email: akshay.at009@gmail.com<br/>
 
 Name: [Dileep Senevirathne](https://github.com/IshankaDSenevirathne)<br/>
 Place: SRI LANKA<br/>
@@ -1344,4 +1348,3 @@ Place: Greater Noida,India<br/>
 About: Front End Developer and IT Engineer<br/>
 Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
 Email: vaibhav.tandongcet@gmail.com
-
