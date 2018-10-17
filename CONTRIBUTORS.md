@@ -1345,3 +1345,8 @@ About: Front End Developer and IT Engineer<br/>
 Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
 Email: vaibhav.tandongcet@gmail.com
 
+Name: [Tom](https://github.com/hypery11)
+Place: Taichung
+About: Student @Tunghai University
+Programming Language: PHP,PYTHON,JS
+Email: 
