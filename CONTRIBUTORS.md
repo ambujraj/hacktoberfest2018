@@ -1,4 +1,3 @@
-
 Name: [Aaron Shivers](https://github.com/aaronshivers)
 Place: Missouri
 About: Hi, I'm just getting started.
@@ -42,6 +41,13 @@ Place: INDIA<br/>
 About: Student and Android Developer.<br/>
 Programming Language: C,C++,Java,dart,python,Android, JS, HTML, CSS<br/>
 Email: armangupta0504@gmail.com<br/>
+
+Name: [Buddhima De Alwis](https://github.com/buddhima97)<br/>
+Place: Sri Lanka<br/>
+About: Undergraduate at NSBM Green University<br/>
+Programming Language: C,Java,HTML,CSS,Python<br/>
+Email: buddhimadealwis4@gmail.com<br/>
+
 
 
 
