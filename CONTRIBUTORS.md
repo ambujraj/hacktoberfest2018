@@ -1,4 +1,5 @@
 
+
 Name: [Rohan Sharma](https://github.com/eXpErImEnTcoder)<br/>
 Place: India<br/>
 About: CS undergraduate. Experienced with web exploitation and cyber 
@@ -1499,6 +1500,14 @@ About: Student in DTU<br/>
 Programming Languages:C++
 Email: yatharthvardan@gmail.com
 
+
+
+Name: [Shruti Garg}(https://github.com/gargshruti30)<br/>
+Place: Delhi,India <br/>
+About: Student in NSIT<br/>
+Programming Languages: C/C++
+Email: gargshruti30@gmail.com
+
 Name: [Brendan Surtees](https://github.com/brendan-js)
 Place: Brisbane, Australia
 About: I'm a 2nd year Computer Science student, studying at Queensland University of Technology
@@ -1529,3 +1538,4 @@ Place: Vadodara ,Gujarat,India <br/>
 About: Gamer, Developer<br/>
 Programming Languages:Java
 Email: jaynil.shah84@gmail.com
+
