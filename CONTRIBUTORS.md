@@ -1499,6 +1499,12 @@ About: Student in DTU<br/>
 Programming Languages:C++
 Email: yatharthvardan@gmail.com
 
+Name: [HARSH GUPTA](Github Link)
+Place: ASSAM,GUWAHATI
+About: BTECH CSE AT IITG
+Programming Language: C++;PYTHON
+Email: hagu0987@gmail.com
+
 Name: [Sakuna Madushanka](https://github.com/Sakuwz) <br/>
 Place: Nuwara Eliya,Sri Lanka <br/>
 About: Reading for Software Engineering BSc(Hons) - University of Kelaniya,Sri Lanka <br/>
