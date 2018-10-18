@@ -132,6 +132,12 @@ About: B.Tech student at IIIT Allahabad<br/>
 Programming Languages: HTML,CSS,JAVA,C++,C<br/> 
 Email: Gupta.ekansh.01@gmail.com<br/>
 
+Name: [Hritik Tayade](https://github.com/braceritchie)<br/>
+Place: Pune, India<br/>
+About: Diploma Student in Engineering and Technology<br/>
+Programming Languages: Java, Python<br/>
+Email: tayadehritik@gmail.com<br/>
+
 Name: [Jayesh Joshi](https://github.com/python-jjlearner)<br/>
 Place: India<br/>
 About: Student and Software engineer! <br/>
