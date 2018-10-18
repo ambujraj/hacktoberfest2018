@@ -115,6 +115,13 @@ About: O'Clock student (Nova) learning web developpement.<br/>
 Programming Languages: HTML, CSS, JS, PHP, MySQL.<br/>
 Email: saubinm@free.fr<br/>
 
+
+Name: [Fellipe Medeiros](https://github.com/FellipeMedeirosSilva) <br/>
+Place: Guarulhos, São Paulo <br/>
+About: Tech lover and Developer <br/>
+Programming Language: HTML, CSS, JS, NODE, C# <br/>
+Email: fellipe.medeiros1@gmail.com <br/>
+
 Name: [Ekansh Gupta](https://github.com/Ekansh-01)<br/>
 Place: Muzaffarnagar,INDIA<br/>
 About: B.Tech student at IIIT Allahabad<br/>
