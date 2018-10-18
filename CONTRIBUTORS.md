@@ -1297,6 +1297,12 @@ About: Computer Engineering Student
 Programming Language: python, java, c, c++
 Email: furkan.goksel27@gmail.com
 
+Name: [Paul Flanagan](https://github.com/paultflanagan)<br/>
+Place: New Jersey, United States <br/>
+About: Computer Science Student and Intern<br/>
+Programming Languages: Java, Python, VBScript<br/>
+Email: paultflanagan@gmail.com<br/>
+
 
 Name: [Zachary Dixon](https://github.com/zachdixon)
 Place: Dallas, TX
