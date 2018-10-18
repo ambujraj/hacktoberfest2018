@@ -38,6 +38,12 @@ Programming Language: C#, JS, Swift<br/>
 Name: [Eren Sertkaya](https://github.com/erensertkaya)<br/>
 Place: Turkey<br/>
 About: I'm web developer which develop passive-income projects<br/>
+
+
+Name: [Ansh Kapoor](https://github.com/AnshKapoor)<br/>
+Place: Uttar Pradesh,India<br/>
+About: IT undergraduate from IP University,Delhi<br/>
+Programming Language:c,c++,Java,Javascript,Html,Css<br/>
 Programming Language: Php,Javascript<br/>
 Email: eren.sertkaya.es@gmail.com<br/>
 
