@@ -1600,3 +1600,9 @@ Place : Jakarta , Indonesia <br/>
 About : Future Programmer | Newbs | 18" | IT engineer colleger
 Programming Languages : C++ , html
 Email : yagami.chira@gmail.com
+
+name: [Nathan Melaku](https://github.com/Nathan-Melaku) <br/>
+Place: Bahir Dar, Ethiopia <br/>
+about: Student at BDU <br/>
+Programming Languages:C,C++,Python,Ruby <br/>
+Email: nathanmelkau@gmail.com <br/>
