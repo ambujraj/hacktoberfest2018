@@ -1503,6 +1503,11 @@ About: Bachelor's Student in Information Systems and I like travel.<br/>
 Programming Language: C,Java, HTML, CSS, Python<br/>
 Email: helenfranca93@gmail.com<br/>
 
+Name: [Zayam Tariq](https://github.com/234082)
+Place: USA
+About: Computer Science Student
+Programming Languages: Swift, C++
+Email: zayamtariq@yahoo.com
 
 Name: [Thái Huy Nhật Quang](https://github.com/thaihuynhatquang)<br/>
 Place: Hà Nội, Việt Nam<br/>
