@@ -1489,3 +1489,9 @@ Place: Nuwara Eliya,Sri Lanka <br/>
 About: Reading for Software Engineering BSc(Hons) - University of Kelaniya,Sri Lanka <br/>
 Programming Languages:C++,java,C,C# <br/>
 Email: sakuwwz@gmail.com <br/>
+
+name: [Nathan Melaku](https://github.com/Nathan-Melaku) <br/>
+Place: Bahir Dar, Ethiopia <br/>
+about: Student at BDU <br/>
+Programming Languages:C,C++,Python,Ruby <br/>
+Email: nathanmelkau@gmail.com <br/>
