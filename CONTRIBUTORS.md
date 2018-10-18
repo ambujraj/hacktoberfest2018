@@ -1508,6 +1508,12 @@ About: Computer Science Student
 Programming Languages: Swift, C++
 Email: zayamtariq@yahoo.com
 
+Name: [Fahri Güreşçi](https://github.com/fahri314)
+Place: Turkey, Tekirdağ
+About: Computer Enginner
+Programming Language: Python, C++, C, Javascript
+Email: fahri314@gmail.com
+
 
 Name: [Daniel Hernqvist](https://github.com/hernqvistdaniel)<br/>
 Place: Stockholm<br/>
