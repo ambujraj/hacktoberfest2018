@@ -1600,3 +1600,9 @@ Place : Jakarta , Indonesia <br/>
 About : Future Programmer | Newbs | 18" | IT engineer colleger
 Programming Languages : C++ , html
 Email : yagami.chira@gmail.com
+
+Name :[Harsh Vijay](https://github.com/hvijaycse)
+Place : Jaipur
+About : Just a Curious code who love physics 
+Programming language : c, c++ , python 
+Email : hvijay.cse@gmail.com 
