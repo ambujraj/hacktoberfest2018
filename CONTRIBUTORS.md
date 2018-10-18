@@ -1,4 +1,4 @@
-Name: [Aaron Shivers](https://github.com/aaronshivers)
+﻿Name: [Aaron Shivers](https://github.com/aaronshivers)
 Place: Missouri
 About: Hi, I'm just getting started.
 Programming Language: JavaScript
@@ -15,6 +15,12 @@ Place: Sri Lanka<br/>
 About: UNdergraduate @ NSBM Green University.<br/>
 Programming Language: C,C#,Java,HTML,Python<br/>
 Email:dimalidissanayake.dd@gmail.com<br/>
+
+Name: [Anuj Kharbanda](https://github.com/Anuj2711)
+Place: Muzaffarnagar,India.
+About: Undergrad at BITS Pilani.
+Programming Language: C , C++
+Email: anuj.kharbanda01@gmail.com
 
 Name: [Ahnaf Hadi Fathulloh](https://github.com/ahnafhf21)<br/>
 Place: Jakarta, Indonesia<br/>
