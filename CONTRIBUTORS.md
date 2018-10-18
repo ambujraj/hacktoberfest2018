@@ -1346,7 +1346,7 @@ Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
 Email: vaibhav.tandongcet@gmail.com
 
 Name: [Karm0s](https://github.com/Karm0s)<br/>
-Place: Bejaia, Amalou<br/>
+Place: Bejaia, Algeria<br/>
 About: Python developer.<br/>
 Programming Languages: Python, C++, C#<br/>
 Email: bouchenna.yanis@protonmail.com<br/>
