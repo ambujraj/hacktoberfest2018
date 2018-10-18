@@ -1345,8 +1345,8 @@ About: Front End Developer and IT Engineer<br/>
 Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
 Email: vaibhav.tandongcet@gmail.com
 
-Name: [Karm0s](https://github.com/Karm0s)
-Place: Bejaia, Amalou
-About: Python developer.
-Programming Languages: Python, C++, C#
-Email: bouchenna.yanis@protonmail.com
+Name: [Karm0s](https://github.com/Karm0s)<br/>
+Place: Bejaia, Amalou<br/>
+About: Python developer.<br/>
+Programming Languages: Python, C++, C#<br/>
+Email: bouchenna.yanis@protonmail.com<br/>
