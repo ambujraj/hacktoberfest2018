@@ -1,4 +1,12 @@
-﻿Name: [Aaron Shivers](https://github.com/aaronshivers)
+
+Name: [Rohan Sharma](https://github.com/eXpErImEnTcoder)<br/>
+Place: India<br/>
+About: CS undergraduate. Experienced with web exploitation and cyber 
+security.<br/>
+Programming Language: C, C++, Python, JS.<br/>
+Email: rohansharma.rohan27@gmail.com<br/>
+
+Name: [Aaron Shivers](https://github.com/aaronshivers)
 Place: Missouri
 About: Hi, I'm just getting started.
 Programming Language: JavaScript
@@ -15,6 +23,12 @@ Place: Sri Lanka<br/>
 About: UNdergraduate @ NSBM Green University.<br/>
 Programming Language: C,C#,Java,HTML,Python<br/>
 Email:dimalidissanayake.dd@gmail.com<br/>
+
+Name: [Anuj Kharbanda](https://github.com/Anuj2711)
+Place: Muzaffarnagar,India.
+About: Undergrad at BITS Pilani.
+Programming Language: C , C++
+Email: anuj.kharbanda01@gmail.com
 
 Name: [Ahnaf Hadi Fathulloh](https://github.com/ahnafhf21)<br/>
 Place: Jakarta, Indonesia<br/>
@@ -1149,6 +1163,7 @@ About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
 
+
 Name: [Zakariya](https://github.com/f-zee)<br/>
 Place: GitHub :D<br/>
 About: Junior Android Developer<br/>
@@ -1281,6 +1296,12 @@ Place: Ankara, Turkey
 About: Computer Engineering Student
 Programming Language: python, java, c, c++
 Email: furkan.goksel27@gmail.com
+
+Name: [Paul Flanagan](https://github.com/paultflanagan)<br/>
+Place: New Jersey, United States <br/>
+About: Computer Science Student and Intern<br/>
+Programming Languages: Java, Python, VBScript<br/>
+Email: paultflanagan@gmail.com<br/>
 
 
 Name: [Zachary Dixon](https://github.com/zachdixon)
@@ -1483,3 +1504,22 @@ Place: ASSAM,GUWAHATI
 About: BTECH CSE AT IITG
 Programming Language: C++;PYTHON
 Email: hagu0987@gmail.com
+
+Name: [Sakuna Madushanka](https://github.com/Sakuwz) <br/>
+Place: Nuwara Eliya,Sri Lanka <br/>
+About: Reading for Software Engineering BSc(Hons) - University of Kelaniya,Sri Lanka <br/>
+Programming Languages:C++,java,C,C# <br/>
+Email: sakuwwz@gmail.com <br/>
+
+Name: [Aditya Menon](https://github.com/m-aditya)<br/>
+Place: Kochi, Kerala, India<br/>
+About: CSE Student<br/>
+Programming Language: Python, C, javascript<br/>
+Email:adityamenon1996@gmail.com<br/>
+
+
+Name: [Jaynil Shah}(https://github.com/jaynilshah)<br/>
+Place: Vadodara ,Gujarat,India <br/>
+About: Gamer, Developer<br/>
+Programming Languages:Java
+Email: jaynil.shah84@gmail.com
