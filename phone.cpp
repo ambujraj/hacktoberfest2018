@@ -14,7 +14,7 @@ int stringdigit(string str)
 }
 
 
-int main(void)
+int main()
 {
 	cout << "Please enter a phone number: ";
 	string number;
@@ -28,4 +28,5 @@ int main(void)
 
 
 	cout << "is a valid phone number" << endl;
+	return 0;
 }
