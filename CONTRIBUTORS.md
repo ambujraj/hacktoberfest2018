@@ -1,4 +1,4 @@
-Name: [Aaron Shivers](https://github.com/aaronshivers)
+﻿Name: [Aaron Shivers](https://github.com/aaronshivers)
 Place: Missouri
 About: Hi, I'm just getting started.
 Programming Language: JavaScript
@@ -35,6 +35,12 @@ About: Grad Student at MNNIT ALLAHABAD<br/>
 Programming Language: C++,Java,Python<br/>
 Email: prashantshakya@outlook.com<br/>
 
+
+Name: [wrecKING Tsukinoryoshu](https://github.com/tsukinoryoshu)<br/>
+Place:INDIA<br/>
+About: Student at BITS Pilani Hyderabad Campus<br/>
+Programming Language: Python<br/>
+Email: tsukinoroyoshu@gmail.com<br/>
 
 Name: [Arman Gupta](https://github.com/Arman1611)<br/>
 Place: INDIA<br/>
