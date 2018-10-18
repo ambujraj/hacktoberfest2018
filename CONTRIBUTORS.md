@@ -1,4 +1,8 @@
-
+Name: [Bayli](https://github.com/baylisade)<br/>
+Place: Toronto, Ontario<br/>
+About: Student at UofT.<br/>
+Programming Language: HTML, CSS, Javascript, jQuery<br/>
+Email: bayli1@gmail.com<br/>
 
 
 Name: [Rohan Sharma](https://github.com/eXpErImEnTcoder)<br/>
