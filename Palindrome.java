@@ -1,11 +1,14 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 
+
+
 public class Palindrome {
 
   public static int getInput() {
     Scanner sc = new Scanner(System.in);
     System.out.println("Enter the your number: ");
+
     int number = sc.nextInt();
     sc.close();
     return number;
