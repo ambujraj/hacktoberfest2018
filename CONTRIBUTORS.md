@@ -1,4 +1,12 @@
-﻿Name: [Aaron Shivers](https://github.com/aaronshivers)
+
+Name: [Rohan Sharma](https://github.com/eXpErImEnTcoder)<br/>
+Place: India<br/>
+About: CS undergraduate. Experienced with web exploitation and cyber 
+security.<br/>
+Programming Language: C, C++, Python, JS.<br/>
+Email: rohansharma.rohan27@gmail.com<br/>
+
+Name: [Aaron Shivers](https://github.com/aaronshivers)
 Place: Missouri
 About: Hi, I'm just getting started.
 Programming Language: JavaScript
@@ -1154,6 +1162,7 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
 
 Name: [Zakariya](https://github.com/f-zee)<br/>
 Place: GitHub :D<br/>
