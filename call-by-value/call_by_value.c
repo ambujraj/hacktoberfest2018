@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 int increment(int var)
 {
     var = var+1;

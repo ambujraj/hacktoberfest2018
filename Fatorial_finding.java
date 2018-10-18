@@ -2,7 +2,7 @@ import java.util.Scanner;
  
 class Factorial_finding
 {
-   public static void main(String args[])
+   public static void main(String...args)
    {
       int n;
     int  c;
