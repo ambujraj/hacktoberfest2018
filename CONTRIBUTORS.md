@@ -1091,6 +1091,8 @@ About: CS undergraduate
 Programming Language: Python,Javascript,C,C++
 Email: singhpd75@gmail.com
 
+
+
 Name: [emekoi](https://github.com/emekoi)
 Place: antarctica
 About: i like programming but i can't finish anything
@@ -1100,9 +1102,6 @@ Name: [Pijus](https://github.com/pijusrancevas)
 Place: Horsens, Denmark
 About: Software Engineer student
 Programming Language: Python, Javascript, JAVA (soon), C#
-
-
-
 
 Name: [porpeeranut](https://github.com/porpeeranut)
 Place: Earth Planet
@@ -1508,6 +1507,13 @@ Place: USA
 About: Computer Science Student
 Programming Languages: Swift, C++
 Email: zayamtariq@yahoo.com
+
+
+Name: [Daniel Hernqvist](https://github.com/hernqvistdaniel)<br/>
+Place: Stockholm<br/>
+About: Studying Full-Stack development at Chas Academy in Stockholm.<br/>
+Programming Language: HTML, CSS, JavaScript<br/>
+Email: danielsan_86@hotmail.com<br/>
 
 Name: [Thái Huy Nhật Quang](https://github.com/thaihuynhatquang)<br/>
 Place: Hà Nội, Việt Nam<br/>
