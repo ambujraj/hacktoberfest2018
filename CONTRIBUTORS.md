@@ -1718,3 +1718,15 @@ Place: Italy
 About: Junior Software Engineer
 Programming Language: C, C++, Java, C#, Python, Scala
 Email: andreafrancesco.iuorio@gmail.com
+
+Name : Rahul Mishra
+Place : Noida(India)
+About : B.Tech(CSE) student
+Programming Language : C
+Email : misrarahul1100@gmail.com
+
+Name : [Trishla Verma](https://github.com/trishla08)<br/>
+Place : New Delhi , India <br/>
+About : Coding Enthusiast | Computer Engineering Student
+Programming Languages : C, C++, Java, Javascript
+Email : trishla.verma@gmail.com
