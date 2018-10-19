@@ -1514,6 +1514,11 @@ About: Front End Developer and IT Engineer<br/>
 Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
 Email: vaibhav.tandongcet@gmail.com<br/>
 
+Name: [Asim Subedi](https://github.com/asimsubedi)<br/>
+Place: Los Angeles<br/>
+About: Front End Developer<br/>
+Programming Language: C, Python, javascript
+Email: asim.232@gmail.com
 
 Name: [Hearot](https://github.com/hearot)<br/>
 Place: Florence, Italy<br/>
