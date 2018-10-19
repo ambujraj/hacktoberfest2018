@@ -347,6 +347,11 @@ Place: Jaipur <br/>
 About: I'm a computer science student and I love coding.<br/>
 Programming Language : C,C++,Java,Python3<br/>
 
+Name: [Navdeep Singh](https://github.com/navdeep300)<br/>
+Place: Montreal, Canada <br/>
+About: I'm a Masters student in Quality System Engineering.<br/>
+Programming Language : C,C++,Html,PHP<br/>
+
 Name: https://github.com/D3D0X<br>
 Place: Dronten<br>
 About: Dutch Linux engineer<br>
@@ -1576,6 +1581,7 @@ About: Reading for Software Engineering BSc(Hons) - University of Kelaniya,Sri L
 Programming Languages:C++,java,C,C# <br/>
 Email: sakuwwz@gmail.com <br/>
 
+
 Name: [Aditya Menon](https://github.com/m-aditya)<br/>
 Place: Kochi, Kerala, India<br/>
 About: CSE Student<br/>
@@ -1601,8 +1607,16 @@ About : Future Programmer | Newbs | 18" | IT engineer colleger
 Programming Languages : C++ , html
 Email : yagami.chira@gmail.com
 
+
 Name :[Harsh Vijay](https://github.com/hvijaycse)
 Place : Jaipur
 About : Just a Curious code who love physics 
 Programming language : c, c++ , python 
 Email : hvijay.cse@gmail.com 
+
+
+name: [Nathan Melaku](https://github.com/Nathan-Melaku) <br/>
+Place: Bahir Dar, Ethiopia <br/>
+about: Student at BDU <br/>
+Programming Languages:C,C++,Python,Ruby <br/>
+Email: nathanmelkau@gmail.com <br/>
