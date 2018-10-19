@@ -1608,15 +1608,15 @@ Programming Languages : C++ , html
 Email : yagami.chira@gmail.com
 
 
-Name :[Harsh Vijay](https://github.com/hvijaycse)
-Place : Jaipur
-About : Just a Curious code who love physics 
-Programming language : c, c++ , python 
-Email : hvijay.cse@gmail.com 
-
-
 name: [Nathan Melaku](https://github.com/Nathan-Melaku) <br/>
 Place: Bahir Dar, Ethiopia <br/>
 about: Student at BDU <br/>
 Programming Languages:C,C++,Python,Ruby <br/>
 Email: nathanmelkau@gmail.com <br/>
+
+
+Name: [Jonathan Chavez](https://github.com/JonathanChavezTamales)
+Place: Guadalajara
+About: CS Student
+Programming Language: Python
+Email: jonachuy@hotmail.com
