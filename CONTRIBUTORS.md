@@ -101,6 +101,13 @@ About: Student and Web developer! Likes AI.<br/>
 Programming Language: c++, JS, HTML, CSS<br/>
 Email: amansingh19981998@gmail.com<br/>
 
+Name: [Rahul Chauhan](https://github.com/rahulchauhan049)
+Place: Greater Noida, India
+About: web developer, speaker, alexa skills, aog
+Programming Language: Javascript?
+Email: rahul.chauhan049@gmail.com
+
+
 Name: [Warushika Hansini](https://github.com/warushika)<br/>
 Place: SRILANKS<br/>
 About: Student and Web developer! Likes AI and UI& UX.<br/>
