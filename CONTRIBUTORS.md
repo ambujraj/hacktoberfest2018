@@ -18,6 +18,12 @@ About: Hi, I'm just getting started.
 Programming Language: JavaScript
 Email: aaronshivers@gmail.com
 
+Name: [Lee T](https://github.com/leeturnbill)
+Place: Tennessee
+About: EMC Engineer
+Programming Language: Python and C++
+Email: leeturnbill123@gmail.com
+
 Name: [Gabriel Cueto](https://github.com/TheMushrr00m)<br/>
 Place: Cancún, México. :glasses<br/>
 About: Software Developer, Speker.<br/>
