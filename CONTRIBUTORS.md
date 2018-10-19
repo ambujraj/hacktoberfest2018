@@ -1752,3 +1752,9 @@ Place : New Delhi , India <br/>
 About : Coding Enthusiast | Computer Engineering Student
 Programming Languages : C, C++, Java, Javascript
 Email : trishla.verma@gmail.com
+
+Name : [Yusuf Adefolahan](https://github.com/sanxy)<br/>
+Place : Abuja , Nigeria <br/>
+About : Coding | Android Developer
+Programming Languages :  Java
+Email : yusufadefolahan@gmail.com
