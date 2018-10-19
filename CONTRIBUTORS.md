@@ -127,10 +127,6 @@ About: O'Clock student (Nova) learning web developpement.<br/>
 Programming Languages: HTML, CSS, JS, PHP, MySQL.<br/>
 Email: saubinm@free.fr<br/>
 
-Name: [Dhruv Patel](https://github.com/dhruv_997) <br/>
-Place: Gujarat,India <br/>
-Programming Language: HTML,C++,C#,C,Python<br/>
-Email: dhruvdocs@gmail.com <br/>
 
 Name: [Fellipe Medeiros](https://github.com/FellipeMedeirosSilva) <br/>
 Place: Guarulhos, São Paulo <br/>
@@ -1124,6 +1120,8 @@ About: CS undergraduate
 Programming Language: Python,Javascript,C,C++
 Email: singhpd75@gmail.com
 
+
+
 Name: [emekoi](https://github.com/emekoi)
 Place: antarctica
 About: i like programming but i can't finish anything
@@ -1133,9 +1131,6 @@ Name: [Pijus](https://github.com/pijusrancevas)
 Place: Horsens, Denmark
 About: Software Engineer student
 Programming Language: Python, Javascript, JAVA (soon), C#
-
-
-
 
 Name: [porpeeranut](https://github.com/porpeeranut)
 Place: Earth Planet
@@ -1549,11 +1544,18 @@ About: Computer Science Student
 Programming Languages: Swift, C++
 Email: zayamtariq@yahoo.com
 
-Name: [HARDIK KAPOOR](https://github.com/blackpanther99)
-Place: INDIA
-About: Persuing B.tech in IT from CIC, DU.
-Programming Language: C++, C, Java, Python
-Email: hardikkapoor1999@gmail.com
+Name: [Fahri Güreşçi](https://github.com/fahri314)
+Place: Turkey, Tekirdağ
+About: Computer Enginner
+Programming Language: Python, C++, C, Javascript
+Email: fahri314@gmail.com
+
+
+Name: [Daniel Hernqvist](https://github.com/hernqvistdaniel)<br/>
+Place: Stockholm<br/>
+About: Studying Full-Stack development at Chas Academy in Stockholm.<br/>
+Programming Language: HTML, CSS, JavaScript<br/>
+Email: danielsan_86@hotmail.com<br/>
 
 Name: [Thái Huy Nhật Quang](https://github.com/thaihuynhatquang)<br/>
 Place: Hà Nội, Việt Nam<br/>
@@ -1637,6 +1639,12 @@ Place : Jakarta , Indonesia <br/>
 About : Future Programmer | Newbs | 18" | IT engineer colleger
 Programming Languages : C++ , html
 Email : yagami.chira@gmail.com
+
+
+Name : [Rohit Motwani](https://github.com/rohittm)<br/>
+Place : India <br/>
+About : Programmer, WordPress and WooCommerce Ninja
+Programming Languages : JavaScript, PHP
 
 Name : [Monika Kumari] (https://github.com/MONIKA2013IGDTU)<br/>
 Place : New Delhi , India <br/>
