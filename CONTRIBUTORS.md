@@ -1723,6 +1723,12 @@ About : Future Programmer | Newbs | 18" | IT engineer colleger
 Programming Languages : C++ , html
 Email : yagami.chira@gmail.com
 
+Name: [Kazuko Kannagi](https://github.com/kannagikazuko)<br/>
+Place: USA<br/>
+About: Hobbyist programmer and Discord Bot Developer<br/>
+Programming Language: Primarily Javascript (Node JS) and Coffeescript<br/>
+Email: kannagikazuko@gmail.com<br/>
+
 Name : [Sachin Pawar] (https://github.com/pwrsachin)<br/>
 Place : IIT Kharagpur, India <br/>
 About :I am second year undergraduate student, studying in IIT Kharagpur<br/>
