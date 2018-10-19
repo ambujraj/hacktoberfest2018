@@ -1345,3 +1345,6 @@ About: Front End Developer and IT Engineer<br/>
 Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
 Email: vaibhav.tandongcet@gmail.com
 
+Name: [Shauna Corr](https://github.com/dranoels)<br/>
+Place: Belfast, Northern Ireland<br/>
+About: Data Engineer<br/>
