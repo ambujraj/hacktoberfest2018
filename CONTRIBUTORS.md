@@ -1,3 +1,9 @@
+Name: [Maéva](https://github.com/maevabakhaw)<br/>
+Place: Paris, France<br/>
+About: Student<br/>
+Programming Language: HTML, CSS, Javascript<br/>
+Email: meh@gmail.com<br/>
+
 Name: [Bayli](https://github.com/baylisade)<br/>
 Place: Toronto, Ontario<br/>
 About: Student at UofT.<br/>
