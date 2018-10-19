@@ -1558,6 +1558,13 @@ Email: fahri314@gmail.com
 
 
 
+Name: [Bhushan Khanale](https://github.com/bkhanale)<br/>
+Place: Pune, India<br/>
+About: Competitive Programmer<br/>
+Programming Languages: C, C++, JAVA, Python
+Email: bkhanale@gmail.com
+
+
 Name: [Abhisek Chaudhuri](https://github.com/abhisekssp4025)<br/>
 Place: West Bengal, India<br/>
 About: Front End Developer
