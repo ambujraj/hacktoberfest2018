@@ -1772,3 +1772,9 @@ Place : Abuja , Nigeria <br/>
 About : Coding | Android Developer
 Programming Languages :  Java
 Email : yusufadefolahan@gmail.com
+
+Name: [Martynas Jasin](https://github.com/Miautawn)
+Place: Lithuania
+About: Student
+Programming Language: C++, Java, C#, JavaScript;
+Email: miautawn@gmail.com
