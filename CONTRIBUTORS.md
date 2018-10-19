@@ -1347,7 +1347,7 @@ Email: vaibhav.tandongcet@gmail.com
 
 Name: [Viktor Bakulin](https://github.com/Alanthel)<br/>
 Place: Samara, Russia<br/>
-About: Front End Developer and IT Engineer<br/>
+About: Mobile and Game Developer<br/>
 Programming Languages: Java, C#, C, C++, Python
 Email: bakulinvm@gmail.com
 
