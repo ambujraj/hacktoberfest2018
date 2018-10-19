@@ -1,3 +1,9 @@
+Name: [Harsh Ranpariya]<br/>
+Place: INDIA<br/>
+About: Student and Web Developer<br/>
+Programming Language: PHP,NodeJS<br/>
+Email: harshranpariya@gmail.com<br/>
+
 Name: [Harmeet Singh]<br/>
 Place: INDIA<br/>
 About: Student and Android Developer<br/>
