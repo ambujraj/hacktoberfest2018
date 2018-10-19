@@ -44,7 +44,7 @@ int main(){
 
 	//now see if the original and this reversed number is same or not 
 	if(number == revnumber){
-		printf("%d is a palindrome\.n",n);
+		printf("%d is a palindrome.\n",n);
 	}
 	else
 		printf("%d is not a palindrome.\n",n);
