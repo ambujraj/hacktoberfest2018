@@ -1525,6 +1525,12 @@ About: Bachelor's Student in Information Systems and I like travel.<br/>
 Programming Language: C,Java, HTML, CSS, Python<br/>
 Email: helenfranca93@gmail.com<br/>
 
+Name: [Karm0s](https://github.com/Karm0s)<br/>
+Place: Bejaia, Algeria<br/>
+About: Python developer.<br/>
+Programming Languages: Python, C++, C#<br/>
+Email: bouchenna.yanis@protonmail.com<br/>
+
 Name: [Zayam Tariq](https://github.com/234082)
 Place: USA
 About: Computer Science Student
