@@ -10,6 +10,13 @@ About: Student and Android Developer<br/>
 Programming Language: Java,Android<br/>
 Email: sharmeet167@gmail.com@gmail.com<br/>
 
+
+Name: [|Pasan |Jayawickrama]<br/>
+Place: SRILANKA<br/>
+About: Undergraduate |Computer |Science<br/>
+Programming Language: Java,C<br/>
+Email: pasan.jaya.official@gmail.com<br/>
+
 Name: [Youen FROGER](https://github.com/laenNoCode)<br/>
 Place: FRANCE<br/>
 About: software engineering student and developer! Likes async<br/>
