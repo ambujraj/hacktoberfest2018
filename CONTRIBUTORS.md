@@ -1681,6 +1681,11 @@ About : Future Programmer | Newbs | 18" | IT engineer colleger
 Programming Languages : C++ , html
 Email : yagami.chira@gmail.com
 
+Name : [Sachin Pawar] (https://github.com/pwrsachin)<br/>
+Place : IIT Kharagpur, India <br/>
+About :I am second year undergraduate student, studying in IIT Kharagpur<br/>
+Programming Languages :C,C++,Python
+Email : pwrsachin666@gmail.com
 
 Name : [Rohit Motwani](https://github.com/rohittm)<br/>
 Place : India <br/>
