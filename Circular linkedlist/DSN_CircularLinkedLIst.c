@@ -1,16 +1,17 @@
 #include<stdlib.h>
 #include<stdio.h>
 
-struct circularNode{
+struct circularNode
+{
     int data;
-    struct circularNode* next;
+    struct circularNode* link;
 };
 
 struct circularNode* createnode(int a){
     struct circularNode* newnode = (struct circularNode*)malloc(sizeof(struct circularNode));
 
     newnode->data=a;
-    newnode->next=NULL;
+    newnode->link=NULL;
 
     return newnode;
 };
@@ -22,7 +23,7 @@ void show(struct circularNode* head){
     }
     do{
         printf("%d ",temp->data);
-        temp=temp->next;
+        temp=temp->link;
     }while(temp!=head);
 }
 
@@ -33,10 +34,10 @@ void insert_front(struct circularNode** head,int a){
 
     if(*head==NULL){
         *head=newnode;
-        newnode->next=NULL;
+        newnode->link=NULL;
     }
 
-    newnode->next=p->next;
+    newnode->link=p->link;
     (*head)=newnode;
 
 }
@@ -47,17 +48,18 @@ void insert_end(struct circularNode** head,int a){
     p=*head;
     newnode->data=a;
     while(p!=*head){
-        p=p->next;
+        p=p->link;
     }
     if(*head==NULL){
         *head=newnode;
     }
-    newnode->next=*head;
-    p->next=newnode;
+    newnode->link=*head;
+    p->link=newnode;
 }
 
 
-int main(){
+int main()
+{
     struct circularNode* a = createnode(7);
     insert_front(&a, 5);
     show(a);
