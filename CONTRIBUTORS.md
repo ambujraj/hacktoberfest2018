@@ -347,6 +347,11 @@ Place: Jaipur <br/>
 About: I'm a computer science student and I love coding.<br/>
 Programming Language : C,C++,Java,Python3<br/>
 
+Name: [Navdeep Singh](https://github.com/navdeep300)<br/>
+Place: Montreal, Canada <br/>
+About: I'm a Masters student in Quality System Engineering.<br/>
+Programming Language : C,C++,Html,PHP<br/>
+
 Name: https://github.com/D3D0X<br>
 Place: Dronten<br>
 About: Dutch Linux engineer<br>
