@@ -1,3 +1,9 @@
+Name: [SUBHAM BHATTACHARJEE](https://github.com/subhaminion)
+Place: Bengaluru
+About: Software Engineer
+Programming Language: Python, Golang
+Email: subham.bhattacharjee1@gmail.com
+
 Name: [Harsh Ranpariya]<br/>
 Place: INDIA<br/>
 About: Student and Web Developer<br/>
