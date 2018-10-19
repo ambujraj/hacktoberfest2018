@@ -1,5 +1,5 @@
 l=[1,2]
-import time
+
 n=int(input())
 for i in range(3,n):
     if i%2==0:
@@ -10,7 +10,6 @@ for i in range(3,n):
                 break
             elif j==i:
                 l.append(j)
-                #print(j,end=" ")
             else:
                 pass
 l.sort(key=int)
