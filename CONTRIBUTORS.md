@@ -1345,3 +1345,9 @@ About: Front End Developer and IT Engineer<br/>
 Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
 Email: vaibhav.tandongcet@gmail.com
 
+Name: [Viktor Bakulin](https://github.com/Alanthel)<br/>
+Place: Samara, Russia<br/>
+About: Front End Developer and IT Engineer<br/>
+Programming Languages: Java, C#, C, C++, Python
+Email: bakulinvm@gmail.com
+
