@@ -1551,6 +1551,13 @@ Programming Language: Python, C++, C, Javascript
 Email: fahri314@gmail.com
 
 
+
+Name: [Abhisek Chaudhuri](https://github.com/abhisekssp4025)<br/>
+Place: West Bengal, India<br/>
+About: Front End Developer
+Programming Languages: C++, Python, HTML, CSS, JavaScript
+Email: abhisekssp4025@gmail.com
+
 Name: [Daniel Hernqvist](https://github.com/hernqvistdaniel)<br/>
 Place: Stockholm<br/>
 About: Studying Full-Stack development at Chas Academy in Stockholm.<br/>
