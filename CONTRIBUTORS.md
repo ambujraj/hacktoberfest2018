@@ -19,7 +19,7 @@ Email: bayli1@gmail.com<br/>
 
 Name: [Rohan Sharma](https://github.com/eXpErImEnTcoder)<br/>
 Place: India<br/>
-About: CS undergraduate. Experienced with web exploitation and cyber 
+About: CS undergraduate. Experienced with web exploitation and cyber
 security.<br/>
 Programming Language: C, C++, Python, JS.<br/>
 Email: rohansharma.rohan27@gmail.com<br/>
@@ -143,7 +143,7 @@ Email: fellipe.medeiros1@gmail.com <br/>
 Name: [Ekansh Gupta](https://github.com/Ekansh-01)<br/>
 Place: Muzaffarnagar,INDIA<br/>
 About: B.Tech student at IIIT Allahabad<br/>
-Programming Languages: HTML,CSS,JAVA,C++,C<br/> 
+Programming Languages: HTML,CSS,JAVA,C++,C<br/>
 Email: Gupta.ekansh.01@gmail.com<br/>
 
 Name: [Hritik Tayade](https://github.com/braceritchie)<br/>
@@ -1696,8 +1696,8 @@ Email : monika7537kr@gmail.com
 
 Name : [Tran Tat Huy](https://github.com/HrTran)<br/>
 Place : Hanoi , Vietnam <br/>
-About : Big Data Engineer 
-Programming Languages : scala, java, python 
+About : Big Data Engineer
+Programming Languages : scala, java, python
 Email : huyict58@gmail.com
 
 name: [Nathan Melaku](https://github.com/Nathan-Melaku) <br/>
@@ -1713,6 +1713,11 @@ About: CS Student
 Programming Language: Python
 Email: jonachuy@hotmail.com
 
+Name: [Andrea Francesco Iuorio](https://github.com/afiuorio)
+Place: Italy
+About: Junior Software Engineer
+Programming Language: C, C++, Java, C#, Python, Scala
+Email: andreafrancesco.iuorio@gmail.com
 
 Name : Rahul Mishra
 Place : Noida(India)
