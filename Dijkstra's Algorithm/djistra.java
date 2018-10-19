@@ -71,7 +71,7 @@ public class Dijkstra
         { 
             if (i!=0) 
             { 
-  
+  //good
                 System.out.print("Path = " + i); 
                 j = i; 
                 do
