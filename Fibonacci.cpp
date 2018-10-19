@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-int main(int argc, char const *argv[])
+int main()
 {
 	int nc, count=0, sum;
 	int first, second;
