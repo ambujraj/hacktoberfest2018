@@ -1608,7 +1608,7 @@ Programming Language: Python, C, javascript<br/>
 Email:adityamenon1996@gmail.com<br/>
 
 
-Name: [Jaynil Shah}(https://github.com/jaynilshah)<br/>
+Name: [Jaynil Shah](https://github.com/jaynilshah)<br/>
 Place: Vadodara ,Gujarat,India <br/>
 About: Gamer, Developer<br/>
 Programming Languages:Java
@@ -1620,12 +1620,17 @@ About: Software Developer
 Programming Language: c, c++, java, python
 Email:aditi22aggarwal@gmail.com
 
-Name : [Achillix] (https://github.com/achillix)<br/>
+Name : [Achillix](https://github.com/achillix)<br/>
 Place : Jakarta , Indonesia <br/>
 About : Future Programmer | Newbs | 18" | IT engineer colleger
 Programming Languages : C++ , html
 Email : yagami.chira@gmail.com
 
+Name : [Tran Tat Huy](https://github.com/HrTran)<br/>
+Place : Hanoi , Vietnam <br/>
+About : Big Data Engineer 
+Programming Languages : scala, java, python 
+Email : huyict58@gmail.com
 
 name: [Nathan Melaku](https://github.com/Nathan-Melaku) <br/>
 Place: Bahir Dar, Ethiopia <br/>
@@ -1639,3 +1644,4 @@ Place: Guadalajara
 About: CS Student
 Programming Language: Python
 Email: jonachuy@hotmail.com
+
