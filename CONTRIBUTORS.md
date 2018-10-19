@@ -10,6 +10,12 @@ About: software engineering student and developer! Likes async<br/>
 Programming languages: c++ c# Java Js Android PHP Ruby Python OCaml Html Css and plenty of other <br/>
 Email: Youen.froger2@gmail.com
 
+Name: [Vaibhav Raj](https://github.com/codebuster10x)<br/>
+Place: Kolkata, India<br/>
+About: Undergraduate in B.Tech, Information Technology.<br/>
+Programming Language: C/C++, HTML, CSS<br/>
+Email: vishuvaibhav10@gmail.com<br/>
+
 Name: [Maéva](https://github.com/maevabakhaw)<br/>
 Place: Paris, France<br/>
 About: Student<br/>
