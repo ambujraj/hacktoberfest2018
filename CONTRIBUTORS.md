@@ -1816,3 +1816,9 @@ Place: India
 About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
+
+Name: Mocanu Gabriel(https://github.com/gabrielmocanu)
+Place: Romania
+About: Student
+Programming Language: C, Java, C++, Assembly
+Email: gabi.mocanu98@gmail.com
