@@ -1790,3 +1790,8 @@ Place: Lithuania
 About: Student
 Programming Language: C++, Java, C#, JavaScript;
 Email: miautawn@gmail.com
+
+Name: [Kirandeep Kaur](https://github.com/Kirandeep12)<br/>
+Place: Montreal, Canada <br/>
+About: Masters Student in Quality Systems Engineering <br/>
+Programming Language: C++, Html, PhP <br/>
