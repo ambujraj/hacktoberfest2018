@@ -1,3 +1,9 @@
+Name: [Sarah](https://github.com/sarahxoxo)<br/>
+Place: Taiwan<br/>
+About: software engineering developer!<br/>
+Programming languages: JavaScript, Html, Css and plenty of other <br/>
+Email: sarah@gmail.com
+
 
 Name: [Adish Rao]<br/>
 Place: INDIA<br/>
