@@ -1816,3 +1816,9 @@ Place: India
 About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
+
+Name: [jastix](https://github.com/jastix)<br/>
+Place: Netherlands<br/>
+About: Data Engineer<br/>
+Programming Language: Python, Elixir, SQL<br/>
+Email: nik@jastix.biz<br/>
