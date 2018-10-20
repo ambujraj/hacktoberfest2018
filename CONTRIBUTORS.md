@@ -1,3 +1,9 @@
+Name: [Adish Rao]<br/>
+Place: INDIA<br/>
+About: Student and Developer in Python and Java<br/>
+Programming Language: Python,Java,C++<br/>
+Email: adish.rao98@gmail.com<br/>
+
 Name: [Harsh Ranpariya]<br/>
 Place: INDIA<br/>
 About: Student and Web Developer<br/>
