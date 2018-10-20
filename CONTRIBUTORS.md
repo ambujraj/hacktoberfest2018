@@ -1,3 +1,8 @@
+Name: [Jonathan Chao] (https://github.com/JChao7)<br/>
+Place: Vancouver, Canada<br/>
+About: I LOVE ELON MUSK<br/>
+Programming Language: Python and Java<br/>
+
 Name: [Harsh Ranpariya]<br/>
 Place: INDIA<br/>
 About: Student and Web Developer<br/>
