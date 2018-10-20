@@ -1790,3 +1790,9 @@ Place: Lithuania
 About: Student
 Programming Language: C++, Java, C#, JavaScript;
 Email: miautawn@gmail.com
+
+Name: Saloni Gupta (https://github.com/upsidedownpancake)
+Place: India
+About: Student
+Programming Language: C, C++, Java, Python
+Email: saloni.gupta63@gmail.com
