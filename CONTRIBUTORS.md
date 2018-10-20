@@ -1,4 +1,4 @@
-
+﻿
 
 Name: [Kanishk Gupta](https://github.com/gkanishk)<br/>
 Place: INDIA<br/>
@@ -1344,4 +1344,12 @@ Place: Greater Noida,India<br/>
 About: Front End Developer and IT Engineer<br/>
 Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
 Email: vaibhav.tandongcet@gmail.com
+
+
+
+Name: [Vaibhav Gulati](https://github.com/gulvaibhav20)<br/>
+Place: INDIA<br/>
+About: Student, willing to learn something new <br/>
+Programming Language: C++,Python <br/>
+Email: gulvaibhav20@gmail.com <br/>
 
