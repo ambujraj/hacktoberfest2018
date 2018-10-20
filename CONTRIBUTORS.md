@@ -1790,3 +1790,9 @@ Place: Lithuania
 About: Student
 Programming Language: C++, Java, C#, JavaScript;
 Email: miautawn@gmail.com
+
+Name: [Farzan F A](https://github.com/Farzanfa)<br/>
+Place:INDIA<br/>
+About: Student at  Toc H , Ernakulam<br/>
+Programming Language: Python<br/>
+Email: farzanfa07@gmail.com<br/>
