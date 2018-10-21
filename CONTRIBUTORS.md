@@ -1,3 +1,16 @@
+Name: [Sarah](https://github.com/sarahxoxo)<br/>
+Place: Taiwan<br/>
+About: software engineering developer!<br/>
+Programming languages: JavaScript, Html, Css and plenty of other <br/>
+Email: sarah@gmail.com
+
+
+Name: [Adish Rao]<br/>
+Place: INDIA<br/>
+About: Student and Developer in Python and Java<br/>
+Programming Language: Python,Java,C++<br/>
+Email: adish.rao98@gmail.com<br/>
+
 Name: [Harsh Ranpariya]<br/>
 Place: INDIA<br/>
 About: Student and Web Developer<br/>
@@ -1557,6 +1570,13 @@ About: Front End Developer<br/>
 Programming Language: C, Python, javascript
 Email: asim.232@gmail.com
 
+
+Name: [Vaibhav Gulati](https://github.com/gulvaibhav20)<br/>
+Place: INDIA<br/>
+About: Student, willing to learn something new <br/>
+Programming Language: C++,Python <br/>
+Email: gulvaibhav20@gmail.com <br/>
+
 Name: [Hearot](https://github.com/hearot)<br/>
 Place: Florence, Italy<br/>
 About: Software Developer<br/>
@@ -1790,3 +1810,9 @@ Place: Lithuania
 About: Student
 Programming Language: C++, Java, C#, JavaScript;
 Email: miautawn@gmail.com
+
+Name: Saloni Gupta (https://github.com/upsidedownpancake)
+Place: India
+About: Student
+Programming Language: C, C++, Java, Python
+Email: saloni.gupta63@gmail.com
