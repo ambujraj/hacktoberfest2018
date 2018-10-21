@@ -1816,3 +1816,9 @@ Place: India
 About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
+
+Name: Shannon Jones (https://github.com/aventerine)
+Place: Michigan, USA
+About: Student
+Programming Language: C, C++, Python, JavaScript
+Email: aventerine@gmail.com
