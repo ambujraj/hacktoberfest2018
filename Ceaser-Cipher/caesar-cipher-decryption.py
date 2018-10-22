@@ -1,7 +1,7 @@
 message = input("Insert message to decrypt: ").lower()
 key = int(input("Insert key: "))
 size = len(message)
-encrypted_message = ""
+decrypted_message = ""
 upperBound = ord('z')
 lowerBound = ord('a')
 
@@ -15,10 +15,10 @@ for i in range(size):
     
     elif charValue - key < lowerBound:
         char = chr(charValue + upperBound - lowerBound)
-        encrypted_message += char
+        decrypted_message += char
         
     else:
         char = chr(charValue - key)
-        encrypted_message += char
+        decrypted_message += char
 
-print(encrypted_message)
+print(decrypted_message)
