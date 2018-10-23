@@ -1,4 +1,4 @@
-Name: [Sarah](https://github.com/sarahxoxo)<br/>
+﻿Name: [Sarah](https://github.com/sarahxoxo)<br/>
 Place: Taiwan<br/>
 About: software engineering developer!<br/>
 Programming languages: JavaScript, Html, Css and plenty of other <br/>
@@ -1816,3 +1816,9 @@ Place: India
 About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
+
+Name: Emi Zo (https://github.com/eminazolota)
+Place: Tuzla
+About: Student
+Programming Language: HTML
+Email: eminazo@gmail.com
