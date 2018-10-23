@@ -2,11 +2,13 @@ import java.util.Scanner;
  
 class Factorial_finding
 {
-   public static void main(String args[])
+   public static void main(String...args)
    {
-      int n, c, fact = 1;
+      int n;
+    int  c;
+    int fact = 1;
      
-      System.out.println("Enter an integer to calculate it's factorial");
+      System.out.println(" Enter an integer to calculate it's factorial");
       Scanner in = new Scanner(System.in);
      
       n = in.nextInt();
