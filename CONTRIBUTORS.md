@@ -1816,3 +1816,9 @@ Place: India
 About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
+
+Name: [William Skinner](https://github.com/wskinner74)
+Place: Atlanta, GA, USA
+About: Student, Developer, Entrepreneur
+Programming Language: Java, Python, C#
+Email: cody@codyskinner.net
