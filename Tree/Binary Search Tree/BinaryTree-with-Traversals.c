@@ -106,6 +106,24 @@ PointerToNode generateRandomTree(PointerToNode root) {
 	return root;	
 }
 
+int numberOfLeaves(PointerToNode root) {
+	if(!root)
+		return 0;
+	if(!root->left && !root->right)
+		return 1;
+	return numberOfLeaves(root->left) + numberOfLeaves(root->right);
+}
+
+int heigth(PointerToNode root) {
+	if(!root)
+		return -1;
+	int left_heigth = heigth(root->left);
+	int right_heigth = heigth(root->right);
+	if(left_heigth < right_heigth)
+		return right_heigth + 1;
+	return left_heigth + 1;
+}
+
 
 int main() {
 	srand(time(NULL));
@@ -128,6 +146,9 @@ int main() {
 	printf("Post-order: ");
 	postOrder(r);
 	printf("\n\n");
+	
+	printf("Number of leaves: %d\n", numberOfLeaves(r));
+	printf("Heigth: %d\n", heigth(r));
 	
 	return 0;
 }
