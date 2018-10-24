@@ -1798,6 +1798,14 @@ About : Coding Enthusiast | Computer Engineering Student
 Programming Languages : C, C++, Java, Javascript
 Email : trishla.verma@gmail.com
 
+Name : [Himani Jain](https://github.com/jainhimani1999)
+Place : Jaipur , India 
+About : Coding Enthusiast | Computer Engineering Student
+Programming Languages : C, C++, python , SQL, DBMS
+Email :jainhimani1999@gmail.com
+
+
+
 
 Name : [Yusuf Adefolahan](https://github.com/sanxy)<br/>
 Place : Abuja , Nigeria <br/>
