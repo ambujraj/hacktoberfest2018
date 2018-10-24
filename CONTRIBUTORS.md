@@ -1816,3 +1816,10 @@ Place: India
 About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
+
+
+Name: [Hiran Hasanka Wayne](https://github.com/theSLWayne)
+Place: Sri Lanka
+About: Student
+Programming Language: C,Python
+Email: hiranhasanka@gmail.com
