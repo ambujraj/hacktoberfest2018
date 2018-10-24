@@ -2,30 +2,41 @@
 * This is a simple hash table to demonstrate one way of dealing with collisions;
 * The 'hash' algorithm is quite simple (just a modulo operation);
 * Collisions are dealt by creating a linked list for every position in the table;
-* When a hash value is inserted in a position that already has a member, then the value is inserted in the end of that linked list;
-* Some very specific values are preseted so you can change the value of m and check for yourself how this implementation deals with collisions;
+* When a hash value is inserted in a position that already has a member, 
+* then the value is inserted in the end of that linked list;
+* Some very specific values are preseted so you can change the value of m and 
+* check for yourself how this implementation deals with collisions;
 */
- #include<stdio.h>
+
+#include<stdio.h>
 #include<stdlib.h>
 #include<stdbool.h>
 #include<malloc.h>
+
  #define m 9
 //#define m 11
+
+
  typedef struct element {
 	int value;
 	struct element *next;
 } Element, *PointerToElement;
+
  typedef struct {
 	PointerToElement linked_lists[m];
 } Table;
+
+
  void initializeLinkedLists(Table *hashtable) {
 	int i;
 	for(i = 0; i < m; i++)
 		hashtable->linked_lists[i] = NULL;
 }
+
  int hash(int k) {
 	return k % m;
 }
+
  int searchValue(Table *hashtable, int value, PointerToElement *last) {
 	int hash_result = hash(value);
 	PointerToElement address = hashtable->linked_lists[hash_result];
@@ -39,6 +50,7 @@
 	}
 	return -1;
 }
+
  bool insertValue(Table *hashtable, int value) {
 	PointerToElement last;
 	if(searchValue(hashtable, value, &last) >= 0)
@@ -56,6 +68,7 @@
 		
 	return true;
 }
+
  void generateTable(Table *hashtable) {
 	insertValue(hashtable, 5);
 	insertValue(hashtable, 28);
@@ -67,6 +80,7 @@
 	insertValue(hashtable, 7);
 	insertValue(hashtable, 10);
 }
+
  void printTable(Table *hashtable) {
 	int i;
 	PointerToElement address;
@@ -80,6 +94,7 @@
 		printf("\n");
 	}
 }
+
  int main() {
 	Table *hash_table = (Table *) malloc(sizeof(Table));
 	initializeLinkedLists(hash_table);
