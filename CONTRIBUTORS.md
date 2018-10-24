@@ -1816,3 +1816,8 @@ Place: India
 About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
+
+Name: Sinan Tomruk (https://github.com/Saint-AR)
+Place: Ankara, Turkey 
+About: CS Undergrad Student at Middle East Technical University 
+Programming Languages: C, Python, JavaScript
