@@ -1816,3 +1816,10 @@ Place: India
 About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
+
+Name: [Guilherme Coelho](https://github.com/joseguilhermeoliveira)
+Place: Campina Grande, Paraiba, Brazil 
+About: Computer Science Student
+Programming Language: Java, Python
+Email: jose.guilherme.oliveira@ccc.ufcg.edu.br
+
