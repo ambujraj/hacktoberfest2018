@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+	
+	var counter = 1;
+
+	function changeImage(event){
+		var img = document.getElementsByTagName('img')[0];
+		var nd = event.target ? event.target : event.srcElement;
+		if(nd.id=== 'prev'){
+			counter--;
+			if(counter === 1){
+				nd.disabled = true;
+				document.getElementById('next').disabled= false;
+			}
+				
+		}else {
+			counter++;
+			if(counter === 5){
+				nd.disabled = true;
+				document.getElementById('prev').disabled= false;
+			}
+		}
+		
+		img.src = "images/nature"+counter+".jpg";
+	}
+
+	window.onload = function (){
+		console.log("Inside init()!!!!");
+		var prev = document.getElementById('prev');
+		var next = document.getElementById('next');
+		
+		if(window.addEventListener){	
+			prev.addEventListener('click',changeImage,true);	
+			next.addEventListener('click',changeImage,true);	
+		}else {
+			prev.attachEvent('onclick',changeImage,true);	
+			next.attachEvent('onclick',changeImage,true);	
+		} 
+		console.log("Events are registeredsid successfully!!!");
+	};
+
+</script>
+</head>
+<body>
+<div>
+	<img src='images/nature5.jpg' width=300 height=200 /><br/>
+	<input id='prev' type=button value='Prev' />
+	<input id='next' type=button value='Next' />
+</div>
+</body>
+</html>
