@@ -4,6 +4,11 @@ About: software engineering developer!<br/>
 Programming languages: JavaScript, Html, Css and plenty of other <br/>
 Email: sarah@gmail.com
 
+Name: [Albert Huang](https://github.com/s1042992)<br/>
+Place: Taipei<br/>
+About: Student who learns CS in Taiwan, come to join this Fest<br/>
+Programming Language: C++,PHP,JAVA<br/>
+Email: s1042992@mail.ncyu.edu.tw<br/>
 
 Name: [Adish Rao]<br/>
 Place: INDIA<br/>
