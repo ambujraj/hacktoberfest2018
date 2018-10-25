@@ -1,26 +1,20 @@
 #include<iostream>
-#include<string.h>
 using namespace std;
 
-void isPalindrome(string str)
+int main ()
 {
-	int l=0;
-	int h=str.length()-1;
-	
-	while(h>l)
+	cout<<" check whether the number is a palindrome or not "<<endl;
+	int n,rev=0;
+	cin>>n;
+	int t=n;
+	for( ; n>0; )
 	{
-		if(str[l++]!=str[h--])
-		{
-			cout<<"Not Palindrome\n";
-			return;
-		}
+		rev= 10*rev +n%10;
+		n=n/10;
 	}
-	cout<<"Palindrome\n";
-}
-
-int main()
-{
-	isPalindrome("abba");
-	isPalindrome("bacha");
-	isPalindrome("neen");
+	if(rev==t)
+	cout<<" the number is a palindrome"<<endl;
+	else cout<<" the number is not a palindrome"<<endl;
+	return 0;
+	
 }
