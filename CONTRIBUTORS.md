@@ -1,3 +1,10 @@
+Name: [Danilo Joksimovic](https://github.com/djoksimo)<br/>
+Place: Canada<br/>
+About: Software Engineering Student at the University of Waterloo<br/>
+Programming languages: JavaScript, TypeScript, C, C++, C#, Java, Python <br/>
+Email: sarah@gmail.com
+
+
 Name: [Sarah](https://github.com/sarahxoxo)<br/>
 Place: Taiwan<br/>
 About: software engineering developer!<br/>
