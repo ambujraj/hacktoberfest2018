@@ -1816,3 +1816,8 @@ Place: India
 About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
+
+Name: [Greg](https://github.com/gregmotenjr)<br/>
+Place: USA<br/>
+About: software developer<br/>
+Programming languages: C# and the holy web trinity <br/>
