@@ -1816,3 +1816,9 @@ Place: India
 About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
+
+Name: [WholesomeDog](https://github.com/wholesomedogs)
+Place: UK
+About: CS Student
+Programming Language: Python, Java
+Email: 
