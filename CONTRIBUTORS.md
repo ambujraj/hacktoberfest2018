@@ -1816,3 +1816,9 @@ Place: India
 About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
+
+Name: Emily Sperry (https://github.com/sperrye)
+Place: US
+About: Developer
+Programming Language: JavaScript
+Email: emily@emilysperry.com
