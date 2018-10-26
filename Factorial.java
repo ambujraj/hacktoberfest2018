@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
-class Factorial
+class Factorial// This class wll help find factorials of a specific number
 {
    public static void main(String args[])
    {
