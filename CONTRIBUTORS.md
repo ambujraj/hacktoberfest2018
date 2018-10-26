@@ -1,9 +1,14 @@
+Name: [Ariel Jimenez](https://github.com/arieljimenez)<br/>
+Place: Dominican Republic<br/>
+About: software engineering developer!<br/>
+Programming languages: React, React Native, Elm, JavaScript, Html, Css and Python <br/>
+Email: ariel.jimenez2025@gmail.com
+
 Name: [Sarah](https://github.com/sarahxoxo)<br/>
 Place: Taiwan<br/>
 About: software engineering developer!<br/>
 Programming languages: JavaScript, Html, Css and plenty of other <br/>
 Email: sarah@gmail.com
-
 
 Name: [Adish Rao]<br/>
 Place: INDIA<br/>
@@ -1756,7 +1761,7 @@ Programming Languages : JavaScript, PHP
 
 Name : [Monika Kumari] (https://github.com/MONIKA2013IGDTU)<br/>
 Place : New Delhi , India <br/>
-About : Btech CSE  | IGDTUW |  
+About : Btech CSE  | IGDTUW |
 Programming Languages : C++ , html
 Email : monika7537kr@gmail.com
 
