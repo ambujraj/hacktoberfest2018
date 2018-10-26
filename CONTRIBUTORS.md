@@ -556,6 +556,11 @@ About: I am currently pursuing BSc (H) Computer Science from Delhi University, a
 Programming Language: C++, JavaScript, Java, Python<br/>
 Email: mohituniyal2010@gmail.com
 
+Name:[Jasmine](https://github.com/jasminebanger)
+About: currently a student studying cse
+Programming Language: C, C++, HTML, CSS, JAvascript
+Email: bangerjasmine9@gmail.com
+
 Name:[Michael Loftus](https://github.com/destoer/)
 About: currently a student studying cs and maths
 Programming Language: C, C++, Rust
