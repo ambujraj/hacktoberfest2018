@@ -1816,3 +1816,9 @@ Place: India
 About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
+
+Name: [Daniel Perez Jensen](https://github.com/DanielPerezJensen/)
+Place: the Netherlands
+About: Student of AI at UVA
+Programming Language: C, Python
+Email: danielperezjensen@outlook.com
