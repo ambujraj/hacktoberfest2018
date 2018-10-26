@@ -1,0 +1,158 @@
+body,html{
+    background-color: black;
+}
+
+.parallax {
+    /* The image used */
+    background-image: url("../images/home_page/69525979-coffee-wallpapers.jpg");
+
+    /* Set a specific height */
+    min-height: 700px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:white;
+    height: 60px;
+    width: 60%;
+    z-index: 2;
+    position: fixed;
+    opacity: 0.7;
+}
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: rgb(19, 3, 3);
+    text-align: center;
+    padding: 22px 28px;
+    text-decoration: none;
+    font-size: 19px;
+}
+
+li a:hover {
+    background-color: rgb(70, 179, 243);
+}
+
+.active {
+    background-color: red;
+}
+.img{
+    vertical-align: middle;
+    width: 200px;
+    height: 200px;
+     position: fixed;
+    top: 2%;
+    left: 85%;
+    
+}
+.imgs{
+    vertical-align: middle;
+    width: 40px;
+    height: 40px;
+     position: fixed;
+    top: 53%;
+    left: 65%;
+    
+}
+.logo{
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    top: 31%;
+    left: 85%;
+    
+}
+.logoo{
+    vertical-align: middle;
+    width: 70px;
+    height: 70px;
+     position: fixed;
+    top: 29%;
+    left: 88%;
+    
+}
+ h1{
+    position: fixed;
+    top: 45%;
+    left: 22%;
+    color: white;
+    font-size: 50px;
+    display: block;
+    transition: 0.3s;
+}
+
+ h2{
+    position: fixed;;
+    top: 52%;
+    left: 28%;
+    color: white;
+    font-size: 50px;
+    display: block;
+    
+}
+ h3{
+    background-color: rgb(189, 103, 42);
+     position: fixed;
+     top: 76%;
+     left: 35%;
+     color: rgb(245, 232, 57);
+     font-size: 20px;
+     display: block;
+     font-family: 'Courier New', Courier, monospace;
+     padding: 8px;
+     margin: 3px;
+     border-radius: 12px;
+    
+ }
+ .caroufredsel_next {
+    right: 8%;
+    background-position: right bottom;
+}
+.header-unpin{
+    display:none;
+  }
+  .header-pin{
+    display:block;
+  }
+  .icon_person{
+      display: inline;
+    padding: 30px 80px;
+    margin-top: 0%;
+    width: 150px;
+    height: 150px;
+    bottom: 25%;
+    left: 5%;
+    top: 0%;
+  }
+  .icon_coffee{
+    display: inline;
+    height: 150px;
+   padding: 30px 80px;
+    left: 70%;
+}
+.icon_dishes{
+    display: inline;
+    padding: 30px 80px;
+    height: 150px;
+    border-radius: 50%;
+    left: 85%;
+}
+.people_word{
+    height: 30px;
+    top: 0%;
+}
+.secndBakgrnd{
+    background-image: url('../images/home_page/69525979-coffee-wallpapers.jpg');
+}
