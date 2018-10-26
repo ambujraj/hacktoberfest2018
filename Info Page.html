@@ -1,0 +1,260 @@
+<!doctype html>
+<html>
+<head>
+    <style type="text/css">
+        html{margin: auto 10px auto 21vw;
+            padding-right: 300px;
+            background: #FFFFF0;}
+    
+        #navbar{position: fixed;
+          top: 0px;  
+          left: 0px;
+          height: 100%;
+          overflow: scroll;
+          list-style: none;
+          background-color: lightsteelblue;
+          padding-right: 200px;} 
+          
+          .nav-link{ width: 300%;
+            height: 3%;
+            display: flex;
+            color: black;
+            align-content: center;
+            text-decoration: none;
+            font-size: 20px;
+            border: 1px solid;
+            border-color: black;
+            padding: 100%;
+            border-right-color: black;}
+          
+        @media(min-width: 10px) {#navbar
+          {position: auto;
+            left: 0px;
+            width: 50px;
+            font-size: 10px;}}
+        .image {
+            height: 400px;
+            width: 400px;
+            
+        }   
+        
+        #ex1 { color: blue; background-color: yellow; border: 1px solid black;}
+        
+        #ex2 { color: red;}
+        
+        .codeblock {
+            display: block;
+            padding: 5px;
+            margin: 5px;
+            background-color: lightgrey;
+        }
+        #header-nav{
+            display: flex;
+            justify-content: center;
+            font-size: 30px;
+            width:300%;
+            height: 100%;
+            margin-bottom: 50px;
+            margin-left: 50px;
+            height: 10%;
+            font-style: oblique;
+            margin-top: 10px;
+            
+        }
+    
+
+        #header2 {text-align: center;
+            padding-left: 100px;}
+    </style>
+
+
+</head>
+<body>
+    <div>
+        <h1 id="header2">CSS Style Teachings</h1>
+    
+    </div>
+    
+    <nav id="navbar">
+        <header id="header-nav">CSS Style Teachings</header>
+        <a class="nav-link" href="#All_About_CSS">All About CSS</a>
+        <a class="nav-link" href="#CSS_Coloring">CSS Coloring</a>
+        <a class="nav-link" href="#CSS_Font_Styling">CSS Font Styling</a>
+        <a class="nav-link" href="#CSS_Styling_Boxes">CSS Styling Boxes</a>
+        <a class="nav-link" href="#CSS_Navigation_Bar">CSS Navigation Bar</a>
+    
+        
+    </nav>
+    <main id="main-doc">
+        <section id="All_About_CSS" class="main-section">
+            <header><h1>All About CSS</h1></header>
+                <p>What is CSS?</p>
+                <p>CSS (Cascading Style Sheets) is used to style and lay out web pages — for example, to alter the font, colour, size and spacing of your content, split it into multiple columns, or add animations and other decorative features. This  gets you started on the path to CSS mastery with the basics of how it works, including CSS Syntax .</p>
+                <code class="codeblock">
+                    <ul>
+                    <li>body {
+                        background-color: lightblue;
+                        }</li>
+
+                    <li>h1 {
+                        color: white;
+                        text-align: center;
+                        }</li>
+
+                    <li>p {
+                        font-family: verdana;
+                        font-size: 20px;
+                        }</li>
+                
+                </ul>
+               
+                </code>
+                
+        </section>
+        <br><br><br><br><br><br><br>
+        <section id="CSS_Coloring" class="main-section">
+            <header><h2>CSS Coloring</h2></header>
+                <p>A set of CSS rules contained within a stylesheet determines how a webpage should look. You will learn a lot more about what CSS syntax and how to add color. </p>
+                <p>Now let's look at a very simple CSS example containing two rules</p>
+                <code class="codeblock">
+                    <ul>
+                    <li>h1 {
+                        color: blue;
+                        background-color: yellow;
+                        border: 1px solid black;}
+                    </li>
+
+                    <li>p {
+                        color: red;}
+                    </li>
+                    </ul>
+                </code>
+                <p>
+                    The above content makes the elements in Header 1 to be blue with the back ground color to be yellow. The paragraph in html will become red as well. It will look like this:
+                </p>
+                    <h3 id="ex1">
+                        h1 {
+                        color: blue;
+                        background-color: yellow;
+                        border: 1px solid black;}
+                    </h3>
+                    <p id="ex2">
+                        p {
+                        color: red;}
+                    </p>
+                
+        </section>
+        
+        <br><br><br><br><br><br><br>
+        <section id="CSS_Font_Styling" class="main-section">
+            <header><h2>CSS Font Styling</h2></header>
+                <p>As you'll have already experienced in your work with HTML and CSS, text inside an element is laid out inside the element's content box. It starts at the top left of the content area (or the top right, in the case of RTL language content), and flows towards the end of the line. Once it reaches the end, it goes down to the next line and continues, then the next line, until all the content has been placed in the box. Text content effectively behaves like a series of inline elements, being laid out on lines adjacent to one another, and not creating line breaks until the end of the line is reached, or unless you force a line break manually using the <br> element.</p>
+                <p>To set a different font on your text, you use the font-family property — this allows you to specify a font (or list of fonts) for the browser to apply to the selected elements. The browser will only apply a font if it is available on the machine the website is being accessed on; if not, it will just use a browser default font. A simple example looks like so:</p>
+                <code class="codeblock">
+                    <ul>
+                        <li>html {
+                            font-size: 10px;}
+                        </li>
+
+                        <li>h1 {
+                            font-size: 2.6rem;}
+                        </li>
+
+                        <li>p {
+                            font-size: 1.4rem;
+                            color: red;
+                            font-family: Helvetica, Arial, sans-serif;}
+                        </li>       
+                    </ul>
+                </code>
+                
+        </section>
+        <br><br><br><br><br><br><br>
+        <section id="CSS_Styling_Boxes" class="main-section">
+            <header><h2>CSS Styling Boxes</h2></header>
+                <p>Every element within a document is structured as a rectangular box inside the document layout, with properties that can be altered </p>
+                <p>There are a couple of different sections of the boxes: including margin, border, and padding.</p>
+                <div>
+                    <img class= "image" src="https://mdn.mozillademos.org/files/13647/box-model-standard-small.png">
+                </div>
+                <p>Here is an example:</p>
+                
+                <code class="codeblock">
+                    <ul>
+                        <li>html {
+                            font-family: sans-serif;
+                            background: #ccc;}
+                        </li>
+
+                        <li>.one, .two {
+                            background: red;
+                            width: 300px;
+                            height: 150px;
+                            padding: 20px;
+                            border: 10px solid black;
+                            margin: 20px auto;}
+                        </li>
+                        <li>.two {
+                            box-sizing: border-box;}
+                        </li>                        
+                    </ul> 
+                </code>
+                <p>
+                It would make the box like so:
+                </p>
+                <img class= "image" src="https://www.myjanee.com/tuts/shapes/shapes5.gif">
+        </section>
+        <br><br><br><br><br><br><br>
+        <section id="CSS_Navigation_Bar" class="main-section">
+            <header><h2>CSS Navigation Bar</h2></header>
+                <p>Now we can do some cool stuff by applying some of the effects</p>
+                <p>This will show you how to make a basic navigation bar</p>
+                <code class="codeblock">
+                    <ul>
+                        <li>ul {
+                            list-style-type: none;
+                            margin: 0;
+                            padding: 0;
+                            overflow: hidden;
+                            background-color: #333;}
+                        </li>
+                        <li>li {
+                            float: left;}
+                        </li>
+                        <li>li a {
+                            display: block;
+                            color: white;
+                            text-align: center;
+                            padding: 14px 16px;
+                            text-decoration: none;}
+                        </li>
+                        <li>/* Change the link color to #111 (black)       on hover */
+                            li a:hover {
+                            background-color: #111;}
+                        </li> 
+                    </ul>
+                </code>
+                <p>
+                It would give you something like this:
+                </p>
+                <img class= "image" src="https://orig00.deviantart.net/8044/f/2013/059/d/d/detailed_navigation_bar_by_jvg94-d5wgzn3.png">
+        </section>
+        
+        
+        
+        
+        
+        
+    </main>
+
+
+
+
+
+
+
+</body>
+
+
+
+</html>
