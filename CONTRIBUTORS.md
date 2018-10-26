@@ -4,6 +4,11 @@ About: software engineering developer!<br/>
 Programming languages: JavaScript, Html, Css and plenty of other <br/>
 Email: sarah@gmail.com
 
+Name: [Chike Nnamadim](https://github.com/Perfected1)<br/>
+Place: Lagos, Nigeria.<br/>
+About: Web developer<br/>
+Programming Language: Javascript, Python, HTML, lot more<br/> 
+Email: chikennamadim65@gmail.com
 
 Name: [Adish Rao]<br/>
 Place: INDIA<br/>
