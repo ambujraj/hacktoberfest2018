@@ -22,7 +22,7 @@ int main()
   int num,res;
   cout<<"Prime Finder";
   cout<<"\n1.Test whether a number is prime or not";
-  cout<<"\n2.Generate prime number under an upper limit";
+  cout<<"\n2.Generate prime number within an upper limit";
   cout<<"\n0.Exit\n";
   cin>>x;
 	switch(x)
