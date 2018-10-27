@@ -122,8 +122,11 @@ About: Undergraduate at NSBM Green University<br/>
 Programming Language: C,Java,HTML,CSS,Python<br/>
 Email: buddhimadealwis4@gmail.com<br/>
 
-
-
+Name: [Prateksha Udhayanan]<br/>
+Place: India<br/>
+About: Student<br/>
+Programming Language: C++, C, Python, Java, Ruby on Rails<br/>
+Email: pratekshau@gmail.com<br/>
 
 Name: [Aman Singh](https://github.com/AMANSINGH1998)<br/>
 Place: INDIA<br/>
