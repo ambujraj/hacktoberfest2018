@@ -1816,3 +1816,9 @@ Place: India
 About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
+
+Name: Vikram Parmar (https://github.com/markiv25)
+Place: India
+About: Student
+Programming Language: C, C++, Java, Python
+Email: vikramkumar.parmar15@siesgst.ac.in
