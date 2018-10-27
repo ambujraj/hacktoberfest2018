@@ -1816,3 +1816,9 @@ Place: India
 About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
+
+Name: Devansh (https://github.com/devanshhooda)
+Place: Delhi, India
+About: Student
+Programming Language: C++, Java, Python
+Email: devanshstan17@gmail.com
