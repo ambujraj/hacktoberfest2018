@@ -1816,3 +1816,9 @@ Place: India
 About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
+
+Name: Brij Bihari Singh (https://github.com/bbs22)
+Place: India
+About: Retired Man
+Programming Language: NA
+Email: brijbiharisingh95733@gmail.com
