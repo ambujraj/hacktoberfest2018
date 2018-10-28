@@ -1756,7 +1756,7 @@ Programming Languages : JavaScript, PHP
 
 Name : [Monika Kumari] (https://github.com/MONIKA2013IGDTU)<br/>
 Place : New Delhi , India <br/>
-About : Btech CSE  | IGDTUW |  
+About : Btech CSE  | IGDTUW |
 Programming Languages : C++ , html
 Email : monika7537kr@gmail.com
 
@@ -1816,3 +1816,9 @@ Place: India
 About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
+
+Name: Ahad Ali (https://github.com/ahad80)
+Place: New Delhi
+About: Student
+Programming Language: C, C++, Python
+Email: shawnfrost80@gmail.com
