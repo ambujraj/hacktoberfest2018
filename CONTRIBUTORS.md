@@ -4,6 +4,11 @@ About: software engineering developer!<br/>
 Programming languages: JavaScript, Html, Css and plenty of other <br/>
 Email: sarah@gmail.com
 
+Name: [Karan](https://github.com/karanssh)<br/>
+Place: Kolkata<br/>
+About: student<br/>
+Programming languages: Java <br/>
+Email: karans9122@gmail.com
 
 Name: [Adish Rao]<br/>
 Place: INDIA<br/>
