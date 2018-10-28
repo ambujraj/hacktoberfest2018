@@ -1,3 +1,11 @@
+Name: [Anushree](https://github.com/anushree816)<br/>
+Place: India<br/>
+About: Engineering student<br/>
+Programming languages: C,C++, Python <br/>
+Email: anushree816@gmail.com
+
+
+
 Name: [Sarah](https://github.com/sarahxoxo)<br/>
 Place: Taiwan<br/>
 About: software engineering developer!<br/>
