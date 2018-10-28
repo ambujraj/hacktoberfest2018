@@ -1816,3 +1816,9 @@ Place: India
 About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
+
+Name: Sagar Giri (https://github.com/girisagar46)
+Place: Nepal
+About: Full Stack developer
+Programming Language: Python, Java
+Email: girisagar46@gmail.com
