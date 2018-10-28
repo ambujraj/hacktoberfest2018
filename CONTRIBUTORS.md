@@ -1815,4 +1815,9 @@ Name: Saloni Gupta (https://github.com/upsidedownpancake)
 Place: India
 About: Student
 Programming Language: C, C++, Java, Python
+
+Name: [Brian Russell](https://github.com/Brussell03)
+Place: Conway, Arkansas
+About: Computer science student interested in software development
+Programming Language: Java, Javascript
 Email: saloni.gupta63@gmail.com
