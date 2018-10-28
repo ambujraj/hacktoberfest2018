@@ -996,6 +996,13 @@ About: CS Undergrad Student at University of Indonesia <br/>
 Programming Languages: C++, Python, R <br/>
 Email: krisnaihsani@gmail.com <br/>
 
+Name: [Pelumi](https://github.com/notanewbiecoder)<br/>
+Place: Nigeria<br/>
+About: Data scientist<br/>
+Programming languages: JavaScript, Html, Css, python <br/>
+Email: oladokspelz@gmail.com@gmail.com
+
+
 Name: [Paul Williams](https://github.com/WilliamsPaulM)
 Place: USA
 About: Bash Enthusiast
