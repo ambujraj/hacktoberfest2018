@@ -1816,3 +1816,9 @@ Place: India
 About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
+
+Name: Argha Sen (https://github.com/arghasen)
+Place: India
+About: Coding | Finance
+Programming Language: C, C++, Java, Python, NodeJS
+Email: iamslowdeath@gmail.com
