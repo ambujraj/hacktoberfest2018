@@ -1816,3 +1816,9 @@ Place: India
 About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
+
+Name: [Akshay Gulhane](https://github.com/akshaygulhane)
+Place: Bangalore India
+About: Full Stack Developer
+Programming Language: JavaScript, Node.js, Java, Haskell
+Email: 
