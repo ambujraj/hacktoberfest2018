@@ -1816,3 +1816,9 @@ Place: India
 About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
+
+Name: Sudipto Deb (https://github.com/sudiautobots)
+Place: India
+About: Student
+Programming Language: C, C++, Java, Python
+Email: sudiautobots@gmail.com
