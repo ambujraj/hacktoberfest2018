@@ -1816,3 +1816,9 @@ Place: India
 About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
+
+Name: Vipul Singh (https://github.com/vsr97)
+Place: India
+About: Student
+Programming Language: C, C++, Java, Python
+Email: vipulsinghraghuvanshi08@gmail.com
