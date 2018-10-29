@@ -1816,3 +1816,9 @@ Place: India
 About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
+
+Name: [krishanakumar](https://github.com/krishana18kumar)<br/>
+Place: Delhi,INDIA<br/>
+About: Student and Developer in Python and C++<br/>
+Programming Language: Python,C++<br/>
+Email: hpyadav736@gmail.com<br/>
