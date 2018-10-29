@@ -1811,6 +1811,12 @@ About: Student
 Programming Language: C++, Java, C#, JavaScript;
 Email: miautawn@gmail.com
 
+Name: [Samyak Jain](https://github.com/samyak360)<br/>
+Place: India<br/>
+About: Coding Enthusiast<br/>
+Programming languages: JavaScript, C, C++, Python<br/>
+Email: samyak360@gmail.com
+
 Name: Saloni Gupta (https://github.com/upsidedownpancake)
 Place: India
 About: Student
