@@ -1816,3 +1816,9 @@ Place: India
 About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
+
+Name: Kubilat Örcün (https://github.com/kubilayorcun)
+Place: Turkey
+About: Computer Engineer to be, Java Geek
+Programming Language: Java, C, PHP, HTML/CSS and some more
+Email: kubilayorcun5@gmail.com
