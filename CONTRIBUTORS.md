@@ -1816,3 +1816,8 @@ Place: India
 About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
+
+Name: Dan DuLeone (https://redqueen.us)
+Place: New Jersey, United States
+About: Software Engineer
+Programming Language: PHP, JavaScript/React
