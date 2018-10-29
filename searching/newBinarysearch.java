@@ -56,3 +56,4 @@ class BinarySearch<E extends Comparable<E>> {
         }
         scanner.close();
 }
+}
