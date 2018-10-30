@@ -1864,3 +1864,8 @@ About: Student
 Programming Language: C, Java, Python
 Email: lyba@ucu.edu.ua
 
+Name: [Yukthi Lochana](https://github.com/yuk7hi)<br/>
+Place: Dehiwala, Sri Lanka<br/>
+About: Student who seeks for knowledge in every corner.<br/>
+Programming Language: C, C++, C#, Java, Bash<br/>
+Email: yukthilochana@yahoo.com<br/>
