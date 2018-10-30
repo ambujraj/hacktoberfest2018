@@ -8,7 +8,7 @@
 public class Recursion {
 	
 	static void RecursivePrint(int n){
-		String s = "abcdefghijklmnopqrst";
+		String s = "zyxwvutsrqponmlkjihgfedcba";
 		if(n<0) {
 			return ;
 		}
@@ -21,7 +21,14 @@ public class Recursion {
 	}
 	
 	public static void main(String [] args) {
-		RecursivePrint(2);
+		RecursivePrint(5);
+		
+//		z y x w v 
+//		z y x w 
+//		z y x 
+//		z y 
+//		z 
+		
 	}
 
 }
