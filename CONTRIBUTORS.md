@@ -1816,3 +1816,9 @@ Place: India
 About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
+
+Name: Yarka Lyba (https://github.com/yarkalyba)
+Place: Ukraine
+About: Student
+Programming Language: C, Java, Python
+Email: lyba@ucu.edu.ua
