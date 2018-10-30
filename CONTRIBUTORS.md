@@ -1831,6 +1831,13 @@ About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
 
+
+Name: [Petar](https://github.com/Petar-np)
+Place: Belgrade
+About: JavaScrip Dev
+Programming Language: JavaScript
+Email: 
+
 Name: [krishanakumar](https://github.com/krishana18kumar)<br/>
 Place: Delhi,INDIA<br/>
 About: Student and Developer in Python and C++<br/>
