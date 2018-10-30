@@ -1864,3 +1864,8 @@ About: Student
 Programming Language: C, Java, Python
 Email: lyba@ucu.edu.ua
 
+Name: Jeff Pinckney (https://github.com/jpinckney)
+Place: United States
+About: Student
+Programming Language: Javascript
+Email: homerunjeff@yahoo.com
