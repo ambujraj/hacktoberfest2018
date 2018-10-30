@@ -1831,6 +1831,13 @@ About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
 
+Name: [krishanakumar](https://github.com/krishana18kumar)<br/>
+Place: Delhi,INDIA<br/>
+About: Student and Developer in Python and C++<br/>
+Programming Language: Python,C++<br/>
+Email: hpyadav736@gmail.com<br/>
+
+
 Name: Kubilat Örcün (https://github.com/kubilayorcun)
 Place: Turkey
 About: Computer Engineer to be, Java Geek
@@ -1842,4 +1849,3 @@ Place: Ukraine
 About: Student
 Programming Language: C, Java, Python
 Email: lyba@ucu.edu.ua
-
