@@ -1822,3 +1822,10 @@ Place: Turkey
 About: Computer Engineer to be, Java Geek
 Programming Language: Java, C, PHP, HTML/CSS and some more
 Email: kubilayorcun5@gmail.com
+
+Name: Yarka Lyba (https://github.com/yarkalyba)
+Place: Ukraine
+About: Student
+Programming Language: C, Java, Python
+Email: lyba@ucu.edu.ua
+
