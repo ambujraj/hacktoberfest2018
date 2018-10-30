@@ -1864,3 +1864,8 @@ About: Student
 Programming Language: C, Java, Python
 Email: lyba@ucu.edu.ua
 
+Name: Xiang Fan Yu (https://github.com/XiangFanYu)
+Place: Victoria, British Columbia, Canada
+About: I am a first year CSC student
+Programming Language: Python, HTML, Javascript
+Email: xiangfanyu@uvic.ca
