@@ -1864,3 +1864,9 @@ About: Student
 Programming Language: C, Java, Python
 Email: lyba@ucu.edu.ua
 
+Name: Constantin (https://github.com/szili9992)
+Place: Transylvania
+About: Androidi developer
+Programming Language: Java, Kotlin
+Email: szil9992@gmail.com
+
