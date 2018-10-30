@@ -1,11 +1,13 @@
 #include <stdio.h>
-void increment(int  *var)
+
+void increment(int  *num)
 {
-    *var = *var+1;
+    *num = *num+1;
 }
 int main()
 {
-     int num=20;
+     float num;
+     scanf("%lf",&num);	
      increment(&num);
      printf("Value of num is: %d", num);
    return 0;

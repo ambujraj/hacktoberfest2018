@@ -1,15 +1,11 @@
-number = int(input("Input a number to generate a list of prime numbers smaller itself: "))
+number = int(input("Input a number to generate a list of prime numbers up to your number: "))
 
 def is_prime(num):
     for i in range(2, num):
         if num % i == 0:
             return False
     return True
-print("Prime numbers till ");
-print(nummer);
-print("\n");
+print(f"Prime numbers til {number}:\n")
 for i in range(2, number+1):
     if is_prime(i):
-        print(i)
-        print("\n");
-    
+        print(i, "\n")
