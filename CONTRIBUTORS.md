@@ -1832,6 +1832,13 @@ Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
 
 
+Name: Vipul Singh (https://github.com/vsr97)
+Place: India
+About: Student
+Programming Language: C, C++, Java, Python
+Email: vipulsinghraghuvanshi08@gmail.com
+
+
 Name: [Petar](https://github.com/Petar-np)
 Place: Belgrade
 About: JavaScrip Dev
@@ -1856,3 +1863,4 @@ Place: Ukraine
 About: Student
 Programming Language: C, Java, Python
 Email: lyba@ucu.edu.ua
+
