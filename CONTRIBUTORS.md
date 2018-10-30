@@ -1864,3 +1864,8 @@ About: Student
 Programming Language: C, Java, Python
 Email: lyba@ucu.edu.ua
 
+Name: [Sohil Ladhani] (https://github.com/sohilladhani)
+Place: India
+About: Software Engineer
+Programming Language: Java, C, Python
+Email: supertakumi86@gmail.com
