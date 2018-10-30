@@ -4,6 +4,12 @@ About: software engineering developer!<br/>
 Programming languages: JavaScript, Html, Css and plenty of other <br/>
 Email: sarah@gmail.com
 
+Name: [Shubham](https://github.com/shubhshrma)<br/>
+Place: India<br/>
+About: IT undergrad!<br/>
+Programming languages: JavaScript, C++<br/>
+Email: shubham.31996@gmail.com
+
 
 Name: [Adish Rao]<br/>
 Place: INDIA<br/>
