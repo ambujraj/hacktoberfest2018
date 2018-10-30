@@ -330,6 +330,14 @@ About: I'm moslem programmer<br/>
 Programming Language: Java, kotlin, flutter<br/>
 Email: jihad.strange@gmail.com<br/>
 
+
+Name: [Saharsh Jain](https://github.com/SAHARSH123)<br/>
+Place: India<br/>
+About: I am computer geek<br/>
+Programming Language: Java, C, C++<br/>
+Email: saharshjain506@gmail.com<br/>
+
+
 Name: [Utkarsh Garg](https://github.com/utkarsh22garg)<br/>
 Place: Allahabad,India<br/>
 About: I'm pursuing 3rd year from MNNIT Allahbad<br/>
@@ -1811,6 +1819,12 @@ About: Student
 Programming Language: C++, Java, C#, JavaScript;
 Email: miautawn@gmail.com
 
+Name: [Samyak Jain](https://github.com/samyak360)<br/>
+Place: India<br/>
+About: Coding Enthusiast<br/>
+Programming languages: JavaScript, C, C++, Python<br/>
+Email: samyak360@gmail.com
+
 Name: Saloni Gupta (https://github.com/upsidedownpancake)
 Place: India
 About: Student
@@ -1822,3 +1836,16 @@ Place: Delhi,INDIA<br/>
 About: Student and Developer in Python and C++<br/>
 Programming Language: Python,C++<br/>
 Email: hpyadav736@gmail.com<br/>
+
+
+Name: Kubilat Örcün (https://github.com/kubilayorcun)
+Place: Turkey
+About: Computer Engineer to be, Java Geek
+Programming Language: Java, C, PHP, HTML/CSS and some more
+Email: kubilayorcun5@gmail.com
+
+Name: Yarka Lyba (https://github.com/yarkalyba)
+Place: Ukraine
+About: Student
+Programming Language: C, Java, Python
+Email: lyba@ucu.edu.ua
