@@ -1864,3 +1864,8 @@ About: Student
 Programming Language: C, Java, Python
 Email: lyba@ucu.edu.ua
 
+Name: [Kurt](https://github.com/krtb)
+Place: Brooklyn
+About: Flatiron Code School Alumn, dork extraordinaire 
+Programming Language: SQL, HTML/CSS, Ruby, JavaScript
+Email: n/a
