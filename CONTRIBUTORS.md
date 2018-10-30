@@ -1,3 +1,10 @@
+Name: [Rishabh](https://github.com/Rish1997)<br/>
+Place: India<br/>
+About: Freelance Developer and Student!<br/>
+Programming languages: Python, Javascript, Ionic etc. <br/>
+Email: chaturvedirishabh91@gmail.com
+
+
 Name: [Sarah](https://github.com/sarahxoxo)<br/>
 Place: Taiwan<br/>
 About: software engineering developer!<br/>
