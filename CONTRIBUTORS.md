@@ -1864,3 +1864,7 @@ About: Student
 Programming Language: C, Java, Python
 Email: lyba@ucu.edu.ua
 
+Name: Matt DuLeone (https://matt.dule.one)
+Place: New Jersey, United States
+About: Software Engineer
+Programming Language: JavaScript
