@@ -1764,7 +1764,7 @@ Programming Languages : JavaScript, PHP
 
 Name : [Monika Kumari] (https://github.com/MONIKA2013IGDTU)<br/>
 Place : New Delhi , India <br/>
-About : Btech CSE  | IGDTUW |  
+About : Btech CSE  | IGDTUW |
 Programming Languages : C++ , html
 Email : monika7537kr@gmail.com
 
@@ -1843,7 +1843,7 @@ Name: [Petar](https://github.com/Petar-np)
 Place: Belgrade
 About: JavaScrip Dev
 Programming Language: JavaScript
-Email: 
+Email:
 
 Name: [krishanakumar](https://github.com/krishana18kumar)<br/>
 Place: Delhi,INDIA<br/>
@@ -1863,4 +1863,9 @@ Place: Ukraine
 About: Student
 Programming Language: C, Java, Python
 Email: lyba@ucu.edu.ua
+
+Name: Sakina Fakhruddin (https://github.com/Sando1)
+Place: Canada
+About: Student
+Programming Language: Python, Php
 
