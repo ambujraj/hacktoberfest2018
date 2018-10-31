@@ -1864,9 +1864,9 @@ About: Student
 Programming Language: C, Java, Python
 Email: lyba@ucu.edu.ua
 
-Name: Ankur Dubey (https://github.com/ankurdubey07)
-Place: Patna, India
-About: Student
-Programming Language: C++, Python
+Name: Ankur Dubey (https://github.com/ankurdubey07)</br>
+Place: Patna, India</br>
+About: Student</br>
+Programming Language: C++, Python</br>
 Email: theankurdubey@gmail.com
 
