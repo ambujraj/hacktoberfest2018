@@ -1870,3 +1870,8 @@ About: Student</br>
 Programming Language: C++, Python</br>
 Email: theankurdubey@gmail.com
 
+Name: [Cliff Baldridge](https://github.com/sbartstv)</br>
+Place: Beverly Hills, California, USA</br>
+About: Entertainment Engineer</br>
+Programming Language: C#, Python, Unity3D, Magic Leap SDk</br>
+Email: vipmediapr@gmail.com
