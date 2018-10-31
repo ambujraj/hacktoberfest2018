@@ -1864,3 +1864,8 @@ About: Student
 Programming Language: C, Java, Python
 Email: lyba@ucu.edu.ua
 
+Name: [Karol Gasparik](https://github.com/garolpe)
+Place: Zilina / Slovakia
+About: LEarning to code for myself and for potential career switch
+Programming Language: C, C#, Python, JS...
+Email:  garol.pe@gmail.com
