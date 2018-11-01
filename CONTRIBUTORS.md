@@ -1870,3 +1870,9 @@ About: Student</br>
 Programming Language: C++, Python</br>
 Email: theankurdubey@gmail.com
 
+Name: [Arthur Moreira](https://github.com/reiarthur)</br>
+Place: Recife, Brazil</br>
+About: Web Developer</br>
+Programming Language: Python, C#</br>
+Email: aomm@cin.ufpe.br
+
