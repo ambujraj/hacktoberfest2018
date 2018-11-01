@@ -1870,3 +1870,8 @@ About: Student</br>
 Programming Language: C++, Python</br>
 Email: theankurdubey@gmail.com
 
+Name: [Ruan Bahia](https://github.com/ruanmed)
+Place: Juazeiro, Brazil
+About: Computer Engineering to be
+Programming Language: C, C++, Java, Python
+Email: ruanmed@live.com
