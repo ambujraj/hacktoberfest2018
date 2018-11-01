@@ -1870,6 +1870,11 @@ About: Student</br>
 Programming Language: C++, Python</br>
 Email: theankurdubey@gmail.com
 
+Name: [Cliff Baldridge](https://github.com/sbartstv)</br>
+Place: Beverly Hills, California, USA</br>
+About: Entertainment Engineer</br>
+Programming Language: C#, Python, Unity3D, Magic Leap SDk</br>
+Email: vipmediapr@gmail.com
 
 Name: [Matty](https://github.com/MattyLaLuna)<br/>
 Place: California, USA<br/>
@@ -1889,4 +1894,3 @@ Place: Recife, Brazil</br>
 About: Web Developer</br>
 Programming Language: Python, C#</br>
 Email: aomm@cin.ufpe.br
-
