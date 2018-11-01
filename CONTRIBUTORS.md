@@ -1870,6 +1870,12 @@ About: Student</br>
 Programming Language: C++, Python</br>
 Email: theankurdubey@gmail.com
 
+Name: [Marcos Abreu](https://github.com/marcosabreuoliveira/)</br>
+Place: Amapá, Brazil</br>
+About: Student of Computer Science</br>
+Programming Language: Python, Haskell</br>
+Email: marcosabr97@gmail.com
+
 Name: [Cliff Baldridge](https://github.com/sbartstv)</br>
 Place: Beverly Hills, California, USA</br>
 About: Entertainment Engineer</br>
