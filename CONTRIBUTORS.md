@@ -1832,6 +1832,13 @@ Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
 
 
+Name: Vipul Singh (https://github.com/vsr97)
+Place: India
+About: Student
+Programming Language: C, C++, Java, Python
+Email: vipulsinghraghuvanshi08@gmail.com
+
+
 Name: [Petar](https://github.com/Petar-np)
 Place: Belgrade
 About: JavaScrip Dev
@@ -1856,3 +1863,34 @@ Place: Ukraine
 About: Student
 Programming Language: C, Java, Python
 Email: lyba@ucu.edu.ua
+
+Name: [Ankur Dubey](https://github.com/ankurdubey07)</br>
+Place: Patna, India</br>
+About: Student</br>
+Programming Language: C++, Python</br>
+Email: theankurdubey@gmail.com
+
+Name: [Cliff Baldridge](https://github.com/sbartstv)</br>
+Place: Beverly Hills, California, USA</br>
+About: Entertainment Engineer</br>
+Programming Language: C#, Python, Unity3D, Magic Leap SDk</br>
+Email: vipmediapr@gmail.com
+
+Name: [Matty](https://github.com/MattyLaLuna)<br/>
+Place: California, USA<br/>
+About: Student<br/>
+Programming languages: Python, C#<br/>
+Email: nicetry@nottoday.com
+
+Name: [Ruan Bahia](https://github.com/ruanmed)
+Place: Juazeiro, Brazil
+About: Computer Engineering to be
+Programming Language: C, C++, Java, Python
+Email: ruanmed@live.com
+
+
+Name: [Arthur Moreira](https://github.com/reiarthur)</br>
+Place: Recife, Brazil</br>
+About: Web Developer</br>
+Programming Language: Python, C#</br>
+Email: aomm@cin.ufpe.br
