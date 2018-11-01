@@ -1875,3 +1875,22 @@ Place: Beverly Hills, California, USA</br>
 About: Entertainment Engineer</br>
 Programming Language: C#, Python, Unity3D, Magic Leap SDk</br>
 Email: vipmediapr@gmail.com
+
+Name: [Matty](https://github.com/MattyLaLuna)<br/>
+Place: California, USA<br/>
+About: Student<br/>
+Programming languages: Python, C#<br/>
+Email: nicetry@nottoday.com
+
+Name: [Ruan Bahia](https://github.com/ruanmed)
+Place: Juazeiro, Brazil
+About: Computer Engineering to be
+Programming Language: C, C++, Java, Python
+Email: ruanmed@live.com
+
+
+Name: [Arthur Moreira](https://github.com/reiarthur)</br>
+Place: Recife, Brazil</br>
+About: Web Developer</br>
+Programming Language: Python, C#</br>
+Email: aomm@cin.ufpe.br
