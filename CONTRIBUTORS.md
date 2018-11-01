@@ -1875,3 +1875,10 @@ Place: Juazeiro, Brazil
 About: Computer Engineering to be
 Programming Language: C, C++, Java, Python
 Email: ruanmed@live.com
+
+
+Name: [Arthur Moreira](https://github.com/reiarthur)</br>
+Place: Recife, Brazil</br>
+About: Web Developer</br>
+Programming Language: Python, C#</br>
+Email: aomm@cin.ufpe.br
