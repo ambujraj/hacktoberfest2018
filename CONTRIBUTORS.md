@@ -1967,3 +1967,8 @@ About: I'm a student programmer interested in machine learning and systems progr
 Programming Language: Python, C++
 Email: saurabh.chaturvedi63@gmail.com
 
+Name: Jeff Pinckney (https://github.com/jpinckney)
+Place: United States
+About: Student
+Programming Language: Javascript
+Email: homerunjeff@yahoo.com
