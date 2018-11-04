@@ -1069,6 +1069,10 @@ Place: Brno, Czech Republic || Heraklion, Krete
 About: No one of consequence.
 Programming Language: It's not about languages, but about paradigms. So objective, procedural, lightly functional, hardly logical. <br />
 
+Name: [Pavel Sadlon](https://github.com/salopadlon) <br />
+Place: Hanusovce nad Toplou <br />
+About: Ja chci na wafle teplej banan <br />
+
 Name: [Sharan Narayan](http://github.com/sharan-nyn)<br />
 Place: Kochi, Kerala, India<br />
 About: B.Tech Student<br />
