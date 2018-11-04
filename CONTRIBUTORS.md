@@ -1764,7 +1764,7 @@ Programming Languages : JavaScript, PHP
 
 Name : [Monika Kumari] (https://github.com/MONIKA2013IGDTU)<br/>
 Place : New Delhi , India <br/>
-About : Btech CSE  | IGDTUW |  
+About : Btech CSE  | IGDTUW |
 Programming Languages : C++ , html
 Email : monika7537kr@gmail.com
 
@@ -1843,7 +1843,7 @@ Name: [Petar](https://github.com/Petar-np)
 Place: Belgrade
 About: JavaScrip Dev
 Programming Language: JavaScript
-Email: 
+Email:
 
 Name: [krishanakumar](https://github.com/krishana18kumar)<br/>
 Place: Delhi,INDIA<br/>
@@ -1863,8 +1863,62 @@ Place: Ukraine
 About: Student
 Programming Language: C, Java, Python
 Email: lyba@ucu.edu.ua
+\
 
 Name: [john2ksonn](https://github.com/john2ksonn)<br/>
 Place: Germany<br/>
 About: Student<br/>
 Programming Language: Java, Python, C<br/>
+
+
+Name: Hatim Alam (https://github.com/hatimalam)
+Place: India
+About: Web developer
+Programming Language: PHP
+Email: hatimalam@gmail.com
+
+
+Name: [Ankur Dubey](https://github.com/ankurdubey07)</br>
+Place: Patna, India</br>
+About: Student</br>
+Programming Language: C++, Python</br>
+Email: theankurdubey@gmail.com
+
+
+Name: [Augusto Noronha](https://github.com/augusto2112)</br>
+Place: BH, Brazil</br>
+About: Student</br>
+Programming Language: Swift, Haskell, Python</br>
+Email: notsaying@something.com
+
+
+Name: [Marcos Abreu](https://github.com/marcosabreuoliveira/)</br>
+Place: Amapá, Brazil</br>
+About: Student of Computer Science</br>
+Programming Language: Python, Haskell</br>
+Email: marcosabr97@gmail.com
+
+Name: [Cliff Baldridge](https://github.com/sbartstv)</br>
+Place: Beverly Hills, California, USA</br>
+About: Entertainment Engineer</br>
+Programming Language: C#, Python, Unity3D, Magic Leap SDk</br>
+Email: vipmediapr@gmail.com
+
+Name: [Matty](https://github.com/MattyLaLuna)<br/>
+Place: California, USA<br/>
+About: Student<br/>
+Programming languages: Python, C#<br/>
+Email: nicetry@nottoday.com
+
+Name: [Ruan Bahia](https://github.com/ruanmed)
+Place: Juazeiro, Brazil
+About: Computer Engineering to be
+Programming Language: C, C++, Java, Python
+Email: ruanmed@live.com
+
+
+Name: [Arthur Moreira](https://github.com/reiarthur)</br>
+Place: Recife, Brazil</br>
+About: Web Developer</br>
+Programming Language: Python, C#</br>
+Email: aomm@cin.ufpe
