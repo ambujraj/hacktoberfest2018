@@ -1933,8 +1933,16 @@ About: I am a first year CSC student
 Programming Language: Python, HTML, Javascript
 Email: xiangfanyu@uvic.ca
 
+
+Name: [Kurt](https://github.com/krtb)
+Place: Brooklyn
+About: Flatiron Code School Alumn, dork extraordinaire 
+Programming Language: SQL, HTML/CSS, Ruby, JavaScript
+Email: n/a
+
 Name: [Arthur Moreira](https://github.com/reiarthur)</br>
 Place: Recife, Brazil</br>
 About: Web Developer</br>
 Programming Language: Python, C#</br>
 Email: aomm@cin.ufpe
+
