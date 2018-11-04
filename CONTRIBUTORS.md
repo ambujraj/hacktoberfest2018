@@ -1921,6 +1921,12 @@ Programming Language: C, C++, Java, Python
 Email: ruanmed@live.com
 
 
+Name: Xiang Fan Yu (https://github.com/XiangFanYu)
+Place: Victoria, British Columbia, Canada
+About: I am a first year CSC student
+Programming Language: Python, HTML, Javascript
+Email: xiangfanyu@uvic.ca
+
 Name: [Arthur Moreira](https://github.com/reiarthur)</br>
 Place: Recife, Brazil</br>
 About: Web Developer</br>
