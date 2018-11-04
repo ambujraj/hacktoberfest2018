@@ -1884,6 +1884,13 @@ About: Student who seeks for knowledge in every corner.<br/>
 Programming Language: C, C++, C#, Java, Bash<br/>
 Email: yukthilochana@yahoo.com<br/>
 
+
+Name: Constantin (https://github.com/szili9992)
+Place: Transylvania
+About: Androidi developer
+Programming Language: Java, Kotlin
+Email: szil9992@gmail.com
+
 Name: [john2ksonn](https://github.com/john2ksonn)<br/>
 Place: Germany<br/>
 About: Student<br/>
@@ -1972,3 +1979,4 @@ Place: United States
 About: Student
 Programming Language: Javascript
 Email: homerunjeff@yahoo.com
+
