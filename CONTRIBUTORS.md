@@ -1864,6 +1864,13 @@ About: Student
 Programming Language: C, Java, Python
 Email: lyba@ucu.edu.ua
 
+Name: Hatim Alam (https://github.com/hatimalam)
+Place: India
+About: Web developer
+Programming Language: PHP
+Email: hatimalam@gmail.com
+
+
 Name: [Ankur Dubey](https://github.com/ankurdubey07)</br>
 Place: Patna, India</br>
 About: Student</br>
@@ -1908,3 +1915,4 @@ Place: Recife, Brazil</br>
 About: Web Developer</br>
 Programming Language: Python, C#</br>
 Email: aomm@cin.ufpe.br
+
