@@ -1946,6 +1946,12 @@ About: Web Developer</br>
 Programming Language: Python, C#</br>
 Email: aomm@cin.ufpe
 
+
+Name: Matt DuLeone (https://matt.dule.one)
+Place: New Jersey, United States
+About: Software Engineer
+Programming Language: JavaScript
+
 Name: Saurabh Chaturvedi (https://github.com/schedutron)
 Place: Jaipur, India
 About: I'm a student programmer interested in machine learning and systems programming
