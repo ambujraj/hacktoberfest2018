@@ -2,15 +2,15 @@
 #include <iostream>
 using namespace std;
 
-int main(int argc, char const *argv[])
+int main()
 {
 	int nc, count=0, sum;
 	int first, second;
-	cout << "enter the no. of terms" << endl;
+	cout << "Enter the no. of terms please" << endl;
 	cin >> nc;
-	cout << "enter the first number" << endl;
+	cout << "Enter the first number please" << endl;
 	cin >> first;
-	cout << "enter the second number"<<endl;
+	cout << "Enter the second number please"<<endl;
 	cin >> second;
 	while(count < nc){
 		sum = first + second;
