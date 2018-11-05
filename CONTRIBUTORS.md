@@ -1778,8 +1778,6 @@ About : Btech CSE  | IGDTUW |  <br/>
 Programming Languages : C++ , html<br/>
 Email : monika7537kr@gmail.com<br/>
 
-
-
 Name : [Tran Tat Huy](https://github.com/HrTran)<br/>
 Place : Hanoi , Vietnam <br/>
 About : Big Data Engineer
@@ -1855,8 +1853,6 @@ Place: Belgrade<br/>
 About: JavaScrip Dev<br/>
 Programming Language: JavaScript<br/>
 Email: <br/>
-
-
 
 Name: [krishanakumar](https://github.com/krishana18kumar)<br/>
 Place: Delhi,INDIA<br/>
@@ -1992,4 +1988,9 @@ Place: India
 About: Software Engineer
 Programming Language: Java, C, Python
 Email: supertakumi86@gmail.com
+
+Name: Sakina Fakhruddin (https://github.com/Sando1)
+Place: Canada
+About: Student
+Programming Language: Python, Php
 
