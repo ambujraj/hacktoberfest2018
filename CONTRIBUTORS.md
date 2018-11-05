@@ -1850,12 +1850,12 @@ Programming Language: C, C++, Java, Python<br/>
 Email: vipulsinghraghuvanshi08@gmail.com<br/>
 
 
-
 Name: [Petar](https://github.com/Petar-np)<br/>
 Place: Belgrade<br/>
 About: JavaScrip Dev<br/>
 Programming Language: JavaScript<br/>
 Email: <br/>
+
 
 
 Name: [krishanakumar](https://github.com/krishana18kumar)<br/>
@@ -1980,8 +1980,16 @@ About: Student
 Programming Language: Javascript
 Email: homerunjeff@yahoo.com
 
+
+Name: Sumit Madhwani (https://github.com/malverick)
+Place: India
+About: Student
+Programming Language: C++, Python
+Email: 15ucs146@lnmiit.ac.in
+
 Name: [Sohil Ladhani] (https://github.com/sohilladhani)
 Place: India
 About: Software Engineer
 Programming Language: Java, C, Python
 Email: supertakumi86@gmail.com
+
