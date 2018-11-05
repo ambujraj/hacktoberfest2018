@@ -1980,7 +1980,13 @@ Email: homerunjeff@yahoo.com
 Name: Sumit Madhwani (https://github.com/malverick)
 Place: India
 About: Student
-Programming Language: C++, Python
+Programming Language: C, C++, Java, Python
+Email: saloni.gupta63@gmail.com
+
+Name: Dan DuLeone (https://redqueen.us)
+Place: New Jersey, United States
+About: Software Engineer
+Programming Language: PHP, JavaScript/React
 Email: 15ucs146@lnmiit.ac.in
 
 Name: [Sohil Ladhani] (https://github.com/sohilladhani)
@@ -2000,4 +2006,3 @@ Place: India<br/>
 About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
-
