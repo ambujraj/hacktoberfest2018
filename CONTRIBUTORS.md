@@ -1980,3 +1980,8 @@ About: Student
 Programming Language: Javascript
 Email: homerunjeff@yahoo.com
 
+Name: [Sohil Ladhani] (https://github.com/sohilladhani)
+Place: India
+About: Software Engineer
+Programming Language: Java, C, Python
+Email: supertakumi86@gmail.com
