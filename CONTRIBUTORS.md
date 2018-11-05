@@ -2001,6 +2001,12 @@ About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
 
+Name: Ahad Ali (https://github.com/ahad80)
+Place: New Delhi
+About: Student
+Programming Language: C, C++, Python
+Email: shawnfrost80@gmail.com
+
 
 Name: Sudipto Deb (https://github.com/sudiautobots)
 Place: India
