@@ -2025,6 +2025,12 @@ About: Full Stack Developer
 Programming Language: JavaScript, Node.js, Java, Haskell
 Email: 
 
+Name: Sagar Giri (https://github.com/girisagar46)
+Place: Nepal
+About: Full Stack developer
+Programming Language: Python, Java
+Email: girisagar46@gmail.com
+
 Name: [Ricardo Sander Lopes](https://github.com/ricardosander)
 Place: Campinas, SP - Brazil
 About: I've benn a programmer for the last 6 years
@@ -2054,3 +2060,4 @@ Place: India<br/>
 About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
+
