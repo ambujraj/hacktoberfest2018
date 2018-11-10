@@ -2019,6 +2019,13 @@ About: Student
 Programming Language: C, C++, Java, Python
 Email: sudiautobots@gmail.com
 
+Name: [Brian Russell](https://github.com/Brussell03)
+Place: Conway, Arkansas
+About: Computer science student interested in software development
+Programming Language: Java, Javascript
+Email: saloni.gupta63@gmail.com
+
+
 Name: [Akshay Gulhane](https://github.com/akshaygulhane)
 Place: Bangalore India
 About: Full Stack Developer
@@ -2060,4 +2067,3 @@ Place: India<br/>
 About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
-
