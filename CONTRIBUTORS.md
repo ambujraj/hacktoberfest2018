@@ -1,8 +1,14 @@
-﻿Name: [Sarah](https://github.com/sarahxoxo)<br/>
+Name: [Sarah](https://github.com/sarahxoxo)<br/>
 Place: Taiwan<br/>
 About: software engineering developer!<br/>
 Programming languages: JavaScript, Html, Css and plenty of other <br/>
 Email: sarah@gmail.com
+
+Name: Argha Sen (https://github.com/arghasen)
+Place: India
+About: Coding | Finance
+Programming Language: C, C++, Java, Python, NodeJS
+Email: iamslowdeath@gmail.com
 
 Name: [Karan](https://github.com/karanssh)<br/>
 Place: Kolkata<br/>
