@@ -1,3 +1,11 @@
+Name: [Anushree](https://github.com/anushree816)<br/>
+Place: India<br/>
+About: Engineering student<br/>
+Programming languages: C,C++, Python <br/>
+Email: anushree816@gmail.com
+
+
+
 Name: [Sarah](https://github.com/sarahxoxo)<br/>
 Place: Taiwan<br/>
 About: software engineering developer!<br/>
@@ -2027,10 +2035,10 @@ Programming Language: C, C++, Python
 Email: shawnfrost80@gmail.com
 
 
-Name: Sudipto Deb (https://github.com/sudiautobots)
-Place: India
-About: Student
-Programming Language: C, C++, Java, Python
+Name: Sudipto Deb (https://github.com/sudiautobots)<br/>
+Place: India<br/>
+About: Student<br/>
+Programming Language: C, C++, Java, Python<br/>
 Email: sudiautobots@gmail.com
 
 Name: [Brian Russell](https://github.com/Brussell03)
@@ -2081,3 +2089,4 @@ Place: India<br/>
 About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
+
