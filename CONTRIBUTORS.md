@@ -2012,6 +2012,14 @@ About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
 
+
+Name: Simone Callegaro
+Place: Italy
+About: Developer
+Programming Language: Javscript, vb.net
+Email: callegaro.simone@gmail.com
+
+
 Name: Ahad Ali (https://github.com/ahad80)
 Place: New Delhi
 About: Student
