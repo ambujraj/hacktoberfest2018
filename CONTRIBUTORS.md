@@ -4,11 +4,11 @@ About: software engineering developer!<br/>
 Programming languages: JavaScript, Html, Css and plenty of other <br/>
 Email: sarah@gmail.com
 
-Name: Argha Sen (https://github.com/arghasen)
-Place: India
-About: Coding | Finance
-Programming Language: C, C++, Java, Python, NodeJS
-Email: iamslowdeath@gmail.com
+Name: Argha Sen (https://github.com/arghasen)<br/>
+Place: India<br/>
+About: Coding | Finance<br/>
+Programming Language: C, C++, Java, Python, NodeJS<br/>
+Email: iamslowdeath@gmail.com<br/>
 
 Name: [Karan](https://github.com/karanssh)<br/>
 Place: Kolkata<br/>
