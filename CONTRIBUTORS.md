@@ -2020,6 +2020,12 @@ About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
 
+Name: [Inventrohyder](https://github.com/inventrohyder)
+Place: San Francisco
+About: Student
+Programming Language: Java, Python
+Email: 22187034+Inventrohyder@users.noreply.github.com
+
 
 Name: Simone Callegaro
 Place: Italy
