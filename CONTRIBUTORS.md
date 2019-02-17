@@ -2096,3 +2096,8 @@ About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
 
+Name: [Ankit](https://github.com/PrajapatiAnkit)
+Place: Kanpur, UP India
+About: PHP Web Developer
+Programming Language: PHP, Javascript, JAVA
+
