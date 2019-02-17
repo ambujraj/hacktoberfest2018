@@ -2096,3 +2096,9 @@ About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
 
+Name: [Alissa Taylor](https://github.com/alissastaylor)<br/>
+Place: Atlanta, GA<br/>
+About: Full-Stack Software Engineer<br/>
+Programming Languages: JAVASCRIPT, ES6, HTML, CSS
+Email: vaibhav.alissashaytaylor@gmail.com
+
