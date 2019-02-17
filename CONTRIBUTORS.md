@@ -2096,3 +2096,6 @@ About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
 
+Name: [Shauna Corr](https://github.com/dranoels)<br/>
+Place: Belfast, Northern Ireland<br/>
+About: Data Engineer<br/>
