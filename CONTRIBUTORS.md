@@ -2024,6 +2024,14 @@ About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
 
+
+Name: Devansh (https://github.com/devanshhooda)
+Place: Delhi, India
+About: Student
+Programming Language: C++, Java, Python
+Email: devanshstan17@gmail.com
+
+
 Name: [Inventrohyder](https://github.com/inventrohyder)
 Place: San Francisco
 About: Student
@@ -2099,4 +2107,3 @@ Place: India<br/>
 About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
-
