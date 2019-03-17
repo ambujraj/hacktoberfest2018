@@ -2028,6 +2028,12 @@ About: Student
 Programming Language: C, C++, Java, Python
 Email: saloni.gupta63@gmail.com
 
+Name: [Elhamidi Abdelhay](https://github.com/AElhamidi)<br/>
+Place: Agadir,Morocco<br/>
+About: software engineering student and developer!<br/>
+Programming languages: c++,Java,PHP,Python,Html,js,Css and plenty of other <br/>
+Email: A.Elhamidi.job@gmail.com
+
 
 Name: Devansh (https://github.com/devanshhooda)
 Place: Delhi, India
