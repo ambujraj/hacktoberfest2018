@@ -157,11 +157,19 @@ About: Undergraduate at NSBM Green University<br/>
 Programming Language: C,Java,HTML,CSS,Python<br/>
 Email: buddhimadealwis4@gmail.com<br/>
 
+
+Name: [Prateksha Udhayanan]<br/>
+Place: India<br/>
+About: Student<br/>
+Programming Language: C++, C, Python, Java, Ruby on Rails<br/>
+Email: pratekshau@gmail.com<br/>
+
 Name: [scumpser](https://github.com/djay2815)<br/>
 Place:INDIA<br/>
 About: Student at BITS Pilani Hyderabad Campus<br/>
 Programming Language: Python,C,C++<br/>
 Email: djay2815@gmail.com<br/>
+
 
 
 
