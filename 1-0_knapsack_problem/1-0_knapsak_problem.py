@@ -1,5 +1,5 @@
 """ Knapsack problem by dynamic programming """
-weight = [1,3,4,5]
+weight = [1,3,4,7]
 value = [1,4,5,7]
 n = len(weight)+1
 max_wt = 7
@@ -26,3 +26,8 @@ def knapsack():
     print("\nMaximum Value : "+str(v[n-1][max_wt]))
 
 knapsack()
+
+
+
+
+
