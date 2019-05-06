@@ -1,12 +1,5 @@
 package BigInteger_InJava;
 
-/*
- * In JAVA the maximum size of number is 64-bit (long), including 1 signed bit.
- * So JAVA provides BigInteger to do operations for larger values.
- * mod, add, div, sub, multiply and etc. for arithmetic operations
-`*
- * @uthor Jayesh Valbhani
- */
 
 import java.math.BigInteger;
 
