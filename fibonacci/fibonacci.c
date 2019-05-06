@@ -1,16 +1,13 @@
-#include<stdio.h>    
-int main()    
-{    
- int n1=0,n2=1,n3,i,number;    
- printf("Enter the number of elements:");    
- scanf("%d",&number);    
- printf("\n%d %d",n1,n2);//printing 0 and 1    
- for(i=2;i<number;++i)//loop starts from 2 because 0 and 1 are already printed    
- {    
-  n3=n1+n2;    
-  printf(" %d",n3);    
-  n1=n2;    
-  n2=n3;    
- }  
-  return 0;  
- }    
+#include<stdio.h>
+main()
+{   int x=0,y=1,sum,n,count;
+    printf("n is the no. of the terms\n\n");printf("\n\n");
+    printf("enter the value of n");printf("\n");
+    scanf("%d",&n);
+    for(count==3;count<=n;count++)
+    {  sum=x+y;
+       x=y;
+       y=sum;
+       printf("  %d  ",sum);
+	}
+}
