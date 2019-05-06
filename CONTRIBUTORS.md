@@ -1561,6 +1561,12 @@ About: Junior Developer<br/>
 Programming Language: Rust<br/>
 Email: pbateman828@gmail.com<br/>
 
+Name: [Anirudh Kanakatte](https://github.com/anirudhkanakatte)<br/>
+Place: INDIA<br/>
+About: Web Developer<br/>
+Programming Language: HTML, CSS, JavaScript<br/>
+Email: anirudhkr@gmail.com<br/>
+
 Name: [Prashant Dixit](https://github.com/prashant564)<br/>
 Place: INDIA<br/>
 About: Student and Machine Learning enthusiast! Likes Python.<br/>
