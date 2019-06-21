@@ -312,6 +312,12 @@ About: Computer science student, excited about AI and ML<br/>
 Programming Language:C, C++, JAVA, R, Python, JS, HTML, CSS<br/>
 Email: prakash.nath@students.iiit.ac.in<br/>
 
+Name: [Jaydeep Eraniya](https://github.com/Jaydeep1617)<br/>
+Place: India<br/>
+About: Student<br/>
+Programming Language: C,C++,JAVA, JS, HTML, CSS<br/>
+Email: jaydeeperaniya17jd@gmail.com<br/>
+
 Name: [Bardr](https://github.com/Bardr)<br/>
 Place: Poland<br/>
 About: Student and software developer! Likes AI, anime and good beer.<br/>
