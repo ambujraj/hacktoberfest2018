@@ -19,6 +19,5 @@ int binary_search(int sorted_list[], int low, int high, int element)
 int main(){
     int a[5] = {2 , 4 , 6 , 8 , 10};
     cout<<"6 found at index: "<<binary_search(a,0,4,6);
-    return 0;
-    
+    return 0;    
 }
