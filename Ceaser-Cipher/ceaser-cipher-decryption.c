@@ -7,7 +7,7 @@ int main()
     
     printf("Enter a message to decrypt: ");
     gets(message);
-    printf("Enter key: ");
+    printf("Enter key:  ");
     scanf("%d", &key);
     
     for(i = 0; message[i] != '\0'; ++i){
