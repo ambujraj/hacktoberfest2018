@@ -60,7 +60,7 @@ void insert_end(struct circularNode** head,int a){
 
 int main()
 {
-    struct circularNode* a = createnode(7);
-    insert_front(&a, 5);
+    struct circularNode* a = createnode(70);
+    insert_front(&a, 50);
     show(a);
 }
