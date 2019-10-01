@@ -1,7 +1,10 @@
-#include <stdio.h>
+#include <iostream>
+
+using namespace std;
 
 int main()
 {
-    puts("Hello Hacktoberfest!!");
+    cout<<"Hello World";
+
     return 0;
 }
