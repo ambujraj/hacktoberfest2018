@@ -26,7 +26,6 @@ int main(){
 	printf("\nEnter fitness functions of st1, st2, st3 and st4 : ");
 	scanf("%d%d%d%d",&st1f,&st2f,&st3f,&st4f);
 	printf("Fitness function :\n st1=%d\t st2=%d\t st3=%d\t st4=%d ",st1f,st2f,st3f,st4f);
-	
 	return 0;
 	
 }
