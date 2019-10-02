@@ -39,7 +39,8 @@
 + Telephone number validator.
 
 ## Getting Started
-* Add Your Name to the CONTRIBUTORS.md file using following model
+
+* Add your name to the CONTRIBUTORS.md file using following model
 
 ```markdown
 Name: [YOUR NAME](Github Link)
@@ -72,3 +73,4 @@ git push origin branch-name
 * Create a New Pull Request from your forked repository (Click the New Pull Request button located at the top of your repo)
 * Wait for your PR review and merge approval!
 * __Star this repository__ if you had fun!
+thanks
