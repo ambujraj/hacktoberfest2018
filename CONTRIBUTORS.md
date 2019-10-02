@@ -38,6 +38,10 @@ Favourite Languages: JS, C++
 Name: [Mohit Routela](https://github.com/mohitroutela)<br/>
 Place: Mumbai<br/>
 About: I am a computer engineer and loves coding.<br/>
+
+Name: [Daniele Perrella](https://github.com/dvgniele)<br/>
+Place: Italy<br/>
+About: Computer Science Student<br/>
 Programming Language:C,C++,Python<br/>
 
 
