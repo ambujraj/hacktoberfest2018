@@ -2125,3 +2125,9 @@ Place: India<br/>
 About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
+
+Name: [Xavier Rollet](https://github.com/xavierrollet)
+Place: Brest
+About: Web designer junior
+Programming Language: HTML5 CSS3 SASS/SCSS
+Email: xavier.rollet@gmail.com
