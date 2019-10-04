@@ -1,4 +1,10 @@
-﻿Name: [Anushree](https://github.com/anushree816)<br/>
+Name: [ASHISH JOSHI](https://github.com/joshi1411)<br/>
+Place: HP,India<br/>
+About: ECE studenet<br/>
+Programming Language: C++<br/>
+Email: joshi@gmail.com<br/>
+
+Name: [Anushree](https://github.com/anushree816)<br/>
 Place: India<br/>
 About: Engineering student<br/>
 Programming languages: C,C++, Python <br/>
