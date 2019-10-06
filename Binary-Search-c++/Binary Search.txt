@@ -39,5 +39,6 @@ int main(){
     }else{
         cout<<number<<" not found"<<endl;
     }
+    //binary search can be used to find the element in logn time -->
     return 0;
 }
