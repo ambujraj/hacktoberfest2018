@@ -66,8 +66,7 @@ git checkout -b bugfix/branch-name
 * Make your changes (Choose from any task below)
 * Commit and Push
 ```markdown
-git add .
-git commit -m 'commit message'
+git commit -am 'commit message'
 git push origin branch-name
 ```
 * Create a New Pull Request from your forked repository (Click the New Pull Request button located at the top of your repo)
