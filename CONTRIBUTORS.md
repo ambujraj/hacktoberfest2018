@@ -10,6 +10,12 @@ About: Software Engineering student</br>
 Programming Language: JavaScript, Html , Css </br>
 Email: mouylengheng25@gmail.com
 
+Name: [Sagnik Chattopadhyaya](https://github.com/sagnik20)<br/>
+Place: Kolkata<br/>
+About: Engineering Student<br/>
+Programming Language: C,C++, Python, Java<br/>
+Email: meshagy18@gmail.com
+
 Name: [Sarah](https://github.com/sarahxoxo)<br/>
 Place: Taiwan<br/>
 About: software engineering developer!<br/>
