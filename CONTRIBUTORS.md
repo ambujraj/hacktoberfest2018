@@ -2126,8 +2126,8 @@ About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
 
-Name: [Kanishk Gupta](https://Github.com/gkanishk)
-Place: Chandigarh
-About: Microsoft Student Partner
-Programming Language: Java,Javascript,C++
+Name: [Kanishk Gupta](https://Github.com/gkanishk)<br/>
+Place: Chandigarh<br/>
+About: Microsoft Student Partner<br/>
+Programming Language: Java,Javascript,C++<br/>
 Email: kanishkgupta1234@gmail.com
