@@ -2125,3 +2125,8 @@ Place: India<br/>
 About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
+
+Name: [Fromero](https://github.com/FranRomeroMal)<br/>
+Place: Spain<br/>
+About: PhD Student<br/>
+Programming languages: c , python, js <br/>
