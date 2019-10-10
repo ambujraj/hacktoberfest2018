@@ -2125,3 +2125,9 @@ Place: India<br/>
 About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
+
+Name: [Shubham Kaushik](https://github.com/ishubham169)<br/>
+Place: India<br/>
+About: Software Developer<br/>
+Programming languages: C, C++, Python, MySQL <br/>
+Email: shubham.kaushik169@gmail.com
