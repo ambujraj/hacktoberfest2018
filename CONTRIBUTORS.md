@@ -2131,5 +2131,5 @@ Name: [Aditya Nalini](https://github.com/adinalini)<br/>
 Place: India<br/>
 About: Blockchain Enthusiast<br/>
 Programming languages:C++, Python <br/>
-Email: adinalini2000@gmail.com@gmail.com
+Email: adinalini2000@gmail.com
 
