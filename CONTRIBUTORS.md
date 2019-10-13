@@ -2125,3 +2125,11 @@ Place: India<br/>
 About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
+
+
+Name: [Aditya Nalini](https://github.com/adinalini)<br/>
+Place: India<br/>
+About: Blockchain Enthusiast<br/>
+Programming languages:C++, Python <br/>
+Email: adinalini2000@gmail.com@gmail.com
+
