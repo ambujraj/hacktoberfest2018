@@ -1,7 +1,4 @@
-#include <stdio.h>
+# Hacktober Fest
+# Hello, World in Python
 
-int main(){
-  printf("Hello World");
-
-  return 0;
-}
+print("Hello, World") #print() is an in-built function in python
