@@ -5,15 +5,14 @@ created by: Keshav Gupta
 
 # method to calculate factorial
 
-def Facto(t):
-  i=1
-  for x in range(1,t+1):
-    i=i*x
-  print("factorial of ",t," is ",i)
+def Factorial(number) :
+  factorial_value = 1
+  for i in range(1, number + 1) :
+    factorial_value *= i
+  print("factorial of ", number, " is ", factorial_value)
   
-# main method
+# function calling statements
 
-print("Enter the nu,ber to find factorial")
-t=int(input())
-Facto(t)
-
+print("Enter the number to find factorial : ")
+number = int(input())
+Factorial(number)
