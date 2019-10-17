@@ -55,3 +55,5 @@ while True:
     if t==9:                                                                     
         print "\nMatch Drawn "
         break     
+    else:
+        print("match not drwan")
