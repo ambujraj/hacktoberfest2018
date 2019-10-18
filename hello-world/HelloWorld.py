@@ -1,8 +1,5 @@
-#!/usr/bin/python
-#Script to print Hello World in Python!
-import sys
+def main():
+    print("Hello World! ")
 
-sys.stdout.write('Hello HactoberFest')
-sys.stdout.flush()
-
-print("Hello World")
+if __name__ == "__main__":
+    main()
