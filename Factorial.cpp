@@ -1,21 +1,20 @@
-//faktorial menggunakan fungsi rekursif
 #include <iostream>
 using namespace std;
-int faktorial(int);
+int factorial(int);
 
 int main()
 {
 	int n;
 	cin >> n;
-	cout << "Faktorial dari angka tersebut adalah  :" << factorial(n);
+	cout << "Calculated factorial is :" << factorial(n);
 }
 
-int faktorial(int n)
+int factorial(int n)
 {
 	if (n==0) {
 		return 1;
 	}
 
-  	return n * faktorial(n-1);
+  	return n * factorial(n-1);
 }
 	
