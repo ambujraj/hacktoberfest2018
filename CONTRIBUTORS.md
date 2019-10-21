@@ -2125,3 +2125,9 @@ Place: India<br/>
 About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
+
+Name: [Renato Henriques](Github Link)
+Place: Campina Grande
+About: Computer Science student
+Programming Language: java, python, c++, haskell
+Email: renato.henriques@ccc.ufcg.edu.br
