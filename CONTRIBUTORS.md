@@ -2125,3 +2125,9 @@ Place: India<br/>
 About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
+
+Name: [Vinicius Luiz](https://github.com/viniciuslcpereira97)<br/>
+Place: Brazil<br/>
+About: Backend Developer<br/>
+Programming languages: c, python, php, elixir, go<br/>
+Email: viniciuslcpereira@gmail.com
