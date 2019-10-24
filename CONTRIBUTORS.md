@@ -2125,3 +2125,9 @@ Place: India<br/>
 About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
+
+Name: [Ayush Agrawal](https://github.com/ayushag10004)<br/>
+Place: India<br/>
+About: Computer science student<br/>
+Programming languages: c , cpp, python  <br/>
+Email: ayushag10004@gmail.com
