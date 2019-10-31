@@ -561,6 +561,13 @@ About: currently a student studying cs and maths
 Programming Language: C, C++, Rust
 Email: michaelloftus2000@gmail.com
 
+
+Name:[Sgarg](https://github.com/sgarg24/)
+About: Currently student
+Programming Language: C, C++, Ruby
+Email: sgarg24@protonmail.com
+
+
 Name: [Bernard Joseph Jean Bruno](https://github.com/theArtechnology)
 About: Computer Science student as an undergraduate at Université des Mascareignes, Mauritius.
 Programming Language: C, C++, Javascript, Python <br/>
