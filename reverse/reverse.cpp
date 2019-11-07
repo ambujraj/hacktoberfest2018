@@ -1,38 +1,21 @@
-#include<iostream>
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
 using namespace std;
-
-int reverse(int num)
+int reverse(int n, int k)
 {
-    static int temp,sum;
-
-    if(num>0)
-    {
-        temp = num%10;
-        sum = sum*10 + temp;
-
-        reverse(num/10);
-    }
-    else
-    {
-        return sum;
-    }
+    if(n == 0)
+        return k;
+    k = (k*10) + (n%10);
+    return reverse(n/10, k);
 }
-
 int main()
 {
-    int num,rev;
-
-   /* Taking input. */
-
-    cout<<"Enter number:";
-    cin >> num;
-
-    /* Called reverse function .*/
-
-    rev = reverse(num);
-
-    cout << "Reverse of a input number is " << rev;
-    return 0;
+    int n;
+    cin>>n;
+    int ans = reverse(n, 0);
+    cout<<ans;
 }
-
-
+    
