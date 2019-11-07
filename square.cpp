@@ -1,8 +1,8 @@
 #include <cmath>
-#include <cstdio>
+#include <cstdio>ne fbejbfjebfw
+wfdef
 #include <vector>
 #include <iostream>
-#include <algorithm>
 using namespace std;
 
 
