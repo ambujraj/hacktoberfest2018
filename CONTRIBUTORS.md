@@ -2125,3 +2125,9 @@ Place: India<br/>
 About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
+
+Name: [Endrik Lelo](https://github.com/Endrik)<br/>
+Place: Tirana, Albania<br/>
+About: Software Engineer<br/>
+Programming languages: Java <br/>
+Email: lelo.endrik@gmail.com
