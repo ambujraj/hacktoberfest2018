@@ -2125,3 +2125,9 @@ Place: India<br/>
 About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
+
+Name: [Cheri](https://github.com/cheriesyb)<br/>
+Place: Australia<br/>
+About: Computer Science Student<br/>
+Programming languages: Python<br/>
+Email: chezza281@gmail.com
