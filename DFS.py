@@ -2,7 +2,6 @@
 
 from collections import defaultdict
 
-
 class Graph:
 
     def __init__(self):
@@ -22,7 +21,6 @@ class Graph:
     def DFS(self, j):
         visited = [False] * (len(self.graph))
         self.DFSUtil(j, visited)
-
 
 graph = Graph()
 graph.addEdge(0, 1)
