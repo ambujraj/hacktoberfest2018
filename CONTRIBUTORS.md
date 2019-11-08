@@ -407,6 +407,10 @@ Name: [Eren Sertkaya](https://github.com/erensertkaya)<br/>
 Place: Turkey<br/>
 About: I'm web developer which develop passive-income projects<br/>
 
+Name: [Sam Wilson](https://github.com/samwilsonin)<br/>
+Place: India<br/>
+About: I'm android developer which develop passive-income projects<br/>
+Email: 
 
 Name: [Ansh Kapoor](https://github.com/AnshKapoor)<br/>
 Place: Uttar Pradesh,India<br/>
