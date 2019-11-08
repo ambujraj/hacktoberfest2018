@@ -2102,7 +2102,7 @@ About: I've benn a programmer for the last 6 years
 Programming Language: Java and PHP
 Email: 
 
-Name: Dan DuLeone (https://redqueen.us)
+Name: [Dan DuLeone] (https://redqueen.us)
 Place: New Jersey, United States
 About: Software Engineer
 Programming Language: PHP, JavaScript/React
@@ -2114,14 +2114,19 @@ About: Software Engineer
 Programming Language: Java, C, Python
 Email: supertakumi86@gmail.com
 
-Name: Sakina Fakhruddin (https://github.com/Sando1)
+Name: [Sakina Fakhruddin] (https://github.com/Sando1)
 Place: Canada
 About: Student
 Programming Language: Python, Php
 
-
-Name: [Prasun](https://github.com/rupna100)<br/>
-Place: India<br/>
-About: Computer science student<br/>
-Programming languages: c , cpp, python , ruby , js <br/>
+Name: [Prasun](https://github.com/rupna100)
+Place: India
+About: Computer science student
+Programming languages: c , cpp, python , ruby , js 
 Email: rupnamaitra100@gmail.com
+
+Name: [Pratik Anand](https://github.com/grufelous)
+Place: India
+About: CSE undergrad @ DTU
+Programming languages: C/C++, Python, Java, JS
+Email: pratikanand992@gmail.com
