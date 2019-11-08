@@ -2125,3 +2125,10 @@ Place: India<br/>
 About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
+
+Name: [Yashesh](https://github.com/Yashesh123)<br/>
+Place: India<br/>
+About: Software Engineer<br/>
+Programming Language:C,C++,Python,React<br/>
+
+
