@@ -2125,3 +2125,9 @@ Place: India<br/>
 About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
+
+Name: Dhruv Bhatia(https://github.com/QuodIntrepidus)
+Place: India
+About: Data Handling in Python and Web development are right up my alley. I am intrested in Game Dev, ML Engineering, SEO and much more.
+Programming Language: Python, NodeJs, HTML, CSS, C++
+Email: dbshimasu@gmail.com
