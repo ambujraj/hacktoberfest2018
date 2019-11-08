@@ -4,6 +4,12 @@ About: Engineering student<br/>
 Programming languages: C,C++, Python <br/>
 Email: anushree816@gmail.com
 
+Name: [Tanushree](https://github.com/tanu272)<br/>
+Place: India<br/>
+About: Engineering student<br/>
+Programming languages: C,C++, HTML <br/>
+Email: tanub922@gmail.com
+
 Name: [Heng Mouyleng](https://github.com/mouyleng2508)<br/>
 Place: Cambodia</br>
 About: Software Engineering student</br>
