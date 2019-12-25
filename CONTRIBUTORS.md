@@ -643,6 +643,12 @@ About: Engineering student who enjoys programming :D <br/>
 Programming Language: Java, Python<br/>
 Email: jayvasantjv@gmail.com
 
+Name: [Shashank Mohabia](https://github.com/shashank)<br/>
+Place: Kolkata, India<br/>
+About: Engineering student who loves to explore and code :D <br/>
+Programming Language: C++, Python<br/>
+Email: sm@gmail.com
+
 Name: [Siffrein Sigy](https://github.com/siffreinsg)<br/>
 Place: Paris, France<br/>
 About: I'm a student. I love High Tech and I found hobby in programming :D <br/>
