@@ -1,8 +1,8 @@
-﻿Name: [Janmejoy Sahoo](https://github.com/JOY-404)
-Place: Bhubaneswar
-About: Love to code
-Programming Language: C, C++, C#, JavaScript
-Email: janmejaysahoo17@gmail.com
+Name: [Janmejoy Sahoo](https://github.com/JOY-404)<br/>
+Place: Bhubaneswar<br/>
+About: Love to code<br/>
+Programming Language: C, C++, C#, JavaScript<br/>
+Email: janmejaysahoo17@gmail.com<br/>
 
 Name: [Anushree](https://github.com/anushree816)<br/>
 Place: India<br/>
