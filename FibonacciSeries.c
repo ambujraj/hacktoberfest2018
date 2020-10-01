@@ -1,19 +1,21 @@
 #include <stdio.h>
+//main function
 int main()
 {
-    int i, n, t1 = 0, t2 = 1, nextTerm;
+    //variable declaration
+    int index, n, term_1 = 0, term_2 = 1, nextTerm;
 
     printf("Enter the number of terms: ");
     scanf("%d", &n);
 
-    printf("Fibonacci Series: ");
+    printf("\nFibonacci Series is : ");
 
-    for (i = 1; i <= n; ++i)
+    for (index = 1; index <= n; index++)
     {
-        printf("%d, ", t1);
-        nextTerm = t1 + t2;
-        t1 = t2;
-        t2 = nextTerm;
+        printf("%d, ", term_1);
+        nextTerm = term_1 + term_2;
+        term_1 = term_2;
+        term_2 = nextTerm;
     }
     return 0;
 }
