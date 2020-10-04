@@ -2125,3 +2125,9 @@ Place: India<br/>
 About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
+
+Name: [Micaela Cerilla](https://github.com/Mica56)<br/>
+Place: Philippines<br/>
+About: Computer Science Student<br/>
+Programming Language: C, C++, Python, HTML, CSS, Javascript<br/>
+Email: tayotomichael18@gmail.com
