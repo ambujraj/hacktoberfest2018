@@ -34,6 +34,14 @@ About: IT undergrad!<br/>
 Programming languages: JavaScript, C++<br/>
 Email: shubham.31996@gmail.com
 
+
+ame: [Rishika](https://github.com/Rish053)<br/>
+Place: India<br/>
+About: CSE undergrad<br/>
+Programming languages: JavaScript,C,Python,HTML,Java,CSS, C++<br/>
+
+
+
 Name: [taravannuy](https://github.com/taravannuy)<br/>
 Place: Cambodia<br/>
 About: Software Engineer<br/>
