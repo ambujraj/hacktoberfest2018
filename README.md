@@ -1,4 +1,4 @@
-# Hacktoberfest 2018
+# Hacktoberfest 2k18
  Anyone can contribute to this repo to make their contribution to open-source on <a target="_blank" href="https://github.com/">Github</a>
  
  Celebrate <a href="https://hacktoberfest.digitalocean.com/" target="_blank">HacktoberFest</a> by getting involved in the Open Source Community by completing some simple tasks in this project.
@@ -9,8 +9,8 @@
 
  Hacktoberfest is a month long celebration of open source software held in the month of October to get people involved in <strong>open-source</strong>. This year's edition is presented by <a target="_blank" href="https://hacktoberfest.digitalocean.com/">DigitalOcean</a>, <a target="_blank" href="https://github.com/">GitHub</a> and <a target="_blank" href="https://www.twilio.com/">twilio</a>.
 
-## Rules
- To get a T-shirt, you must make five pull requests between October 1–31 in any timezone. Pull requests can be to any public repo on GitHub, not just the ones we’ve highlighted. The pull request must contain commits you made yourself.
+## Rules:
+ To get a T-shirtand many swags, you must make five pull requests between October 1–31 in any timezone. Pull requests can be to any public repo on GitHub, not just the ones we’ve highlighted. The pull request must contain commits you made yourself.
  
  You can check your progress of HacktoberFest at <a target="_blank" href="https://hacktoberfest.digitalocean.com/stats/">this link</a><br><br><strong>Pull requests marked as spam will not be entitled for a T-shirt</strong>.
 
@@ -38,7 +38,7 @@
 + Convert Roman numeral.
 + Telephone number validator.
 
-## Getting Started
+## Getting Started:
 
 * Add your name to the CONTRIBUTORS.md file using following model
 
