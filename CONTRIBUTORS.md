@@ -312,6 +312,12 @@ About: Computer science student, excited about AI and ML<br/>
 Programming Language:C, C++, JAVA, R, Python, JS, HTML, CSS<br/>
 Email: prakash.nath@students.iiit.ac.in<br/>
 
+Name: [Hattou Faïssal](https://github.com/Bakhaw)<br/>
+Place: France<br/>
+About: Web developer. React lover.<br/>
+Programming Language: JS, HTML, CSS<br/>
+Email: faissal.hattou@gmail.com<br/>
+
 Name: [Bardr](https://github.com/Bardr)<br/>
 Place: Poland<br/>
 About: Student and software developer! Likes AI, anime and good beer.<br/>
