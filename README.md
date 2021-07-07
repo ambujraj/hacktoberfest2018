@@ -1,5 +1,5 @@
 # Hacktoberfest 2018
- Anyone can contribute to this repo to make their contribution to open-source on <a target="_blank" href="https://github.com/">Github</a>
+ Anyone can contribute to this repo to make their contribution to open-source on <a target="_blank" href="https://github.com/">Github</a>.
  
  Celebrate <a href="https://hacktoberfest.digitalocean.com/" target="_blank">HacktoberFest</a> by getting involved in the Open Source Community by completing some simple tasks in this project.
  
@@ -12,7 +12,7 @@
 ## Rules
  To get a T-shirt, you must make five pull requests between October 1–31 in any timezone. Pull requests can be to any public repo on GitHub, not just the ones we’ve highlighted. The pull request must contain commits you made yourself.
  
- You can check your progress of HacktoberFest at <a target="_blank" href="https://hacktoberfest.digitalocean.com/stats/">this link</a><br><br><strong>Pull requests marked as spam will not be entitled for a T-shirt</strong>.
+ You can check your progress of HacktoberFest at <a target="_blank" href="https://hacktoberfest.digitalocean.com/stats/">this link</a>.<br><br><strong>Pull requests marked as spam will not be entitled for a T-shirt</strong>.
 
 ## List of Programs to work on:
 
@@ -40,7 +40,7 @@
 
 ## Getting Started
 
-* Add your name to the CONTRIBUTORS.md file using following model
+* Add your name to the CONTRIBUTORS.md file using following model:
 
 ```markdown
 Name: [YOUR NAME](Github Link)
@@ -49,8 +49,8 @@ About: Short Intro
 Programming Language: Which programming language do you know?
 Email: 
 ```
-* Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
-* Clone your fork down to your local machine
+* Fork this repository (Click the Fork button in the top right of this page, click your Profile Image).
+* Clone your fork down to your local machine.
 
 ```markdown
 git clone https://github.com/your-username/hacktoberfest2018.git
@@ -70,7 +70,7 @@ git add .
 git commit -m 'commit message'
 git push origin branch-name
 ```
-* Create a New Pull Request from your forked repository (Click the New Pull Request button located at the top of your repo)
+* Create a New Pull Request from your forked repository (Click the New Pull Request button located at the top of your repo).
 * Wait for your PR review and merge approval!
 * __Star this repository__ if you had fun!
 thanks
