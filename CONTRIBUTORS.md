@@ -1,3 +1,7 @@
+
+
+
+
 ﻿Name: [Anushree](https://github.com/anushree816)<br/>
 Place: India<br/>
 About: Engineering student<br/>
@@ -2125,3 +2129,10 @@ Place: India<br/>
 About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
+
+
+﻿Name: [Shubham bhatt](https://github.com/bhattji007)<br/>
+Place: India<br/>
+About: Engineering student<br/>
+Programming languages: C,C++, Python, javascript,html,css <br/>
+Email: shubhambhattrocks123@gmail.com
