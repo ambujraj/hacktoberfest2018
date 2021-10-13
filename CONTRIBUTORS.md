@@ -1,4 +1,10 @@
-﻿Name: [Anushree](https://github.com/anushree816)<br/>
+﻿Name: [Juan Alejandro Charry Gavilan](https://github.com/Thalassamania)<br/>
+Place: Bogotá<br/>
+About: Engineering student<br/>
+Programming languages: C,C++, Python, Java, TypeScript <br/>
+Email: juanalejandrocharrygavilan@gmail.com
+ 
+ Name: [Anushree](https://github.com/anushree816)<br/>
 Place: India<br/>
 About: Engineering student<br/>
 Programming languages: C,C++, Python <br/>
