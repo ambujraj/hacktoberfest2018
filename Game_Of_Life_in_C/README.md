@@ -2,4 +2,4 @@
 
 In order to test this binary. run
 	./Game 
-this shows the usage.
+this shows the usage of game.
