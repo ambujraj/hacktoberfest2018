@@ -2125,3 +2125,10 @@ Place: India<br/>
 About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
+
+
+Name: [Manoj Parasuram Sadanala](https://github.com/DarkHunter1749)<br/>
+Place: India<br/>
+About: Electronics And Communication Student<br/>
+Programming languages: Beginner In Python<br/>
+Email: manojparasuram.sadhanala@gmail.com
