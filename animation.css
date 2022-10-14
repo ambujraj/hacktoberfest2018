@@ -1,0 +1,115 @@
+body{
+    background-image: url("bg\ animation.jpg");
+}
+
+
+#div1 {
+	width:1150px;
+	height: 50px;
+	background-color: #f2d3bc;
+	font-weight: bold;
+	border:outset;
+	position: relative;
+	animation: mymove 3s 0.13s 1;
+  }
+  
+  #div2 {
+	width:1150px;
+	height: 50px;
+	background-color: #d97f3c;
+	font-weight: bold;
+	  border:outset;
+	position: relative;
+	animation: mymove 3s 0.15s 1;
+  }
+  #div3 {
+	width:1150px;
+	height: 50px;
+	background-color: #e4cbcc;
+	display: inline-block;
+
+	font-weight: bold;
+		border:outset;
+	position: relative;
+	animation: mymove 3s 0.25s 1;
+  }
+  
+  #div4 {
+	width:1150px;
+	height: 50px;
+	background-color:  #e8f2bc;
+	font-weight: bold;
+	 border:outset;
+	   align-items: center;
+	position: relative;
+	animation: mymove 3s 0.35s 1;
+  }
+  
+  #div5 {
+	width:1150px;
+	height: 50px;
+	background-color: #f5f78c;
+	font-weight: bold;
+	position: relative;
+		border:outset;
+	animation: mymove 3s 0.45s 1;
+  }
+  
+  #div1 {animation-timing-function: linear;}
+  #div2 {animation-timing-function: linear;}
+  #div3 {animation-timing-function: linear;}
+  #div4 {animation-timing-function: linear;}
+  #div5 {animation-timing-function: linear;}
+  
+  @keyframes mymove {
+	from {left: 540px;}
+	to {left: 0px;}
+  }
+
+
+  .batman_contact{
+	width: 100%; height: 100px;  position: relative;
+}
+
+.doggy img{
+	width: 160px; height: 140px;
+	position: absolute; 
+	left: 90px; top:550px;
+	animation-name: doggy;
+	animation-duration: 4s;
+	animation-timing-function: linear;
+	animation-iteration-count: infinite;
+}
+
+@keyframes doggy{
+
+	0%{left: 948px}
+	100%{ left: -45% }
+}
+
+.button {
+	background-color: darkslategray;
+	border: none;
+	color: white;
+	padding: 16px 32px;
+	text-align: center;
+	font-size: 16px;
+	margin: 4px 2px;
+	opacity: 0.6;
+	transition: 0.3s;
+	display: inline-block;
+	text-decoration: none;
+	cursor: pointer;
+  }
+    
+  .button:hover {opacity: 1}
+
+  .footer
+  {
+
+	background-color: #f2d3bc;
+	text-align: center;
+
+
+}
+
