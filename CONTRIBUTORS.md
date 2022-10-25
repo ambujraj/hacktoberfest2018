@@ -2125,3 +2125,9 @@ Place: India<br/>
 About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
+
+Name: Gabriel Santos Alves. (https://github.com/kpzinnm)
+Place: Campina Grande, Brazil.
+About: Computer science student in UFCG(Federal University of Paraíba)
+Programming Language: C, Java and Python.
+Email: gabriel.barradev@gmail.com
