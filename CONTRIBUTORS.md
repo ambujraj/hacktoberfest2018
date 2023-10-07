@@ -4,6 +4,12 @@ About: Engineering student<br/>
 Programming languages: C,C++, Python <br/>
 Email: anushree816@gmail.com
 
+Name: [Garvit Joshi](https://github.com/Garvitjoshi1)
+Place: India</br>
+About: Computer Science Engineering Student || Major: Data Science</br>
+Programming Language: Python
+Email: garvitjoshi46@gmail.com
+
 Name: [Heng Mouyleng](https://github.com/mouyleng2508)<br/>
 Place: Cambodia</br>
 About: Software Engineering student</br>
