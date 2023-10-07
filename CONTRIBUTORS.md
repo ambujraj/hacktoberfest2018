@@ -4,7 +4,7 @@ About: Engineering student<br/>
 Programming languages: C,C++, Python <br/>
 Email: anushree816@gmail.com
 
-Name: [Garvit Joshi](https://github.com/Garvitjoshi1)
+Name: [Garvit Joshi](https://github.com/Garvitjoshi1)</br>
 Place: India</br>
 About: Computer Science Engineering Student || Major: Data Science</br>
 Programming Language: Python
