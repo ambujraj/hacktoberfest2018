@@ -2125,3 +2125,9 @@ Place: India<br/>
 About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
+
+Name: [Davi Batista](https://github.com/Davi-s-Brain)
+Place: São Paulo
+About: IT student
+Programming Language: C, JS, TS, Python, SQL.
+Email: batista-davi@outlook.com
