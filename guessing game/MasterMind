@@ -1,0 +1,95 @@
+import javax.swing.JOptionPane;
+public class MasterMind{
+
+	private final int[] secretCode = new int[4];
+	private int guessCount = 0;
+	private int maxInteger = 0;
+
+	public MasterMind(int maxInteger){
+		this.maxInteger = maxInteger;
+		for(int i=0; i<secretCode.length; i++){
+			secretCode[i] = (int)Math.floor( Math.random()*(maxInteger+1) );
+		}
+	}
+
+	public void printSecretCode(){
+		for(int i=0; i<secretCode.length; i++){
+			System.out.print(secretCode[i]);
+		}
+                System.out.println();
+	}
+
+	public int[] oneGuess(int guess){
+		this.guessCount++;
+		int[] guessCode = new int[secretCode.length];
+		int[] hint = new int[2];
+		hint[0] = 0;
+		hint[1] = 0;
+
+		for(int i=secretCode.length-1; i>=0; i--){
+			guessCode[i] = guess%10;
+			guess/=10;
+		}
+
+		for(int i=0; i<secretCode.length; i++){
+			if(secretCode[i] == guessCode[i]){
+				hint[0]++;
+			}
+		}
+                hint[1]=findHint1(secretCode,guessCode)-hint[0];
+		return hint;
+	}
+
+        public int findHint1(int[] secretCode, int[] guessCode){
+            int[] secretCode1 = new int[secretCode.length];
+            int[] guessCode1 = new int[guessCode.length];
+		for(int i=0; i<secretCode.length; i++){
+			secretCode1[i] = secretCode[i];
+		}
+		for(int i=0; i<guessCode.length; i++){
+			guessCode1[i] = guessCode[i];
+		}
+            
+            int hint1 = 0;
+            int currNN = 0;
+ 
+            for(int i=0; i<secretCode1.length; i++){
+                for(int j=0; j<secretCode1.length; j++){
+                    if(secretCode1[i]==guessCode1[j]){
+                        hint1++;
+                        secretCode1[i]=--currNN;
+                        guessCode1[j]=--currNN;
+                    }
+                }
+            }
+            return hint1;
+        }
+        
+	public void play(){
+            String input;
+            int value;
+            int[] oneGuessValue={0,0};
+            do{
+		input = JOptionPane.showInputDialog(null,"Guess a four-digit integer whose digits are selected from 0 to " +maxInteger);
+                value = Integer.parseInt(input);
+                oneGuessValue = oneGuess(value);
+
+                if(oneGuessValue[0]==maxInteger){
+                    JOptionPane.showMessageDialog(null,"Congratulations! Your guess is correct. No. of guess(es) is "+guessCount);
+                }else{
+                    JOptionPane.showMessageDialog(null,"Guess "+guessCount+": correct position(s)="+oneGuessValue[0]+", correct digit(s)="+oneGuessValue[1]);
+                }
+
+            }while(oneGuessValue[0]!=maxInteger);
+	}
+        
+}
+
+
+public class TestMasterMind{
+	public static void main(String[] args){
+                MasterMind aMasterMind = new MasterMind(4);
+		aMasterMind.printSecretCode();
+                aMasterMind.play();
+	}
+}
