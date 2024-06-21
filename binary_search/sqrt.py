@@ -18,7 +18,7 @@ def binarySearch(start,end,target):
       else:
           return binarySearch(middle, end,target)
 
-userin = input("\nType in the number that you wish to find the square root of: ")
+userin = input("\nEnter the number whose square root is to be calculated: ")
 try:
    val = int(userin)
 except ValueError:
