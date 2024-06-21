@@ -8,18 +8,18 @@ int main()
   int array[100], i, j, temp;
  
   cout<<"Input the number of array elements: ";
-  cin>>n;
+  cin>>z;
  
   cout<<"Input the array elements: ";
-  for(i=0; i<n; i++) //Input elements of the array
+  for(i=0; i<z; i++) //Input elements of the array
     {                               
       cin>>array[i];
       cout<<" ";
     }
  
-  for(i=0; i<n; i++)
+  for(i=0; i<z; i++)
     { 
-      for(j=0; j<n-i-1; j++)
+      for(j=0; j<z-i-1; j++)
           {
             if(array[j] > array[j+1] 
                 { 
@@ -31,7 +31,7 @@ int main()
     }
   
   cout<<"The sorted array is: ";
-  for(i=0; i<n; i++) 
+  for(i=0; i<z; i++) 
     cout<<array[i]<<" "; //Displays the sorted array
   
   return 0;
