@@ -1,7 +1,4 @@
-def fact(n):
-	if n==1:
-		return 1
-	return n*fact(n-1)
+from math import factorial as fact
 
-n=int(input("Enter number: "))
-print("factorial is: ",fact(n))
+n = int(input("Enter number: "))
+print('factorial of ' + str(n) + " = " + str(fact(n)))
