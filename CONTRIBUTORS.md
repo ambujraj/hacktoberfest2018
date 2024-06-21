@@ -1,4 +1,10 @@
-﻿Name: [Anushree](https://github.com/anushree816)<br/>
+Name: [Krishna](https://github.com/learn-everyday-with-me)<br/>
+Place: India<br/>
+About: Student<br/>
+Programming languages: Python,Java,C,C++ <br/>
+Email: kotnikrishnachaitanya@gmail.com
+
+Name: [Anushree](https://github.com/anushree816)<br/>
 Place: India<br/>
 About: Engineering student<br/>
 Programming languages: C,C++, Python <br/>
