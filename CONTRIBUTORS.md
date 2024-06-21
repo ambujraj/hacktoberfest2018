@@ -95,6 +95,12 @@ About: Hi, I'm just getting started.
 Programming Language: JavaScript
 Email: aaronshivers@gmail.com
 
+﻿Name: [TrIXy](https://github.com/TrIXy07)<br/>
+Place: India<br/>
+About: Engineering student<br/>
+Programming languages: C++ <br/>
+Email: prathameshgawas87@gmail.com
+
 Name: [Lee T](https://github.com/leeturnbill)
 Place: Tennessee
 About: EMC Engineer
