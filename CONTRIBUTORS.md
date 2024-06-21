@@ -1685,6 +1685,12 @@ About: Bachelor's Student in Information Systems and I like travel.<br/>
 Programming Language: C,Java, HTML, CSS, Python<br/>
 Email: helenfranca93@gmail.com<br/>
 
+Name: [Kazuko Kannagi](https://github.com/kannagikazuko)<br/>
+Place: USA<br/>
+About: Hobbyist programmer and Discord Bot Developer<br/>
+Programming Language: Primarily Javascript (Node JS) and Coffeescript<br/>
+Email: kannagikazuko@gmail.com<br/>
+
 Name: [Karm0s](https://github.com/Karm0s)<br/>
 Place: Bejaia, Algeria<br/>
 About: Python developer.<br/>
