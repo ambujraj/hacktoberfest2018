@@ -2125,3 +2125,9 @@ Place: India<br/>
 About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
+
+Name: [Arman Singh] (https://github.com/armansingh7982)
+Place: India
+About: Software Engineer
+Programming Language: Java, C
+Email: armansingh7982@gmail.com
