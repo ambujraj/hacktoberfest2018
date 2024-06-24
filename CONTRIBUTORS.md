@@ -1,4 +1,10 @@
-﻿Name: [Anushree](https://github.com/anushree816)<br/>
+﻿Name: [Zanotti](https://github.com/LeonardoZanotti)<br/>
+Place: Brazil<br/>
+About: Analisys and Development of System student<br/>
+Programming languages: PHP/Laravel, Nodejs, Python, Angular <br/>
+Email: leonardojosezanotti@gmail.com
+
+Name: [Anushree](https://github.com/anushree816)<br/>
 Place: India<br/>
 About: Engineering student<br/>
 Programming languages: C,C++, Python <br/>
