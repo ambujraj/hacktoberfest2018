@@ -2125,3 +2125,14 @@ Place: India<br/>
 About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
+
+
+Name: Fayaz Azeem P(https://github.com/Fayazazeemp)<br/>
+Place: India<br/>
+About: Computer science student<br/>
+Programming languages: c , cpp, python , js <br/>
+Email: fayazazeem444555@gmail.com
+
+
+
+
