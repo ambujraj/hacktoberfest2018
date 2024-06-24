@@ -2,6 +2,7 @@
 
 int main()
 {
-    puts("Hello Hacktoberfest!!");
+    printf("Hello Hacktoberfest!!");
+    printf("\n");
     return 0;
 }
