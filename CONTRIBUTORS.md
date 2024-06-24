@@ -318,6 +318,12 @@ About: Student and software developer! Likes AI, anime and good beer.<br/>
 Programming Language: Python, C#, JS, HTML, CSS, TS, Prolog, Lisp<br/>
 Email: thokiworld@gmail.com<br/>
 
+Name: [Yoga Agung](https://github.com/yogaap24)<br/>
+Place: Poland<br/>
+About: Student , Android developer, Freelancer.<br/>
+Programming Language: Kotlin, Java , Flutter , Laravel<br/>
+Email: yogaspenma48@gmail.com<br/>
+
 Name: [Vishal Pouras](https://github.com/vishal-pouras)<br/>
 Place: India<br/>
 About: Computer Science Sophomore<br/>
