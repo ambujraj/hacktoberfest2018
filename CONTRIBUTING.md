@@ -29,6 +29,6 @@
 * Go to your cloned repository of HACKTOBERFEST18
 * Click on NEW PULL REQUEST
 * Then click CREATE PULL REQUEST
-* Now you are done
+* Now you are done!
 
 # Happy Hacking !!
