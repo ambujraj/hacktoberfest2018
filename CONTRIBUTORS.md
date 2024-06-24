@@ -4,6 +4,12 @@ About: Engineering student<br/>
 Programming languages: C,C++, Python <br/>
 Email: anushree816@gmail.com
 
+Name: [Devil Chandra](https://github.com/anushree816)<br/>
+Place: India<br/>
+About: BCA student<br/>
+Programming languages: C, HTML,CSS <br/>
+Email: chandrasekhar979@gmail.com
+
 Name: [Heng Mouyleng](https://github.com/mouyleng2508)<br/>
 Place: Cambodia</br>
 About: Software Engineering student</br>
