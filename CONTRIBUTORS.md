@@ -1,4 +1,10 @@
-﻿Name: [Anushree](https://github.com/anushree816)<br/>
+Name: [Yashvardhan Malpani](https://github.com/yashmalpani)
+Place: India
+About: Engineering Student
+Programming Language: Python
+Email: yashmalpani1@gmail.com
+
+Name: [Anushree](https://github.com/anushree816)<br/>
 Place: India<br/>
 About: Engineering student<br/>
 Programming languages: C,C++, Python <br/>
