@@ -17,9 +17,9 @@ int main() {
     
     
     if(isSqrt(n))
-        cout << fixed << setprecision(2) << n << " Is perfect square\n";
+        cout << fixed << setprecision(2) << n << " is perfect square\n";
     else
-        cout << fixed << setprecision(2) << n << " Is not perfect square\n";
+        cout << fixed << setprecision(2) << n << " is not perfect square\n";
     
     
     return 0;
