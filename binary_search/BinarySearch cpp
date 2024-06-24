@@ -1,0 +1,26 @@
+#include<iostream>
+#include<algorithms>
+
+
+void bin_search(int a[],int n,int k)
+{
+    int f=0,first,last,middle;
+    first=0;
+    last=n-1;
+    while((first<=last) && (f==0))
+    {
+          middle= (first + last)/2;
+          if(a[middle] == k)
+          {
+                  f=1;
+          }
+          else if(a[middle]<k)  
+                  first = middle + 1;
+          else   
+                  last = middle - 1;
+    }
+    if(f==0)
+          cout<<"Does not exist";
+    else
+          cout<<"Element in "<<middle<<" position";
+}
