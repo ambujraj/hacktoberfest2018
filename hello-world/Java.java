@@ -31,7 +31,7 @@ public class HelloWorldApp {
 		System.out.println("Age: "+ age);
 		System.out.println("Profession: " + profession);
 		System.out.println("-----------------------------------------------------");
-		System.out.println("	Enjoy the event and good fun!!!!!!");
+		System.out.println("	Enjoy the event and good fun.....!");
 		
 	}
 }
