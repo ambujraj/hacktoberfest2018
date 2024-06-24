@@ -1,0 +1,20 @@
+#Javascript
+console.log("Hello World");
+
+#C++
+#include <iostream>
+using namespace std;
+int main(){
+   cout << "Hello World"l
+}
+
+# Python
+print("Hello World!")
+
+# Java
+public class Main {
+    public static void main(String args[]) {
+        System.out.println("Hello World!");
+    }
+}
+
