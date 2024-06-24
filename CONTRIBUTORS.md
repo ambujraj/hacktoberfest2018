@@ -498,6 +498,12 @@ Place: Shakarpur, New Delhi</br>
 About: Software Developer</br>
 Programming Languages: C, C++,python,HTML,CSS,JAVASCRIPT</br>
 
+
+Name: [Sohail Khan](https://github.com/khan0604)<br/>
+Place: Bombay<br/>
+About: I love Travelling<br/>
+Programming Languages: C++<br/>
+
 Name: [rhubeek](https://github.com/rhubeek)<br/>
 Place: Melbourne Australia<br/>
 About: I like free shirts<br/>
