@@ -2125,3 +2125,8 @@ Place: India<br/>
 About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
+
+Name: Rasmus Knoth Nielsen (https://github.com/RasmusKnothNielsen/)<br/>
+Place: Denmark<br/>
+About: Computer Science student<br/>
+Programming languages: Java, Python, MySQL, Javascript<br/>
