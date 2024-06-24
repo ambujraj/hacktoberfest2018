@@ -1,10 +1,14 @@
+//including all header files
 #include<bits/stdc++.h>
 using namespace std;
+
 //funtion for implementing binary search
 int binarySearch(int *input,int beg,int end,int number){
+    //exit condition
     if(beg>end){
         return -1;
     }
+    //finding middle index
     int mid = (beg+end)/2;
     if(number == input[mid]){
         return mid;
@@ -20,6 +24,7 @@ int binarySearch(int *input,int beg,int end,int number){
     
     return -1;
 }
+
 //main funtion for calling and control
 int main(){
     //Size of The Array
@@ -33,7 +38,7 @@ int main(){
     }
     //Take number to be searched
     cin>>number;
-    //call the recursive function
+    //call the recursive binary search function
     int index = binarySearch(input,0,n-1,number);
     if(index!=-1){
         cout<<number<<" is found at index: "<<index<<endl;
