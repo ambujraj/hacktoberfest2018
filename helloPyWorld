@@ -1,0 +1,6 @@
+# This is the most simple way to create and "Hello World" in python
+
+print("Hello World!")
+
+# If you're interested in learning more Python than, hello world, go check up different training sites.
+# I really like datacamp.
