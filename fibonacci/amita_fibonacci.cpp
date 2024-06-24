@@ -1,17 +1,35 @@
-#include<iostream>
-using namespace std;
+#include<iostream.h>
+#include<stdlib.h>
+#include<conio.h>
 
-int fib(int n)
+int fib(int n,int m)
 {
-   if (n <= 1)
-      return n;
-   return fib(n-1) + fib(n-2);
+   
+   return (m+n);
 }
 
-int main ()
+void main ()
 {
-    int n;
-    cin>>n;
-    cout<<fib(n);
-    return 0;
+    system("cls");
+	int n,a,b,c,i;
+    char ch;
+	do
+	{
+	cout<<"generate fibonacci series upto how many numbers?(>=2):";
+	cin>>n;
+	cout<<1<<" "<<1;
+
+    a=1;
+	b=1;
+	for(i=0;i<n-2;i++)
+	{   c=fib(a,b);
+		cout<<" "<<c;
+		a=b;
+		b=c;
+	}
+	cout<<"\ndo you want to enter again(y/n)?:";
+	cin>>ch;
+	}while(ch=='y'||ch=='Y');
+    getch();
 }
+
