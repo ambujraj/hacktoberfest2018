@@ -1,20 +1,20 @@
-//Basic Example for Direct Recursion.(Factorial of Number)
-#include<bits/stdc++.h>
-#define ll long long
+#include <iostream>
 using namespace std;
-
-ll fact(int n)
-{
-    if (n < = 1) // base case
-        return 1;
-    else    
-        return n*fact(n-1);    
-}
+int factorial(int);
 
 int main()
 {
-      int n;
-      cout<<"Enter the Number?\n";
-      cin>>n;
-      cout<<"Factorial of n is:"<<fact(n);
+	int n;
+	cin >> n;
+	cout << "Calculated factorial is :" << factorial(n);
 }
+
+int factorial(int n)
+{
+	if (n==0) {
+		return 1;
+	}
+
+  	return n * factorial(n-1);
+}
+	
