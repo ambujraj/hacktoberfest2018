@@ -57,38 +57,6 @@ int displayList()
     }
 }
 
-
-// Ignore the below commented code,jump to after the commented code;
-/*
-int sot(int n)
-{
-    struct node *tmp2 ,*sotnode;
-    int i,j,temp,k;
-    tmp2 = new;
-    if(tmp2 = NULL)
-    {
-        return;
-    }
-    else
-    {
-       for(i=0;i<n-1;i++,k--)
-       {
-           for(j = 1; j<k;j++)
-           {
-               if(tmp2->data > sotnode->data)
-               {
-                   temp = tmp2->data;
-                   tmp2->data = sotnode->data;
-                   sotnode->data = temp;
-               }
-               tmp2 = tmp2->nextptr;
-               sotnode = sotnode->nextptr;
-           }
-       }
-    }
-}
-*/
-
 // look here
 
 int addnode(int an,int n)
@@ -97,7 +65,7 @@ int addnode(int an,int n)
     int len = 0,i=1;
     int sum = 0;
     tmp = new;
-    while(len  an) // runs the nodes uptil the desired end
+    while(len < an) // runs the nodes uptil the desired end
     {
         tmp = tmp->nextptr;
         len++;
