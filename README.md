@@ -1,11 +1,11 @@
-# Hacktoberfest 2018
+# Hacktoberfest 2020
  Anyone can contribute to this repo to make their contribution to open-source on <a target="_blank" href="https://github.com/">Github</a>
  
  Celebrate <a href="https://hacktoberfest.digitalocean.com/" target="_blank">HacktoberFest</a> by getting involved in the Open Source Community by completing some simple tasks in this project.
  
  This is a Public Repository open to all members of the GitHub Community. Any member of the community may contribute to this project without being a collaborator.
  
-## What is Hacktoberfest?
+## What is Hacktoberfest 2020?
 
  Hacktoberfest is a month long celebration of open source software held in the month of October to get people involved in <strong>open-source</strong>. This year's edition is presented by <a target="_blank" href="https://hacktoberfest.digitalocean.com/">DigitalOcean</a>, <a target="_blank" href="https://github.com/">GitHub</a> and <a target="_blank" href="https://www.twilio.com/">twilio</a>.
 
