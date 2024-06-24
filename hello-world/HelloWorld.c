@@ -1,15 +1,6 @@
 #include <stdio.h>
-
-void main(){
-	printf("Hello World"); // prints Hello World to screen.
+int main()
+{
+   printf("Hello, World!");
+   return 0;
 }
-
-
-// Uncomment lines below to practice printing to screen
-
-/*
-void main() {
-	printf("This is a test to print to the screen");
-	printf('Hello World');
-}
-*/
