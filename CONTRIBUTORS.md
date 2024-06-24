@@ -28,6 +28,12 @@ About: student<br/>
 Programming languages: Java <br/>
 Email: karans9122@gmail.com
 
+Name: [Alice](https://github.com/pinkangelin4u)<br/>
+Place: DC<br/>
+About: Student<br/>
+Programming languages: Java <br/>
+Email: alice9384@gmail.com
+
 Name: [Shubham](https://github.com/shubhshrma)<br/>
 Place: India<br/>
 About: IT undergrad!<br/>
