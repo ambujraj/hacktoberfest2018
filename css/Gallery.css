@@ -1,0 +1,57 @@
+body{
+    background-color: #dedede;
+  }
+  .gallery{
+    display: flex;
+    width: 900px;
+    margin: auto;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  figure{
+    width: 300px;
+    margin: 8px 0;
+    border: 1px solid #777;
+    padding: 8px;
+    box-sizing: border-box;
+    background-color: #fff;
+  }
+  figure img{
+    width: 100%;
+  }
+  figure figcaption{
+    text-align: center;
+    padding: 8px 4px;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:white;
+    height: 60px;
+    width: 60%;
+    
+    position: fixed;
+    opacity: 0.7;
+}
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: rgb(19, 3, 3);
+    text-align: center;
+    padding: 22px 28px;
+    text-decoration: none;
+    font-size: 19px;
+}
+
+li a:hover {
+    background-color: rgb(70, 179, 243);
+}
+
+.active {
+    background-color: red;
+}
