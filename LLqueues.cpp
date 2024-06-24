@@ -4,7 +4,7 @@
 using namespace std;
 
 class node
-{
+{	// Basic element of the Queue
 	int info;
 	node* next;
 public:
