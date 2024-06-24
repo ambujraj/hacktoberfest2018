@@ -1,0 +1,9 @@
+r=input("Enter the number upto which you require fibonacci series")
+a=0
+b=1
+while a<r:
+  print a
+  c=a+b
+  a=b
+  b=c
+  
