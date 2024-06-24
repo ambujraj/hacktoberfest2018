@@ -1,0 +1,51 @@
+// This is a Gherkin scenario unittesting we never got working, since I hated working with it. 
+// This is showing what NOT to do.
+
+SCENARIO 1. Vatted item(Item+20%Vat) compared with int b(big fee , small or equal to 19,99)or int s(small fee, bigger than 19,99)
+1. Item a 10 dollars
+2. vat = 2 dollars (0.2*10)
+3. Vatted item = 12 dollars
+4. 12dollars < 19,99 = add big fee
+5. 12 dollars + 3 = Final basket = 15 dollars
+
+
+//In order to calculate the total price of basket
+//As an existing ecommerce project
+//I want a calculator to include VAT in every Item and compare the final price to add the suitable delivery fee
+
+public class Calculator
+{ [Scenario 1]
+ 
+public void FinalBasketPrice(int x, int y, Calculator calculator, int vattedItem, int s, int b, int final, int basket)
+"Given the price of item 1"
+.x(()=> basket=x);
+
+"And the 20% VAT"
+.x(() => y=0,2*x);
+
+"And a calculator"
+.x(() => calculator = new Calculator());
+.x(() => y =c alculator.Add(x,y)
+
+"When I have no more items in the basket I check if the basket with vatted items are less or equal to 19,99"
+.x(() => y=< b);
+
+"Then I add a bigger delivery fee"
+.x(() => final = calculator.Add(y,b));
+
+"But if the vatted items are more then 19,99 I add a smaller fee"
+.x(() => final = calculator.Add(y,s));
+
+SCENARIO 2: Basket item + 20% vat + delivery 
+Basket item should be compared to 20 (0-20 big fee, 20+ small fee) Then the VAT is added afterwards and delivery fee is added
+1.Item a 15 dollars < 20 = big fee 
+2.a*0.2 = 0.2a
+3.FinalA = a+0.2a
+4.Final basket price = FinalA + big fee 
+
+
+
+SCENARIO 3: (Basket item + delivery) + VAT  small fee is 0-20.99 , big fee is 21+ 
+1. Item a 15 dollars < 20 = big fee
+2. vat = a + big fee
+3. Final basket price = vat + 0.2*av
