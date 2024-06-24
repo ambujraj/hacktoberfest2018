@@ -5,7 +5,9 @@ int binarySearch(int *input,int beg,int end,int number){
     if(beg>end){
         return -1;
     }
-    int mid = (beg+end)/2;
+    //Changed from mid=(end+beg)/2 as it leads to INT overflow error even for valid INT's 
+    //This fixes the overflow error
+    int mid = beg + (end-beg)/2;
     if(number == input[mid]){
         return mid;
     }
