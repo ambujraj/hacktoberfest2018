@@ -7,7 +7,9 @@ def value(r):
         return 1
     if (r == 'V'): 
         return 5
-    if (r == 'X'): 
+    if (r == 'X'):
+        return 10
+    if (r == 'L'):
         return 50
     if (r == 'C'): 
         return 100
