@@ -810,6 +810,12 @@ About: I am a 3rd year IT student<br/>
 Programming Languages: C, C++, Java, JavaScript, Python<br/>
 Email: rainasneha98@gmail.com
 
+Name: [Amrit Khera](https://github.com/AmritK10)<br/>
+Place: Delhi, India<br/>
+About: I am a 2nd year COE student<br/>
+Programming Languages: C, C++, Python<br/>
+Email: 
+
 Name: [Rute Carrapato](https://github.com/RuteCarrapato)
 Place: Lisbon
 About: Junior Dev
