@@ -29,5 +29,12 @@ public final class Fibonacci {
         return fibonacci(n - 1) + fibonacci(n - 2);
     }
 
-}
+    // Compute your own Fibonacci number
+    public static void main(String args[]){
+      if(args.length!=1)
+        System.out.println("Fibonacci <number>")
+      else
+        System.out.println(fibonacci(args[0]));
+    }
 
+}

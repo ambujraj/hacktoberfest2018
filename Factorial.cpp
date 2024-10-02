@@ -1,21 +1,20 @@
-//faktorial menggunakan fungsi rekursif
-#include <iostream>
+//Basic Example for Direct Recursion.(Factorial of Number)
+#include<bits/stdc++.h>
+#define ll long long
 using namespace std;
-int faktorial(int);
+
+ll fact(int n)
+{
+    if (n < = 1) // base case
+        return 1;
+    else    
+        return n*fact(n-1);    
+}
 
 int main()
 {
-	int n;
-	cin >> n;
-	cout << "Faktorial dari angka tersebut adalah  :" << factorial(n);
+      int n;
+      cout<<"Enter the Number?\n";
+      cin>>n;
+      cout<<"Factorial of n is:"<<fact(n);
 }
-
-int faktorial(int n)
-{
-	if (n==0) {
-		return 1;
-	}
-
-  	return n * faktorial(n-1);
-}
-	
