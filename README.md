@@ -73,4 +73,5 @@ git push origin branch-name
 * Create a New Pull Request from your forked repository (Click the New Pull Request button located at the top of your repo)
 * Wait for your PR review and merge approval!
 * __Star this repository__ if you had fun!
-thanks
+* __ new user wanted a repo and pr from this for my first hacktoberfest please help me !!
+  thanks 
